@@ -1,8 +1,8 @@
-# Plakat-Kompass-Asset
+# Wahldaten-Sammler
 
-Wahldaten für die App Plakat Kompass. Der Sammler lädt Bundestagswahl, Europawahl, die jeweils
-jüngste Landtags- und Gemeinde-/Stadtratswahl aller sechzehn Länder sowie die Kreistagswahlen der
-294 Landkreise und legt sie als kompakte JSON-Dateien ab.
+Sammler für deutsche Wahldaten. Lädt Bundestagswahl, Europawahl, die jeweils jüngste Landtags- und
+Gemeinde-/Stadtratswahl aller sechzehn Länder sowie die Kreistagswahlen der 294 Landkreise und legt
+sie als kompakte JSON-Dateien ab.
 
 Eine ausführliche technische Einführung für Entwickler und KI-Assistenten steht in
 [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
@@ -170,7 +170,7 @@ allein durch `gemeinderat/` gerissen (siehe
 `GEMEINDERAT_ZIEL` in `scripts/sammeln.py`). `gemeinderat/index.json` beschreibt alle Länder;
 zusätzlich enthält jeder Landesordner ein kleines `index.json` mit Wahljahr, Gemeindezahl und dem
 Dateimuster `{ags}.json`. Die gebündelten `daten/XX/kommunal.json` bleiben für Auswertungen eines
-ganzen Landes erhalten (und sind, was die App tatsächlich lädt).
+ganzen Landes erhalten.
 
 Beispiel:
 
