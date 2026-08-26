@@ -25,16 +25,9 @@ concurrency:
 
 jobs:
   bauen:
-    # Self-hosted (Windows, lokaler PC) statt ubuntu-latest: der ~4-GB-OSM-Download plus
-    # Straßen-/H3-/Zensus-Verarbeitung sprengte auf dem gehosteten Runner Zeit/Kontingent.
-    # Expliziter Pfad zu Git Bash statt "shell: bash": PATH auf dem Runner findet sonst zuerst
-    # den WSL-Stub unter WindowsApps\bash.exe (keine Distro installiert, bricht sofort ab).
-    # Macht die vorhandenen Bash-Skripte (Arrays, `[ -n ... ]`) unverändert lauffähig, statt sie
-    # auf PowerShell umzuschreiben.
-    runs-on: [self-hosted, windows]
-    defaults:
-      run:
-        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    # ubuntu-latest: öffentliches Repo, also unbegrenzte gehostete Minuten. Job-Timeout-Deckel
+    # bei gehosteten Runnern liegt bei 360 Minuten - knapp über dem 350er-Limit unten.
+    runs-on: ubuntu-latest
     # Ganz Deutschland (OSM-Download + Straßen-/H3-/Zensus-Verarbeitung für rund 11.000
     # Gemeinden) ist unverifiziert, wie lange das dauert - der erste echte Lauf sollte über
     # --nur-gemeinde oder --land laufen, bevor hier ein enger werdendes Zeitlimit zum Problem wird.

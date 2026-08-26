@@ -21,11 +21,7 @@ concurrency:
 
 jobs:
   bauen:
-    # Self-hosted (Windows, lokaler PC) statt ubuntu-latest - siehe coverage-bauen.yml.
-    runs-on: [self-hosted, windows]
-    defaults:
-      run:
-        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    runs-on: ubuntu-latest
     # Ein voller Deutschland-Lauf (inkl. Rundtrip-Prüfung über jede Gemeinde) dauerte lokal rund
     # 2,5 Minuten - viel Marge für einen langsameren Runner oder eine träge VG250-WFS.
     timeout-minutes: 30

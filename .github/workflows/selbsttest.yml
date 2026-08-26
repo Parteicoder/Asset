@@ -13,10 +13,7 @@ on:
 
 jobs:
   selbsttest:
-    # Self-hosted statt ubuntu-latest: GitHub blockt gehostete Runner gerade wegen offener
-    # Zahlung/Spending-Limit. Läuft auf "admin-pc" (Desktop\Asset-Runner\run.cmd), muss also
-    # laufen, damit PR-Checks überhaupt starten.
-    runs-on: [self-hosted, windows]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -46,7 +43,7 @@ jobs:
   # hier soll den paketlosen Wahldaten-Job nicht verlangsamen oder von dessen Netz-Ausfällen
   # abhängen.
   coverage-selbsttest:
-    runs-on: [self-hosted, windows]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

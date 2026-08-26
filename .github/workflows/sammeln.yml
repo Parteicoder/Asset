@@ -37,12 +37,7 @@ concurrency:
 
 jobs:
   sammeln:
-    # Self-hosted statt ubuntu-latest: GitHub blockt gehostete Runner gerade wegen offener
-    # Zahlung/Spending-Limit. Läuft auf "admin-pc" (Desktop\Asset-Runner\run.cmd).
-    runs-on: [self-hosted, windows]
-    defaults:
-      run:
-        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
