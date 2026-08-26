@@ -24,6 +24,7 @@ import math
 import os
 import re
 import shutil
+import ssl
 import sys
 import tempfile
 import time
@@ -87,13 +88,49 @@ def schreiben(datei: Path, inhalt: dict, zeitfeld: str = "stand", jetzt: str | N
 # --------------------------------------------------------------------------- Netz
 
 
+def _ssl_kontext() -> ssl.SSLContext:
+    """Unter Windows aus dem Systemspeicher bauen statt Pythons Standardkontext zu nehmen.
+
+    ``ssl.create_default_context()`` lädt unter Windows automatisch denselben Systemspeicher -
+    inklusive längst abgelaufener Alt-CAs (beobachtet: eine 2024 abgelaufene GlobalSign-
+    AlphaSSL-Zwischen-CA). OpenSSL baut die Vertrauenskette dann über genau diese abgelaufene CA
+    und schlägt fehl, obwohl derselbe Server über einen gültigen Pfad erreichbar ist - sichtbar
+    daran, dass curl (nutzt Windows' eigene Zertifikatsprüfung statt OpenSSL) denselben Host
+    anstandslos lädt. Fix: abgelaufene Speichereinträge beim Aufbau des Vertrauensspeichers
+    aussortieren, damit OpenSSL nur noch den gültigen Pfad zur Auswahl hat.
+    """
+    if sys.platform != "win32":
+        return ssl.create_default_context()
+
+    kontext = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
+    jetzt = time.time()
+    for speicher in ("CA", "ROOT"):
+        for zertifikat, kodierung, _ in ssl.enum_certificates(speicher):
+            if kodierung != "x509_asn":
+                continue
+            pem = ssl.DER_cert_to_PEM_cert(zertifikat)
+            try:
+                pruefkontext = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
+                pruefkontext.load_verify_locations(cadata=pem)
+                zertifikate = pruefkontext.get_ca_certs()
+                if zertifikate and ssl.cert_time_to_seconds(zertifikate[0]["notAfter"]) < jetzt:
+                    continue
+                kontext.load_verify_locations(cadata=pem)
+            except ssl.SSLError:
+                pass
+    return kontext
+
+
+SSL_KONTEXT = _ssl_kontext()
+
+
 def lade_datei(adresse: str, ziel: Path) -> int:
     """Eine öffentliche Datei mit Wiederholungen laden und ihre Bytezahl zurückgeben."""
     letzter_fehler: Exception | None = None
     for versuch in range(1, VERSUCHE + 1):
         anfrage = urllib.request.Request(adresse, headers={"User-Agent": USER_AGENT})
         try:
-            with urllib.request.urlopen(anfrage, timeout=ZEITSCHRANKE) as antwort:
+            with urllib.request.urlopen(anfrage, timeout=ZEITSCHRANKE, context=SSL_KONTEXT) as antwort:
                 with ziel.open("wb") as ausgabe:
                     shutil.copyfileobj(antwort, ausgabe, length=1024 * 1024)
 
