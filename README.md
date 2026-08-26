@@ -7,6 +7,32 @@ sie als kompakte JSON-Dateien ab.
 Eine ausführliche technische Einführung für Entwickler und KI-Assistenten steht in
 [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 
+## Installieren & aktualisieren
+
+Installieren (klont nach `./Asset`, prüft git/python3, läuft Selbsttest):
+
+```
+irm https://raw.githubusercontent.com/Parteicoder/Asset/main/install.ps1 | iex
+```
+```
+curl -fsSL https://raw.githubusercontent.com/Parteicoder/Asset/main/install.sh | bash
+```
+
+Aktualisieren (im geklonten Verzeichnis, `git pull --ff-only` + Selbsttest):
+
+```
+.\update.ps1
+```
+```
+./update.sh
+```
+
+Daten sammeln (nach Installation/Update):
+
+```
+python3 scripts/sammeln.py --land NN
+```
+
 ## Landkennzahlen
 
 Die zweistellige Landkennzahl (erste zwei Ziffern des AGS, `--land NN`) steht in `quellen.json`,
