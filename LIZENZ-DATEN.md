@@ -295,6 +295,46 @@ Wahlbezirksebene) sind nicht Teil dieser Ergänzung und bleiben vorerst bei GERD
 **Lizenz:** Die Quelldatei nennt im Tabellenblatt „Impressum” ausdrücklich eine Creative-Commons-
 Lizenz vom Typ Namensnennung 3.0 Deutschland (CC BY 3.0 DE, <http://creativecommons.org/licenses/by/3.0/de/>).
 
+## Hessen: Landtagswahl 2023
+
+Quelle: Hessisches Statistisches Landesamt, endgültiges Ergebnis der Landtagswahl vom
+8. Oktober 2023 auf Gemeindeebene (Wahlsonderseite): <https://wahlen.hessen.de/landtagswahlen/ergebnisse-2023>
+
+Kein Live-Abruf: Die Wahlsonderseite (`wahlen.hessen-ltw23.23degrees.eu`) liefert
+Gemeindeergebnisse nur über eine interne JSON-Schnittstelle je Wahlkreis/Gemeinde
+(`/assets/json/{elfstelliger-code}.json`) – über 400 Einzelabrufe statt einer Datei. Die Quelle
+liegt deshalb als geprüfter Snapshot vor (`quellen/hessen-landtagswahl-2023.json`), analog zum
+rheinland-pfälzischen Kommunal-Sonderfall.
+
+**AGS-Ableitung aus der internen Kennung.** Die elfstellige interne Kennung kodiert
+Wahlkreisnummer(3)+Kreis(3)+Gemeinde(3)+„00"; der amtliche achtstellige AGS ergibt sich als
+„06"+Kennung[3:9].
+
+**Fünf kreisfreie Städte aus Wahlkreis-Fragmenten zusammengefasst.** Frankfurt, Kassel, Offenbach,
+Wiesbaden und Darmstadt sind auf mehrere Wahlkreise aufgeteilt; die Schnittstelle liefert dafür nur
+Teilfragmente (Darmstadt zusätzlich mit einem als „Teil WK50" markierten Gemeinde-Fragment). Deren
+Stimmen wurden je Stadt aufsummiert.
+
+**Geprüft:** Alle 421 AGS stimmen exakt mit GERDAs Land-06-Datensatz überein. Drei stichprobenartig
+verglichene Gemeinden (Viernheim, Frankfurt am Main, Kassel) sowie das Landesergebnis (CDU 34,6/
+AfD 18,4/SPD 15,1/GRÜNE 14,8/FDP 5,0 Prozent) stimmen exakt mit dem amtlichen Pressebericht überein.
+
+> Datenquelle: Hessisches Statistisches Landesamt, endgültiges Ergebnis der Landtagswahl vom
+> 8. Oktober 2023 auf Gemeindeebene (Wahlsonderseite); eigene Aufbereitung (Landesstimmenanteile;
+> fünf kreisfreie Städte aus Wahlkreis-Fragmenten summiert)
+
+Die Ergebnisseite weist für diese Daten keine standardisierte offene Lizenz wie CC BY oder
+`dl-de/by-2-0` aus. Deshalb behaupten die erzeugte Datei und dieses Repo keine solche Lizenz. Bei
+einer Weiterverwendung sind die Nutzungsbedingungen der amtlichen Quelle zu beachten.
+
+**Schriftliche Genehmigung zur Weiterverwendung liegt vor**, beim Hessischen Statistischen
+Landesamt am 2026-08-24 angefragt (Auslöser: das Impressum der Quelle verlangte sie ausdrücklich).
+Bis zum Erhalt war Hessen für alle drei Wahlarten (Landtag, Gemeinde-/Stadtrat, Kreistag) über
+`gerda_gesperrt` vollständig ausgeschlossen, auch der sonst übliche GERDA-Fallback – vorsorglich,
+da unklar war, ob GERDAs CC-BY-4.0-Aufbereitung dieselbe Ausgangsquelle ohne eigene Erlaubnis
+weiterverwendet. Gemeinde-/Stadtrats- und Kreistagswahl laufen weiterhin über den normalen
+GERDA-Datensatz, nur die Landtagswahl über diese amtliche Quelle.
+
 ## Coverage-Heatmap: Straßennetz, Gemeindegrenzen, Bevölkerungsdichte
 
 Die Dateien unter `daten/coverage/` (erzeugt von `coverage/bauen.py`, Issue #261) fassen drei

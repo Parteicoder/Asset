@@ -70,6 +70,7 @@ den Dateinamen unter `daten/` und den CLI-Aufrufen - hier zum Nachschlagen:
 | Rheinland-Pfalz 2024 (Kommunal-/Kreistagswahl) | Landeswahlleiter Rheinland-Pfalz, manuell geprüfter PDF-Snapshot | 12 kreisfreie Städte, 24 Landkreise | nein |
 | Thüringen 2024 (Gemeinde-/Stadtratswahl) | Thüringer Landeswahlleiter, manuell geprüfter XLSX-Snapshot | 600 Gemeinden, 5 kreisfreie Städte | nein |
 | Thüringen 2024 (Landtag) | Thüringer Landeswahlleiter, manuell geprüfter XLSX-Snapshot | 591 Gemeinden | nein |
+| Hessen 2023 (Landtag) | Hessisches Statistisches Landesamt, manuell geprüfter JSON-Snapshot | 421 Gemeinden | nein |
 
 Es gibt keine GENESIS-Anmeldung mehr, keine Secrets und keine automatische Tabellensuche.
 
@@ -270,6 +271,7 @@ die erzeugten Daten gelten die Bedingungen der jeweiligen Quelle:
 | Rheinland-Pfalz 2024 (Kommunal-/Kreistagswahl) | amtliche Wahlergebnisse; Quellenhinweis und Nutzungsbedingungen der Quelle beachten |
 | Thüringen 2024 (Gemeinde-/Stadtratswahl) | amtliche Wahlergebnisse; Quellenhinweis und Nutzungsbedingungen der Quelle beachten |
 | Thüringen 2024 (Landtag) | amtliche Wahlergebnisse; Quellenhinweis und Nutzungsbedingungen der Quelle beachten; bekannte Briefwahl-Einschränkung, siehe `LIZENZ-DATEN.md` |
+| Hessen 2023 (Landtag) | amtliche Wahlergebnisse; Quellenhinweis und Nutzungsbedingungen der Quelle beachten |
 
 Jede JSON-Datei trägt `quelle`, `quellenvermerk`, `lizenz`, `lizenz_url` und `quellendatei` selbst.
 Einzelheiten stehen in [`LIZENZ-DATEN.md`](LIZENZ-DATEN.md).

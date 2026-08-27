@@ -118,6 +118,20 @@
   "_hinweis_snapshot_ergaenzungen": "landtag_ergaenzungen, kommunal_ergaenzungen und kreistag_ergaenzungen kennen zwei Formen: Einträge mit 'parser' (wie 'ergaenzungen' oben) werden bei jedem Lauf live heruntergeladen und ausgewertet. Einträge mit 'datei'/'schluessel' sind manuell extrahierte und geprüfte JSON-Snapshots im Repository (siehe quellen/) - für Quellen, die sich nicht zuverlässig automatisch lesen liessen (PDF-Tabellen, oder wie beim rheinland-pfälzischen Kommunal-Sonderfall hunderte Einzelabrufe je Gemeinde statt einer Datei).",
   "landtag_ergaenzungen": [
     {
+      "land": "06",
+      "jahr": 2023,
+      "wahl_datum": "2023-10-08",
+      "datei": "quellen/hessen-landtagswahl-2023.json",
+      "schluessel": "landtag_2023",
+      "quelle": "Hessisches Statistisches Landesamt",
+      "quellenvermerk": "Datenquelle: Hessisches Statistisches Landesamt, endgültiges Ergebnis der Landtagswahl vom 8. Oktober 2023 auf Gemeindeebene (Wahlsonderseite); eigene Aufbereitung (Landesstimmenanteile; fünf kreisfreie Städte aus Wahlkreis-Fragmenten summiert).",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlen.hessen.de/landtagswahlen/ergebnisse-2023",
+      "url": "https://wahlen.hessen-ltw23.23degrees.eu/",
+      "quellenseite": "https://wahlen.hessen.de/landtagswahlen/ergebnisse-2023",
+      "_hinweis": "Automatisiert extrahiert und von Hand geprüft (kein Live-Abruf: die Wahlsonderseite liefert Gemeindeergebnisse nur über eine interne JSON-Schnittstelle je Wahlkreis/Gemeinde, über 400 Einzelabrufe statt einer Datei, analog zum rheinland-pfälzischen Kommunal-Sonderfall). Details zur AGS-Ableitung und zur Zusammenfassung der fünf kreisfreien Städte aus Wahlkreis-Fragmenten stehen im Snapshot selbst. Gegengeprüft: alle 421 AGS stimmen mit GERDAs Land-06-Datensatz überein, drei stichprobenartig verglichene Gemeinden sowie das Landesergebnis stimmen exakt mit dem amtlichen Pressebericht überein."
+    },
+    {
       "land": "16",
       "jahr": 2024,
       "wahl_datum": "2024-09-01",
@@ -133,12 +147,7 @@
     }
   ],
   "_hinweis_gerda_gesperrt": "Länder in gerda_gesperrt werden für Landtags-, Gemeinde-/Stadtrats- und Kreistagswahl komplett ausgelassen (auch der sonst übliche GERDA-Fallback), inklusive Entfernen zuvor geschriebener Dateien - solange keine gültige Erlaubnis zur Weiterverwendung vorliegt. Nicht verwechseln mit den amtlichen Ergänzungs-Quellen oben, die ohne einen solchen Vorbehalt genutzt werden - hier geht es speziell um die Frage, ob die Nutzung (egal ob amtliche Quelle oder GERDAs Aufbereitung) für dieses Land gerade rechtlich abgesichert ist.",
-  "gerda_gesperrt": [
-    {
-      "land": "06",
-      "grund": "Hessen ist bis auf Weiteres komplett ausgeschlossen (Landtag, Gemeinde-/Stadtrat, Kreistag) - noch keine gültige Erlaubnis zur Weiterverwendung. Auslöser: für die amtliche Landtagswahl-2023-Quelle (wahlen.hessen.de, siehe PR #34) verlangt das Impressum ausdrücklich eine schriftliche Genehmigung, die am 2026-08-24 beim Hessischen Statistischen Landesamt angefragt wurde und noch aussteht. Da unklar ist, ob GERDAs CC-BY-4.0-Aufbereitung für Hessen dieselbe Ausgangsquelle ohne eigene Erlaubnis weiterverwendet, wird vorsorglich auch der GERDA-Datensatz für alle drei Wahlarten in Hessen zurückgehalten, bis eine gültige Erlaubnis vorliegt. Hessen ist damit bewusst eine Black Box statt Daten mit ungeklärten Nutzungsrechten zu zeigen."
-    }
-  ],
+  "gerda_gesperrt": [],
   "kommunal_ergaenzungen": [
     {
       "land": "07",
