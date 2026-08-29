@@ -59,25 +59,56 @@ den Dateinamen unter `daten/` und den CLI-Aufrufen - hier zum Nachschlagen:
 
 ## Quellen
 
-| Wahl | Quelle | Ebene | Anmeldung |
+Alle Quellen inklusive URL, Lizenz und Auswertungsdatei stehen maschinenlesbar in
+[`quellen.json`](quellen.json) - diese Tabellen sind daraus abgeleitet, für eine schnelle
+Übersicht ohne die JSON öffnen zu müssen. Es gibt keine GENESIS-Anmeldung mehr, keine Secrets und
+keine automatische Tabellensuche.
+
+**Basis (alle 16 Länder, wo unten keine Ergänzung greift):**
+
+| Wahl | Quelle | URL |
+|---|---|---|
+| Bundestagswahl 2025 | Bundeswahlleiterin, kerg2 | <https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/opendata/btw25/csv/kerg2.csv> |
+| Europawahl 2024 | Bundeswahlleiterin, kerg2 | <https://www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/opendata/ew24/csv/kerg2.csv> |
+| Landtagswahlen | [GERDA](https://www.german-elections.com/election-data/), `state_harm_25.csv` | <https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/state_elections/final/state_harm_25.csv> |
+| Gemeinde-/Stadtratswahlen | GERDA, `municipal_harm_25.csv` | <https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv> |
+| Kreistagswahlen | GERDA, `county_elec_harm_21_cty.csv` | <https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv> |
+
+**Landtagswahl-Ergänzungen** (ersetzen GERDA für dieses Land, weil aktueller oder amtlich statt harmonisiert):
+
+| Land | Jahr | Quelle | URL |
 |---|---|---|---|
-| Bundestagswahl | Bundeswahlleiterin, kerg2 | 299 Wahlkreise | nein |
-| Europawahl | Bundeswahlleiterin, kerg2 | Kreise | nein |
-| 16 Länder | [GERDA](https://www.german-elections.com/election-data/), `state_harm_25.csv` | Gemeinden auf AGS-Stand 2025 | nein |
-| Gemeinde-/Stadtratswahlen | GERDA, `municipal_harm_25.csv` | Gemeinden auf AGS-Stand 2025 | nein |
-| Kreistagswahlen | GERDA, `county_elec_harm_21_cty.csv` | 294 Landkreise | nein |
-| Rheinland-Pfalz 2026 (Landtag) | Landeswahlleiter Rheinland-Pfalz, amtliche Endergebnis-XLSX | Gemeinden | nein |
-| Rheinland-Pfalz 2024 (Kommunal-/Kreistagswahl) | Landeswahlleiter Rheinland-Pfalz, manuell geprüfter PDF-Snapshot | 12 kreisfreie Städte, 24 Landkreise | nein |
-| Thüringen 2024 (Gemeinde-/Stadtratswahl) | Thüringer Landeswahlleiter, manuell geprüfter XLSX-Snapshot | 600 Gemeinden, 5 kreisfreie Städte | nein |
-| Thüringen 2024 (Landtag) | Thüringer Landeswahlleiter, manuell geprüfter XLSX-Snapshot | 591 Gemeinden | nein |
-| Hessen 2023 (Landtag) | Hessisches Statistisches Landesamt, manuell geprüfter JSON-Snapshot | 421 Gemeinden | nein |
+| Rheinland-Pfalz | 2026 | Landeswahlleiter Rheinland-Pfalz | <https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/ltw/Ergebnisdateien/2026/LW_2026_Endergebnis_Stimmbezirksebene.xlsx> |
+| Sachsen | 2024 | Landeswahlleiter des Freistaates Sachsen | <https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx> |
+| Sachsen-Anhalt | 2021 | Landeswahlleiterin Sachsen-Anhalt | <https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat2.csv> |
+| Berlin | 2023 | Landeswahlleiterin Berlin | <https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/DL/DL_BE_AGHBVV2023.xlsx> |
+| Mecklenburg-Vorpommern | 2021 | Landeswahlleiterin Mecklenburg-Vorpommern (LAIV-MV) | <https://www.laiv-mv.de/static/LAIV/Wahlen/2-Landtagswahlen/2021/Ergebnisse/l_gemeinden.csv> |
+| Saarland | 2022 | Landeswahlleiterin Saarland | <https://wahlergebnis.saarland.de/LTW/KERG_SAARLAND.csv> |
+| Schleswig-Holstein | 2022 | Statistikamt Nord | <https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/endg%C3%BCltig/down/e_Tab_79_LTW2022_SH.xlsx> |
+| Hessen | 2023 | Hessisches Statistisches Landesamt (manuell geprüfter Snapshot, `quellen/hessen-landtagswahl-2023.json`) | <https://wahlen.hessen-ltw23.23degrees.eu/> |
+| Thüringen | 2024 | Thüringer Landeswahlleiter (manuell geprüfter Snapshot, `quellen/thueringen-landtagswahl-2024.json`) | <https://wahlen.thueringen.de/NeuLesen.asp?seite=LWINFOG2024> |
 
-Es gibt keine GENESIS-Anmeldung mehr, keine Secrets und keine automatische Tabellensuche.
+**Gemeinde-/Stadtratswahl-Ergänzungen:**
 
-Die Rheinland-Pfalz-Ergänzung für 2024 ist ein Sonderfall: Die amtliche Quelle ist eine PDF ohne
-zuverlässig per Standardbibliothek auswertbare Tabellenstruktur (siehe `LIZENZ-DATEN.md`). Sie
-deckt nur die 12 kreisfreien Städte und 24 Landkreise ab; die übrigen rund 2.280 Gemeinden fehlen
-bewusst in `07/kommunal.json`, statt GERDAs älteren 2019er-Stand unkommentiert weiterzuführen.
+| Land | Jahr | Quelle | URL |
+|---|---|---|---|
+| Rheinland-Pfalz | 2024 | Landeswahlleiter Rheinland-Pfalz (manuell geprüfter Snapshot, `quellen/rlp-kommunalwahlen-2024-gemeindeebene.json`) | <https://rlp-kw24.wahlen.23degrees.eu/> |
+| Thüringen | 2024 | Thüringer Landeswahlleiter (manuell geprüfter Snapshot, `quellen/thueringen-gemeinderatswahl-2024.json`) | <https://wahlen.thueringen.de/NeuLesen.asp?seite=GWInfoG2024> |
+| Mecklenburg-Vorpommern | 2024 | Landeswahlleiter Mecklenburg-Vorpommern (LAIV-MV) | <https://www.laiv-mv.de/static/LAIV/Wahlen/3-Kommunalwahlen/2024/Ergebnisse/k_gemeinden.csv> |
+| Brandenburg | 2024 | Amt für Statistik Berlin-Brandenburg | <https://wahlergebnisse.brandenburg.de/12/300/20240609/gemeindevertretungswahl_land/DL/DL_BB_GVW2024.xlsx> |
+
+**Kreistagswahl-Ergänzungen:**
+
+| Land | Jahr | Quelle | URL |
+|---|---|---|---|
+| Rheinland-Pfalz | 2024 | Landeswahlleiter Rheinland-Pfalz (manuell geprüfter PDF-Snapshot, `quellen/rlp-kommunalwahlen-2024-kreisebene.json`) | <https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/KW/KW_2024_Ergebisse_Kreisebene.pdf> |
+| Mecklenburg-Vorpommern | 2024 | Landeswahlleiter Mecklenburg-Vorpommern (LAIV-MV) | <https://www.laiv-mv.de/static/LAIV/Wahlen/3-Kommunalwahlen/2024/Ergebnisse/k_wahlkreise.csv> |
+| Bayern | 2026 | Bayerisches Landesamt für Statistik | <https://kommunalwahl2026.bayern.de/downloads/gremienwahl/Kommunalwahl_Gremien_Landkreise.xml> |
+
+Die Rheinland-Pfalz-Kommunalwahl-Ergänzung für 2024 deckt inzwischen fast alle rund 2.300
+Gemeinden ab (nicht mehr nur die 12 kreisfreien Städte wie beim früheren PDF-Snapshot, siehe
+`LIZENZ-DATEN.md`) - nur die Kreistagswahl (24 Landkreise) kommt weiterhin aus einer PDF ohne
+zuverlässig per Standardbibliothek auswertbare Tabellenstruktur.
 
 Die Thüringen-Ergänzung für die Gemeinde-/Stadtratswahl 2024 ersetzt GERDAs Datensatz für das ganze
 Land vollständig, statt ihn nur zu ergänzen: GERDAs `municipal_harm_25.csv` führte für Thüringen
