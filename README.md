@@ -6,17 +6,17 @@ sie als kompakte JSON-Dateien ab.
 
 **Nicht Teil dieses Repos: Regionalatlas und Zensus 2022.** Auch wenn manche Sync-Skripte, die
 dieses Repo einbinden, "Sozialdaten" heißen (z. B. `sozialdaten-sync.sh`) - das hier liefert
-ausschließlich Wahldaten. Regionalatlas und Zensus 2022 sind eine eigene, live abgefragte
-Datenquelle, die direkt in der App-Logik (`feature/socialdata/`) angebunden ist - kein Sync-Job,
-kein JSON-Snapshot, nichts davon steckt in `sammeln.py` oder `quellen.json`:
+ausschließlich Wahldaten. Regionalatlas und Zensus 2022 sind eine eigene, live abgefragte externe
+Datenquelle - kein Sync-Job, kein JSON-Snapshot, nichts davon steckt in `sammeln.py` oder
+`quellen.json`:
 
 | Quelle | Endpunkt |
 |---|---|
 | Regionalatlas | `https://www.gis-idmz.nrw.de/arcgis/rest/services/stba/regionalatlas/MapServer/dynamicLayer/query` |
 | Zensus 2022 (100-m-Raster) | `https://services2.arcgis.com/jUpNdisbWqRpMo35/arcgis/rest/services/Zensus2022_grid_final/FeatureServer/0/query` |
 
-Beides ArcGIS-REST-Dienste, live per Umkreisabfrage aufgerufen (kein Bulk-Download, keine
-Anmeldung) - siehe `RegionalAtlasClient.kt` bzw. `zensus/ZensusGridClient.kt` in der App.
+Beides öffentliche ArcGIS-REST-Dienste, live per Umkreisabfrage genutzt (kein Bulk-Download, keine
+Anmeldung).
 
 Eine ausführliche technische Einführung für Entwickler und KI-Assistenten steht in
 [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
