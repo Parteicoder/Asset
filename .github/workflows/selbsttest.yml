@@ -22,19 +22,19 @@ jobs:
       - run: python3 scripts/selbsttest.py
       - name: quellen.json ist gültiges JSON
         run: python3 -c "import json; json.load(open('quellen.json'))"
-      - name: daten/ bleibt unter dem Cloudflare-Pages-Dateilimit
-        # Cloudflare Pages deployt daten/ 1:1 und erlaubt maximal 20.000 Dateien - siehe
-        # GEMEINDERAT_ZIEL in scripts/sammeln.py. Ein Deploy, der das reisst, schlaegt erst bei
-        # Cloudflare fehl, lange nachdem der PR schon gemerged ist. Hier faellt es frueher auf.
+      - name: daten/ bleibt unter dem Hosting-Dateilimit
+        # Der Hosting-Dienst fuer daten/ erlaubt maximal 20.000 Dateien - siehe GEMEINDERAT_ZIEL
+        # in scripts/sammeln.py. Ein Deploy, der das reisst, schlaegt erst beim Hosting-Dienst
+        # fehl, lange nachdem der PR schon gemerged ist. Hier faellt es frueher auf.
         run: |
           python3 -c "
           import sys
           from pathlib import Path
           grenze = 19000
           n = sum(1 for _ in Path('daten').rglob('*') if _.is_file())
-          print(f'daten/: {n} Dateien (Cloudflare-Pages-Limit: 20000)')
+          print(f'daten/: {n} Dateien (Hosting-Limit: 20000)')
           if n >= grenze:
-              print(f'FEHLER: nur noch {20000 - n} Dateien Puffer bis zum Cloudflare-Pages-Limit.')
+              print(f'FEHLER: nur noch {20000 - n} Dateien Puffer bis zum Hosting-Limit.')
               sys.exit(1)
           "
 

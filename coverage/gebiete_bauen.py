@@ -8,8 +8,9 @@ wie deren Umriss aussieht - im Feld unzuverlässig. VG250 liegt hier über
 ``bauen.py`` schon vollständig im Speicher; nur die Geometrie selbst wurde
 bisher nie veröffentlicht, nur die daraus abgeleiteten H3-Zellen.
 
-Ein File je Gemeinde (wie bei ``daten/coverage/<ags>.json``) sprengt Cloudflare
-Pages' ~20.000-Dateien-Limit (``daten/`` liegt schon bei rund 19.500 Dateien) -
+Ein File je Gemeinde (wie bei ``daten/coverage/<ags>.json``) sprengt das
+~20.000-Dateien-Limit des Hosting-Diensts (``daten/`` liegt schon bei rund
+19.500 Dateien) -
 deshalb hier ein File je Bundesland (16 Dateien, ``daten/gebiete/v1/<land>.
 json.gz``) plus ein winziger, in die APK gebündelter "Land-Router"
 (``router.json``, 16 grob vereinfachte Bundesland-Umrisse), der das
@@ -44,7 +45,7 @@ ZIEL = bauen.WURZEL / "daten" / "gebiete" / "v1"
 # aktualisieren, nicht stillschweigend übernehmen.
 ERWARTETE_GEMEINDEN_GESAMT = 10_949
 
-# Cloudflare Pages begrenzt einzelne Assets auf 25 MiB; 20 MiB Marge, bevor eine Vereinfachung
+# Der Hosting-Dienst begrenzt einzelne Assets auf 25 MiB; 20 MiB Marge, bevor eine Vereinfachung
 # nötig wird (siehe Docstring oben - VG250 wird im ersten Wurf bewusst NICHT vereinfacht).
 MAX_DATEIGROESSE_BYTES = 20 * 1024 * 1024
 
@@ -472,7 +473,7 @@ def main() -> int:
             if groesse > MAX_DATEIGROESSE_BYTES:
                 raise bauen.Fehler(
                     f"Land {land}: {groesse / 1_048_576:.1f} MiB gzip, über dem "
-                    f"{MAX_DATEIGROESSE_BYTES / 1_048_576:.0f}-MiB-Cloudflare-Limit - "
+                    f"{MAX_DATEIGROESSE_BYTES / 1_048_576:.0f}-MiB-Hosting-Limit - "
                     "Vereinfachung nötig (siehe Modul-Docstring)."
                 )
             print(f"  Land {land}: {len(buendel['gemeinden'])} Gemeinden, {groesse / 1024:.0f} KiB gzip")

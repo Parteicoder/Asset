@@ -42,9 +42,9 @@ from typing import Callable, Iterable, Iterator
 WURZEL = Path(__file__).resolve().parent.parent
 QUELLEN = WURZEL / "quellen.json"
 ZIEL = WURZEL / "daten"
-# Bewusst NICHT unter ZIEL: Cloudflare Pages deployt ZIEL 1:1 und erlaubt maximal 20.000 Dateien.
+# Bewusst NICHT unter ZIEL: Der Hosting-Dienst für ZIEL erlaubt maximal 20.000 Dateien.
 # Eine Einzeldatei je Gemeinde-AGS würde dieses Limit reissen (siehe RLP-Vollabdeckung, PR #29).
-# Die Direktabruf-Dateien bleiben deshalb nur im Git-Repository, nicht auf daten.plakat-kompass.de.
+# Die Direktabruf-Dateien bleiben deshalb nur im Git-Repository, nicht im Hosting-Deploy.
 GEMEINDERAT_ZIEL = WURZEL / "gemeinderat"
 
 ZEITSCHRANKE = 300
@@ -2687,8 +2687,8 @@ def _index_schreiben() -> None:
             "ebene": "gemeinde",
             "schluesselart": "ags",
             "beschreibung": (
-                "Eine Ergebnisdatei je Gemeinde-AGS. Liegt nur im Git-Repository, nicht auf "
-                "daten.plakat-kompass.de (siehe GEMEINDERAT_ZIEL in scripts/sammeln.py)."
+                "Eine Ergebnisdatei je Gemeinde-AGS. Liegt nur im Git-Repository, nicht im "
+                "Hosting-Deploy (siehe GEMEINDERAT_ZIEL in scripts/sammeln.py)."
             ),
             "dateimuster": "{land}/{ags}.json",
             "einzeldateien": sum(eintrag["gemeinden"] for eintrag in gemeinderat_laender),
