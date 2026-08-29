@@ -4,9 +4,8 @@ Sammler für deutsche Wahldaten. Lädt Bundestagswahl, Europawahl, die jeweils j
 Gemeinde-/Stadtratswahl aller sechzehn Länder sowie die Kreistagswahlen der 294 Landkreise und legt
 sie als kompakte JSON-Dateien ab.
 
-**Nicht Teil dieses Repos: Regionalatlas und Zensus 2022.** Auch wenn manche Sync-Skripte, die
-dieses Repo einbinden, "Sozialdaten" heißen (z. B. `sozialdaten-sync.sh`) - das hier liefert
-ausschließlich Wahldaten. Regionalatlas und Zensus 2022 sind eine eigene, live abgefragte externe
+**Nicht Teil dieses Repos: Regionalatlas und Zensus 2022.** Dieses Repo liefert ausschließlich
+Wahldaten. Regionalatlas und Zensus 2022 sind eine eigene, live abgefragte externe
 Datenquelle - kein Sync-Job, kein JSON-Snapshot, nichts davon steckt in `sammeln.py` oder
 `quellen.json`:
 
