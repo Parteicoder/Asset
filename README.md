@@ -18,9 +18,6 @@ Datenquelle - kein Sync-Job, kein JSON-Snapshot, nichts davon steckt in `sammeln
 Beides öffentliche ArcGIS-REST-Dienste, live per Umkreisabfrage genutzt (kein Bulk-Download, keine
 Anmeldung).
 
-Eine ausführliche technische Einführung für Entwickler und KI-Assistenten steht in
-[`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
-
 ## Installieren & aktualisieren
 
 Installieren (klont nach `./Asset`, prüft git/python3, läuft Selbsttest):
