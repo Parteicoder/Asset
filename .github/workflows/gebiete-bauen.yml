@@ -1,0 +1,70 @@
+# Baut das Offline-Gebietsdatenset (AGS-Lookup + Gemeindegrenze aus VG250) neu. Anders als
+# coverage-bauen.yml kein OSM-/Zensus-Download nötig - nur die VG250-WFS, deshalb kein Cron-
+# Zeitproblem, aber trotzdem manuell angestoßen: VG250 wird nur ~einmal im Quartal neu
+# veröffentlicht, ein täglicher Lauf hätte praktisch nie etwas zu tun.
+name: Gebiete-Bündel bauen
+
+on:
+  workflow_dispatch:
+    inputs:
+      land:
+        description: 'Nur eine Landkennzahl (z. B. 14). Leer = ganz Deutschland + Router.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gebiete-bauen
+  cancel-in-progress: false
+
+jobs:
+  bauen:
+    # Self-hosted (Windows, lokaler PC) statt ubuntu-latest - siehe coverage-bauen.yml.
+    runs-on: [self-hosted, windows]
+    defaults:
+      run:
+        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    # Ein voller Deutschland-Lauf (inkl. Rundtrip-Prüfung über jede Gemeinde) dauerte lokal rund
+    # 2,5 Minuten - viel Marge für einen langsameren Runner oder eine träge VG250-WFS.
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        id: checkout
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Coverage-Pakete installieren
+        run: pip install -r coverage/requirements.txt
+
+      - name: Selbsttest
+        run: python3 coverage/selbsttest.py
+
+      - name: Bauen
+        env:
+          LAND: ${{ inputs.land }}
+        run: |
+          args=()
+          [ -n "$LAND" ] && args+=(--land "$LAND")
+          python3 coverage/gebiete_bauen.py "${args[@]}"
+
+      # Muster wie in coverage-bauen.yml: erst `git add`, dann den VORGEMERKTEN Stand prüfen -
+      # beim ersten Lauf ist sonst jede Bündel-Datei neu und ein vorheriges `git diff` sähe
+      # fälschlich "keine Änderung".
+      - name: Änderungen übernehmen
+        if: ${{ always() && steps.checkout.outcome == 'success' }}
+        run: |
+          git add -A daten/gebiete
+          if git diff --cached --quiet; then
+            echo "Keine Änderung, nichts zu committen."
+            exit 0
+          fi
+          echo "Diese Dateien haben sich geändert:"
+          git diff --cached --name-status
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Gebiete-Bündel gebaut: $(date -u +%Y-%m-%d)"
+          git push

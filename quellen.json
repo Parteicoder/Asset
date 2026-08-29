@@ -1,0 +1,277 @@
+{
+  "_hinweis": "Landtags-, Gemeinde-/Stadtrats- und Kreistagswahlen werden ohne Anmeldung aus GERDA gelesen. Die Gemeinde-Dateien nutzen AGS auf dem Stand 2025; Kreistagswahlen werden auf Kreisebene ausgewertet und kreisfreie Städte ausgelassen. Ergänzungen werden nur für Wahlen verwendet, die in GERDA noch fehlen.",
+  "_bund": "Bundestags- und Europawahl kommen direkt von der Bundeswahlleiterin im kerg2-Format. 'gebietsart' wählt die Zeilen aus, 'stimme' bei der Bundestagswahl die Zweitstimme.",
+  "gerda": {
+    "quelle": "GERDA – German Election Database",
+    "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+    "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+    "quellenseite": "https://www.german-elections.com/election-data/",
+    "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+    "datasets": {
+      "landtag": {
+        "dataset": "state_harm_25",
+        "url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/state_elections/final/state_harm_25.csv?download=",
+        "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Wahl je Land, Anteile auf 100 Prozent normiert)"
+      },
+      "kommunal": {
+        "dataset": "municipal_harm_25",
+        "url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+        "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)"
+      },
+      "kreistag": {
+        "dataset": "county_elec_harm_21_cty",
+        "url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+        "kreisverzeichnis_dataset": "county_council_seats",
+        "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+        "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)"
+      }
+    }
+  },
+  "ergaenzungen": [
+    {
+      "land": "07",
+      "jahr": 2026,
+      "wahl_datum": "2026-03-22",
+      "parser": "rlp-2026-xlsx",
+      "url": "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/ltw/Ergebnisdateien/2026/LW_2026_Endergebnis_Stimmbezirksebene.xlsx",
+      "quelle": "Landeswahlleiter Rheinland-Pfalz",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter Rheinland-Pfalz, Endergebnis der Landtagswahl vom 22. März 2026; eigene Aufbereitung (Landesstimmenanteile; gemeinsam ausgewiesene Ergebnisse gekennzeichnet)",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.wahlen.rlp.de/landtagswahl/ergebnisse",
+      "quellenseite": "https://www.wahlen.rlp.de/landtagswahl/ergebnisse"
+    },
+    {
+      "land": "14",
+      "jahr": 2024,
+      "wahl_datum": "2024-09-01",
+      "parser": "sachsen-2024-xlsx",
+      "url": "https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx",
+      "quelle": "Landeswahlleiter des Freistaates Sachsen",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter des Freistaates Sachsen, endgültiges Ergebnis der Landtagswahl vom 1. September 2024 auf Gemeindeebene; eigene Aufbereitung (Listenstimmenanteile; Chemnitz, Dresden, Leipzig und Zwickau aus Teilgemeinden zusammengefasst)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html",
+      "quellenseite": "https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html"
+    },
+    {
+      "land": "15",
+      "jahr": 2021,
+      "wahl_datum": "2021-06-06",
+      "parser": "sachsenanhalt-2021-csv",
+      "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat2.csv",
+      "quelle": "Landeswahlleiterin Sachsen-Anhalt",
+      "quellenvermerk": "Datenquelle: Landeswahlleiterin Sachsen-Anhalt, endgültiges Ergebnis der Landtagswahl vom 6. Juni 2021 auf Gemeindeebene; eigene Aufbereitung (Zweitstimmenanteile)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php",
+      "quellenseite": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php"
+    },
+    {
+      "land": "11",
+      "jahr": 2023,
+      "wahl_datum": "2023-02-12",
+      "parser": "berlin-2023-xlsx",
+      "url": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/DL/DL_BE_AGHBVV2023.xlsx",
+      "quelle": "Landeswahlleiterin Berlin",
+      "quellenvermerk": "Datenquelle: Landeswahlleiterin Berlin, endgültiges Ergebnis der Wiederholungswahl zum Abgeordnetenhaus vom 12. Februar 2023, Wahlbezirksebene zu den zwölf Bezirken verdichtet; eigene Aufbereitung (Zweitstimmenanteile)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/downloads.html",
+      "quellenseite": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/downloads.html"
+    },
+    {
+      "land": "13",
+      "jahr": 2021,
+      "wahl_datum": "2021-09-26",
+      "parser": "mecklenburg-vorpommern-2021-csv",
+      "url": "https://www.laiv-mv.de/static/LAIV/Wahlen/2-Landtagswahlen/2021/Ergebnisse/l_gemeinden.csv",
+      "quelle": "Landeswahlleiterin Mecklenburg-Vorpommern",
+      "quellenvermerk": "Datenquelle: Landeswahlleiterin Mecklenburg-Vorpommern (LAIV-MV), endgültiges Ergebnis der Landtagswahl vom 26. September 2021 auf Gemeindeebene; eigene Aufbereitung (Zweitstimmenanteile)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.laiv-mv.de/Wahlen/Landtagswahlen/2021/Ergebnisse/",
+      "quellenseite": "https://www.laiv-mv.de/Wahlen/Landtagswahlen/2021/Ergebnisse/",
+      "_hinweis": "Bei amtsangehörigen Gemeinden (die meisten kleinen Gemeinden gehören zu einem Amt) weist die Quelle die Briefwahl nur gepoolt auf Amtsebene aus, nicht je Gemeinde - betroffene Gemeinden (677 von 717) bekommen deshalb nur ihr Urnenwahl-Ergebnis mit einem erklärenden hinweis statt erfundener oder fehlender Zahlen."
+    },
+    {
+      "land": "10",
+      "jahr": 2022,
+      "wahl_datum": "2022-03-27",
+      "parser": "saarland-2022-csv",
+      "url": "https://wahlergebnis.saarland.de/LTW/KERG_SAARLAND.csv",
+      "quelle": "Landeswahlleiterin Saarland",
+      "quellenvermerk": "Datenquelle: Landeswahlleiterin Saarland, amtliches Endergebnis der Landtagswahl vom 27. März 2022 auf Gemeindeebene; eigene Aufbereitung (Stimmenanteile)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlergebnis.saarland.de/LTW/",
+      "quellenseite": "https://wahlergebnis.saarland.de/LTW/download.html"
+    },
+    {
+      "land": "01",
+      "jahr": 2022,
+      "wahl_datum": "2022-05-08",
+      "parser": "schleswig-holstein-2022-xlsx",
+      "url": "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/endg%C3%BCltig/down/e_Tab_79_LTW2022_SH.xlsx",
+      "quelle": "Statistikamt Nord",
+      "quellenvermerk": "Datenquelle: Statistikamt Nord (Statistisches Amt für Hamburg und Schleswig-Holstein), amtliches Endergebnis der Landtagswahl vom 8. Mai 2022 auf Wahlbezirksebene, zu Gemeinden verdichtet; eigene Aufbereitung (Zweitstimmenanteile; bei Amt-gepoolter Briefwahl nur Urnenwahl mit Hinweis; Maasbüll, Tastrup und Ülsby zur inzwischen fusionierten Gemeinde Uelsby zusammengefasst)",
+      "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein/landtagswahlen/2022",
+      "quellenseite": "https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein/landtagswahlen/2022",
+      "_hinweis": "landtagswahl-sh.de (die von der Quelle selbst als Ergebnispräsentations-Domain genannte Adresse) ist inzwischen tot/nicht erreichbar (bestätigt per echtem Browser, nicht nur Sandbox-Netzwerk). Die Wahlbezirks-XLSX liegt weiterhin unter statistik-nord.de (obiger Link, über echten Browser gefunden und direkt gegen den Parser getestet: 1.098 Gebiete, Stichproben Kiel/Flensburg passen zur amtlichen Landesübersicht auf https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein/landtagswahlen/landtagswahl-2022-in-schleswig-holstein)."
+    }
+  ],
+  "_hinweis_snapshot_ergaenzungen": "landtag_ergaenzungen, kommunal_ergaenzungen und kreistag_ergaenzungen kennen zwei Formen: Einträge mit 'parser' (wie 'ergaenzungen' oben) werden bei jedem Lauf live heruntergeladen und ausgewertet. Einträge mit 'datei'/'schluessel' sind manuell extrahierte und geprüfte JSON-Snapshots im Repository (siehe quellen/) - für Quellen, die sich nicht zuverlässig automatisch lesen liessen (PDF-Tabellen, oder wie beim rheinland-pfälzischen Kommunal-Sonderfall hunderte Einzelabrufe je Gemeinde statt einer Datei).",
+  "landtag_ergaenzungen": [
+    {
+      "land": "16",
+      "jahr": 2024,
+      "wahl_datum": "2024-09-01",
+      "datei": "quellen/thueringen-landtagswahl-2024.json",
+      "schluessel": "landtag_2024",
+      "quelle": "Thüringer Landeswahlleiter",
+      "quellenvermerk": "Datenquelle: Thüringer Landeswahlleiter, endgültiges Ergebnis der Landtagswahl vom 1. September 2024; eigene Aufbereitung (Landesstimmenanteile)",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlen.thueringen.de/landtagswahlen/lw_wahlergebnisse.asp",
+      "url": "https://wahlen.thueringen.de/NeuLesen.asp?seite=LWINFOG2024",
+      "quellenseite": "https://wahlen.thueringen.de/landtagswahlen/lw_wahlergebnisse.asp",
+      "_hinweis": "Die Briefwahl wird für viele Gemeinden wahlkreisweit statt gemeindeweise ausgezählt und lässt sich aus dieser Datei nicht zuverlässig auf einzelne Gemeinden zurückrechnen. Wahlbeteiligung und Parteianteile weichen deshalb bei kleineren Gemeinden teils deutlich (im Median rund 8 Prozentpunkte Beteiligung) von GERDAs harmonisiertem Stand ab, der die Briefwahl korrekt zurückrechnet. Ausdrücklicher Nutzerwunsch: einheitlich amtliche Quelle statt GERDA, trotz dieser bekannten Einschränkung."
+    }
+  ],
+  "_hinweis_gerda_gesperrt": "Länder in gerda_gesperrt werden für Landtags-, Gemeinde-/Stadtrats- und Kreistagswahl komplett ausgelassen (auch der sonst übliche GERDA-Fallback), inklusive Entfernen zuvor geschriebener Dateien - solange keine gültige Erlaubnis zur Weiterverwendung vorliegt. Nicht verwechseln mit den amtlichen Ergänzungs-Quellen oben, die ohne einen solchen Vorbehalt genutzt werden - hier geht es speziell um die Frage, ob die Nutzung (egal ob amtliche Quelle oder GERDAs Aufbereitung) für dieses Land gerade rechtlich abgesichert ist.",
+  "gerda_gesperrt": [
+    {
+      "land": "06",
+      "grund": "Hessen ist bis auf Weiteres komplett ausgeschlossen (Landtag, Gemeinde-/Stadtrat, Kreistag) - noch keine gültige Erlaubnis zur Weiterverwendung. Auslöser: für die amtliche Landtagswahl-2023-Quelle (wahlen.hessen.de, siehe PR #34) verlangt das Impressum ausdrücklich eine schriftliche Genehmigung, die am 2026-08-24 beim Hessischen Statistischen Landesamt angefragt wurde und noch aussteht. Da unklar ist, ob GERDAs CC-BY-4.0-Aufbereitung für Hessen dieselbe Ausgangsquelle ohne eigene Erlaubnis weiterverwendet, wird vorsorglich auch der GERDA-Datensatz für alle drei Wahlarten in Hessen zurückgehalten, bis eine gültige Erlaubnis vorliegt. Hessen ist damit bewusst eine Black Box statt Daten mit ungeklärten Nutzungsrechten zu zeigen."
+    }
+  ],
+  "kommunal_ergaenzungen": [
+    {
+      "land": "07",
+      "jahr": 2024,
+      "wahl_datum": "2024-06-09",
+      "datei": "quellen/rlp-kommunalwahlen-2024-gemeindeebene.json",
+      "schluessel": "kommunal_2024_gemeindeebene",
+      "quelle": "Landeswahlleiter Rheinland-Pfalz",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter Rheinland-Pfalz, interaktive Ergebniskarte der Kommunalwahlen vom 9. Juni 2024 (Gemeinde-/Stadtratswahlen); automatisiert abgerufen und aufbereitet aus der JSON-Schnittstelle der Karte.",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1",
+      "url": "https://rlp-kw24.wahlen.23degrees.eu/",
+      "quellenseite": "https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1",
+      "_hinweis": "Deckt alle Gemeinden und kreisfreien Städte ab (2299 von 2301, 2 ohne jeden Datenstand). Ersetzt den bisherigen PDF-Snapshot, der nur die 12 kreisfreien Städte abdeckte."
+    },
+    {
+      "land": "16",
+      "jahr": 2024,
+      "wahl_datum": "2024-05-26",
+      "datei": "quellen/thueringen-gemeinderatswahl-2024.json",
+      "schluessel": "kommunal_2024",
+      "quelle": "Thüringer Landeswahlleiter",
+      "quellenvermerk": "Datenquelle: Thüringer Landeswahlleiter, endgültiges Ergebnis der Gemeinderats- und Stadtratswahlen vom 26. Mai 2024 (Gemeinden Rauschwitz und Umpferstedt: Wiederholungswahl Januar 2025); eigene Aufbereitung",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://wahlen.thueringen.de/kommunalwahlen/kw_wahlergebnisse_GW.asp",
+      "url": "https://wahlen.thueringen.de/NeuLesen.asp?seite=GWInfoG2024",
+      "quellenseite": "https://wahlen.thueringen.de/kommunalwahlen/kw_wahlergebnisse_GW.asp",
+      "_hinweis": "Ersetzt GERDAs Gemeinde-/Stadtratswahl-Datensatz für Thüringen vollständig (605 Gebiete: 600 Gemeinden plus 5 kreisfreie Städte), damit die Datei einheitlich aus einer amtlichen Quelle stammt statt aus GERDA plus einer punktuellen Ergänzung. Gegengeprüft: 599 von 600 Gemeinden stimmen exakt mit dem bisherigen GERDA-Datensatz überein (Toleranz 0,3 Prozentpunkte je Partei); die einzige Abweichung ist eine Lücke in GERDAs eigener Harmonisierung. Die Kreistagswahl bleibt bei GERDA - dieselbe amtliche Quelle führt auch die Kreistagswahl-Ergebnisse der 17 Landkreise, die exakt mit GERDAs Kreistagswahl-Datensatz übereinstimmen, sodass der Wechsel dort keinen Unterschied machen würde."
+    },
+    {
+      "land": "13",
+      "jahr": 2024,
+      "wahl_datum": "2024-06-09",
+      "parser": "mecklenburg-vorpommern-2024-kommunal-csv",
+      "url": "https://www.laiv-mv.de/static/LAIV/Wahlen/3-Kommunalwahlen/2024/Ergebnisse/k_gemeinden.csv",
+      "quelle": "Landeswahlleiter Mecklenburg-Vorpommern",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter Mecklenburg-Vorpommern (LAIV-MV), endgültiges Ergebnis der Gemeinde-/Stadtratswahlen vom 9. Juni 2024 auf Gemeindeebene; eigene Aufbereitung",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.laiv-mv.de/Wahlen/Kommunalwahlen/2024/Ergebnisse/",
+      "quellenseite": "https://www.laiv-mv.de/Wahlen/Kommunalwahlen/2024/Ergebnisse/",
+      "_hinweis": "Deckt 724 Gemeinden/kreisfreie Städte ab, davon 183 mit Briefwahl nur gepoolt auf Amtsebene (siehe hinweis je betroffener Gemeinde) - deutlich seltener als bei der Landtagswahl 2021, da hier die meiste Briefwahl bereits in ein Urnenwahlbezirk-Ergebnis eingerechnet ist. Über siebzig echte örtliche Wählergruppen-Namen statt GERDAs Sonstige-Sammelkategorie (Issue #10)."
+    },
+    {
+      "land": "12",
+      "jahr": 2024,
+      "wahl_datum": "2024-06-09",
+      "parser": "brandenburg-2024-gemeindevertretung-xlsx",
+      "url": "https://wahlergebnisse.brandenburg.de/12/300/20240609/gemeindevertretungswahl_land/DL/DL_BB_GVW2024.xlsx",
+      "quelle": "Amt für Statistik Berlin-Brandenburg",
+      "quellenvermerk": "Datenquelle: Amt für Statistik Berlin-Brandenburg, amtliches Ergebnis der Wahlen zu den Gemeindevertretungen vom 9. Juni 2024 (2., aktualisierte Auflage vom 8. Oktober 2024); eigene Aufbereitung (Stimmenanteile je Wahlvorschlag)",
+      "lizenz": "Creative Commons Namensnennung 3.0 Deutschland (CC BY 3.0 DE)",
+      "lizenz_url": "http://creativecommons.org/licenses/by/3.0/de/",
+      "quellenseite": "https://wahlen.brandenburg.de/wahlen/de/kommunalwahlen/ergebnisse/kommunalwahlen/",
+      "_hinweis": "Deckt alle 413 Gemeindevertretungswahlen ab (Langformat je Gemeinde und Wahlvorschlag, keine feste Parteispaltenliste). Stimmensumme je Gemeinde exakt gegen die gemeldeten gültigen Stimmen geprüft (0 Abweichungen). Erhält echte Namen aller Parteien, Listenvereinigungen, Wählergruppen und Einzelbewerber statt GERDAs Sammelfeld other/Sonstige (Issue #10). Landrätewahlen und Bürgermeisterwahlen sind nicht Teil dieser Datei."
+    }
+  ],
+  "kreistag_ergaenzungen": [
+    {
+      "land": "07",
+      "jahr": 2024,
+      "wahl_datum": "2024-06-09",
+      "datei": "quellen/rlp-kommunalwahlen-2024-kreisebene.json",
+      "schluessel": "kreistag_2024",
+      "quelle": "Landeswahlleiter Rheinland-Pfalz",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter Rheinland-Pfalz, endgültige Ergebnisse der Kreistagswahlen vom 9. Juni 2024; eigene Aufbereitung (gewichtete Stimmenanteile)",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1",
+      "url": "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/KW/KW_2024_Ergebisse_Kreisebene.pdf",
+      "quellenseite": "https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1"
+    },
+    {
+      "land": "13",
+      "jahr": 2024,
+      "wahl_datum": "2024-06-09",
+      "parser": "mecklenburg-vorpommern-2024-kreistag-csv",
+      "url": "https://www.laiv-mv.de/static/LAIV/Wahlen/3-Kommunalwahlen/2024/Ergebnisse/k_wahlkreise.csv",
+      "quelle": "Landeswahlleiter Mecklenburg-Vorpommern",
+      "quellenvermerk": "Datenquelle: Landeswahlleiter Mecklenburg-Vorpommern (LAIV-MV), endgültiges Ergebnis der Kreistagswahlen sowie der Stadtvertretung Schwerin und der Bürgerschaft Rostock vom 9. Juni 2024; eigene Aufbereitung",
+      "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+      "lizenz_url": "https://www.laiv-mv.de/Wahlen/Kommunalwahlen/2024/Ergebnisse/",
+      "quellenseite": "https://www.laiv-mv.de/Wahlen/Kommunalwahlen/2024/Ergebnisse/",
+      "_hinweis": "Deckt alle 8 Kreise/kreisfreien Städte ab (6 Landkreise, Rostock, Schwerin) - bereits auf Kreisebene aggregiert, die Briefwahl-Lücke der Gemeinde-CSVs ist hier irrelevant."
+    },
+    {
+      "land": "09",
+      "jahr": 2026,
+      "wahl_datum": "2026-03-08",
+      "parser": "bayern-2026-kreistag-xml",
+      "url": "https://kommunalwahl2026.bayern.de/downloads/gremienwahl/Kommunalwahl_Gremien_Landkreise.xml",
+      "quelle": "Bayerisches Landesamt für Statistik",
+      "quellenvermerk": "Datenquelle: Bayerisches Landesamt für Statistik, endgültiges Ergebnis der Kreistagswahlen vom 8. März 2026; eigene Aufbereitung (gewichtete Stimmenanteile gemäß Kumulieren/Panaschieren)",
+      "lizenz": "Vervielfältigung und Weiterverbreitung mit Quellenangabe gestattet (§ 9 AGB des Bayerischen Landesamts für Statistik)",
+      "lizenz_url": "https://www.statistik.bayern.de/meta/agb/index.html",
+      "quellenseite": "https://www.statistik.bayern.de/wahlen/kommunalwahlen/index.html",
+      "_hinweis": "Deckt alle 71 Landkreise ab (bereits auf Kreisebene aggregiert). Strukturiertes XML mit eigenem XSD statt fester Parteispalten - erhält alle 189 tatsächlich angetretenen Wahlvorschläge unter ihrem echten Namen (u. a. zahlreiche örtliche Wählergruppen und Kreisverbände) statt GERDAs KREISTAG_GRUPPEN-Zuordnung mit Sonstige-Sammelkategorie. Gewichtete Stimmen je Landkreis exakt gegen die von der Quelle gemeldete Gesamtsumme geprüft (0 Abweichungen über alle 71 Landkreise). Kommunalwahl (Gemeinderat/Stadtrat der kreisangehörigen Gemeinden) und Landtagswahl sind nicht Teil dieser Ergänzung - die Gemeinderatsergebnisse liegen bei dieser Quelle nur als rund 2.000 einzelne Gemeinde-Ergebnisseiten vor, nicht als eine einzelne abrufbare Datei."
+    }
+  ],
+  "bund": [
+    {
+      "kennung": "bundestagswahl-2025",
+      "titel": "Bundestagswahl 2025",
+      "jahr": 2025,
+      "gebietsart": "Wahlkreis",
+      "schluesselart": "btw-wahlkreis",
+      "stimme": "2",
+      "url": "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/opendata/btw25/csv/kerg2.csv"
+    },
+    {
+      "kennung": "europawahl-2024",
+      "titel": "Europawahl 2024",
+      "jahr": 2024,
+      "gebietsart": "Kreis",
+      "schluesselart": "ags",
+      "stimme": null,
+      "url": "https://www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/opendata/ew24/csv/kerg2.csv"
+    }
+  ],
+  "laender": [
+    { "land": "01", "name": "Schleswig-Holstein", "wahl": "Landtagswahl" },
+    { "land": "02", "name": "Hamburg", "wahl": "Bürgerschaftswahl" },
+    { "land": "03", "name": "Niedersachsen", "wahl": "Landtagswahl" },
+    { "land": "04", "name": "Bremen", "wahl": "Bürgerschaftswahl" },
+    { "land": "05", "name": "Nordrhein-Westfalen", "wahl": "Landtagswahl" },
+    { "land": "06", "name": "Hessen", "wahl": "Landtagswahl" },
+    { "land": "07", "name": "Rheinland-Pfalz", "wahl": "Landtagswahl" },
+    { "land": "08", "name": "Baden-Württemberg", "wahl": "Landtagswahl" },
+    { "land": "09", "name": "Bayern", "wahl": "Landtagswahl" },
+    { "land": "10", "name": "Saarland", "wahl": "Landtagswahl" },
+    { "land": "11", "name": "Berlin", "wahl": "Abgeordnetenhauswahl" },
+    { "land": "12", "name": "Brandenburg", "wahl": "Landtagswahl" },
+    { "land": "13", "name": "Mecklenburg-Vorpommern", "wahl": "Landtagswahl" },
+    { "land": "14", "name": "Sachsen", "wahl": "Landtagswahl" },
+    { "land": "15", "name": "Sachsen-Anhalt", "wahl": "Landtagswahl" },
+    { "land": "16", "name": "Thüringen", "wahl": "Landtagswahl" }
+  ]
+}

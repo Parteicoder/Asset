@@ -1,0 +1,336 @@
+{
+  "_hinweis": "Manuell extrahierter und mehrfach gegengeprüfter Datenstand aus der amtlichen PDF 'Kommunalwahlen 2024 - Endgültige Ergebnisse (Stadtratswahlen der kreisfreien Städte und Kreistagswahlen)' des Landeswahlleiters Rheinland-Pfalz. Kein automatischer Abruf: die Tabellen liessen sich nur mit einer Tabellen-Bibliothek (nicht Python-Standardbibliothek) zuverlässig auslesen. Geprüft gegen die in derselben PDF mitgelieferte 2019er-Vergleichsspalte: alle 36 Gebiete stimmen mit den bisherigen GERDA-2019-Werten exakt überein (Toleranz 0,15 Prozentpunkte je Partei, 0,3 fuer die zusammengefassten Kleinparteien/Wählergruppen). Enthält seitdem nur noch die 24 Kreistagswahlen (kreistag_2024) - die Stadtratswahlen der 12 kreisfreien Städte kommen jetzt aus quellen/rlp-kommunalwahlen-2024-gemeindeebene.json, zusammen mit allen übrigen Gemeinden.",
+  "quelle": "Landeswahlleiter Rheinland-Pfalz",
+  "quelle_url": "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/KW/KW_2024_Ergebisse_Kreisebene.pdf",
+  "quellenvermerk": "Datenquelle: Landeswahlleiter Rheinland-Pfalz, endgültige Ergebnisse der Kommunalwahlen vom 9. Juni 2024 (Stadtratswahlen der kreisfreien Städte und Kreistagswahlen); eigene Aufbereitung aus der amtlichen PDF, Prozentanteile aus der Spalte 'gewichtet %'.",
+  "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+  "lizenz_url": "https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1",
+  "wahl_datum": "2024-06-09",
+  "extrahiert_am": "2026-08-14",
+  "kreistag_2024": {
+    "07131": {
+      "name": "Ahrweiler",
+      "beteiligung": 64.3,
+      "parteien": {
+        "SPD": 15.0,
+        "CDU": 37.5,
+        "GRÜNE": 13.0,
+        "AfD": 10.4,
+        "FDP": 5.7,
+        "DIE LINKE": 2.0,
+        "Wählervereinigungen": 16.4
+      }
+    },
+    "07132": {
+      "name": "Altenkirchen (Westerwald)",
+      "beteiligung": 62.1,
+      "parteien": {
+        "SPD": 21.5,
+        "CDU": 36.7,
+        "GRÜNE": 7.3,
+        "AfD": 15.8,
+        "FDP": 5.2,
+        "DIE LINKE": 2.3,
+        "Volt": 0.6,
+        "Wählervereinigungen": 10.7
+      }
+    },
+    "07133": {
+      "name": "Bad Kreuznach",
+      "beteiligung": 61.9,
+      "parteien": {
+        "SPD": 21.9,
+        "CDU": 32.2,
+        "GRÜNE": 10.0,
+        "AfD": 13.8,
+        "FDP": 6.1,
+        "FREIE WÄHLER": 4.7,
+        "BSW": 5.0,
+        "DIE LINKE": 1.7,
+        "Wählervereinigungen": 4.5
+      }
+    },
+    "07134": {
+      "name": "Birkenfeld",
+      "beteiligung": 60.0,
+      "parteien": {
+        "SPD": 26.0,
+        "CDU": 27.4,
+        "GRÜNE": 5.7,
+        "AfD": 17.1,
+        "FDP": 4.9,
+        "FREIE WÄHLER": 12.5,
+        "DIE LINKE": 2.1,
+        "Wählervereinigungen": 4.4
+      }
+    },
+    "07135": {
+      "name": "Cochem-Zell",
+      "beteiligung": 67.5,
+      "parteien": {
+        "SPD": 19.6,
+        "CDU": 42.2,
+        "GRÜNE": 6.6,
+        "AfD": 12.1,
+        "FDP": 4.4,
+        "Wählervereinigungen": 15.1
+      }
+    },
+    "07137": {
+      "name": "Mayen-Koblenz",
+      "beteiligung": 62.9,
+      "parteien": {
+        "SPD": 20.5,
+        "CDU": 34.3,
+        "GRÜNE": 9.6,
+        "AfD": 13.1,
+        "FDP": 3.8,
+        "DIE LINKE": 1.7,
+        "Wählervereinigungen": 17.1
+      }
+    },
+    "07138": {
+      "name": "Neuwied",
+      "beteiligung": 61.2,
+      "parteien": {
+        "SPD": 19.9,
+        "CDU": 34.4,
+        "GRÜNE": 9.8,
+        "AfD": 14.3,
+        "FDP": 4.0,
+        "FREIE WÄHLER": 8.4,
+        "BSW": 5.7,
+        "DIE LINKE": 1.8,
+        "Wählervereinigungen": 1.7
+      }
+    },
+    "07140": {
+      "name": "Rhein-Hunsrück-Kreis",
+      "beteiligung": 67.5,
+      "parteien": {
+        "SPD": 18.2,
+        "CDU": 33.7,
+        "GRÜNE": 7.8,
+        "AfD": 14.5,
+        "FDP": 5.7,
+        "FREIE WÄHLER": 5.2,
+        "DIE LINKE": 1.9,
+        "Volt": 0.9,
+        "ÖDP": 1.4,
+        "Wählervereinigungen": 10.7
+      }
+    },
+    "07141": {
+      "name": "Rhein-Lahn-Kreis",
+      "beteiligung": 63.3,
+      "parteien": {
+        "SPD": 25.2,
+        "CDU": 30.2,
+        "GRÜNE": 9.4,
+        "AfD": 13.0,
+        "FDP": 3.9,
+        "FREIE WÄHLER": 6.6,
+        "Wählervereinigungen": 11.6
+      }
+    },
+    "07143": {
+      "name": "Westerwaldkreis",
+      "beteiligung": 64.9,
+      "parteien": {
+        "SPD": 18.6,
+        "CDU": 38.3,
+        "GRÜNE": 8.3,
+        "AfD": 14.7,
+        "FDP": 3.9,
+        "FREIE WÄHLER": 4.0,
+        "DIE LINKE": 2.0,
+        "Wählervereinigungen": 10.4
+      }
+    },
+    "07231": {
+      "name": "Bernkastel-Wittlich",
+      "beteiligung": 63.9,
+      "parteien": {
+        "SPD": 15.6,
+        "CDU": 38.6,
+        "GRÜNE": 8.4,
+        "AfD": 11.2,
+        "FDP": 5.8,
+        "FREIE WÄHLER": 14.4,
+        "ÖDP": 1.9,
+        "Wählervereinigungen": 4.1
+      }
+    },
+    "07232": {
+      "name": "Eifelkreis Bitburg-Prüm",
+      "beteiligung": 63.5,
+      "parteien": {
+        "SPD": 16.6,
+        "CDU": 32.9,
+        "GRÜNE": 7.3,
+        "AfD": 9.9,
+        "FDP": 3.9,
+        "FREIE WÄHLER": 29.4
+      }
+    },
+    "07233": {
+      "name": "Vulkaneifel",
+      "beteiligung": 65.8,
+      "parteien": {
+        "SPD": 17.7,
+        "CDU": 41.1,
+        "GRÜNE": 6.3,
+        "AfD": 12.2,
+        "FDP": 5.2,
+        "FREIE WÄHLER": 15.4,
+        "ÖDP": 2.1
+      }
+    },
+    "07235": {
+      "name": "Trier-Saarburg",
+      "beteiligung": 66.8,
+      "parteien": {
+        "SPD": 19.8,
+        "CDU": 34.9,
+        "GRÜNE": 9.7,
+        "AfD": 7.8,
+        "FDP": 4.3,
+        "FREIE WÄHLER": 8.1,
+        "DIE LINKE": 2.1,
+        "Wählervereinigungen": 13.4
+      }
+    },
+    "07331": {
+      "name": "Alzey-Worms",
+      "beteiligung": 66.7,
+      "parteien": {
+        "SPD": 25.9,
+        "CDU": 26.6,
+        "GRÜNE": 9.8,
+        "AfD": 16.9,
+        "FDP": 4.2,
+        "DIE LINKE": 2.3,
+        "ÖDP": 1.3,
+        "Wählervereinigungen": 13.1
+      }
+    },
+    "07332": {
+      "name": "Bad Dürkheim",
+      "beteiligung": 68.6,
+      "parteien": {
+        "SPD": 18.8,
+        "CDU": 31.6,
+        "GRÜNE": 10.6,
+        "AfD": 14.9,
+        "FDP": 4.9,
+        "BSW": 5.0,
+        "DIE LINKE": 0.4,
+        "Wählervereinigungen": 13.7
+      }
+    },
+    "07333": {
+      "name": "Donnersbergkreis",
+      "beteiligung": 66.6,
+      "parteien": {
+        "SPD": 23.1,
+        "CDU": 25.3,
+        "GRÜNE": 9.2,
+        "AfD": 18.1,
+        "FDP": 4.6,
+        "Wählervereinigungen": 19.7
+      }
+    },
+    "07334": {
+      "name": "Germersheim",
+      "beteiligung": 63.7,
+      "parteien": {
+        "SPD": 16.6,
+        "CDU": 36.4,
+        "GRÜNE": 9.2,
+        "AfD": 19.7,
+        "FDP": 4.0,
+        "Die PARTEI": 0.6,
+        "Wählervereinigungen": 13.4
+      }
+    },
+    "07335": {
+      "name": "Kaiserslautern",
+      "beteiligung": 66.6,
+      "parteien": {
+        "SPD": 19.4,
+        "CDU": 30.9,
+        "GRÜNE": 6.4,
+        "AfD": 17.5,
+        "FDP": 2.9,
+        "BSW": 7.4,
+        "DIE LINKE": 1.2,
+        "Wählervereinigungen": 14.3
+      }
+    },
+    "07336": {
+      "name": "Kusel",
+      "beteiligung": 68.4,
+      "parteien": {
+        "SPD": 21.8,
+        "CDU": 24.5,
+        "GRÜNE": 5.7,
+        "AfD": 18.6,
+        "FDP": 3.8,
+        "Wählervereinigungen": 25.7
+      }
+    },
+    "07337": {
+      "name": "Südliche Weinstraße",
+      "beteiligung": 69.3,
+      "parteien": {
+        "SPD": 19.8,
+        "CDU": 31.8,
+        "GRÜNE": 11.3,
+        "AfD": 14.7,
+        "FDP": 3.7,
+        "Wählervereinigungen": 18.5
+      }
+    },
+    "07338": {
+      "name": "Rhein-Pfalz-Kreis",
+      "beteiligung": 67.2,
+      "parteien": {
+        "SPD": 20.3,
+        "CDU": 31.9,
+        "GRÜNE": 11.9,
+        "AfD": 17.8,
+        "FDP": 5.3,
+        "DIE LINKE": 1.2,
+        "Wählervereinigungen": 11.6
+      }
+    },
+    "07339": {
+      "name": "Mainz-Bingen",
+      "beteiligung": 67.0,
+      "parteien": {
+        "SPD": 21.4,
+        "CDU": 30.2,
+        "GRÜNE": 14.6,
+        "AfD": 11.1,
+        "FDP": 5.1,
+        "DIE LINKE": 1.3,
+        "ÖDP": 1.7,
+        "Volt": 3.2,
+        "Wählervereinigungen": 11.5
+      }
+    },
+    "07340": {
+      "name": "Südwestpfalz",
+      "beteiligung": 72.5,
+      "parteien": {
+        "SPD": 21.8,
+        "CDU": 32.9,
+        "GRÜNE": 6.4,
+        "AfD": 15.8,
+        "FDP": 4.9,
+        "BSW": 6.7,
+        "Wählervereinigungen": 11.4
+      }
+    }
+  }
+}

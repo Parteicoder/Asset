@@ -1,0 +1,94 @@
+# Baut die Coverage-Heatmap-Bündel neu. Kein Cron: OSM (Geofabrik, ganz Deutschland ~4 GB) und
+# der volle Zensus-2022-Lauf sind zu groß und zu selten nötig für einen automatischen Rhythmus.
+# OSM/VG250/Zensus sind ohnehin keine tagesaktuellen Quellen - von Hand anstoßen, wenn eine davon
+# eine neue Veröffentlichung hatte.
+name: Coverage-Bündel bauen
+
+on:
+  workflow_dispatch:
+    inputs:
+      land:
+        description: 'Nur eine Landkennzahl (z. B. 14). Leer = ganz Deutschland.'
+        required: false
+        default: ''
+      nur_gemeinde:
+        description: 'Nur eine einzelne Gemeinde (achtstelliger AGS) - für einen Rauchtest.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coverage-bauen
+  cancel-in-progress: false
+
+jobs:
+  bauen:
+    # Self-hosted (Windows, lokaler PC) statt ubuntu-latest: der ~4-GB-OSM-Download plus
+    # Straßen-/H3-/Zensus-Verarbeitung sprengte auf dem gehosteten Runner Zeit/Kontingent.
+    # Expliziter Pfad zu Git Bash statt "shell: bash": PATH auf dem Runner findet sonst zuerst
+    # den WSL-Stub unter WindowsApps\bash.exe (keine Distro installiert, bricht sofort ab).
+    # Macht die vorhandenen Bash-Skripte (Arrays, `[ -n ... ]`) unverändert lauffähig, statt sie
+    # auf PowerShell umzuschreiben.
+    runs-on: [self-hosted, windows]
+    defaults:
+      run:
+        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    # Ganz Deutschland (OSM-Download + Straßen-/H3-/Zensus-Verarbeitung für rund 11.000
+    # Gemeinden) ist unverifiziert, wie lange das dauert - der erste echte Lauf sollte über
+    # --nur-gemeinde oder --land laufen, bevor hier ein enger werdendes Zeitlimit zum Problem wird.
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        id: checkout
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Coverage-Pakete installieren
+        run: pip install -r coverage/requirements.txt
+
+      - name: Selbsttest
+        run: python3 coverage/selbsttest.py
+
+      - name: OSM-Straßennetz laden (Geofabrik)
+        run: |
+          curl --fail --retry 3 --retry-delay 10 --location \
+            --output germany-latest.osm.pbf \
+            https://download.geofabrik.de/europe/germany-latest.osm.pbf
+
+      - name: Zensus-2022-Bevölkerungsgitter laden (Destatis)
+        run: |
+          curl --fail --retry 3 --retry-delay 10 --location \
+            --output zensus-bevoelkerung.zip \
+            https://www.destatis.de/static/DE/zensus/gitterdaten/Zensus2022_Bevoelkerungszahl.zip
+
+      - name: Bauen
+        env:
+          LAND: ${{ inputs.land }}
+          NUR_GEMEINDE: ${{ inputs.nur_gemeinde }}
+        run: |
+          args=(--osm-pbf germany-latest.osm.pbf --zensus-zip zensus-bevoelkerung.zip)
+          [ -n "$LAND" ] && args+=(--land "$LAND")
+          [ -n "$NUR_GEMEINDE" ] && args+=(--nur-gemeinde "$NUR_GEMEINDE")
+          python3 coverage/bauen.py "${args[@]}"
+
+      # Muster wie in sammeln.yml: erst `git add`, dann den VORGEMERKTEN Stand prüfen - beim
+      # ersten Lauf ist sonst jede Bündel-Datei neu und ein vorheriges `git diff` sähe fälschlich
+      # "keine Änderung".
+      - name: Änderungen übernehmen
+        if: ${{ always() && steps.checkout.outcome == 'success' }}
+        run: |
+          git add -A daten/coverage
+          if git diff --cached --quiet; then
+            echo "Keine Änderung, nichts zu committen."
+            exit 0
+          fi
+          echo "Diese Dateien haben sich geändert:"
+          git diff --cached --name-status
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Coverage-Bündel gebaut: $(date -u +%Y-%m-%d)"
+          git push

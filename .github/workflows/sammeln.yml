@@ -1,0 +1,119 @@
+# Der eine Schritt, als Knopf.
+name: Daten sammeln
+
+on:
+  # Der Knopf: Actions, dann "Daten sammeln", dann "Run workflow".
+  workflow_dispatch:
+    inputs:
+      land:
+        description: 'Nur eine Landkennzahl (z. B. 14). Leer = alles.'
+        required: false
+        default: ''
+      nur_bund:
+        description: 'Nur Bundestags- und Europawahl'
+        type: boolean
+        required: false
+        default: false
+      nur_laender:
+        description: 'Nur die 16 Landtagswahlen (GERDA plus Ergänzungen)'
+        type: boolean
+        required: false
+        default: false
+      nur_kommunal:
+        description: 'Nur Gemeinde-/Stadtrats- und Kreistagswahlen'
+        type: boolean
+        required: false
+        default: false
+  # Damit eine neue Wahl von selbst ankommt, ohne dass jemand daran denken muss.
+  schedule:
+    - cron: '17 4 1 * *'   # am Ersten jedes Monats, 04:17 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sammeln
+  cancel-in-progress: false
+
+jobs:
+  sammeln:
+    # Self-hosted statt ubuntu-latest: GitHub blockt gehostete Runner gerade wegen offener
+    # Zahlung/Spending-Limit. Läuft auf "admin-pc" (Desktop\Asset-Runner\run.cmd).
+    runs-on: [self-hosted, windows]
+    defaults:
+      run:
+        shell: C:\PROGRA~1\Git\bin\bash.exe --noprofile --norc -eo pipefail {0}
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        id: checkout
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Ohne Netz: Ist der Auswerter kaputt, soll das auffallen, bevor er
+      # sechzehn Dateien mit Unsinn füllt.
+      - name: Selbsttest
+        run: python3 scripts/selbsttest.py
+
+      # Kein `pip install`: Der Sammler kommt mit der Standardbibliothek aus. Was nicht
+      # installiert wird, kann auch nicht veralten oder wegbrechen.
+      #
+      # Die Eingaben gehen über `env` und nicht per `${{ }}` direkt in die Zeile. So kann ein
+      # eingetippter Wert nicht als Shell-Befehl ausgewertet werden.
+      - name: Sammeln
+        env:
+          LAND: ${{ inputs.land }}
+          NUR_BUND: ${{ inputs.nur_bund }}
+          NUR_LAENDER: ${{ inputs.nur_laender }}
+          NUR_KOMMUNAL: ${{ inputs.nur_kommunal }}
+        run: |
+          args=()
+          [ -n "$LAND" ] && args+=(--land "$LAND")
+          [ "$NUR_BUND" = "true" ] && args+=(--nur-bund)
+          [ "$NUR_LAENDER" = "true" ] && args+=(--nur-laender)
+          [ "$NUR_KOMMUNAL" = "true" ] && args+=(--nur-kommunal)
+          python3 scripts/sammeln.py "${args[@]}"
+
+      # Der monatliche Lauf hier committet direkt auf main, ohne PR - der gleiche Check in
+      # selbsttest.yml sieht ihn also nie. Cloudflare Pages deployt daten/ 1:1 und erlaubt
+      # maximal 20.000 Dateien (siehe GEMEINDERAT_ZIEL in scripts/sammeln.py); ohne diesen Schritt
+      # faellt ein gerissenes Limit erst beim naechsten fehlgeschlagenen Cloudflare-Build auf.
+      - name: daten/ bleibt unter dem Cloudflare-Pages-Dateilimit
+        run: |
+          python3 -c "
+          import sys
+          from pathlib import Path
+          grenze = 19000
+          n = sum(1 for _ in Path('daten').rglob('*') if _.is_file())
+          print(f'daten/: {n} Dateien (Cloudflare-Pages-Limit: 20000)')
+          if n >= grenze:
+              print(f'FEHLER: nur noch {20000 - n} Dateien Puffer bis zum Cloudflare-Pages-Limit.')
+              sys.exit(1)
+          "
+
+      # Nur committen, wenn sich wirklich etwas geändert hat. Ein monatlicher Leer-Commit macht
+      # die Historie unlesbar und sagt nichts.
+      #
+      # Erst `git add`, dann den VORGEMERKTEN Stand prüfen. Der erste Anlauf fragte `git diff`
+      # vorher, und das war falsch: `git diff` zeigt nur Änderungen an bereits bekannten Dateien
+      # und schweigt über neue. Beim ersten Lauf ist aber jede Datendatei neu. Der Schritt sah
+      # deshalb „keine Änderung", ging weg, und die frisch geholten Daten wurden mit dem Runner
+      # weggeworfen. Der Lauf war dabei grün, was den Fehler lange versteckt hätte.
+      - name: Änderungen übernehmen
+        # Auch bei einem Teilfehler im Sammler gültige Dateien übernehmen. Der fehlgeschlagene
+        # Schritt bleibt rot und macht die Lücke auf der Actions-Seite sichtbar.
+        if: ${{ always() && steps.checkout.outcome == 'success' }}
+        run: |
+          git add -A daten
+          if git diff --cached --quiet; then
+            echo "Keine Änderung, nichts zu committen."
+            exit 0
+          fi
+          echo "Diese Dateien haben sich geändert:"
+          git diff --cached --name-status
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Wahldaten gesammelt: $(date -u +%Y-%m-%d)"
+          git push

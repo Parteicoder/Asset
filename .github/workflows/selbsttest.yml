@@ -1,0 +1,56 @@
+# Prüft den Auswerter bei jeder Änderung, ohne Netz.
+#
+# Der Sammler erzeugt bei jedem Lauf sechzehn Länderdateien und überschreibt damit den Stand, den
+# die App ausliefert. Ein Auswerter, der still das Falsche tut, verteilt seinen Fehler also sofort. Diese
+# halbe Sekunde CI ist billiger als die Runde, das hinterher am Telefon zu bemerken.
+name: Selbsttest
+
+on:
+  push:
+    paths: ['scripts/**', 'coverage/**', 'quellen.json', '.github/workflows/**']
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  selbsttest:
+    # Self-hosted statt ubuntu-latest: GitHub blockt gehostete Runner gerade wegen offener
+    # Zahlung/Spending-Limit. Läuft auf "admin-pc" (Desktop\Asset-Runner\run.cmd), muss also
+    # laufen, damit PR-Checks überhaupt starten.
+    runs-on: [self-hosted, windows]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/selbsttest.py
+      - name: quellen.json ist gültiges JSON
+        run: python3 -c "import json; json.load(open('quellen.json'))"
+      - name: daten/ bleibt unter dem Cloudflare-Pages-Dateilimit
+        # Cloudflare Pages deployt daten/ 1:1 und erlaubt maximal 20.000 Dateien - siehe
+        # GEMEINDERAT_ZIEL in scripts/sammeln.py. Ein Deploy, der das reisst, schlaegt erst bei
+        # Cloudflare fehl, lange nachdem der PR schon gemerged ist. Hier faellt es frueher auf.
+        run: |
+          python3 -c "
+          import sys
+          from pathlib import Path
+          grenze = 19000
+          n = sum(1 for _ in Path('daten').rglob('*') if _.is_file())
+          print(f'daten/: {n} Dateien (Cloudflare-Pages-Limit: 20000)')
+          if n >= grenze:
+              print(f'FEHLER: nur noch {20000 - n} Dateien Puffer bis zum Cloudflare-Pages-Limit.')
+              sys.exit(1)
+          "
+
+  # Eigener Job, weil der Coverage-Builder (anders als der Wahldaten-Sammler oben) bewusst
+  # Fremdpakete braucht (osmium, shapely, h3) - siehe coverage/bauen.py. Ein `pip install`
+  # hier soll den paketlosen Wahldaten-Job nicht verlangsamen oder von dessen Netz-Ausfällen
+  # abhängen.
+  coverage-selbsttest:
+    runs-on: [self-hosted, windows]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r coverage/requirements.txt
+      - run: python3 coverage/selbsttest.py
