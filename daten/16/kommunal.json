@@ -1,0 +1,4841 @@
+{
+ "land": "16",
+ "name": "Thüringen",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Thüringen 2024",
+ "jahr": 2024,
+ "wahl_datum": "2024-05-26",
+ "schluesselart": "ags",
+ "quelle": "Thüringer Landeswahlleiter",
+ "quellenvermerk": "Datenquelle: Thüringer Landeswahlleiter, endgültiges Ergebnis der Gemeinderats- und Stadtratswahlen vom 26. Mai 2024 (Gemeinden Rauschwitz und Umpferstedt: Wiederholungswahl Januar 2025); eigene Aufbereitung",
+ "lizenz": "Amtliche Wahlergebnisse; Nutzungsbedingungen der Quelle beachten",
+ "lizenz_url": "https://wahlen.thueringen.de/kommunalwahlen/kw_wahlergebnisse_GW.asp",
+ "quellendatei": "https://wahlen.thueringen.de/NeuLesen.asp?seite=GWInfoG2024",
+ "quellenseite": "https://wahlen.thueringen.de/kommunalwahlen/kw_wahlergebnisse_GW.asp",
+ "gebiete": {
+  "16061116": {
+   "name": "Am Ohmberg",
+   "beteiligung": 63.1,
+   "parteien": {
+    "CDU": 20.0,
+    "Sonstige": 80.0
+   }
+  },
+  "16061001": {
+   "name": "Arenshausen",
+   "beteiligung": 64.0,
+   "parteien": {
+    "CDU": 22.4,
+    "Sonstige": 77.6
+   }
+  },
+  "16061002": {
+   "name": "Asbach-Sickenberg",
+   "beteiligung": 67.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16061003": {
+   "name": "Berlingerode",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 73.0,
+    "Sonstige": 27.0
+   }
+  },
+  "16061012": {
+   "name": "Bodenrode-Westhausen",
+   "beteiligung": 71.6,
+   "parteien": {
+    "CDU": 66.5,
+    "Sonstige": 33.5
+   }
+  },
+  "16061014": {
+   "name": "Bornhagen",
+   "beteiligung": 80.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061015": {
+   "name": "Brehme",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 31.6,
+    "Sonstige": 68.4
+   }
+  },
+  "16061017": {
+   "name": "Breitenworbis",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CDU": 42.1,
+    "Sonstige": 57.8
+   }
+  },
+  "16061019": {
+   "name": "Buhla",
+   "beteiligung": 63.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061021": {
+   "name": "Burgwalde",
+   "beteiligung": 73.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061018": {
+   "name": "Büttstedt",
+   "beteiligung": 70.8,
+   "parteien": {
+    "CDU": 74.3,
+    "Sonstige": 25.7
+   }
+  },
+  "16061023": {
+   "name": "Dieterode",
+   "beteiligung": 74.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061024": {
+   "name": "Dietzenrode/Vatterode",
+   "beteiligung": 90.0,
+   "parteien": {
+    "Sonstige": 99.8
+   }
+  },
+  "16061118": {
+   "name": "Dingelstädt, Stadt",
+   "beteiligung": 67.6,
+   "parteien": {
+    "AfD": 18.0,
+    "CDU": 54.3,
+    "SPD": 1.3,
+    "Sonstige": 22.2,
+    "FDP": 4.1
+   }
+  },
+  "16061026": {
+   "name": "Ecklingerode",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 24.1,
+    "Sonstige": 75.9
+   }
+  },
+  "16061027": {
+   "name": "Effelder",
+   "beteiligung": 69.2,
+   "parteien": {
+    "Sonstige": 99.8
+   }
+  },
+  "16061031": {
+   "name": "Ferna",
+   "beteiligung": 68.3,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16061032": {
+   "name": "Freienhagen",
+   "beteiligung": 67.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16061033": {
+   "name": "Fretterode",
+   "beteiligung": 74.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061034": {
+   "name": "Geisleden",
+   "beteiligung": 72.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061035": {
+   "name": "Geismar",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 40.5,
+    "FREIE WÄHLER": 59.5
+   }
+  },
+  "16061036": {
+   "name": "Gerbershausen",
+   "beteiligung": 73.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061037": {
+   "name": "Gernrode",
+   "beteiligung": 75.2,
+   "parteien": {
+    "CDU": 53.9,
+    "Sonstige": 46.1
+   }
+  },
+  "16061041": {
+   "name": "Großbartloff",
+   "beteiligung": 79.1,
+   "parteien": {
+    "CDU": 56.0,
+    "Sonstige": 44.0
+   }
+  },
+  "16061044": {
+   "name": "Haynrode",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 35.1,
+    "Sonstige": 64.9
+   }
+  },
+  "16061045": {
+   "name": "Heilbad Heiligenstadt, Stadt",
+   "beteiligung": 63.2,
+   "parteien": {
+    "DIE LINKE": 3.1,
+    "AfD": 14.8,
+    "CDU": 46.8,
+    "SPD": 4.6,
+    "GRÜNE": 3.3,
+    "FDP": 3.7,
+    "Sonstige": 23.8
+   }
+  },
+  "16061047": {
+   "name": "Heuthen",
+   "beteiligung": 77.7,
+   "parteien": {
+    "CDU": 33.7,
+    "Sonstige": 66.3
+   }
+  },
+  "16061048": {
+   "name": "Hohengandern",
+   "beteiligung": 77.3,
+   "parteien": {
+    "CDU": 21.1,
+    "Sonstige": 78.9
+   }
+  },
+  "16061056": {
+   "name": "Kella",
+   "beteiligung": 71.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061057": {
+   "name": "Kirchgandern",
+   "beteiligung": 74.4,
+   "parteien": {
+    "CDU": 53.6,
+    "Sonstige": 46.4
+   }
+  },
+  "16061058": {
+   "name": "Kirchworbis",
+   "beteiligung": 67.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061062": {
+   "name": "Krombach",
+   "beteiligung": 71.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061063": {
+   "name": "Küllstedt",
+   "beteiligung": 76.4,
+   "parteien": {
+    "AfD": 20.3,
+    "CDU": 50.0,
+    "Sonstige": 29.6
+   }
+  },
+  "16061115": {
+   "name": "Leinefelde-Worbis, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "DIE LINKE": 5.6,
+    "AfD": 16.5,
+    "CDU": 40.7,
+    "SPD": 4.1,
+    "FDP": 2.2,
+    "Sonstige": 31.0
+   }
+  },
+  "16061066": {
+   "name": "Lindewerra",
+   "beteiligung": 85.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061069": {
+   "name": "Marth",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CDU": 32.6,
+    "GRÜNE": 15.8,
+    "Sonstige": 51.5
+   }
+  },
+  "16061074": {
+   "name": "Niederorschel",
+   "beteiligung": 72.9,
+   "parteien": {
+    "AfD": 10.6,
+    "SPD": 6.7,
+    "FDP": 1.5,
+    "Sonstige": 81.2
+   }
+  },
+  "16061075": {
+   "name": "Pfaffschwende",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16061076": {
+   "name": "Reinholterode",
+   "beteiligung": 76.7,
+   "parteien": {
+    "CDU": 81.5,
+    "Sonstige": 18.5
+   }
+  },
+  "16061078": {
+   "name": "Rohrberg",
+   "beteiligung": 80.0,
+   "parteien": {
+    "CDU": 58.3,
+    "Sonstige": 41.7
+   }
+  },
+  "16061082": {
+   "name": "Rustenfelde",
+   "beteiligung": 71.5,
+   "parteien": {
+    "CDU": 47.9,
+    "Sonstige": 52.1
+   }
+  },
+  "16061083": {
+   "name": "Schachtebich",
+   "beteiligung": 85.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061113": {
+   "name": "Schimberg",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 50.3,
+    "Sonstige": 49.7
+   }
+  },
+  "16061085": {
+   "name": "Schwobfeld",
+   "beteiligung": 78.9,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16061086": {
+   "name": "Sickerode",
+   "beteiligung": 69.2,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16061117": {
+   "name": "Sonnenstein",
+   "beteiligung": 68.8,
+   "parteien": {
+    "CDU": 51.4,
+    "Sonstige": 48.6
+   }
+  },
+  "16061089": {
+   "name": "Steinbach",
+   "beteiligung": 76.9,
+   "parteien": {
+    "CDU": 29.4,
+    "Sonstige": 70.6
+   }
+  },
+  "16061094": {
+   "name": "Tastungen",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061114": {
+   "name": "Teistungen",
+   "beteiligung": 58.3,
+   "parteien": {
+    "Sonstige": 49.0,
+    "FDP": 51.0
+   }
+  },
+  "16061119": {
+   "name": "Uder",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AfD": 17.1,
+    "CDU": 50.9,
+    "GRÜNE": 3.5,
+    "Sonstige": 28.6
+   }
+  },
+  "16061098": {
+   "name": "Volkerode",
+   "beteiligung": 67.2,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16061101": {
+   "name": "Wachstedt",
+   "beteiligung": 74.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16061102": {
+   "name": "Wahlhausen",
+   "beteiligung": 68.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061103": {
+   "name": "Wehnde",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16061105": {
+   "name": "Wiesenfeld",
+   "beteiligung": 69.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16061107": {
+   "name": "Wingerode",
+   "beteiligung": 69.7,
+   "parteien": {
+    "CDU": 84.8,
+    "Sonstige": 15.2
+   }
+  },
+  "16062066": {
+   "name": "Bleicherode, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "DIE LINKE": 3.5,
+    "AfD": 19.0,
+    "CDU": 26.6,
+    "FDP": 5.3,
+    "Sonstige": 29.5,
+    "BSW": 16.0
+   }
+  },
+  "16062005": {
+   "name": "Ellrich, Stadt",
+   "beteiligung": 64.3,
+   "parteien": {
+    "DIE LINKE": 7.2,
+    "AfD": 21.2,
+    "CDU": 28.2,
+    "SPD": 14.7,
+    "GRÜNE": 3.2,
+    "FDP": 13.4,
+    "Sonstige": 12.0
+   }
+  },
+  "16062008": {
+   "name": "Görsbach",
+   "beteiligung": 63.7,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16062009": {
+   "name": "Großlohra",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 26.6,
+    "Sonstige": 73.4
+   }
+  },
+  "16062065": {
+   "name": "Harztor",
+   "beteiligung": 55.2,
+   "parteien": {
+    "DIE LINKE": 6.4,
+    "CDU": 40.2,
+    "GRÜNE": 3.4,
+    "Sonstige": 50.0
+   }
+  },
+  "16062064": {
+   "name": "Heringen/Helme, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "DIE LINKE": 18.0,
+    "CDU": 23.4,
+    "Sonstige": 58.6
+   }
+  },
+  "16062062": {
+   "name": "Hohenstein",
+   "beteiligung": 77.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16062024": {
+   "name": "Kehmstedt",
+   "beteiligung": 68.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16062026": {
+   "name": "Kleinfurra",
+   "beteiligung": 60.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16062033": {
+   "name": "Lipprechterode",
+   "beteiligung": 61.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16062037": {
+   "name": "Niedergebra",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16062041": {
+   "name": "Nordhausen, Stadt",
+   "beteiligung": 55.8,
+   "parteien": {
+    "DIE LINKE": 10.8,
+    "AfD": 35.4,
+    "CDU": 21.8,
+    "SPD": 14.7,
+    "GRÜNE": 5.1,
+    "FDP": 3.2,
+    "Sonstige": 8.9
+   }
+  },
+  "16062049": {
+   "name": "Sollstedt",
+   "beteiligung": 52.4,
+   "parteien": {
+    "DIE LINKE": 20.6,
+    "CDU": 35.8,
+    "SPD": 29.0,
+    "Sonstige": 14.6
+   }
+  },
+  "16062054": {
+   "name": "Urbach",
+   "beteiligung": 64.8,
+   "parteien": {
+    "CDU": 17.8,
+    "Sonstige": 82.1
+   }
+  },
+  "16062063": {
+   "name": "Werther",
+   "beteiligung": 66.3,
+   "parteien": {
+    "DIE LINKE": 6.4,
+    "CDU": 19.8,
+    "SPD": 20.6,
+    "Sonstige": 53.2
+   }
+  },
+  "16063104": {
+   "name": "Amt Creuzburg, Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "AfD": 18.3,
+    "CDU": 31.2,
+    "SPD": 13.8,
+    "Sonstige": 36.8
+   }
+  },
+  "16063099": {
+   "name": "Bad Liebenstein, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "DIE LINKE": 10.5,
+    "CDU": 50.0,
+    "SPD": 6.3,
+    "FDP": 6.6,
+    "Sonstige": 26.6
+   }
+  },
+  "16063003": {
+   "name": "Bad Salzungen, Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "DIE LINKE": 4.1,
+    "CDU": 24.8,
+    "AfD": 24.5,
+    "SPD": 3.1,
+    "GRÜNE": 1.2,
+    "FDP": 1.5,
+    "Sonstige": 40.8
+   }
+  },
+  "16063004": {
+   "name": "Barchfeld-Immelborn",
+   "beteiligung": 65.9,
+   "parteien": {
+    "Sonstige": 47.5,
+    "CDU": 37.8,
+    "SPD": 14.7
+   }
+  },
+  "16063006": {
+   "name": "Berka v. d. Hainich",
+   "beteiligung": 72.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063008": {
+   "name": "Bischofroda",
+   "beteiligung": 74.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063011": {
+   "name": "Buttlar",
+   "beteiligung": 71.0,
+   "parteien": {
+    "CDU": 87.4,
+    "GRÜNE": 12.6
+   }
+  },
+  "16063015": {
+   "name": "Dermbach",
+   "beteiligung": 66.8,
+   "parteien": {
+    "Sonstige": 20.8,
+    "CDU": 68.2,
+    "SPD": 10.9
+   }
+  },
+  "16063105": {
+   "name": "Eisenach, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "DIE LINKE": 9.1,
+    "AfD": 19.6,
+    "CDU": 27.1,
+    "SPD": 13.1,
+    "GRÜNE": 7.4,
+    "FDP": 2.3,
+    "Sonstige": 21.4
+   }
+  },
+  "16063023": {
+   "name": "Empfertshausen",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CDU": 32.5,
+    "Sonstige": 67.5
+   }
+  },
+  "16063032": {
+   "name": "Geisa, Stadt",
+   "beteiligung": 65.1,
+   "parteien": {
+    "CDU": 73.6,
+    "Sonstige": 26.4
+   }
+  },
+  "16063033": {
+   "name": "Gerstengrund",
+   "beteiligung": 100.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063097": {
+   "name": "Gerstungen",
+   "beteiligung": 61.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063098": {
+   "name": "Hörselberg-Hainich",
+   "beteiligung": 65.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063046": {
+   "name": "Krauthausen",
+   "beteiligung": 70.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063101": {
+   "name": "Krayenberggemeinde",
+   "beteiligung": 59.4,
+   "parteien": {
+    "DIE LINKE": 5.7,
+    "CDU": 33.4,
+    "SPD": 15.3,
+    "Sonstige": 45.6
+   }
+  },
+  "16063049": {
+   "name": "Lauterbach",
+   "beteiligung": 68.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063051": {
+   "name": "Leimbach",
+   "beteiligung": 66.3,
+   "parteien": {
+    "DIE LINKE": 11.1,
+    "Sonstige": 88.8
+   }
+  },
+  "16063058": {
+   "name": "Nazza",
+   "beteiligung": 67.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063062": {
+   "name": "Oechsen",
+   "beteiligung": 70.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063066": {
+   "name": "Ruhla, Stadt",
+   "beteiligung": 56.5,
+   "parteien": {
+    "DIE LINKE": 8.1,
+    "AfD": 21.7,
+    "CDU": 42.4,
+    "Sonstige": 27.9
+   }
+  },
+  "16063068": {
+   "name": "Schleid",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063071": {
+   "name": "Seebach",
+   "beteiligung": 68.7,
+   "parteien": {
+    "Sonstige": 58.8,
+    "CDU": 41.2
+   }
+  },
+  "16063076": {
+   "name": "Treffurt, Stadt",
+   "beteiligung": 64.7,
+   "parteien": {
+    "CDU": 32.0,
+    "Sonstige": 67.9
+   }
+  },
+  "16063078": {
+   "name": "Unterbreizbach",
+   "beteiligung": 65.2,
+   "parteien": {
+    "CDU": 36.3,
+    "SPD": 63.7
+   }
+  },
+  "16063082": {
+   "name": "Vacha, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "DIE LINKE": 7.3,
+    "Sonstige": 92.7
+   }
+  },
+  "16063084": {
+   "name": "Weilar",
+   "beteiligung": 57.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16063103": {
+   "name": "Werra-Suhl-Tal, Stadt",
+   "beteiligung": 64.0,
+   "parteien": {
+    "AfD": 19.4,
+    "CDU": 18.1,
+    "Sonstige": 62.5
+   }
+  },
+  "16063086": {
+   "name": "Wiesenthal",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16063092": {
+   "name": "Wutha-Farnroda",
+   "beteiligung": 62.1,
+   "parteien": {
+    "Sonstige": 68.1,
+    "AfD": 30.5,
+    "GRÜNE": 1.5
+   }
+  },
+  "16064003": {
+   "name": "Bad Langensalza, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "DIE LINKE": 8.0,
+    "AfD": 15.3,
+    "CDU": 22.2,
+    "SPD": 7.7,
+    "GRÜNE": 1.9,
+    "Sonstige": 44.8
+   }
+  },
+  "16064004": {
+   "name": "Bad Tennstedt, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "DIE LINKE": 10.0,
+    "Sonstige": 90.0
+   }
+  },
+  "16064005": {
+   "name": "Ballhausen",
+   "beteiligung": 64.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16064007": {
+   "name": "Blankenburg",
+   "beteiligung": 64.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16064009": {
+   "name": "Bruchstedt",
+   "beteiligung": 81.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064019": {
+   "name": "Großvargula",
+   "beteiligung": 64.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064021": {
+   "name": "Haussömmern",
+   "beteiligung": 80.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064022": {
+   "name": "Herbsleben",
+   "beteiligung": 71.1,
+   "parteien": {
+    "DIE LINKE": 15.1,
+    "CDU": 49.0,
+    "Sonstige": 35.9
+   }
+  },
+  "16064027": {
+   "name": "Hornsömmern",
+   "beteiligung": 85.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064032": {
+   "name": "Kammerforst",
+   "beteiligung": 63.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064033": {
+   "name": "Kirchheilingen",
+   "beteiligung": 75.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064037": {
+   "name": "Körner",
+   "beteiligung": 67.7,
+   "parteien": {
+    "CDU": 14.1,
+    "Sonstige": 85.9
+   }
+  },
+  "16064038": {
+   "name": "Kutzleben",
+   "beteiligung": 62.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064043": {
+   "name": "Marolterode",
+   "beteiligung": 77.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064045": {
+   "name": "Mittelsömmern",
+   "beteiligung": 80.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064046": {
+   "name": "Mühlhausen/Thüringen, Stadt",
+   "beteiligung": 56.9,
+   "parteien": {
+    "DIE LINKE": 6.1,
+    "AfD": 20.2,
+    "CDU": 20.2,
+    "SPD": 23.4,
+    "GRÜNE": 3.6,
+    "FDP": 1.2,
+    "Sonstige": 25.2
+   }
+  },
+  "16064077": {
+   "name": "Nottertal-Heilinger Höhen, Stadt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "AfD": 18.7,
+    "SPD": 8.9,
+    "Sonstige": 72.5
+   }
+  },
+  "16064053": {
+   "name": "Oppershausen",
+   "beteiligung": 80.0,
+   "parteien": {
+    "SPD": 27.8,
+    "Sonstige": 72.2
+   }
+  },
+  "16064074": {
+   "name": "Südeichsfeld",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 50.9,
+    "Sonstige": 49.1
+   }
+  },
+  "16064061": {
+   "name": "Sundhausen",
+   "beteiligung": 76.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16064062": {
+   "name": "Tottleben",
+   "beteiligung": 75.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16064076": {
+   "name": "Unstrut-Hainich",
+   "beteiligung": 65.9,
+   "parteien": {
+    "AfD": 18.3,
+    "CDU": 40.0,
+    "FREIE WÄHLER": 19.4,
+    "Sonstige": 22.2
+   }
+  },
+  "16064071": {
+   "name": "Unstruttal",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CDU": 15.5,
+    "Sonstige": 84.6
+   }
+  },
+  "16064064": {
+   "name": "Urleben",
+   "beteiligung": 70.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16064075": {
+   "name": "Vogtei",
+   "beteiligung": 67.9,
+   "parteien": {
+    "SPD": 26.6,
+    "Sonstige": 73.4
+   }
+  },
+  "16065001": {
+   "name": "Abtsbessingen",
+   "beteiligung": 84.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065088": {
+   "name": "An der Schmücke, Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "CDU": 9.1,
+    "Sonstige": 90.9
+   }
+  },
+  "16065086": {
+   "name": "Artern, Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "DIE LINKE": 19.1,
+    "CDU": 18.7,
+    "SPD": 11.2,
+    "Sonstige": 51.1
+   }
+  },
+  "16065003": {
+   "name": "Bad Frankenhausen/Kyffhäuser, Stadt",
+   "beteiligung": 62.3,
+   "parteien": {
+    "DIE LINKE": 10.2,
+    "CDU": 13.1,
+    "SPD": 33.8,
+    "Sonstige": 42.9
+   }
+  },
+  "16065005": {
+   "name": "Bellstedt",
+   "beteiligung": 77.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065008": {
+   "name": "Borxleben",
+   "beteiligung": 68.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065012": {
+   "name": "Clingen, Stadt",
+   "beteiligung": 67.6,
+   "parteien": {
+    "CDU": 52.1,
+    "Sonstige": 47.9
+   }
+  },
+  "16065014": {
+   "name": "Ebeleben, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 9.6,
+    "SPD": 21.2,
+    "Sonstige": 69.2
+   }
+  },
+  "16065016": {
+   "name": "Etzleben",
+   "beteiligung": 76.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065018": {
+   "name": "Freienbessingen",
+   "beteiligung": 75.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16065019": {
+   "name": "Gehofen",
+   "beteiligung": 63.2,
+   "parteien": {
+    "CDU": 42.5,
+    "Sonstige": 57.5
+   }
+  },
+  "16065089": {
+   "name": "Greußen, Stadt",
+   "beteiligung": 56.7,
+   "parteien": {
+    "CDU": 35.8,
+    "SPD": 26.5,
+    "Sonstige": 37.7
+   }
+  },
+  "16065032": {
+   "name": "Helbedündorf",
+   "beteiligung": 71.6,
+   "parteien": {
+    "CDU": 46.5,
+    "Sonstige": 53.6
+   }
+  },
+  "16065038": {
+   "name": "Holzsußra",
+   "beteiligung": 80.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16065042": {
+   "name": "Kalbsrieth",
+   "beteiligung": 74.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065085": {
+   "name": "Kyffhäuserland",
+   "beteiligung": 66.3,
+   "parteien": {
+    "Sonstige": 61.3,
+    "CDU": 32.5,
+    "SPD": 6.2
+   }
+  },
+  "16065046": {
+   "name": "Mönchpfiffel-Nikolausrieth",
+   "beteiligung": 65.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16065048": {
+   "name": "Niederbösa",
+   "beteiligung": 79.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065051": {
+   "name": "Oberbösa",
+   "beteiligung": 81.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065052": {
+   "name": "Oberheldrungen",
+   "beteiligung": 65.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065056": {
+   "name": "Reinsdorf",
+   "beteiligung": 68.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065058": {
+   "name": "Rockstedt",
+   "beteiligung": 73.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16065087": {
+   "name": "Roßleben-Wiehe, Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "DIE LINKE": 3.8,
+    "AfD": 25.6,
+    "CDU": 20.9,
+    "SPD": 22.6,
+    "FDP": 2.8,
+    "Sonstige": 24.2
+   }
+  },
+  "16065067": {
+   "name": "Sondershausen, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "DIE LINKE": 8.7,
+    "AfD": 20.9,
+    "CDU": 18.8,
+    "SPD": 12.1,
+    "GRÜNE": 1.2,
+    "Sonstige": 38.3
+   }
+  },
+  "16065074": {
+   "name": "Topfstedt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16065075": {
+   "name": "Trebra",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065077": {
+   "name": "Wasserthaleben",
+   "beteiligung": 64.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16065079": {
+   "name": "Westgreußen",
+   "beteiligung": 81.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066005": {
+   "name": "Belrieth",
+   "beteiligung": 75.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066012": {
+   "name": "Birx",
+   "beteiligung": 78.4,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16066013": {
+   "name": "Breitungen/Werra",
+   "beteiligung": 61.4,
+   "parteien": {
+    "DIE LINKE": 4.6,
+    "AfD": 14.4,
+    "CDU": 31.1,
+    "SPD": 13.7,
+    "Sonstige": 36.1
+   }
+  },
+  "16066074": {
+   "name": "Brotterode-Trusetal, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 24.0,
+    "Sonstige": 76.1
+   }
+  },
+  "16066015": {
+   "name": "Christes",
+   "beteiligung": 73.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066016": {
+   "name": "Dillstädt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066017": {
+   "name": "Einhausen",
+   "beteiligung": 75.8,
+   "parteien": {
+    "CDU": 21.4,
+    "Sonstige": 78.5
+   }
+  },
+  "16066018": {
+   "name": "Ellingshausen",
+   "beteiligung": 77.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066019": {
+   "name": "Erbenhausen",
+   "beteiligung": 79.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066022": {
+   "name": "Fambach",
+   "beteiligung": 67.5,
+   "parteien": {
+    "CDU": 59.8,
+    "Sonstige": 40.1
+   }
+  },
+  "16066023": {
+   "name": "Floh-Seligenthal",
+   "beteiligung": 69.0,
+   "parteien": {
+    "DIE LINKE": 6.5,
+    "CDU": 37.1,
+    "FDP": 43.2,
+    "Sonstige": 13.1
+   }
+  },
+  "16066024": {
+   "name": "Frankenheim/Rhön",
+   "beteiligung": 65.9,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16066025": {
+   "name": "Friedelshausen",
+   "beteiligung": 72.1,
+   "parteien": {
+    "FREIE WÄHLER": 65.5,
+    "Sonstige": 34.5
+   }
+  },
+  "16066094": {
+   "name": "Grabfeld",
+   "beteiligung": 70.1,
+   "parteien": {
+    "CDU": 55.1,
+    "SPD": 3.6,
+    "FREIE WÄHLER": 20.5,
+    "Sonstige": 20.8
+   }
+  },
+  "16066095": {
+   "name": "Kaltennordheim, Stadt",
+   "beteiligung": 65.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066038": {
+   "name": "Kühndorf",
+   "beteiligung": 82.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066039": {
+   "name": "Leutersdorf",
+   "beteiligung": 69.4,
+   "parteien": {
+    "CDU": 69.8,
+    "Sonstige": 30.2
+   }
+  },
+  "16066041": {
+   "name": "Mehmels",
+   "beteiligung": 71.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066042": {
+   "name": "Meiningen, Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "DIE LINKE": 6.1,
+    "AfD": 26.1,
+    "CDU": 15.1,
+    "SPD": 34.1,
+    "GRÜNE": 5.0,
+    "FDP": 1.3,
+    "PIRATEN": 1.3,
+    "Sonstige": 11.1
+   }
+  },
+  "16066045": {
+   "name": "Neubrunn",
+   "beteiligung": 72.0,
+   "parteien": {
+    "DIE LINKE": 35.0,
+    "CDU": 30.1,
+    "Sonstige": 34.8
+   }
+  },
+  "16066047": {
+   "name": "Oberhof, Stadt",
+   "beteiligung": 64.7,
+   "parteien": {
+    "AfD": 11.5,
+    "FREIE WÄHLER": 54.7,
+    "Sonstige": 33.8
+   }
+  },
+  "16066049": {
+   "name": "Obermaßfeld-Grimmenthal",
+   "beteiligung": 57.2,
+   "parteien": {
+    "FREIE WÄHLER": 31.9,
+    "Sonstige": 68.0
+   }
+  },
+  "16066052": {
+   "name": "Oberweid",
+   "beteiligung": 73.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066093": {
+   "name": "Rhönblick",
+   "beteiligung": 74.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066056": {
+   "name": "Rippershausen",
+   "beteiligung": 69.7,
+   "parteien": {
+    "FREIE WÄHLER": 33.0,
+    "Sonstige": 67.0
+   }
+  },
+  "16066057": {
+   "name": "Ritschenhausen",
+   "beteiligung": 70.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16066058": {
+   "name": "Rohr",
+   "beteiligung": 72.5,
+   "parteien": {
+    "CDU": 38.8,
+    "Sonstige": 61.2
+   }
+  },
+  "16066059": {
+   "name": "Rosa",
+   "beteiligung": 69.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066061": {
+   "name": "Roßdorf",
+   "beteiligung": 66.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16066063": {
+   "name": "Schmalkalden, Kurort, Stadt",
+   "beteiligung": 60.0,
+   "parteien": {
+    "DIE LINKE": 6.9,
+    "AfD": 24.6,
+    "CDU": 19.3,
+    "SPD": 36.8,
+    "Sonstige": 9.9,
+    "FDP": 2.5
+   }
+  },
+  "16066064": {
+   "name": "Schwallungen",
+   "beteiligung": 69.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066065": {
+   "name": "Schwarza",
+   "beteiligung": 61.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066069": {
+   "name": "Steinbach-Hallenberg, Kurort, Stadt",
+   "beteiligung": 62.7,
+   "parteien": {
+    "DIE LINKE": 8.1,
+    "CDU": 20.4,
+    "Sonstige": 71.5
+   }
+  },
+  "16066076": {
+   "name": "Untermaßfeld",
+   "beteiligung": 53.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066079": {
+   "name": "Utendorf",
+   "beteiligung": 73.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16066081": {
+   "name": "Vachdorf",
+   "beteiligung": 66.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16066086": {
+   "name": "Wasungen, Stadt",
+   "beteiligung": 62.8,
+   "parteien": {
+    "Sonstige": 75.0,
+    "CDU": 21.8,
+    "FDP": 3.1
+   }
+  },
+  "16066092": {
+   "name": "Zella-Mehlis, Stadt",
+   "beteiligung": 62.3,
+   "parteien": {
+    "DIE LINKE": 7.0,
+    "AfD": 19.4,
+    "CDU": 18.7,
+    "SPD": 8.6,
+    "Sonstige": 46.2
+   }
+  },
+  "16067064": {
+   "name": "Bad Tabarz",
+   "beteiligung": 57.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067004": {
+   "name": "Bienstädt",
+   "beteiligung": 75.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067009": {
+   "name": "Dachwig",
+   "beteiligung": 63.5,
+   "parteien": {
+    "Sonstige": 32.5,
+    "CDU": 33.0,
+    "SPD": 25.3,
+    "FDP": 9.2
+   }
+  },
+  "16067011": {
+   "name": "Döllstädt",
+   "beteiligung": 66.1,
+   "parteien": {
+    "DIE LINKE": 16.0,
+    "CDU": 10.3,
+    "Sonstige": 73.8
+   }
+  },
+  "16067089": {
+   "name": "Drei Gleichen",
+   "beteiligung": 73.5,
+   "parteien": {
+    "DIE LINKE": 2.8,
+    "CDU": 46.5,
+    "SPD": 3.6,
+    "Sonstige": 47.1
+   }
+  },
+  "16067013": {
+   "name": "Emleben",
+   "beteiligung": 79.7,
+   "parteien": {
+    "CDU": 52.8,
+    "Sonstige": 47.2
+   }
+  },
+  "16067016": {
+   "name": "Eschenbergen",
+   "beteiligung": 74.3,
+   "parteien": {
+    "CDU": 59.9,
+    "Sonstige": 40.1
+   }
+  },
+  "16067019": {
+   "name": "Friedrichroda, Stadt",
+   "beteiligung": 64.6,
+   "parteien": {
+    "DIE LINKE": 5.5,
+    "CDU": 36.3,
+    "SPD": 5.0,
+    "FDP": 1.6,
+    "Sonstige": 51.6
+   }
+  },
+  "16067022": {
+   "name": "Friemar",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 36.0,
+    "Sonstige": 64.0
+   }
+  },
+  "16067092": {
+   "name": "Georgenthal",
+   "beteiligung": 65.4,
+   "parteien": {
+    "CDU": 45.5,
+    "SPD": 15.2,
+    "FDP": 3.6,
+    "Sonstige": 35.7
+   }
+  },
+  "16067026": {
+   "name": "Gierstädt",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 67.9,
+    "CDU": 32.0
+   }
+  },
+  "16067029": {
+   "name": "Gotha, Stadt",
+   "beteiligung": 53.1,
+   "parteien": {
+    "DIE LINKE": 3.4,
+    "AfD": 24.4,
+    "CDU": 17.6,
+    "SPD": 33.9,
+    "GRÜNE": 3.5,
+    "FDP": 1.7,
+    "Sonstige": 6.9,
+    "BSW": 8.5
+   }
+  },
+  "16067033": {
+   "name": "Großfahner",
+   "beteiligung": 75.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067088": {
+   "name": "Hörsel",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CDU": 42.7,
+    "Sonstige": 57.3
+   }
+  },
+  "16067044": {
+   "name": "Luisenthal",
+   "beteiligung": 62.2,
+   "parteien": {
+    "DIE LINKE": 17.2,
+    "CDU": 29.4,
+    "SPD": 53.4
+   }
+  },
+  "16067047": {
+   "name": "Molschleben",
+   "beteiligung": 69.0,
+   "parteien": {
+    "Sonstige": 94.6,
+    "SPD": 5.4
+   }
+  },
+  "16067087": {
+   "name": "Nesse-Apfelstädt",
+   "beteiligung": 66.1,
+   "parteien": {
+    "Sonstige": 68.0,
+    "CDU": 20.1,
+    "SPD": 6.4,
+    "GRÜNE": 5.6
+   }
+  },
+  "16067091": {
+   "name": "Nessetal",
+   "beteiligung": 70.6,
+   "parteien": {
+    "CDU": 12.8,
+    "FDP": 7.8,
+    "Sonstige": 79.3
+   }
+  },
+  "16067052": {
+   "name": "Nottleben",
+   "beteiligung": 71.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067053": {
+   "name": "Ohrdruf, Stadt",
+   "beteiligung": 62.5,
+   "parteien": {
+    "DIE LINKE": 3.0,
+    "AfD": 26.1,
+    "CDU": 21.9,
+    "SPD": 30.0,
+    "Sonstige": 19.0
+   }
+  },
+  "16067055": {
+   "name": "Pferdingsleben",
+   "beteiligung": 77.3,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16067059": {
+   "name": "Schwabhausen",
+   "beteiligung": 79.1,
+   "parteien": {
+    "CDU": 52.6,
+    "Sonstige": 47.4
+   }
+  },
+  "16067063": {
+   "name": "Sonneborn",
+   "beteiligung": 63.3,
+   "parteien": {
+    "CDU": 42.5,
+    "Sonstige": 57.4
+   }
+  },
+  "16067065": {
+   "name": "Tambach-Dietharz/Thür. Wald, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067067": {
+   "name": "Tonna",
+   "beteiligung": 58.3,
+   "parteien": {
+    "Sonstige": 99.7
+   }
+  },
+  "16067068": {
+   "name": "Tröchtelborn",
+   "beteiligung": 87.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16067071": {
+   "name": "Tüttleben",
+   "beteiligung": 68.1,
+   "parteien": {
+    "AfD": 43.5,
+    "CDU": 35.9,
+    "Sonstige": 20.6
+   }
+  },
+  "16067072": {
+   "name": "Waltershausen, Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "DIE LINKE": 5.4,
+    "AfD": 24.7,
+    "CDU": 26.1,
+    "SPD": 13.5,
+    "FDP": 5.2,
+    "Sonstige": 25.1
+   }
+  },
+  "16067082": {
+   "name": "Zimmernsupra",
+   "beteiligung": 84.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068001": {
+   "name": "Alperstedt",
+   "beteiligung": 69.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068002": {
+   "name": "Andisleben",
+   "beteiligung": 75.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16068005": {
+   "name": "Büchel",
+   "beteiligung": 79.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068063": {
+   "name": "Buttstädt",
+   "beteiligung": 65.9,
+   "parteien": {
+    "DIE LINKE": 3.4,
+    "AfD": 30.5,
+    "CDU": 40.3,
+    "Sonstige": 25.7
+   }
+  },
+  "16068007": {
+   "name": "Eckstedt",
+   "beteiligung": 74.8,
+   "parteien": {
+    "CDU": 58.4,
+    "Sonstige": 41.6
+   }
+  },
+  "16068009": {
+   "name": "Elxleben (SÖM)",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CDU": 43.9,
+    "Sonstige": 56.1
+   }
+  },
+  "16068013": {
+   "name": "Gangloffsömmern",
+   "beteiligung": 64.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068014": {
+   "name": "Gebesee, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 29.9,
+    "Sonstige": 70.1
+   }
+  },
+  "16068015": {
+   "name": "Griefstedt",
+   "beteiligung": 70.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16068017": {
+   "name": "Großmölsen",
+   "beteiligung": 85.1,
+   "parteien": {
+    "Sonstige": 78.4,
+    "FREIE WÄHLER": 21.6
+   }
+  },
+  "16068019": {
+   "name": "Großneuhausen",
+   "beteiligung": 68.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068021": {
+   "name": "Großrudestedt",
+   "beteiligung": 68.7,
+   "parteien": {
+    "CDU": 34.9,
+    "Sonstige": 65.1
+   }
+  },
+  "16068022": {
+   "name": "Günstedt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068025": {
+   "name": "Haßleben",
+   "beteiligung": 61.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068064": {
+   "name": "Kindelbrück",
+   "beteiligung": 60.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068032": {
+   "name": "Kleinmölsen",
+   "beteiligung": 75.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068033": {
+   "name": "Kleinneuhausen",
+   "beteiligung": 65.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068034": {
+   "name": "Kölleda, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "DIE LINKE": 3.4,
+    "AfD": 21.2,
+    "CDU": 12.7,
+    "SPD": 3.0,
+    "Sonstige": 42.1,
+    "FREIE WÄHLER": 17.6
+   }
+  },
+  "16068036": {
+   "name": "Markvippach",
+   "beteiligung": 78.4,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068037": {
+   "name": "Nöda",
+   "beteiligung": 72.3,
+   "parteien": {
+    "CDU": 84.0,
+    "Sonstige": 16.0
+   }
+  },
+  "16068039": {
+   "name": "Ollendorf",
+   "beteiligung": 78.9,
+   "parteien": {
+    "Sonstige": 99.8
+   }
+  },
+  "16068041": {
+   "name": "Ostramondra",
+   "beteiligung": 74.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068042": {
+   "name": "Rastenberg, Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CDU": 10.7,
+    "Sonstige": 89.3
+   }
+  },
+  "16068044": {
+   "name": "Riethnordhausen",
+   "beteiligung": 75.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068045": {
+   "name": "Ringleben",
+   "beteiligung": 73.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068048": {
+   "name": "Schloßvippach",
+   "beteiligung": 72.4,
+   "parteien": {
+    "CDU": 71.7,
+    "Sonstige": 28.3
+   }
+  },
+  "16068049": {
+   "name": "Schwerstedt",
+   "beteiligung": 73.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068051": {
+   "name": "Sömmerda, Stadt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "Sonstige": 36.6,
+    "AfD": 25.8,
+    "CDU": 30.5,
+    "SPD": 3.6,
+    "GRÜNE": 2.4,
+    "FDP": 1.2
+   }
+  },
+  "16068052": {
+   "name": "Sprötau",
+   "beteiligung": 63.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068053": {
+   "name": "Straußfurt",
+   "beteiligung": 59.5,
+   "parteien": {
+    "CDU": 27.1,
+    "Sonstige": 72.9
+   }
+  },
+  "16068055": {
+   "name": "Udestedt",
+   "beteiligung": 70.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068056": {
+   "name": "Vogelsberg",
+   "beteiligung": 73.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068057": {
+   "name": "Walschleben",
+   "beteiligung": 63.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16068058": {
+   "name": "Weißensee, Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 36.6,
+    "Sonstige": 63.4
+   }
+  },
+  "16068059": {
+   "name": "Werningshausen",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16068061": {
+   "name": "Witterda",
+   "beteiligung": 75.4,
+   "parteien": {
+    "CDU": 51.3,
+    "Sonstige": 48.7
+   }
+  },
+  "16068062": {
+   "name": "Wundersleben",
+   "beteiligung": 79.8,
+   "parteien": {
+    "CDU": 24.1,
+    "Sonstige": 76.0
+   }
+  },
+  "16069001": {
+   "name": "Ahlstädt",
+   "beteiligung": 82.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16069058": {
+   "name": "Auengrund",
+   "beteiligung": 68.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16069003": {
+   "name": "Beinerstadt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "DIE LINKE": 18.7,
+    "Sonstige": 53.7,
+    "FREIE WÄHLER": 27.6
+   }
+  },
+  "16069004": {
+   "name": "Bischofrod",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16069006": {
+   "name": "Brünn/Thür.",
+   "beteiligung": 76.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069008": {
+   "name": "Dingsleben",
+   "beteiligung": 79.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069009": {
+   "name": "Ehrenberg",
+   "beteiligung": 68.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069011": {
+   "name": "Eichenberg (HBN)",
+   "beteiligung": 76.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16069012": {
+   "name": "Eisfeld, Stadt",
+   "beteiligung": 68.9,
+   "parteien": {
+    "DIE LINKE": 12.8,
+    "CDU": 13.4,
+    "SPD": 7.3,
+    "Sonstige": 66.5
+   }
+  },
+  "16069016": {
+   "name": "Grimmelshausen",
+   "beteiligung": 83.8,
+   "parteien": {
+    "FREIE WÄHLER": 62.4,
+    "Sonstige": 37.6
+   }
+  },
+  "16069017": {
+   "name": "Grub",
+   "beteiligung": 72.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069063": {
+   "name": "Heldburg, Stadt",
+   "beteiligung": 72.3,
+   "parteien": {
+    "CDU": 59.1,
+    "Sonstige": 40.9
+   }
+  },
+  "16069021": {
+   "name": "Henfstädt",
+   "beteiligung": 69.0,
+   "parteien": {
+    "FREIE WÄHLER": 47.9,
+    "Sonstige": 52.1
+   }
+  },
+  "16069024": {
+   "name": "Hildburghausen, Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "DIE LINKE": 8.3,
+    "AfD": 16.7,
+    "SPD": 2.4,
+    "Sonstige": 72.7
+   }
+  },
+  "16069025": {
+   "name": "Kloster Veßra",
+   "beteiligung": 78.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16069026": {
+   "name": "Lengfeld",
+   "beteiligung": 74.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069028": {
+   "name": "Marisfeld",
+   "beteiligung": 83.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069061": {
+   "name": "Masserberg",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CDU": 51.3,
+    "FREIE WÄHLER": 31.5,
+    "Sonstige": 6.6,
+    "DIE LINKE": 10.6
+   }
+  },
+  "16069035": {
+   "name": "Oberstadt",
+   "beteiligung": 78.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069037": {
+   "name": "Reurieth",
+   "beteiligung": 71.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069062": {
+   "name": "Römhild, Stadt",
+   "beteiligung": 70.8,
+   "parteien": {
+    "CDU": 36.4,
+    "Sonstige": 63.6
+   }
+  },
+  "16069041": {
+   "name": "Schlechtsart",
+   "beteiligung": 86.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16069042": {
+   "name": "Schleusegrund",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CDU": 29.8,
+    "Sonstige": 70.2
+   }
+  },
+  "16069043": {
+   "name": "Schleusingen, Stadt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "DIE LINKE": 4.8,
+    "CDU": 30.7,
+    "SPD": 5.7,
+    "Sonstige": 58.7
+   }
+  },
+  "16069044": {
+   "name": "Schmeheim",
+   "beteiligung": 83.8,
+   "parteien": {
+    "Sonstige": 77.7,
+    "FREIE WÄHLER": 22.3
+   }
+  },
+  "16069046": {
+   "name": "Schweickershausen",
+   "beteiligung": 78.5,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16069047": {
+   "name": "St.Bernhard",
+   "beteiligung": 76.8,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16069049": {
+   "name": "Straufhain",
+   "beteiligung": 69.4,
+   "parteien": {
+    "DIE LINKE": 10.6,
+    "CDU": 16.0,
+    "Sonstige": 73.3
+   }
+  },
+  "16069051": {
+   "name": "Themar, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16069052": {
+   "name": "Ummerstadt, Stadt",
+   "beteiligung": 77.2,
+   "parteien": {
+    "FREIE WÄHLER": 63.5,
+    "Sonstige": 36.5
+   }
+  },
+  "16069053": {
+   "name": "Veilsdorf",
+   "beteiligung": 67.9,
+   "parteien": {
+    "SPD": 2.9,
+    "Sonstige": 97.1
+   }
+  },
+  "16069056": {
+   "name": "Westhausen",
+   "beteiligung": 80.1,
+   "parteien": {
+    "DIE LINKE": 11.0,
+    "Sonstige": 89.0
+   }
+  },
+  "16070001": {
+   "name": "Alkersleben",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070028": {
+   "name": "Amt Wachsenburg",
+   "beteiligung": 70.2,
+   "parteien": {
+    "Sonstige": 79.2,
+    "CDU": 20.9
+   }
+  },
+  "16070004": {
+   "name": "Arnstadt, Stadt",
+   "beteiligung": 58.2,
+   "parteien": {
+    "DIE LINKE": 9.4,
+    "AfD": 24.7,
+    "CDU": 16.3,
+    "SPD": 7.4,
+    "GRÜNE": 2.4,
+    "FDP": 2.3,
+    "Sonstige": 37.4
+   }
+  },
+  "16070006": {
+   "name": "Bösleben-Wüllersleben",
+   "beteiligung": 79.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070008": {
+   "name": "Dornheim",
+   "beteiligung": 84.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070011": {
+   "name": "Elgersburg",
+   "beteiligung": 71.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070012": {
+   "name": "Elleben",
+   "beteiligung": 85.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070013": {
+   "name": "Elxleben (IK)",
+   "beteiligung": 80.5,
+   "parteien": {
+    "CDU": 25.9,
+    "Sonstige": 74.1
+   }
+  },
+  "16070057": {
+   "name": "Geratal",
+   "beteiligung": 70.0,
+   "parteien": {
+    "AfD": 29.3,
+    "CDU": 32.8,
+    "SPD": 5.8,
+    "Sonstige": 32.1
+   }
+  },
+  "16070058": {
+   "name": "Großbreitenbach, Stadt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16070029": {
+   "name": "Ilmenau, Stadt",
+   "beteiligung": 66.2,
+   "parteien": {
+    "DIE LINKE": 11.0,
+    "AfD": 26.3,
+    "CDU": 26.5,
+    "SPD": 6.8,
+    "Sonstige": 27.9,
+    "FDP": 1.5
+   }
+  },
+  "16070034": {
+   "name": "Martinroda",
+   "beteiligung": 71.5,
+   "parteien": {
+    "CDU": 8.5,
+    "Sonstige": 91.4
+   }
+  },
+  "16070041": {
+   "name": "Osthausen-Wülfershausen",
+   "beteiligung": 75.7,
+   "parteien": {
+    "CDU": 30.4,
+    "Sonstige": 69.5
+   }
+  },
+  "16070043": {
+   "name": "Plaue, Stadt",
+   "beteiligung": 72.9,
+   "parteien": {
+    "CDU": 36.4,
+    "Sonstige": 63.7
+   }
+  },
+  "16070048": {
+   "name": "Stadtilm, Stadt",
+   "beteiligung": 64.3,
+   "parteien": {
+    "DIE LINKE": 4.7,
+    "CDU": 23.9,
+    "SPD": 10.5,
+    "FDP": 4.8,
+    "Sonstige": 56.0
+   }
+  },
+  "16070054": {
+   "name": "Witzleben",
+   "beteiligung": 76.5,
+   "parteien": {
+    "DIE LINKE": 21.0,
+    "CDU": 79.0
+   }
+  },
+  "16071102": {
+   "name": "Am Ettersberg",
+   "beteiligung": 66.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071001": {
+   "name": "Apolda, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "DIE LINKE": 6.7,
+    "AfD": 25.5,
+    "CDU": 30.5,
+    "GRÜNE": 4.3,
+    "FDP": 6.0,
+    "Sonstige": 27.0
+   }
+  },
+  "16071003": {
+   "name": "Bad Berka, Stadt",
+   "beteiligung": 65.3,
+   "parteien": {
+    "Sonstige": 56.9,
+    "CDU": 35.3,
+    "SPD": 3.8,
+    "GRÜNE": 4.0
+   }
+  },
+  "16071004": {
+   "name": "Bad Sulza, Stadt",
+   "beteiligung": 74.6,
+   "parteien": {
+    "CDU": 29.2,
+    "Sonstige": 70.7
+   }
+  },
+  "16071005": {
+   "name": "Ballstedt",
+   "beteiligung": 87.5,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071008": {
+   "name": "Blankenhain, Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "CDU": 47.2,
+    "SPD": 8.0,
+    "Sonstige": 44.7
+   }
+  },
+  "16071009": {
+   "name": "Buchfart",
+   "beteiligung": 84.4,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16071013": {
+   "name": "Döbritschen",
+   "beteiligung": 80.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071015": {
+   "name": "Eberstedt",
+   "beteiligung": 86.6,
+   "parteien": {
+    "CDU": 79.7,
+    "Sonstige": 20.3
+   }
+  },
+  "16071017": {
+   "name": "Ettersburg",
+   "beteiligung": 65.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071019": {
+   "name": "Frankendorf",
+   "beteiligung": 69.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071103": {
+   "name": "Grammetal",
+   "beteiligung": 71.4,
+   "parteien": {
+    "CDU": 25.5,
+    "Sonstige": 74.5
+   }
+  },
+  "16071022": {
+   "name": "Großheringen",
+   "beteiligung": 74.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071025": {
+   "name": "Großschwabhausen",
+   "beteiligung": 77.7,
+   "parteien": {
+    "CDU": 28.5,
+    "Sonstige": 71.5
+   }
+  },
+  "16071027": {
+   "name": "Hammerstedt",
+   "beteiligung": 80.4,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071031": {
+   "name": "Hetschburg",
+   "beteiligung": 75.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16071032": {
+   "name": "Hohenfelden",
+   "beteiligung": 70.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071101": {
+   "name": "Ilmtal-Weinstraße",
+   "beteiligung": 71.7,
+   "parteien": {
+    "CDU": 39.4,
+    "FDP": 17.0,
+    "Sonstige": 43.5
+   }
+  },
+  "16071037": {
+   "name": "Kapellendorf",
+   "beteiligung": 83.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071038": {
+   "name": "Kiliansroda",
+   "beteiligung": 81.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16071042": {
+   "name": "Kleinschwabhausen",
+   "beteiligung": 77.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071043": {
+   "name": "Klettbach",
+   "beteiligung": 73.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071046": {
+   "name": "Kranichfeld, Stadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071049": {
+   "name": "Lehnstedt",
+   "beteiligung": 73.2,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16071053": {
+   "name": "Magdala, Stadt",
+   "beteiligung": 64.5,
+   "parteien": {
+    "CDU": 51.8,
+    "FDP": 18.8,
+    "Sonstige": 29.4
+   }
+  },
+  "16071055": {
+   "name": "Mechelroda",
+   "beteiligung": 71.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071056": {
+   "name": "Mellingen",
+   "beteiligung": 70.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071059": {
+   "name": "Nauendorf",
+   "beteiligung": 66.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071061": {
+   "name": "Neumark, Stadt",
+   "beteiligung": 74.2,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071064": {
+   "name": "Niedertrebra",
+   "beteiligung": 65.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071069": {
+   "name": "Obertrebra",
+   "beteiligung": 76.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071071": {
+   "name": "Oettern",
+   "beteiligung": 83.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071079": {
+   "name": "Rittersdorf",
+   "beteiligung": 79.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16071083": {
+   "name": "Schmiedehausen",
+   "beteiligung": 72.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071087": {
+   "name": "Tonndorf",
+   "beteiligung": 75.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16071089": {
+   "name": "Umpferstedt",
+   "beteiligung": 71.5,
+   "parteien": {
+    "CDU": 22.8,
+    "Sonstige": 77.2
+   }
+  },
+  "16071093": {
+   "name": "Vollersroda",
+   "beteiligung": 77.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16071095": {
+   "name": "Wiegendorf",
+   "beteiligung": 74.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16072024": {
+   "name": "Föritztal",
+   "beteiligung": 63.9,
+   "parteien": {
+    "Sonstige": 24.5,
+    "AfD": 31.6,
+    "CDU": 33.1,
+    "SPD": 6.6,
+    "FDP": 4.2
+   }
+  },
+  "16072023": {
+   "name": "Frankenblick",
+   "beteiligung": 64.5,
+   "parteien": {
+    "DIE LINKE": 6.4,
+    "Sonstige": 78.1,
+    "CDU": 13.0,
+    "SPD": 2.5
+   }
+  },
+  "16072006": {
+   "name": "Goldisthal",
+   "beteiligung": 74.7,
+   "parteien": {
+    "AfD": 20.5,
+    "Sonstige": 79.5
+   }
+  },
+  "16072011": {
+   "name": "Lauscha, Stadt",
+   "beteiligung": 68.9,
+   "parteien": {
+    "DIE LINKE": 6.0,
+    "CDU": 19.1,
+    "SPD": 7.3,
+    "Die PARTEI": 2.7,
+    "Sonstige": 64.9
+   }
+  },
+  "16072013": {
+   "name": "Neuhaus am Rennweg, Stadt",
+   "beteiligung": 54.9,
+   "parteien": {
+    "DIE LINKE": 15.9,
+    "AfD": 27.4,
+    "CDU": 29.7,
+    "SPD": 2.5,
+    "Sonstige": 24.5
+   }
+  },
+  "16072015": {
+   "name": "Schalkau, Stadt",
+   "beteiligung": 72.8,
+   "parteien": {
+    "DIE LINKE": 7.1,
+    "Sonstige": 64.0,
+    "CDU": 26.6,
+    "GRÜNE": 2.2
+   }
+  },
+  "16072018": {
+   "name": "Sonneberg, Stadt",
+   "beteiligung": 57.2,
+   "parteien": {
+    "DIE LINKE": 6.9,
+    "AfD": 34.4,
+    "CDU": 17.5,
+    "SPD": 3.0,
+    "GRÜNE": 0.9,
+    "FDP": 1.4,
+    "Sonstige": 30.0,
+    "BSW": 5.7
+   }
+  },
+  "16072019": {
+   "name": "Steinach, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "AfD": 23.0,
+    "CDU": 9.7,
+    "Sonstige": 67.3
+   }
+  },
+  "16073001": {
+   "name": "Allendorf",
+   "beteiligung": 71.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16073002": {
+   "name": "Altenbeuthen",
+   "beteiligung": 81.4,
+   "parteien": {
+    "CDU": 40.4,
+    "Sonstige": 59.6
+   }
+  },
+  "16073005": {
+   "name": "Bad Blankenburg, Stadt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "DIE LINKE": 18.0,
+    "CDU": 44.5,
+    "FDP": 1.4,
+    "FREIE WÄHLER": 36.1
+   }
+  },
+  "16073006": {
+   "name": "Bechstedt",
+   "beteiligung": 76.2,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16073013": {
+   "name": "Cursdorf",
+   "beteiligung": 63.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16073014": {
+   "name": "Deesbach",
+   "beteiligung": 68.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073017": {
+   "name": "Döschnitz",
+   "beteiligung": 70.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16073107": {
+   "name": "Drognitz",
+   "beteiligung": 69.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073028": {
+   "name": "Gräfenthal, Stadt",
+   "beteiligung": 64.4,
+   "parteien": {
+    "AfD": 13.7,
+    "CDU": 5.8,
+    "Sonstige": 80.5
+   }
+  },
+  "16073035": {
+   "name": "Hohenwarte",
+   "beteiligung": 80.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073037": {
+   "name": "Katzhütte",
+   "beteiligung": 64.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073038": {
+   "name": "Kaulsdorf",
+   "beteiligung": 69.8,
+   "parteien": {
+    "CDU": 27.2,
+    "Sonstige": 72.7
+   }
+  },
+  "16073112": {
+   "name": "Königsee, Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "CDU": 15.7,
+    "Sonstige": 84.2
+   }
+  },
+  "16073046": {
+   "name": "Lehesten, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "AfD": 21.4,
+    "SPD": 2.5,
+    "Sonstige": 76.1
+   }
+  },
+  "16073106": {
+   "name": "Leutenberg, Stadt",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 43.0,
+    "Sonstige": 57.0
+   }
+  },
+  "16073055": {
+   "name": "Meura",
+   "beteiligung": 72.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073067": {
+   "name": "Probstzella",
+   "beteiligung": 67.9,
+   "parteien": {
+    "DIE LINKE": 5.9,
+    "AfD": 16.7,
+    "SPD": 16.7,
+    "Sonstige": 60.7
+   }
+  },
+  "16073074": {
+   "name": "Rohrbach",
+   "beteiligung": 86.5,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16073076": {
+   "name": "Rudolstadt, Stadt",
+   "beteiligung": 58.7,
+   "parteien": {
+    "DIE LINKE": 7.6,
+    "AfD": 25.1,
+    "CDU": 14.0,
+    "SPD": 12.5,
+    "GRÜNE": 2.0,
+    "FDP": 2.8,
+    "Sonstige": 35.9
+   }
+  },
+  "16073077": {
+   "name": "Saalfeld/Saale, Stadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "DIE LINKE": 7.1,
+    "AfD": 22.9,
+    "CDU": 36.8,
+    "SPD": 8.7,
+    "GRÜNE": 4.3,
+    "FDP": 5.9,
+    "Sonstige": 14.2
+   }
+  },
+  "16073113": {
+   "name": "Schwarzatal, Stadt",
+   "beteiligung": 64.3,
+   "parteien": {
+    "DIE LINKE": 4.1,
+    "Sonstige": 70.5,
+    "FREIE WÄHLER": 25.5
+   }
+  },
+  "16073082": {
+   "name": "Schwarzburg",
+   "beteiligung": 74.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16073084": {
+   "name": "Sitzendorf",
+   "beteiligung": 72.3,
+   "parteien": {
+    "CDU": 21.8,
+    "FDP": 7.0,
+    "Sonstige": 71.2
+   }
+  },
+  "16073109": {
+   "name": "Uhlstädt-Kirchhasel",
+   "beteiligung": 69.5,
+   "parteien": {
+    "DIE LINKE": 13.0,
+    "AfD": 20.2,
+    "CDU": 21.9,
+    "SPD": 9.7,
+    "FREIE WÄHLER": 21.8,
+    "Sonstige": 13.3
+   }
+  },
+  "16073094": {
+   "name": "Unterweißbach",
+   "beteiligung": 67.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16073111": {
+   "name": "Unterwellenborn",
+   "beteiligung": 67.5,
+   "parteien": {
+    "DIE LINKE": 5.4,
+    "AfD": 20.0,
+    "CDU": 37.7,
+    "GRÜNE": 1.9,
+    "FREIE WÄHLER": 35.1
+   }
+  },
+  "16074001": {
+   "name": "Albersdorf",
+   "beteiligung": 79.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074002": {
+   "name": "Altenberga",
+   "beteiligung": 84.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074003": {
+   "name": "Bad Klosterlausnitz",
+   "beteiligung": 71.2,
+   "parteien": {
+    "Sonstige": 76.6,
+    "CDU": 23.3
+   }
+  },
+  "16074004": {
+   "name": "Bibra",
+   "beteiligung": 80.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074005": {
+   "name": "Bobeck",
+   "beteiligung": 82.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074007": {
+   "name": "Bremsnitz",
+   "beteiligung": 86.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074008": {
+   "name": "Bucha",
+   "beteiligung": 79.2,
+   "parteien": {
+    "CDU": 13.4,
+    "Sonstige": 86.6
+   }
+  },
+  "16074009": {
+   "name": "Bürgel, Stadt",
+   "beteiligung": 70.2,
+   "parteien": {
+    "CDU": 53.8,
+    "Sonstige": 46.2
+   }
+  },
+  "16074012": {
+   "name": "Crossen an der Elster",
+   "beteiligung": 62.5,
+   "parteien": {
+    "Sonstige": 74.1,
+    "AfD": 25.8
+   }
+  },
+  "16074011": {
+   "name": "Dornburg-Camburg, Stadt",
+   "beteiligung": 70.4,
+   "parteien": {
+    "Sonstige": 76.2,
+    "CDU": 23.9
+   }
+  },
+  "16074016": {
+   "name": "Eichenberg (SHK)",
+   "beteiligung": 72.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074017": {
+   "name": "Eineborn",
+   "beteiligung": 82.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074018": {
+   "name": "Eisenberg, Stadt",
+   "beteiligung": 57.8,
+   "parteien": {
+    "DIE LINKE": 8.5,
+    "AfD": 25.4,
+    "CDU": 30.0,
+    "SPD": 16.5,
+    "GRÜNE": 2.4,
+    "Sonstige": 17.1
+   }
+  },
+  "16074019": {
+   "name": "Frauenprießnitz",
+   "beteiligung": 70.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074021": {
+   "name": "Freienorla",
+   "beteiligung": 77.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074022": {
+   "name": "Geisenhain",
+   "beteiligung": 76.8,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16074024": {
+   "name": "Gneus",
+   "beteiligung": 90.2,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074026": {
+   "name": "Golmsdorf",
+   "beteiligung": 73.8,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16074025": {
+   "name": "Gösen",
+   "beteiligung": 74.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074028": {
+   "name": "Graitschen b. Bürgel",
+   "beteiligung": 80.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074029": {
+   "name": "Großbockedra",
+   "beteiligung": 84.3,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074031": {
+   "name": "Großeutersdorf",
+   "beteiligung": 82.7,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074032": {
+   "name": "Großlöbichau",
+   "beteiligung": 82.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074033": {
+   "name": "Großpürschütz",
+   "beteiligung": 81.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074034": {
+   "name": "Gumperda",
+   "beteiligung": 77.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074036": {
+   "name": "Hainichen",
+   "beteiligung": 87.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074037": {
+   "name": "Hainspitz",
+   "beteiligung": 70.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074038": {
+   "name": "Hartmannsdorf (SHK)",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074039": {
+   "name": "Heideland",
+   "beteiligung": 71.9,
+   "parteien": {
+    "DIE LINKE": 7.6,
+    "CDU": 34.7,
+    "Sonstige": 57.8
+   }
+  },
+  "16074041": {
+   "name": "Hermsdorf, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "DIE LINKE": 12.0,
+    "CDU": 25.7,
+    "SPD": 16.8,
+    "Sonstige": 45.5
+   }
+  },
+  "16074042": {
+   "name": "Hummelshain",
+   "beteiligung": 58.9,
+   "parteien": {
+    "DIE LINKE": 10.5,
+    "CDU": 63.7,
+    "Sonstige": 25.8
+   }
+  },
+  "16074043": {
+   "name": "Jenalöbnitz",
+   "beteiligung": 85.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074044": {
+   "name": "Kahla, Stadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "DIE LINKE": 7.1,
+    "AfD": 23.4,
+    "CDU": 15.9,
+    "SPD": 8.4,
+    "Sonstige": 45.1
+   }
+  },
+  "16074045": {
+   "name": "Karlsdorf",
+   "beteiligung": 72.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074046": {
+   "name": "Kleinbockedra",
+   "beteiligung": 77.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074047": {
+   "name": "Kleinebersdorf",
+   "beteiligung": 83.9,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074048": {
+   "name": "Kleineutersdorf",
+   "beteiligung": 77.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074049": {
+   "name": "Laasdorf",
+   "beteiligung": 73.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074051": {
+   "name": "Lehesten",
+   "beteiligung": 83.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074052": {
+   "name": "Lindig",
+   "beteiligung": 79.0,
+   "parteien": {
+    "Sonstige": 72.9,
+    "FREIE WÄHLER": 27.1
+   }
+  },
+  "16074053": {
+   "name": "Lippersdorf-Erdmannsdorf",
+   "beteiligung": 80.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074054": {
+   "name": "Löberschütz",
+   "beteiligung": 78.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074055": {
+   "name": "Mertendorf",
+   "beteiligung": 75.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074056": {
+   "name": "Meusebach",
+   "beteiligung": 97.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074057": {
+   "name": "Milda",
+   "beteiligung": 87.7,
+   "parteien": {
+    "CDU": 50.6,
+    "Sonstige": 49.4
+   }
+  },
+  "16074058": {
+   "name": "Möckern",
+   "beteiligung": 78.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074059": {
+   "name": "Mörsdorf",
+   "beteiligung": 74.4,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074061": {
+   "name": "Nausnitz",
+   "beteiligung": 91.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074063": {
+   "name": "Neuengönna",
+   "beteiligung": 72.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074064": {
+   "name": "Oberbodnitz",
+   "beteiligung": 79.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074065": {
+   "name": "Orlamünde, Stadt",
+   "beteiligung": 71.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074066": {
+   "name": "Ottendorf",
+   "beteiligung": 79.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074067": {
+   "name": "Petersberg",
+   "beteiligung": 80.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074068": {
+   "name": "Poxdorf",
+   "beteiligung": 77.6,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16074071": {
+   "name": "Rattelsdorf",
+   "beteiligung": 83.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074072": {
+   "name": "Rauda",
+   "beteiligung": 71.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074073": {
+   "name": "Rauschwitz",
+   "beteiligung": 61.4,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074074": {
+   "name": "Rausdorf",
+   "beteiligung": 70.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074075": {
+   "name": "Reichenbach",
+   "beteiligung": 79.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074076": {
+   "name": "Reinstädt",
+   "beteiligung": 78.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074077": {
+   "name": "Renthendorf",
+   "beteiligung": 81.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074079": {
+   "name": "Rothenstein",
+   "beteiligung": 78.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074081": {
+   "name": "Ruttersdorf-Lotschen",
+   "beteiligung": 80.8,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074082": {
+   "name": "Scheiditz",
+   "beteiligung": 96.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074116": {
+   "name": "Schkölen, Stadt",
+   "beteiligung": 70.1,
+   "parteien": {
+    "CDU": 24.7,
+    "Sonstige": 75.3
+   }
+  },
+  "16074084": {
+   "name": "Schleifreisen",
+   "beteiligung": 78.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074085": {
+   "name": "Schlöben",
+   "beteiligung": 77.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074086": {
+   "name": "Schöngleina",
+   "beteiligung": 73.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074087": {
+   "name": "Schöps",
+   "beteiligung": 82.4,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16074089": {
+   "name": "Seitenroda",
+   "beteiligung": 83.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074091": {
+   "name": "Serba",
+   "beteiligung": 74.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074092": {
+   "name": "Silbitz",
+   "beteiligung": 72.3,
+   "parteien": {
+    "CDU": 58.7,
+    "Sonstige": 41.3
+   }
+  },
+  "16074093": {
+   "name": "St.Gangloff",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074094": {
+   "name": "Stadtroda, Stadt",
+   "beteiligung": 70.3,
+   "parteien": {
+    "DIE LINKE": 5.1,
+    "CDU": 17.7,
+    "Sonstige": 69.4,
+    "FDP": 7.8
+   }
+  },
+  "16074095": {
+   "name": "Sulza",
+   "beteiligung": 76.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074096": {
+   "name": "Tautenburg",
+   "beteiligung": 85.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074097": {
+   "name": "Tautendorf",
+   "beteiligung": 84.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074098": {
+   "name": "Tautenhain",
+   "beteiligung": 71.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074099": {
+   "name": "Thierschneck",
+   "beteiligung": 80.0,
+   "parteien": {
+    "Sonstige": 100.2
+   }
+  },
+  "16074101": {
+   "name": "Tissa",
+   "beteiligung": 75.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074103": {
+   "name": "Tröbnitz",
+   "beteiligung": 81.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074102": {
+   "name": "Trockenborn-Wolfersdorf",
+   "beteiligung": 87.1,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074104": {
+   "name": "Unterbodnitz",
+   "beteiligung": 87.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074105": {
+   "name": "Waldeck",
+   "beteiligung": 83.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074106": {
+   "name": "Walpernhain",
+   "beteiligung": 83.2,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074107": {
+   "name": "Waltersdorf",
+   "beteiligung": 88.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074108": {
+   "name": "Weißbach",
+   "beteiligung": 69.7,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16074109": {
+   "name": "Weißenborn",
+   "beteiligung": 67.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074112": {
+   "name": "Wichmar",
+   "beteiligung": 76.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16074113": {
+   "name": "Zimmern",
+   "beteiligung": 87.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16074114": {
+   "name": "Zöllnitz",
+   "beteiligung": 78.6,
+   "parteien": {
+    "DIE LINKE": 17.1,
+    "CDU": 50.4,
+    "Sonstige": 32.5
+   }
+  },
+  "16075062": {
+   "name": "Bad Lobenstein, Stadt",
+   "beteiligung": 60.7,
+   "parteien": {
+    "DIE LINKE": 10.5,
+    "AfD": 18.6,
+    "CDU": 16.2,
+    "FDP": 5.7,
+    "Sonstige": 49.0
+   }
+  },
+  "16075006": {
+   "name": "Bodelwitz",
+   "beteiligung": 67.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075014": {
+   "name": "Dittersdorf",
+   "beteiligung": 75.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075016": {
+   "name": "Döbritz",
+   "beteiligung": 89.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075019": {
+   "name": "Dreitzsch",
+   "beteiligung": 67.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075023": {
+   "name": "Eßbach",
+   "beteiligung": 71.6,
+   "parteien": {
+    "DIE LINKE": 15.3,
+    "Sonstige": 84.7
+   }
+  },
+  "16075131": {
+   "name": "Gefell, Stadt",
+   "beteiligung": 67.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075029": {
+   "name": "Geroda",
+   "beteiligung": 73.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075031": {
+   "name": "Gertewitz",
+   "beteiligung": 92.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075033": {
+   "name": "Görkwitz",
+   "beteiligung": 68.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075034": {
+   "name": "Göschitz",
+   "beteiligung": 73.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075035": {
+   "name": "Gössitz",
+   "beteiligung": 80.5,
+   "parteien": {
+    "CDU": 21.5,
+    "Sonstige": 78.5
+   }
+  },
+  "16075039": {
+   "name": "Grobengereuth",
+   "beteiligung": 78.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075046": {
+   "name": "Hirschberg, Stadt",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CDU": 12.6,
+    "Sonstige": 87.5
+   }
+  },
+  "16075047": {
+   "name": "Keila",
+   "beteiligung": 84.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075048": {
+   "name": "Kirschkau",
+   "beteiligung": 85.3,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075051": {
+   "name": "Kospoda",
+   "beteiligung": 63.8,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075129": {
+   "name": "Krölpa",
+   "beteiligung": 66.0,
+   "parteien": {
+    "AfD": 26.0,
+    "Sonstige": 74.0
+   }
+  },
+  "16075054": {
+   "name": "Langenorla",
+   "beteiligung": 77.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075056": {
+   "name": "Lausnitz b. Neustadt an der Orla",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075057": {
+   "name": "Lemnitz",
+   "beteiligung": 68.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075063": {
+   "name": "Löhma",
+   "beteiligung": 76.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075065": {
+   "name": "Miesitz",
+   "beteiligung": 74.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075066": {
+   "name": "Mittelpöllnitz",
+   "beteiligung": 68.6,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075068": {
+   "name": "Moßbach",
+   "beteiligung": 76.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075069": {
+   "name": "Moxa",
+   "beteiligung": 72.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075072": {
+   "name": "Neundorf (bei Schleiz)",
+   "beteiligung": 87.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075073": {
+   "name": "Neustadt an der Orla, Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "DIE LINKE": 10.7,
+    "AfD": 19.8,
+    "CDU": 26.0,
+    "SPD": 1.4,
+    "Sonstige": 42.3
+   }
+  },
+  "16075074": {
+   "name": "Nimritz",
+   "beteiligung": 75.3,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075075": {
+   "name": "Oberoppurg",
+   "beteiligung": 80.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075076": {
+   "name": "Oettersdorf",
+   "beteiligung": 69.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075077": {
+   "name": "Oppurg",
+   "beteiligung": 62.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075079": {
+   "name": "Paska",
+   "beteiligung": 73.2,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075081": {
+   "name": "Peuschen",
+   "beteiligung": 68.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075083": {
+   "name": "Plothen",
+   "beteiligung": 82.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075084": {
+   "name": "Pörmitz",
+   "beteiligung": 72.5,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075085": {
+   "name": "Pößneck, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "DIE LINKE": 4.1,
+    "AfD": 20.0,
+    "CDU": 10.7,
+    "GRÜNE": 2.4,
+    "Sonstige": 62.7
+   }
+  },
+  "16075087": {
+   "name": "Quaschwitz",
+   "beteiligung": 90.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075088": {
+   "name": "Ranis, Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075134": {
+   "name": "Remptendorf",
+   "beteiligung": 63.8,
+   "parteien": {
+    "Sonstige": 51.2,
+    "CDU": 42.5,
+    "FDP": 6.3
+   }
+  },
+  "16075093": {
+   "name": "Rosendorf",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075136": {
+   "name": "Rosenthal am Rennsteig",
+   "beteiligung": 64.1,
+   "parteien": {
+    "DIE LINKE": 10.3,
+    "AfD": 21.2,
+    "Sonstige": 68.5
+   }
+  },
+  "16075135": {
+   "name": "Saalburg-Ebersdorf, Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CDU": 25.2,
+    "Sonstige": 74.8
+   }
+  },
+  "16075098": {
+   "name": "Schleiz, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "DIE LINKE": 5.2,
+    "AfD": 21.4,
+    "CDU": 31.3,
+    "SPD": 9.2,
+    "FDP": 3.2,
+    "Sonstige": 29.8
+   }
+  },
+  "16075099": {
+   "name": "Schmieritz",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075101": {
+   "name": "Schmorda",
+   "beteiligung": 82.6,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075102": {
+   "name": "Schöndorf",
+   "beteiligung": 71.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075103": {
+   "name": "Seisla",
+   "beteiligung": 75.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075105": {
+   "name": "Solkwitz",
+   "beteiligung": 67.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075132": {
+   "name": "Tanna, Stadt",
+   "beteiligung": 71.9,
+   "parteien": {
+    "DIE LINKE": 3.9,
+    "AfD": 17.8,
+    "CDU": 29.4,
+    "FDP": 5.1,
+    "FREIE WÄHLER": 39.3,
+    "Sonstige": 4.6
+   }
+  },
+  "16075109": {
+   "name": "Tegau",
+   "beteiligung": 67.0,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075114": {
+   "name": "Tömmelsdorf",
+   "beteiligung": 86.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075116": {
+   "name": "Triptis, Stadt",
+   "beteiligung": 63.8,
+   "parteien": {
+    "DIE LINKE": 4.0,
+    "AfD": 18.7,
+    "Sonstige": 77.3
+   }
+  },
+  "16075119": {
+   "name": "Volkmannsdorf",
+   "beteiligung": 71.8,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16075121": {
+   "name": "Weira",
+   "beteiligung": 79.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075124": {
+   "name": "Wernburg",
+   "beteiligung": 72.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16075125": {
+   "name": "Wilhelmsdorf",
+   "beteiligung": 75.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075133": {
+   "name": "Wurzbach, Stadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16075127": {
+   "name": "Ziegenrück, Stadt",
+   "beteiligung": 60.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076092": {
+   "name": "Auma-Weidatal, Stadt",
+   "beteiligung": 69.8,
+   "parteien": {
+    "CDU": 55.2,
+    "Sonstige": 44.8
+   }
+  },
+  "16076003": {
+   "name": "Bad Köstritz, Stadt",
+   "beteiligung": 65.5,
+   "parteien": {
+    "DIE LINKE": 11.0,
+    "CDU": 38.2,
+    "Sonstige": 50.7
+   }
+  },
+  "16076094": {
+   "name": "Berga-Wünschendorf, Stadt",
+   "beteiligung": 70.5,
+   "parteien": {
+    "DIE LINKE": 5.0,
+    "CDU": 17.2,
+    "Sonstige": 77.8
+   }
+  },
+  "16076006": {
+   "name": "Bethenhausen",
+   "beteiligung": 86.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076007": {
+   "name": "Bocka",
+   "beteiligung": 70.7,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16076008": {
+   "name": "Brahmenau",
+   "beteiligung": 73.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076009": {
+   "name": "Braunichswalde",
+   "beteiligung": 83.3,
+   "parteien": {
+    "CDU": 71.3,
+    "Sonstige": 28.7
+   }
+  },
+  "16076012": {
+   "name": "Caaschwitz",
+   "beteiligung": 71.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16076014": {
+   "name": "Crimla",
+   "beteiligung": 74.4,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16076017": {
+   "name": "Endschütz",
+   "beteiligung": 73.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076019": {
+   "name": "Gauern",
+   "beteiligung": 77.1,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16076022": {
+   "name": "Greiz, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "DIE LINKE": 7.1,
+    "AfD": 26.9,
+    "Sonstige": 62.9,
+    "GRÜNE": 2.2,
+    "FDP": 0.8
+   }
+  },
+  "16076023": {
+   "name": "Großenstein",
+   "beteiligung": 66.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076088": {
+   "name": "Harth-Pöllnitz",
+   "beteiligung": 74.9,
+   "parteien": {
+    "AfD": 20.7,
+    "CDU": 15.4,
+    "GRÜNE": 1.9,
+    "Sonstige": 62.0
+   }
+  },
+  "16076027": {
+   "name": "Hilbersdorf",
+   "beteiligung": 77.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076028": {
+   "name": "Hirschfeld",
+   "beteiligung": 78.0,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16076029": {
+   "name": "Hohenleuben, Stadt",
+   "beteiligung": 60.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076033": {
+   "name": "Hundhaupten",
+   "beteiligung": 80.4,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16076034": {
+   "name": "Kauern",
+   "beteiligung": 70.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076036": {
+   "name": "Korbußen",
+   "beteiligung": 85.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076089": {
+   "name": "Kraftsdorf",
+   "beteiligung": 72.7,
+   "parteien": {
+    "AfD": 16.0,
+    "CDU": 13.8,
+    "Sonstige": 70.3
+   }
+  },
+  "16076039": {
+   "name": "Langenwetzendorf",
+   "beteiligung": 72.9,
+   "parteien": {
+    "AfD": 17.6,
+    "CDU": 42.8,
+    "Sonstige": 39.6
+   }
+  },
+  "16076041": {
+   "name": "Langenwolschendorf",
+   "beteiligung": 72.6,
+   "parteien": {
+    "CDU": 53.7,
+    "Sonstige": 46.3
+   }
+  },
+  "16076042": {
+   "name": "Lederhose",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16076043": {
+   "name": "Linda b. Weida",
+   "beteiligung": 82.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076044": {
+   "name": "Lindenkreuz",
+   "beteiligung": 65.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076093": {
+   "name": "Mohlsdorf-Teichwolframsdorf",
+   "beteiligung": 69.1,
+   "parteien": {
+    "DIE LINKE": 4.5,
+    "AfD": 20.4,
+    "CDU": 35.9,
+    "Sonstige": 22.4,
+    "FREIE WÄHLER": 16.9
+   }
+  },
+  "16076049": {
+   "name": "Münchenbernsdorf, Stadt",
+   "beteiligung": 67.0,
+   "parteien": {
+    "CDU": 46.0,
+    "Sonstige": 54.0
+   }
+  },
+  "16076055": {
+   "name": "Paitzdorf",
+   "beteiligung": 78.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076058": {
+   "name": "Pölzig",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CDU": 19.0,
+    "Sonstige": 81.0
+   }
+  },
+  "16076059": {
+   "name": "Reichstädt",
+   "beteiligung": 79.9,
+   "parteien": {
+    "Sonstige": 99.9
+   }
+  },
+  "16076061": {
+   "name": "Ronneburg, Stadt",
+   "beteiligung": 59.3,
+   "parteien": {
+    "CDU": 45.8,
+    "Sonstige": 54.2
+   }
+  },
+  "16076062": {
+   "name": "Rückersdorf",
+   "beteiligung": 77.7,
+   "parteien": {
+    "CDU": 7.8,
+    "Sonstige": 92.2
+   }
+  },
+  "16076064": {
+   "name": "Saara",
+   "beteiligung": 73.9,
+   "parteien": {
+    "CDU": 25.6,
+    "Sonstige": 74.4
+   }
+  },
+  "16076067": {
+   "name": "Schwaara",
+   "beteiligung": 83.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076068": {
+   "name": "Schwarzbach",
+   "beteiligung": 79.8,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16076069": {
+   "name": "Seelingstädt",
+   "beteiligung": 68.0,
+   "parteien": {
+    "CDU": 15.7,
+    "Sonstige": 84.4
+   }
+  },
+  "16076074": {
+   "name": "Teichwitz",
+   "beteiligung": 89.3,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076079": {
+   "name": "Weida, Stadt",
+   "beteiligung": 65.3,
+   "parteien": {
+    "DIE LINKE": 3.4,
+    "AfD": 27.6,
+    "CDU": 20.8,
+    "Sonstige": 48.3
+   }
+  },
+  "16076081": {
+   "name": "Weißendorf",
+   "beteiligung": 83.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16076086": {
+   "name": "Zedlitz",
+   "beteiligung": 71.9,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16076087": {
+   "name": "Zeulenroda-Triebes, Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "DIE LINKE": 3.3,
+    "AfD": 23.8,
+    "CDU": 25.3,
+    "SPD": 5.6,
+    "Sonstige": 31.8,
+    "BSW": 10.2
+   }
+  },
+  "16077001": {
+   "name": "Altenburg, Stadt",
+   "beteiligung": 53.2,
+   "parteien": {
+    "DIE LINKE": 9.9,
+    "AfD": 26.0,
+    "CDU": 29.0,
+    "SPD": 7.9,
+    "GRÜNE": 0.8,
+    "FDP": 1.7,
+    "Sonstige": 24.7
+   }
+  },
+  "16077003": {
+   "name": "Dobitschen",
+   "beteiligung": 63.2,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077005": {
+   "name": "Fockendorf",
+   "beteiligung": 73.7,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077007": {
+   "name": "Gerstenberg",
+   "beteiligung": 76.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077008": {
+   "name": "Göhren",
+   "beteiligung": 67.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077009": {
+   "name": "Göllnitz",
+   "beteiligung": 66.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077011": {
+   "name": "Göpfersdorf",
+   "beteiligung": 81.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077012": {
+   "name": "Gößnitz, Stadt",
+   "beteiligung": 60.7,
+   "parteien": {
+    "CDU": 8.3,
+    "SPD": 10.1,
+    "Sonstige": 81.5
+   }
+  },
+  "16077015": {
+   "name": "Haselbach",
+   "beteiligung": 55.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077016": {
+   "name": "Heukewalde",
+   "beteiligung": 92.6,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077017": {
+   "name": "Heyersdorf",
+   "beteiligung": 83.5,
+   "parteien": {
+    "Sonstige": 100.1
+   }
+  },
+  "16077018": {
+   "name": "Jonaswalde",
+   "beteiligung": 80.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077022": {
+   "name": "Kriebitzsch",
+   "beteiligung": 60.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077023": {
+   "name": "Langenleuba-Niederhain",
+   "beteiligung": 67.3,
+   "parteien": {
+    "DIE LINKE": 4.1,
+    "Sonstige": 95.9
+   }
+  },
+  "16077026": {
+   "name": "Löbichau",
+   "beteiligung": 64.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077027": {
+   "name": "Lödla",
+   "beteiligung": 76.7,
+   "parteien": {
+    "Sonstige": 70.6,
+    "SPD": 29.5
+   }
+  },
+  "16077028": {
+   "name": "Lucka, Stadt",
+   "beteiligung": 57.6,
+   "parteien": {
+    "AfD": 20.2,
+    "CDU": 16.7,
+    "SPD": 12.1,
+    "Sonstige": 51.1
+   }
+  },
+  "16077031": {
+   "name": "Mehna",
+   "beteiligung": 79.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077032": {
+   "name": "Meuselwitz, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "DIE LINKE": 7.8,
+    "AfD": 38.5,
+    "CDU": 8.3,
+    "SPD": 3.0,
+    "Sonstige": 42.5
+   }
+  },
+  "16077034": {
+   "name": "Monstab",
+   "beteiligung": 76.4,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077036": {
+   "name": "Nobitz",
+   "beteiligung": 61.0,
+   "parteien": {
+    "DIE LINKE": 6.3,
+    "CDU": 25.6,
+    "SPD": 25.2,
+    "Sonstige": 42.8
+   }
+  },
+  "16077039": {
+   "name": "Ponitz",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 79.7,
+    "Sonstige": 20.3
+   }
+  },
+  "16077041": {
+   "name": "Posterstein",
+   "beteiligung": 77.8,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077042": {
+   "name": "Rositz",
+   "beteiligung": 61.3,
+   "parteien": {
+    "SPD": 15.4,
+    "Sonstige": 84.5
+   }
+  },
+  "16077043": {
+   "name": "Schmölln, Stadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "DIE LINKE": 10.0,
+    "CDU": 15.5,
+    "SPD": 20.1,
+    "FDP": 1.5,
+    "Sonstige": 52.8
+   }
+  },
+  "16077044": {
+   "name": "Starkenberg",
+   "beteiligung": 68.9,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077047": {
+   "name": "Thonhausen",
+   "beteiligung": 71.1,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077048": {
+   "name": "Treben",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 76.0,
+    "Sonstige": 24.0
+   }
+  },
+  "16077049": {
+   "name": "Vollmershain",
+   "beteiligung": 74.0,
+   "parteien": {
+    "Sonstige": 100.0
+   }
+  },
+  "16077052": {
+   "name": "Windischleuba",
+   "beteiligung": 64.9,
+   "parteien": {
+    "AfD": 23.2,
+    "CDU": 48.0,
+    "Sonstige": 28.8
+   }
+  },
+  "16051000": {
+   "name": "Erfurt, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "DIE LINKE": 14.8,
+    "AfD": 20.4,
+    "CDU": 24.8,
+    "SPD": 16.2,
+    "GRÜNE": 7.5,
+    "FDP": 2.5,
+    "Piraten-ÖDP": 1.7,
+    "Mehrwertstadt": 10.1,
+    "Freie Wähler": 2.1
+   }
+  },
+  "16052000": {
+   "name": "Gera, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "DIE LINKE": 12.3,
+    "AfD": 35.1,
+    "CDU": 16.4,
+    "SPD": 5.9,
+    "GRÜNE": 3.3,
+    "FDP": 1.3,
+    "Die PARTEI": 2.0,
+    "Liberale Allianz": 1.7,
+    "Bündnis Gera": 15.9,
+    "Bürgerschaft FÜR GERA": 6.2
+   }
+  },
+  "16053000": {
+   "name": "Jena, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "DIE LINKE": 16.8,
+    "AfD": 13.4,
+    "CDU": 16.9,
+    "SPD": 13.0,
+    "GRÜNE": 15.2,
+    "FDP": 9.0,
+    "BÜRGER FÜR JENA": 6.9,
+    "FREIE WÄHLER": 1.6,
+    "Bürger für Thüringen/dieBasis": 1.9,
+    "Volt": 5.2
+   }
+  },
+  "16054000": {
+   "name": "Suhl, Stadt",
+   "beteiligung": 57.4,
+   "parteien": {
+    "DIE LINKE": 10.8,
+    "AfD": 23.8,
+    "CDU": 37.2,
+    "SPD": 6.1,
+    "GRÜNE": 3.6,
+    "FDP": 2.3,
+    "FREIE WÄHLER": 11.5,
+    "BfS": 4.7
+   }
+  },
+  "16055000": {
+   "name": "Weimar, Stadt",
+   "beteiligung": 60.4,
+   "parteien": {
+    "DIE LINKE": 13.8,
+    "AfD": 13.7,
+    "CDU": 19.9,
+    "SPD": 14.2,
+    "GRÜNE": 15.4,
+    "FDP": 2.7,
+    "PIRATEN/Partei der Humanisten": 1.4,
+    "weimarwerk": 17.6,
+    "dieBasis": 1.4
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

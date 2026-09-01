@@ -1,0 +1,100 @@
+{
+ "land": "10",
+ "name": "Saarland",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Saarland 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "10041": {
+   "name": "Regionalverband Saarbrücken",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 32.2,
+    "SPD": 29.6,
+    "GRÜNE": 10.8,
+    "Sonstige": 8.6,
+    "DIE LINKE": 7.4,
+    "FDP": 6.4,
+    "Wählervereinigungen": 5.0
+   }
+  },
+  "10042": {
+   "name": "Merzig-Wadern",
+   "beteiligung": 67.3,
+   "parteien": {
+    "CDU": 40.9,
+    "SPD": 30.0,
+    "AfD": 15.0,
+    "GRÜNE": 6.1,
+    "FDP": 4.2,
+    "DIE LINKE": 3.7
+   }
+  },
+  "10043": {
+   "name": "Neunkirchen",
+   "beteiligung": 63.5,
+   "parteien": {
+    "SPD": 31.1,
+    "CDU": 30.7,
+    "AfD": 16.4,
+    "Sonstige": 12.3,
+    "GRÜNE": 4.8,
+    "DIE LINKE": 2.3,
+    "FDP": 2.3
+   }
+  },
+  "10044": {
+   "name": "Saarlouis",
+   "beteiligung": 66.5,
+   "parteien": {
+    "CDU": 31.9,
+    "SPD": 31.2,
+    "AfD": 14.2,
+    "Sonstige": 11.6,
+    "GRÜNE": 6.0,
+    "FDP": 3.1,
+    "DIE LINKE": 2.1
+   }
+  },
+  "10045": {
+   "name": "Saarpfalz-Kreis",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 31.3,
+    "SPD": 29.4,
+    "AfD": 15.6,
+    "GRÜNE": 7.3,
+    "Wählervereinigungen": 5.6,
+    "Sonstige": 4.1,
+    "DIE LINKE": 3.9,
+    "FDP": 2.9
+   }
+  },
+  "10046": {
+   "name": "St. Wendel",
+   "beteiligung": 75.5,
+   "parteien": {
+    "CDU": 47.4,
+    "SPD": 27.1,
+    "AfD": 11.2,
+    "Sonstige": 5.8,
+    "GRÜNE": 4.6,
+    "FDP": 2.0,
+    "DIE LINKE": 1.9
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

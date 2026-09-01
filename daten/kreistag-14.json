@@ -1,0 +1,174 @@
+{
+ "land": "14",
+ "name": "Sachsen",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Sachsen 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "14521": {
+   "name": "Erzgebirgskreis",
+   "beteiligung": 69.1,
+   "parteien": {
+    "CDU": 29.4,
+    "AfD": 29.3,
+    "Wählervereinigungen": 18.0,
+    "BSW": 6.0,
+    "FREIE SACHSEN": 4.6,
+    "GRÜNE": 4.5,
+    "DIE LINKE": 4.4,
+    "FDP": 2.0,
+    "SPD": 1.8
+   }
+  },
+  "14522": {
+   "name": "Mittelsachsen",
+   "beteiligung": 68.5,
+   "parteien": {
+    "CDU": 30.3,
+    "AfD": 26.7,
+    "Wählervereinigungen": 19.3,
+    "GRÜNE": 6.7,
+    "DIE LINKE": 5.5,
+    "FREIE SACHSEN": 3.3,
+    "FDP": 3.3,
+    "BSW": 2.8,
+    "SPD": 2.2
+   }
+  },
+  "14523": {
+   "name": "Vogtlandkreis",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CDU": 28.3,
+    "AfD": 27.4,
+    "BSW": 13.2,
+    "Wählervereinigungen": 10.5,
+    "GRÜNE": 7.2,
+    "SPD": 5.2,
+    "DIE LINKE": 4.3,
+    "FDP": 2.5,
+    "FREIE SACHSEN": 1.4
+   }
+  },
+  "14524": {
+   "name": "Zwickau",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CDU": 29.4,
+    "AfD": 27.2,
+    "Wählervereinigungen": 14.9,
+    "BSW": 10.0,
+    "GRÜNE": 5.4,
+    "DIE LINKE": 4.1,
+    "SPD": 3.2,
+    "FDP": 3.0,
+    "FREIE SACHSEN": 2.5,
+    "Die PARTEI": 0.3
+   }
+  },
+  "14625": {
+   "name": "Bautzen",
+   "beteiligung": 68.8,
+   "parteien": {
+    "CDU": 34.8,
+    "AfD": 27.3,
+    "Wählervereinigungen": 14.1,
+    "BSW": 9.0,
+    "GRÜNE": 5.9,
+    "DIE LINKE": 3.5,
+    "FDP": 2.8,
+    "SPD": 2.3,
+    "Die PARTEI": 0.4
+   }
+  },
+  "14626": {
+   "name": "Görlitz",
+   "beteiligung": 65.8,
+   "parteien": {
+    "CDU": 36.1,
+    "AfD": 23.6,
+    "Wählervereinigungen": 19.2,
+    "BSW": 10.4,
+    "DIE LINKE": 3.3,
+    "FDP": 3.1,
+    "GRÜNE": 2.6,
+    "SPD": 1.6,
+    "Sonstige": 0.1
+   }
+  },
+  "14627": {
+   "name": "Meißen",
+   "beteiligung": 68.6,
+   "parteien": {
+    "CDU": 32.0,
+    "AfD": 29.1,
+    "BSW": 10.0,
+    "Wählervereinigungen": 8.3,
+    "GRÜNE": 5.3,
+    "FDP": 4.4,
+    "DIE LINKE": 3.7,
+    "SPD": 3.7,
+    "FREIE SACHSEN": 3.1,
+    "BÜNDNIS DEUTSCHLAND": 0.4
+   }
+  },
+  "14628": {
+   "name": "Sächsische Schweiz-Osterzgebirge",
+   "beteiligung": 69.8,
+   "parteien": {
+    "CDU": 31.4,
+    "AfD": 25.1,
+    "Wählervereinigungen": 14.9,
+    "BSW": 11.4,
+    "FREIE SACHSEN": 3.9,
+    "GRÜNE": 3.9,
+    "DIE LINKE": 3.7,
+    "FDP": 3.5,
+    "SPD": 2.0,
+    "BÜNDNIS DEUTSCHLAND": 0.1
+   }
+  },
+  "14729": {
+   "name": "Leipzig",
+   "beteiligung": 68.4,
+   "parteien": {
+    "CDU": 27.2,
+    "AfD": 25.0,
+    "Wählervereinigungen": 13.0,
+    "GRÜNE": 11.6,
+    "BSW": 7.2,
+    "DIE LINKE": 6.0,
+    "FDP": 4.1,
+    "FREIE SACHSEN": 3.5,
+    "SPD": 2.3
+   }
+  },
+  "14730": {
+   "name": "Nordsachsen",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 31.5,
+    "AfD": 28.1,
+    "GRÜNE": 13.1,
+    "Wählervereinigungen": 12.7,
+    "DIE LINKE": 5.0,
+    "SPD": 3.5,
+    "FREIE SACHSEN": 3.1,
+    "FDP": 3.0
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

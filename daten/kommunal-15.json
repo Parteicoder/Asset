@@ -1,0 +1,2902 @@
+{
+ "land": "15",
+ "name": "Sachsen-Anhalt",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Sachsen-Anhalt 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+ "dataset": "municipal_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "15001000": {
+   "name": "Dessau-Roßlau, Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "Sonstige": 26.8,
+    "AfD": 25.5,
+    "CDU": 22.0,
+    "SPD": 9.3,
+    "DIE LINKE": 8.0,
+    "GRÜNE": 5.5,
+    "FDP": 2.9
+   }
+  },
+  "15002000": {
+   "name": "Halle (Saale), Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "AfD": 21.2,
+    "CDU": 20.6,
+    "Sonstige": 13.9,
+    "DIE LINKE": 12.4,
+    "SPD": 11.9,
+    "GRÜNE": 11.4,
+    "FDP": 3.6,
+    "Die PARTEI": 3.3,
+    "FREIE WÄHLER": 1.8
+   }
+  },
+  "15003000": {
+   "name": "Magdeburg, Landeshauptstadt",
+   "beteiligung": 58.5,
+   "parteien": {
+    "CDU": 23.8,
+    "AfD": 22.8,
+    "SPD": 15.0,
+    "Sonstige": 14.3,
+    "DIE LINKE": 10.2,
+    "GRÜNE": 9.4,
+    "FDP": 4.1,
+    "FREIE WÄHLER": 0.3
+   }
+  },
+  "15081026": {
+   "name": "Apenburg-Winterfeld, Flecken",
+   "beteiligung": 65.2,
+   "parteien": {
+    "CDU": 39.3,
+    "AfD": 26.4,
+    "SPD": 17.0,
+    "DIE LINKE": 8.0,
+    "Sonstige": 7.0,
+    "GRÜNE": 1.3,
+    "FDP": 1.0
+   }
+  },
+  "15081030": {
+   "name": "Arendsee (Altmark), Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "CDU": 30.9,
+    "AfD": 21.3,
+    "Sonstige": 16.1,
+    "DIE LINKE": 14.2,
+    "SPD": 11.6,
+    "FDP": 3.4,
+    "GRÜNE": 2.5
+   }
+  },
+  "15081045": {
+   "name": "Beetzendorf",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 30.3,
+    "AfD": 26.6,
+    "Sonstige": 21.9,
+    "GRÜNE": 8.0,
+    "DIE LINKE": 6.6,
+    "SPD": 5.8,
+    "FDP": 0.8
+   }
+  },
+  "15081095": {
+   "name": "Dähre",
+   "beteiligung": 62.3,
+   "parteien": {
+    "CDU": 30.7,
+    "AfD": 30.3,
+    "DIE LINKE": 11.9,
+    "GRÜNE": 7.0,
+    "Sonstige": 6.9,
+    "SPD": 6.7,
+    "FDP": 6.4
+   }
+  },
+  "15081105": {
+   "name": "Diesdorf, Flecken",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 30.4,
+    "AfD": 28.7,
+    "DIE LINKE": 19.0,
+    "SPD": 8.2,
+    "Sonstige": 7.4,
+    "GRÜNE": 4.6,
+    "FDP": 1.5
+   }
+  },
+  "15081135": {
+   "name": "Gardelegen, Hansestadt",
+   "beteiligung": 62.0,
+   "parteien": {
+    "SPD": 30.5,
+    "AfD": 30.3,
+    "CDU": 22.2,
+    "Sonstige": 7.7,
+    "DIE LINKE": 5.3,
+    "GRÜNE": 2.4,
+    "FDP": 1.5
+   }
+  },
+  "15081225": {
+   "name": "Jübar",
+   "beteiligung": 74.7,
+   "parteien": {
+    "CDU": 52.6,
+    "AfD": 23.6,
+    "Sonstige": 11.6,
+    "DIE LINKE": 6.4,
+    "SPD": 3.8,
+    "GRÜNE": 1.3,
+    "FDP": 0.8
+   }
+  },
+  "15081240": {
+   "name": "Kalbe (Milde), Stadt",
+   "beteiligung": 62.4,
+   "parteien": {
+    "AfD": 26.7,
+    "Sonstige": 24.8,
+    "CDU": 19.7,
+    "SPD": 18.1,
+    "DIE LINKE": 6.9,
+    "GRÜNE": 3.2,
+    "FDP": 0.6
+   }
+  },
+  "15081280": {
+   "name": "Klötze, Stadt",
+   "beteiligung": 65.5,
+   "parteien": {
+    "CDU": 39.2,
+    "AfD": 25.6,
+    "SPD": 15.2,
+    "Sonstige": 7.6,
+    "DIE LINKE": 7.5,
+    "FDP": 2.7,
+    "GRÜNE": 2.2
+   }
+  },
+  "15081290": {
+   "name": "Kuhfelde",
+   "beteiligung": 72.6,
+   "parteien": {
+    "Sonstige": 39.3,
+    "AfD": 25.9,
+    "CDU": 17.8,
+    "DIE LINKE": 7.0,
+    "GRÜNE": 4.5,
+    "SPD": 3.9,
+    "FDP": 1.5
+   }
+  },
+  "15081440": {
+   "name": "Rohrberg",
+   "beteiligung": 69.8,
+   "parteien": {
+    "AfD": 35.4,
+    "CDU": 33.0,
+    "Sonstige": 12.5,
+    "SPD": 8.6,
+    "DIE LINKE": 6.4,
+    "GRÜNE": 3.4,
+    "FDP": 0.6
+   }
+  },
+  "15081455": {
+   "name": "Salzwedel, Hansestadt",
+   "beteiligung": 60.6,
+   "parteien": {
+    "AfD": 26.3,
+    "Sonstige": 21.1,
+    "CDU": 16.8,
+    "SPD": 14.1,
+    "DIE LINKE": 12.4,
+    "FDP": 4.8,
+    "GRÜNE": 4.4
+   }
+  },
+  "15081545": {
+   "name": "Wallstawe",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 27.2,
+    "AfD": 24.3,
+    "CDU": 20.0,
+    "GRÜNE": 10.1,
+    "DIE LINKE": 8.7,
+    "FDP": 5.4,
+    "SPD": 4.4
+   }
+  },
+  "15082005": {
+   "name": "Aken (Elbe), Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "AfD": 31.5,
+    "CDU": 22.4,
+    "DIE LINKE": 14.0,
+    "FDP": 13.6,
+    "SPD": 6.9,
+    "GRÜNE": 4.8,
+    "FREIE WÄHLER": 4.2,
+    "Sonstige": 2.6
+   }
+  },
+  "15082015": {
+   "name": "Bitterfeld-Wolfen, Stadt",
+   "beteiligung": 53.5,
+   "parteien": {
+    "AfD": 37.1,
+    "CDU": 23.2,
+    "Sonstige": 11.6,
+    "FREIE WÄHLER": 8.9,
+    "DIE LINKE": 8.1,
+    "SPD": 5.8,
+    "GRÜNE": 3.1,
+    "FDP": 2.2
+   }
+  },
+  "15082180": {
+   "name": "Köthen (Anhalt), Stadt",
+   "beteiligung": 54.6,
+   "parteien": {
+    "AfD": 28.3,
+    "CDU": 22.6,
+    "DIE LINKE": 21.7,
+    "SPD": 9.1,
+    "FDP": 8.8,
+    "Sonstige": 6.3,
+    "GRÜNE": 3.3
+   }
+  },
+  "15082241": {
+   "name": "Muldestausee",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 35.2,
+    "CDU": 20.9,
+    "FREIE WÄHLER": 17.2,
+    "FDP": 10.4,
+    "SPD": 7.0,
+    "DIE LINKE": 5.6,
+    "GRÜNE": 3.1,
+    "Sonstige": 0.7
+   }
+  },
+  "15082256": {
+   "name": "Osternienburger Land",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 39.2,
+    "AfD": 33.4,
+    "DIE LINKE": 11.3,
+    "FREIE WÄHLER": 4.8,
+    "SPD": 4.7,
+    "Sonstige": 2.6,
+    "GRÜNE": 2.1,
+    "FDP": 2.0
+   }
+  },
+  "15082301": {
+   "name": "Raguhn-Jeßnitz, Stadt",
+   "beteiligung": 68.3,
+   "parteien": {
+    "AfD": 43.1,
+    "CDU": 22.7,
+    "FREIE WÄHLER": 17.1,
+    "DIE LINKE": 7.6,
+    "Sonstige": 4.1,
+    "SPD": 2.5,
+    "GRÜNE": 1.8,
+    "FDP": 1.1
+   }
+  },
+  "15082340": {
+   "name": "Sandersdorf-Brehna, Stadt",
+   "beteiligung": 64.5,
+   "parteien": {
+    "CDU": 35.9,
+    "AfD": 30.5,
+    "SPD": 13.4,
+    "FREIE WÄHLER": 9.1,
+    "DIE LINKE": 4.6,
+    "GRÜNE": 2.7,
+    "FDP": 2.5,
+    "Sonstige": 1.2
+   }
+  },
+  "15082377": {
+   "name": "Südliches Anhalt, Stadt",
+   "beteiligung": 64.7,
+   "parteien": {
+    "AfD": 32.5,
+    "CDU": 26.9,
+    "Sonstige": 18.6,
+    "DIE LINKE": 15.2,
+    "SPD": 2.1,
+    "GRÜNE": 1.8,
+    "FREIE WÄHLER": 1.4,
+    "FDP": 1.4
+   }
+  },
+  "15082430": {
+   "name": "Zerbst/Anhalt, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "AfD": 29.3,
+    "SPD": 23.4,
+    "Sonstige": 20.4,
+    "CDU": 16.6,
+    "DIE LINKE": 4.7,
+    "GRÜNE": 3.9,
+    "FDP": 1.8
+   }
+  },
+  "15082440": {
+   "name": "Zörbig, Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CDU": 45.4,
+    "AfD": 26.3,
+    "FREIE WÄHLER": 17.1,
+    "SPD": 3.9,
+    "FDP": 3.1,
+    "DIE LINKE": 2.5,
+    "GRÜNE": 1.4,
+    "Sonstige": 0.3
+   }
+  },
+  "15083020": {
+   "name": "Altenhausen",
+   "beteiligung": 68.9,
+   "parteien": {
+    "CDU": 38.6,
+    "AfD": 27.4,
+    "SPD": 13.5,
+    "DIE LINKE": 10.7,
+    "Sonstige": 6.7,
+    "GRÜNE": 2.2,
+    "FDP": 0.9
+   }
+  },
+  "15083025": {
+   "name": "Am Großen Bruch",
+   "beteiligung": 73.3,
+   "parteien": {
+    "CDU": 38.1,
+    "AfD": 27.4,
+    "SPD": 21.7,
+    "Sonstige": 9.4,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 0.7,
+    "FDP": 0.4
+   }
+  },
+  "15083030": {
+   "name": "Angern",
+   "beteiligung": 71.1,
+   "parteien": {
+    "CDU": 43.8,
+    "AfD": 29.4,
+    "Sonstige": 9.8,
+    "DIE LINKE": 7.0,
+    "SPD": 5.9,
+    "GRÜNE": 2.2,
+    "FDP": 1.8
+   }
+  },
+  "15083035": {
+   "name": "Ausleben",
+   "beteiligung": 60.4,
+   "parteien": {
+    "AfD": 34.3,
+    "CDU": 24.9,
+    "SPD": 19.3,
+    "Sonstige": 15.1,
+    "DIE LINKE": 4.8,
+    "GRÜNE": 1.0,
+    "FDP": 0.7
+   }
+  },
+  "15083040": {
+   "name": "Barleben",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 36.2,
+    "AfD": 26.1,
+    "FDP": 10.8,
+    "Sonstige": 9.6,
+    "SPD": 8.1,
+    "DIE LINKE": 6.0,
+    "GRÜNE": 3.2
+   }
+  },
+  "15083060": {
+   "name": "Beendorf",
+   "beteiligung": 58.5,
+   "parteien": {
+    "CDU": 43.2,
+    "AfD": 29.6,
+    "SPD": 11.7,
+    "DIE LINKE": 5.5,
+    "Sonstige": 4.9,
+    "GRÜNE": 3.6,
+    "FDP": 1.5
+   }
+  },
+  "15083115": {
+   "name": "Bülstringen",
+   "beteiligung": 74.5,
+   "parteien": {
+    "CDU": 38.7,
+    "AfD": 28.4,
+    "Sonstige": 15.1,
+    "SPD": 9.5,
+    "DIE LINKE": 5.0,
+    "FDP": 2.0,
+    "GRÜNE": 1.3
+   }
+  },
+  "15083120": {
+   "name": "Burgstall",
+   "beteiligung": 70.0,
+   "parteien": {
+    "AfD": 37.8,
+    "CDU": 34.7,
+    "Sonstige": 10.0,
+    "DIE LINKE": 7.8,
+    "SPD": 6.8,
+    "FDP": 1.7,
+    "GRÜNE": 1.3
+   }
+  },
+  "15083125": {
+   "name": "Calvörde",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 29.6,
+    "Sonstige": 28.8,
+    "AfD": 22.5,
+    "SPD": 7.1,
+    "DIE LINKE": 5.2,
+    "FDP": 4.6,
+    "GRÜNE": 2.3
+   }
+  },
+  "15083130": {
+   "name": "Colbitz",
+   "beteiligung": 66.9,
+   "parteien": {
+    "CDU": 42.2,
+    "AfD": 30.5,
+    "DIE LINKE": 7.8,
+    "Sonstige": 7.2,
+    "SPD": 7.1,
+    "FDP": 3.1,
+    "GRÜNE": 2.1
+   }
+  },
+  "15083190": {
+   "name": "Eilsleben",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 38.1,
+    "AfD": 25.6,
+    "Sonstige": 13.7,
+    "SPD": 9.3,
+    "DIE LINKE": 8.0,
+    "GRÜNE": 3.8,
+    "FDP": 1.5
+   }
+  },
+  "15083205": {
+   "name": "Erxleben",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 38.7,
+    "AfD": 29.3,
+    "SPD": 9.3,
+    "DIE LINKE": 8.6,
+    "Sonstige": 8.3,
+    "GRÜNE": 4.3,
+    "FDP": 1.4
+   }
+  },
+  "15083230": {
+   "name": "Flechtingen",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 45.5,
+    "AfD": 24.6,
+    "SPD": 11.3,
+    "Sonstige": 8.3,
+    "DIE LINKE": 6.8,
+    "GRÜNE": 3.2,
+    "FDP": 0.4
+   }
+  },
+  "15083245": {
+   "name": "Gröningen, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 27.3,
+    "CDU": 18.0,
+    "Sonstige": 15.1,
+    "DIE LINKE": 3.7,
+    "GRÜNE": 1.4,
+    "FDP": 0.4
+   }
+  },
+  "15083270": {
+   "name": "Haldensleben, Stadt",
+   "beteiligung": 53.8,
+   "parteien": {
+    "AfD": 28.1,
+    "CDU": 25.4,
+    "SPD": 18.7,
+    "Sonstige": 13.5,
+    "DIE LINKE": 9.3,
+    "GRÜNE": 4.1,
+    "FDP": 1.0
+   }
+  },
+  "15083275": {
+   "name": "Harbke",
+   "beteiligung": 61.6,
+   "parteien": {
+    "SPD": 42.5,
+    "AfD": 29.9,
+    "CDU": 13.3,
+    "Sonstige": 7.3,
+    "DIE LINKE": 4.3,
+    "GRÜNE": 2.5,
+    "FDP": 0.2
+   }
+  },
+  "15083298": {
+   "name": "Hohe Börde",
+   "beteiligung": 61.4,
+   "parteien": {
+    "AfD": 27.7,
+    "CDU": 27.4,
+    "Sonstige": 22.5,
+    "SPD": 9.2,
+    "DIE LINKE": 5.4,
+    "FDP": 4.6,
+    "GRÜNE": 3.2
+   }
+  },
+  "15083320": {
+   "name": "Hötensleben",
+   "beteiligung": 58.6,
+   "parteien": {
+    "CDU": 33.6,
+    "AfD": 27.8,
+    "Sonstige": 22.1,
+    "SPD": 9.5,
+    "DIE LINKE": 4.7,
+    "GRÜNE": 1.7,
+    "FDP": 0.5
+   }
+  },
+  "15083323": {
+   "name": "Ingersleben",
+   "beteiligung": 68.3,
+   "parteien": {
+    "CDU": 43.8,
+    "AfD": 30.9,
+    "SPD": 10.3,
+    "Sonstige": 6.1,
+    "DIE LINKE": 5.1,
+    "GRÜNE": 2.3,
+    "FDP": 1.4
+   }
+  },
+  "15083355": {
+   "name": "Kroppenstedt, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "AfD": 29.2,
+    "Sonstige": 26.9,
+    "CDU": 20.1,
+    "FDP": 10.2,
+    "SPD": 9.4,
+    "DIE LINKE": 2.7,
+    "GRÜNE": 1.5
+   }
+  },
+  "15083361": {
+   "name": "Loitsche-Heinrichsberg",
+   "beteiligung": 72.0,
+   "parteien": {
+    "CDU": 39.2,
+    "AfD": 33.5,
+    "Sonstige": 10.3,
+    "SPD": 9.4,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 2.2,
+    "FDP": 1.3
+   }
+  },
+  "15083390": {
+   "name": "Niedere Börde",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CDU": 38.1,
+    "AfD": 30.0,
+    "Sonstige": 10.8,
+    "SPD": 8.2,
+    "DIE LINKE": 6.0,
+    "FDP": 4.8,
+    "GRÜNE": 2.0
+   }
+  },
+  "15083411": {
+   "name": "Oebisfelde-Weferlingen, Stadt",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 27.1,
+    "AfD": 23.2,
+    "Sonstige": 19.6,
+    "SPD": 17.7,
+    "DIE LINKE": 6.8,
+    "GRÜNE": 4.0,
+    "FDP": 1.7
+   }
+  },
+  "15083415": {
+   "name": "Oschersleben (Bode), Stadt",
+   "beteiligung": 58.5,
+   "parteien": {
+    "AfD": 30.3,
+    "CDU": 30.1,
+    "Sonstige": 15.5,
+    "SPD": 15.5,
+    "DIE LINKE": 6.3,
+    "GRÜNE": 1.6,
+    "FDP": 0.7
+   }
+  },
+  "15083440": {
+   "name": "Rogätz",
+   "beteiligung": 65.4,
+   "parteien": {
+    "CDU": 36.7,
+    "AfD": 33.2,
+    "Sonstige": 10.7,
+    "SPD": 10.3,
+    "DIE LINKE": 5.7,
+    "FDP": 2.0,
+    "GRÜNE": 1.5
+   }
+  },
+  "15083485": {
+   "name": "Sommersdorf",
+   "beteiligung": 66.9,
+   "parteien": {
+    "AfD": 34.1,
+    "Sonstige": 20.0,
+    "SPD": 19.5,
+    "CDU": 16.9,
+    "GRÜNE": 5.2,
+    "DIE LINKE": 4.0,
+    "FDP": 0.4
+   }
+  },
+  "15083490": {
+   "name": "Sülzetal",
+   "beteiligung": 68.7,
+   "parteien": {
+    "CDU": 28.5,
+    "AfD": 27.8,
+    "Sonstige": 21.2,
+    "SPD": 13.0,
+    "DIE LINKE": 4.6,
+    "FDP": 2.8,
+    "GRÜNE": 2.0
+   }
+  },
+  "15083505": {
+   "name": "Ummendorf",
+   "beteiligung": 64.6,
+   "parteien": {
+    "CDU": 41.3,
+    "AfD": 21.6,
+    "Sonstige": 12.5,
+    "GRÜNE": 10.7,
+    "SPD": 7.8,
+    "DIE LINKE": 5.6,
+    "FDP": 0.5
+   }
+  },
+  "15083515": {
+   "name": "Völpke",
+   "beteiligung": 60.5,
+   "parteien": {
+    "AfD": 37.8,
+    "CDU": 25.5,
+    "Sonstige": 16.9,
+    "SPD": 11.0,
+    "DIE LINKE": 5.6,
+    "GRÜNE": 2.7,
+    "FDP": 0.4
+   }
+  },
+  "15083531": {
+   "name": "Wanzleben-Börde, Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "CDU": 36.2,
+    "AfD": 26.8,
+    "Sonstige": 11.1,
+    "SPD": 9.4,
+    "DIE LINKE": 8.5,
+    "FDP": 5.8,
+    "GRÜNE": 2.2
+   }
+  },
+  "15083535": {
+   "name": "Wefensleben",
+   "beteiligung": 59.0,
+   "parteien": {
+    "Sonstige": 34.1,
+    "AfD": 25.3,
+    "CDU": 18.0,
+    "DIE LINKE": 11.6,
+    "SPD": 7.9,
+    "GRÜNE": 2.8,
+    "FDP": 0.4
+   }
+  },
+  "15083557": {
+   "name": "Westheide",
+   "beteiligung": 69.8,
+   "parteien": {
+    "CDU": 50.9,
+    "AfD": 28.5,
+    "Sonstige": 5.9,
+    "SPD": 5.1,
+    "DIE LINKE": 4.9,
+    "FDP": 2.8,
+    "GRÜNE": 2.0
+   }
+  },
+  "15083565": {
+   "name": "Wolmirstedt, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "AfD": 29.9,
+    "Sonstige": 26.3,
+    "CDU": 22.7,
+    "SPD": 10.8,
+    "DIE LINKE": 5.0,
+    "GRÜNE": 3.0,
+    "FDP": 2.2
+   }
+  },
+  "15083580": {
+   "name": "Zielitz",
+   "beteiligung": 62.4,
+   "parteien": {
+    "AfD": 32.0,
+    "CDU": 26.5,
+    "SPD": 22.5,
+    "Sonstige": 12.6,
+    "DIE LINKE": 3.9,
+    "FDP": 1.4,
+    "GRÜNE": 1.1
+   }
+  },
+  "15084012": {
+   "name": "An der Poststraße",
+   "beteiligung": 69.1,
+   "parteien": {
+    "Sonstige": 35.4,
+    "AfD": 29.6,
+    "CDU": 23.0,
+    "SPD": 6.8,
+    "DIE LINKE": 3.5,
+    "FDP": 1.1,
+    "GRÜNE": 0.6
+   }
+  },
+  "15084013": {
+   "name": "Meineweh",
+   "beteiligung": 63.4,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 29.7,
+    "CDU": 19.2,
+    "Sonstige": 9.1,
+    "DIE LINKE": 3.9,
+    "FDP": 1.1,
+    "GRÜNE": 1.1
+   }
+  },
+  "15084015": {
+   "name": "Bad Bibra, Stadt",
+   "beteiligung": 59.5,
+   "parteien": {
+    "Sonstige": 31.5,
+    "CDU": 28.7,
+    "AfD": 24.2,
+    "DIE LINKE": 7.2,
+    "SPD": 5.7,
+    "GRÜNE": 1.9,
+    "FDP": 0.8
+   }
+  },
+  "15084025": {
+   "name": "Balgstädt",
+   "beteiligung": 74.3,
+   "parteien": {
+    "CDU": 41.0,
+    "AfD": 28.1,
+    "Sonstige": 21.5,
+    "SPD": 4.7,
+    "DIE LINKE": 3.0,
+    "GRÜNE": 1.2,
+    "FDP": 0.6
+   }
+  },
+  "15084115": {
+   "name": "Droyßig",
+   "beteiligung": 68.7,
+   "parteien": {
+    "CDU": 29.8,
+    "AfD": 25.1,
+    "Sonstige": 24.5,
+    "SPD": 10.5,
+    "DIE LINKE": 3.4,
+    "FREIE WÄHLER": 2.7,
+    "GRÜNE": 2.3,
+    "FDP": 1.8
+   }
+  },
+  "15084125": {
+   "name": "Eckartsberga, Stadt",
+   "beteiligung": 64.0,
+   "parteien": {
+    "CDU": 43.7,
+    "AfD": 29.0,
+    "Sonstige": 15.9,
+    "SPD": 6.0,
+    "DIE LINKE": 3.5,
+    "GRÜNE": 1.0,
+    "FDP": 0.8
+   }
+  },
+  "15084130": {
+   "name": "Elsteraue",
+   "beteiligung": 71.4,
+   "parteien": {
+    "AfD": 32.9,
+    "CDU": 31.9,
+    "Sonstige": 12.4,
+    "SPD": 9.3,
+    "FREIE WÄHLER": 6.6,
+    "DIE LINKE": 3.0,
+    "FDP": 2.4,
+    "GRÜNE": 1.5
+   }
+  },
+  "15084132": {
+   "name": "Finne",
+   "beteiligung": 68.8,
+   "parteien": {
+    "Sonstige": 49.9,
+    "AfD": 22.8,
+    "CDU": 16.6,
+    "SPD": 5.2,
+    "DIE LINKE": 3.7,
+    "GRÜNE": 1.0,
+    "FDP": 0.8
+   }
+  },
+  "15084133": {
+   "name": "Finneland",
+   "beteiligung": 72.1,
+   "parteien": {
+    "Sonstige": 31.3,
+    "AfD": 25.1,
+    "CDU": 23.2,
+    "DIE LINKE": 7.8,
+    "SPD": 7.4,
+    "FDP": 3.0,
+    "GRÜNE": 2.1
+   }
+  },
+  "15084135": {
+   "name": "Freyburg (Unstrut), Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "CDU": 36.2,
+    "Sonstige": 33.3,
+    "AfD": 21.3,
+    "DIE LINKE": 3.7,
+    "SPD": 2.7,
+    "GRÜNE": 1.7,
+    "FDP": 1.2
+   }
+  },
+  "15084150": {
+   "name": "Gleina",
+   "beteiligung": 70.9,
+   "parteien": {
+    "CDU": 45.7,
+    "Sonstige": 22.9,
+    "AfD": 20.7,
+    "DIE LINKE": 5.4,
+    "SPD": 3.4,
+    "GRÜNE": 1.5,
+    "FDP": 0.4
+   }
+  },
+  "15084170": {
+   "name": "Goseck",
+   "beteiligung": 71.9,
+   "parteien": {
+    "CDU": 34.2,
+    "Sonstige": 30.8,
+    "AfD": 23.4,
+    "DIE LINKE": 3.9,
+    "SPD": 3.5,
+    "GRÜNE": 2.8,
+    "FDP": 1.3
+   }
+  },
+  "15084207": {
+   "name": "Gutenborn",
+   "beteiligung": 73.2,
+   "parteien": {
+    "CDU": 37.5,
+    "AfD": 31.8,
+    "SPD": 13.4,
+    "Sonstige": 7.2,
+    "FREIE WÄHLER": 2.7,
+    "FDP": 2.6,
+    "DIE LINKE": 2.4,
+    "GRÜNE": 2.4
+   }
+  },
+  "15084235": {
+   "name": "Hohenmölsen, Stadt",
+   "beteiligung": 61.1,
+   "parteien": {
+    "CDU": 36.5,
+    "AfD": 34.5,
+    "SPD": 14.7,
+    "Sonstige": 6.4,
+    "DIE LINKE": 4.8,
+    "GRÜNE": 1.2,
+    "FDP": 1.0,
+    "FREIE WÄHLER": 0.9
+   }
+  },
+  "15084246": {
+   "name": "Kaiserpfalz",
+   "beteiligung": 67.8,
+   "parteien": {
+    "AfD": 27.5,
+    "Sonstige": 25.3,
+    "CDU": 23.7,
+    "DIE LINKE": 8.5,
+    "GRÜNE": 7.1,
+    "SPD": 6.9,
+    "FDP": 1.0
+   }
+  },
+  "15084250": {
+   "name": "Karsdorf",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 36.1,
+    "AfD": 25.0,
+    "DIE LINKE": 21.3,
+    "Sonstige": 12.9,
+    "SPD": 3.0,
+    "GRÜNE": 1.2,
+    "FDP": 0.6
+   }
+  },
+  "15084275": {
+   "name": "Kretzschau",
+   "beteiligung": 64.8,
+   "parteien": {
+    "AfD": 36.5,
+    "CDU": 36.2,
+    "Sonstige": 10.3,
+    "DIE LINKE": 5.9,
+    "SPD": 5.6,
+    "FREIE WÄHLER": 3.0,
+    "FDP": 1.6,
+    "GRÜNE": 0.9
+   }
+  },
+  "15084282": {
+   "name": "Lanitz-Hassel-Tal",
+   "beteiligung": 67.8,
+   "parteien": {
+    "SPD": 30.9,
+    "AfD": 26.8,
+    "CDU": 21.7,
+    "Sonstige": 15.6,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 1.6,
+    "FDP": 1.0
+   }
+  },
+  "15084285": {
+   "name": "Laucha an der Unstrut, Stadt",
+   "beteiligung": 61.1,
+   "parteien": {
+    "CDU": 39.3,
+    "AfD": 26.1,
+    "Sonstige": 17.6,
+    "DIE LINKE": 9.2,
+    "SPD": 5.4,
+    "GRÜNE": 1.6,
+    "FDP": 0.7
+   }
+  },
+  "15084315": {
+   "name": "Lützen, Stadt",
+   "beteiligung": 67.9,
+   "parteien": {
+    "AfD": 30.1,
+    "CDU": 23.3,
+    "SPD": 20.2,
+    "Sonstige": 17.6,
+    "FDP": 3.2,
+    "DIE LINKE": 2.9,
+    "GRÜNE": 1.6,
+    "FREIE WÄHLER": 1.1
+   }
+  },
+  "15084335": {
+   "name": "Mertendorf",
+   "beteiligung": 64.3,
+   "parteien": {
+    "AfD": 34.6,
+    "Sonstige": 25.8,
+    "CDU": 19.8,
+    "SPD": 9.8,
+    "DIE LINKE": 5.1,
+    "FDP": 2.9,
+    "GRÜNE": 2.0
+   }
+  },
+  "15084341": {
+   "name": "Molauer Land",
+   "beteiligung": 68.2,
+   "parteien": {
+    "Sonstige": 44.2,
+    "AfD": 31.3,
+    "CDU": 10.3,
+    "SPD": 6.0,
+    "DIE LINKE": 4.5,
+    "GRÜNE": 2.0,
+    "FDP": 1.6
+   }
+  },
+  "15084355": {
+   "name": "Naumburg (Saale), Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "CDU": 34.6,
+    "AfD": 23.4,
+    "Sonstige": 18.0,
+    "SPD": 9.3,
+    "DIE LINKE": 7.0,
+    "GRÜNE": 4.8,
+    "FDP": 2.9
+   }
+  },
+  "15084360": {
+   "name": "Nebra (Unstrut), Stadt",
+   "beteiligung": 62.3,
+   "parteien": {
+    "AfD": 34.6,
+    "CDU": 29.5,
+    "DIE LINKE": 18.9,
+    "Sonstige": 12.9,
+    "SPD": 2.6,
+    "GRÜNE": 0.9,
+    "FDP": 0.7
+   }
+  },
+  "15084375": {
+   "name": "Osterfeld, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "SPD": 32.4,
+    "AfD": 28.6,
+    "CDU": 24.1,
+    "Sonstige": 8.6,
+    "DIE LINKE": 3.5,
+    "GRÜNE": 1.7,
+    "FDP": 1.1
+   }
+  },
+  "15084442": {
+   "name": "Schnaudertal",
+   "beteiligung": 78.2,
+   "parteien": {
+    "AfD": 45.2,
+    "CDU": 31.7,
+    "SPD": 7.7,
+    "Sonstige": 5.7,
+    "FREIE WÄHLER": 4.8,
+    "DIE LINKE": 2.6,
+    "FDP": 1.5,
+    "GRÜNE": 0.7
+   }
+  },
+  "15084445": {
+   "name": "Schönburg",
+   "beteiligung": 73.6,
+   "parteien": {
+    "Sonstige": 46.0,
+    "AfD": 27.5,
+    "FDP": 9.8,
+    "CDU": 9.5,
+    "GRÜNE": 2.9,
+    "SPD": 2.8,
+    "DIE LINKE": 1.4
+   }
+  },
+  "15084470": {
+   "name": "Stößen, Stadt",
+   "beteiligung": 62.9,
+   "parteien": {
+    "AfD": 29.9,
+    "CDU": 25.3,
+    "Sonstige": 19.8,
+    "SPD": 14.1,
+    "DIE LINKE": 4.6,
+    "FDP": 3.9,
+    "GRÜNE": 2.4
+   }
+  },
+  "15084490": {
+   "name": "Teuchern, Stadt",
+   "beteiligung": 62.8,
+   "parteien": {
+    "AfD": 36.3,
+    "Sonstige": 24.9,
+    "SPD": 16.7,
+    "CDU": 16.7,
+    "DIE LINKE": 2.6,
+    "GRÜNE": 1.1,
+    "FREIE WÄHLER": 1.0,
+    "FDP": 0.8
+   }
+  },
+  "15084550": {
+   "name": "Weißenfels, Stadt",
+   "beteiligung": 53.6,
+   "parteien": {
+    "CDU": 29.2,
+    "AfD": 27.4,
+    "Sonstige": 27.0,
+    "DIE LINKE": 6.8,
+    "SPD": 6.4,
+    "FDP": 1.8,
+    "GRÜNE": 1.4
+   }
+  },
+  "15084560": {
+   "name": "Wethau",
+   "beteiligung": 66.8,
+   "parteien": {
+    "AfD": 37.6,
+    "CDU": 22.2,
+    "Sonstige": 21.8,
+    "SPD": 7.6,
+    "DIE LINKE": 4.9,
+    "FDP": 3.0,
+    "GRÜNE": 2.8
+   }
+  },
+  "15084565": {
+   "name": "Wetterzeube",
+   "beteiligung": 71.3,
+   "parteien": {
+    "AfD": 41.2,
+    "CDU": 25.2,
+    "SPD": 10.5,
+    "Sonstige": 9.1,
+    "DIE LINKE": 6.8,
+    "FREIE WÄHLER": 3.2,
+    "FDP": 2.2,
+    "GRÜNE": 1.8
+   }
+  },
+  "15084590": {
+   "name": "Zeitz, Stadt",
+   "beteiligung": 55.5,
+   "parteien": {
+    "AfD": 33.0,
+    "CDU": 30.8,
+    "Sonstige": 12.9,
+    "SPD": 7.5,
+    "DIE LINKE": 6.0,
+    "FREIE WÄHLER": 4.2,
+    "FDP": 3.5,
+    "GRÜNE": 2.0
+   }
+  },
+  "15085040": {
+   "name": "Ballenstedt, Stadt",
+   "beteiligung": 60.8,
+   "parteien": {
+    "AfD": 31.5,
+    "CDU": 26.8,
+    "SPD": 13.5,
+    "FDP": 8.5,
+    "DIE LINKE": 8.3,
+    "FREIE WÄHLER": 6.1,
+    "GRÜNE": 5.2
+   }
+  },
+  "15085055": {
+   "name": "Blankenburg (Harz), Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "CDU": 41.1,
+    "AfD": 30.6,
+    "SPD": 11.5,
+    "DIE LINKE": 7.2,
+    "GRÜNE": 5.0,
+    "FREIE WÄHLER": 3.3,
+    "FDP": 1.4
+   }
+  },
+  "15085090": {
+   "name": "Ditfurt",
+   "beteiligung": 63.8,
+   "parteien": {
+    "CDU": 51.8,
+    "AfD": 29.0,
+    "SPD": 4.0,
+    "DIE LINKE": 3.8,
+    "FREIE WÄHLER": 3.8,
+    "FDP": 2.9,
+    "Sonstige": 2.9,
+    "GRÜNE": 1.8
+   }
+  },
+  "15085110": {
+   "name": "Falkenstein/Harz, Stadt",
+   "beteiligung": 66.2,
+   "parteien": {
+    "FREIE WÄHLER": 32.1,
+    "AfD": 28.5,
+    "CDU": 20.5,
+    "SPD": 9.1,
+    "DIE LINKE": 6.5,
+    "GRÜNE": 1.7,
+    "Sonstige": 1.1,
+    "FDP": 0.5
+   }
+  },
+  "15085125": {
+   "name": "Groß Quenstedt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 40.7,
+    "AfD": 27.8,
+    "DIE LINKE": 9.0,
+    "SPD": 7.0,
+    "FREIE WÄHLER": 6.9,
+    "Sonstige": 5.8,
+    "FDP": 1.8,
+    "GRÜNE": 1.1
+   }
+  },
+  "15085135": {
+   "name": "Halberstadt, Stadt",
+   "beteiligung": 57.2,
+   "parteien": {
+    "AfD": 29.2,
+    "CDU": 28.1,
+    "Sonstige": 12.2,
+    "DIE LINKE": 11.1,
+    "SPD": 7.7,
+    "FREIE WÄHLER": 5.7,
+    "GRÜNE": 3.8,
+    "FDP": 2.2
+   }
+  },
+  "15085140": {
+   "name": "Harsleben / Harschlewe",
+   "beteiligung": 65.5,
+   "parteien": {
+    "Sonstige": 39.3,
+    "AfD": 29.8,
+    "CDU": 14.0,
+    "DIE LINKE": 5.2,
+    "SPD": 5.2,
+    "FREIE WÄHLER": 3.3,
+    "GRÜNE": 2.0,
+    "FDP": 1.1
+   }
+  },
+  "15085145": {
+   "name": "Harzgerode, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 54.3,
+    "AfD": 24.5,
+    "SPD": 11.4,
+    "DIE LINKE": 5.9,
+    "FREIE WÄHLER": 1.3,
+    "GRÜNE": 1.1,
+    "Sonstige": 0.9,
+    "FDP": 0.6
+   }
+  },
+  "15085160": {
+   "name": "Hedersleben",
+   "beteiligung": 59.6,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 30.4,
+    "CDU": 12.8,
+    "DIE LINKE": 8.7,
+    "FDP": 6.7,
+    "FREIE WÄHLER": 3.1,
+    "GRÜNE": 0.7,
+    "Sonstige": 0.7
+   }
+  },
+  "15085185": {
+   "name": "Huy",
+   "beteiligung": 63.9,
+   "parteien": {
+    "CDU": 26.7,
+    "AfD": 25.0,
+    "SPD": 20.5,
+    "Sonstige": 15.9,
+    "DIE LINKE": 5.5,
+    "FREIE WÄHLER": 3.4,
+    "GRÜNE": 2.0,
+    "FDP": 1.1
+   }
+  },
+  "15085190": {
+   "name": "Ilsenburg (Harz), Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 31.4,
+    "SPD": 24.1,
+    "AfD": 15.4,
+    "DIE LINKE": 9.7,
+    "FREIE WÄHLER": 7.8,
+    "GRÜNE": 4.1,
+    "FDP": 3.8,
+    "Sonstige": 3.7
+   }
+  },
+  "15085227": {
+   "name": "Nordharz",
+   "beteiligung": 69.6,
+   "parteien": {
+    "CDU": 27.8,
+    "Sonstige": 27.6,
+    "AfD": 20.8,
+    "SPD": 10.3,
+    "DIE LINKE": 5.9,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 2.7,
+    "FDP": 1.9
+   }
+  },
+  "15085228": {
+   "name": "Oberharz am Brocken, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 32.7,
+    "AfD": 27.5,
+    "FREIE WÄHLER": 14.5,
+    "SPD": 13.7,
+    "Sonstige": 4.0,
+    "DIE LINKE": 3.7,
+    "GRÜNE": 2.9,
+    "FDP": 1.1
+   }
+  },
+  "15085230": {
+   "name": "Osterwieck, Stadt",
+   "beteiligung": 66.4,
+   "parteien": {
+    "Sonstige": 27.5,
+    "AfD": 23.2,
+    "SPD": 17.5,
+    "CDU": 16.1,
+    "DIE LINKE": 8.8,
+    "GRÜNE": 3.5,
+    "FREIE WÄHLER": 2.1,
+    "FDP": 1.4
+   }
+  },
+  "15085235": {
+   "name": "Quedlinburg, Welterbestadt",
+   "beteiligung": 57.0,
+   "parteien": {
+    "CDU": 31.4,
+    "AfD": 27.0,
+    "SPD": 13.5,
+    "DIE LINKE": 10.1,
+    "FDP": 6.5,
+    "GRÜNE": 6.5,
+    "FREIE WÄHLER": 5.0
+   }
+  },
+  "15085285": {
+   "name": "Schwanebeck, Stadt",
+   "beteiligung": 62.2,
+   "parteien": {
+    "AfD": 43.1,
+    "CDU": 30.6,
+    "DIE LINKE": 11.5,
+    "FREIE WÄHLER": 4.2,
+    "SPD": 4.1,
+    "Sonstige": 4.0,
+    "GRÜNE": 1.3,
+    "FDP": 1.2
+   }
+  },
+  "15085287": {
+   "name": "Selke-Aue",
+   "beteiligung": 69.9,
+   "parteien": {
+    "AfD": 31.6,
+    "SPD": 25.8,
+    "CDU": 20.9,
+    "FDP": 8.7,
+    "DIE LINKE": 7.3,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 1.5,
+    "Sonstige": 1.3
+   }
+  },
+  "15085330": {
+   "name": "Thale, Stadt",
+   "beteiligung": 60.8,
+   "parteien": {
+    "CDU": 37.2,
+    "AfD": 27.1,
+    "FREIE WÄHLER": 11.2,
+    "DIE LINKE": 8.0,
+    "GRÜNE": 6.0,
+    "Sonstige": 4.9,
+    "SPD": 4.6,
+    "FDP": 1.1
+   }
+  },
+  "15085365": {
+   "name": "Wegeleben, Stadt",
+   "beteiligung": 56.1,
+   "parteien": {
+    "CDU": 32.3,
+    "AfD": 30.2,
+    "DIE LINKE": 11.7,
+    "Sonstige": 8.0,
+    "FREIE WÄHLER": 7.8,
+    "SPD": 6.3,
+    "FDP": 2.0,
+    "GRÜNE": 1.6
+   }
+  },
+  "15085370": {
+   "name": "Wernigerode, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "CDU": 26.7,
+    "SPD": 19.6,
+    "AfD": 19.3,
+    "Sonstige": 16.8,
+    "GRÜNE": 6.8,
+    "DIE LINKE": 6.6,
+    "FREIE WÄHLER": 2.7,
+    "FDP": 1.5
+   }
+  },
+  "15086005": {
+   "name": "Biederitz",
+   "beteiligung": 67.2,
+   "parteien": {
+    "SPD": 30.0,
+    "CDU": 25.6,
+    "AfD": 22.3,
+    "DIE LINKE": 7.4,
+    "FDP": 7.0,
+    "GRÜNE": 5.1,
+    "Sonstige": 2.6
+   }
+  },
+  "15086015": {
+   "name": "Burg, Stadt",
+   "beteiligung": 56.6,
+   "parteien": {
+    "AfD": 34.2,
+    "CDU": 30.1,
+    "SPD": 18.3,
+    "DIE LINKE": 6.0,
+    "Sonstige": 5.3,
+    "GRÜNE": 3.3,
+    "FDP": 2.8
+   }
+  },
+  "15086035": {
+   "name": "Elbe-Parey",
+   "beteiligung": 65.4,
+   "parteien": {
+    "AfD": 30.9,
+    "CDU": 25.1,
+    "Sonstige": 24.5,
+    "SPD": 5.8,
+    "DIE LINKE": 5.1,
+    "FDP": 3.3,
+    "GRÜNE": 3.3,
+    "Die PARTEI": 2.1
+   }
+  },
+  "15086040": {
+   "name": "Genthin, Stadt",
+   "beteiligung": 60.6,
+   "parteien": {
+    "CDU": 32.4,
+    "AfD": 26.0,
+    "Sonstige": 13.7,
+    "SPD": 9.9,
+    "DIE LINKE": 7.6,
+    "FDP": 5.5,
+    "GRÜNE": 2.6,
+    "Die PARTEI": 2.3
+   }
+  },
+  "15086055": {
+   "name": "Gommern, Stadt",
+   "beteiligung": 67.2,
+   "parteien": {
+    "AfD": 27.4,
+    "CDU": 26.6,
+    "Sonstige": 21.8,
+    "SPD": 8.9,
+    "DIE LINKE": 6.2,
+    "FDP": 5.3,
+    "GRÜNE": 3.7
+   }
+  },
+  "15086080": {
+   "name": "Jerichow, Stadt",
+   "beteiligung": 68.5,
+   "parteien": {
+    "Sonstige": 35.3,
+    "AfD": 30.0,
+    "CDU": 18.3,
+    "DIE LINKE": 5.1,
+    "SPD": 4.5,
+    "FDP": 3.6,
+    "GRÜNE": 1.9,
+    "Die PARTEI": 1.2
+   }
+  },
+  "15086140": {
+   "name": "Möckern, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "CDU": 29.2,
+    "AfD": 29.0,
+    "Sonstige": 19.6,
+    "SPD": 6.5,
+    "DIE LINKE": 6.4,
+    "FDP": 6.3,
+    "GRÜNE": 3.0
+   }
+  },
+  "15086145": {
+   "name": "Möser",
+   "beteiligung": 70.5,
+   "parteien": {
+    "SPD": 27.4,
+    "CDU": 26.6,
+    "AfD": 26.2,
+    "DIE LINKE": 8.0,
+    "Sonstige": 4.7,
+    "GRÜNE": 3.9,
+    "FDP": 3.2
+   }
+  },
+  "15087010": {
+   "name": "Ahlsdorf",
+   "beteiligung": 63.5,
+   "parteien": {
+    "AfD": 34.4,
+    "Sonstige": 30.3,
+    "CDU": 14.7,
+    "SPD": 12.2,
+    "DIE LINKE": 6.4,
+    "FDP": 1.3,
+    "GRÜNE": 0.6
+   }
+  },
+  "15087015": {
+   "name": "Allstedt, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "AfD": 26.0,
+    "CDU": 23.2,
+    "Sonstige": 23.2,
+    "SPD": 18.5,
+    "DIE LINKE": 6.6,
+    "FDP": 1.5,
+    "GRÜNE": 0.9
+   }
+  },
+  "15087031": {
+   "name": "Arnstein, Stadt",
+   "beteiligung": 66.1,
+   "parteien": {
+    "AfD": 30.2,
+    "Sonstige": 25.2,
+    "SPD": 21.6,
+    "CDU": 15.5,
+    "DIE LINKE": 5.6,
+    "GRÜNE": 1.0,
+    "FDP": 0.9
+   }
+  },
+  "15087045": {
+   "name": "Benndorf",
+   "beteiligung": 56.4,
+   "parteien": {
+    "Sonstige": 33.5,
+    "AfD": 26.6,
+    "CDU": 19.2,
+    "DIE LINKE": 11.9,
+    "SPD": 8.0,
+    "GRÜNE": 0.5,
+    "FDP": 0.4
+   }
+  },
+  "15087055": {
+   "name": "Berga",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CDU": 49.0,
+    "AfD": 25.1,
+    "Sonstige": 12.4,
+    "SPD": 7.7,
+    "DIE LINKE": 2.9,
+    "FDP": 2.3,
+    "GRÜNE": 0.5
+   }
+  },
+  "15087070": {
+   "name": "Blankenheim",
+   "beteiligung": 62.8,
+   "parteien": {
+    "Sonstige": 32.9,
+    "AfD": 32.3,
+    "SPD": 11.5,
+    "FDP": 10.6,
+    "CDU": 8.7,
+    "DIE LINKE": 3.1,
+    "GRÜNE": 0.9
+   }
+  },
+  "15087075": {
+   "name": "Bornstedt",
+   "beteiligung": 67.2,
+   "parteien": {
+    "AfD": 38.7,
+    "SPD": 24.1,
+    "Sonstige": 22.2,
+    "CDU": 10.9,
+    "DIE LINKE": 2.1,
+    "GRÜNE": 1.3,
+    "FDP": 0.7
+   }
+  },
+  "15087101": {
+   "name": "Brücken-Hackpfüffel",
+   "beteiligung": 70.6,
+   "parteien": {
+    "AfD": 36.6,
+    "CDU": 21.5,
+    "SPD": 14.8,
+    "Sonstige": 14.1,
+    "DIE LINKE": 6.2,
+    "FDP": 5.9,
+    "GRÜNE": 0.9
+   }
+  },
+  "15087125": {
+   "name": "Edersleben",
+   "beteiligung": 70.3,
+   "parteien": {
+    "AfD": 40.1,
+    "Sonstige": 30.3,
+    "CDU": 14.4,
+    "SPD": 6.0,
+    "DIE LINKE": 5.9,
+    "FDP": 2.2,
+    "GRÜNE": 1.2
+   }
+  },
+  "15087130": {
+   "name": "Eisleben, Lutherstadt",
+   "beteiligung": 55.4,
+   "parteien": {
+    "AfD": 34.4,
+    "SPD": 18.5,
+    "Sonstige": 17.6,
+    "CDU": 16.8,
+    "DIE LINKE": 8.9,
+    "FDP": 2.3,
+    "GRÜNE": 1.6
+   }
+  },
+  "15087165": {
+   "name": "Gerbstedt, Stadt",
+   "beteiligung": 65.5,
+   "parteien": {
+    "Sonstige": 34.6,
+    "CDU": 27.3,
+    "AfD": 25.2,
+    "DIE LINKE": 5.7,
+    "SPD": 5.2,
+    "GRÜNE": 1.2,
+    "FDP": 0.6
+   }
+  },
+  "15087205": {
+   "name": "Helbra",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 36.4,
+    "AfD": 31.7,
+    "Sonstige": 14.6,
+    "DIE LINKE": 8.0,
+    "SPD": 7.9,
+    "GRÜNE": 0.9,
+    "FDP": 0.5
+   }
+  },
+  "15087210": {
+   "name": "Hergisdorf",
+   "beteiligung": 59.2,
+   "parteien": {
+    "AfD": 30.4,
+    "SPD": 24.7,
+    "Sonstige": 22.4,
+    "CDU": 15.9,
+    "DIE LINKE": 5.1,
+    "FDP": 0.9,
+    "GRÜNE": 0.6
+   }
+  },
+  "15087220": {
+   "name": "Hettstedt, Stadt",
+   "beteiligung": 54.7,
+   "parteien": {
+    "AfD": 34.0,
+    "Sonstige": 23.8,
+    "CDU": 17.6,
+    "DIE LINKE": 13.3,
+    "SPD": 8.9,
+    "FDP": 1.5,
+    "GRÜNE": 0.8
+   }
+  },
+  "15087250": {
+   "name": "Kelbra (Kyffhäuser), Stadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 27.2,
+    "AfD": 26.7,
+    "FDP": 16.4,
+    "Sonstige": 14.0,
+    "SPD": 8.5,
+    "DIE LINKE": 5.9,
+    "GRÜNE": 1.4
+   }
+  },
+  "15087260": {
+   "name": "Klostermansfeld",
+   "beteiligung": 64.6,
+   "parteien": {
+    "Sonstige": 53.4,
+    "AfD": 22.8,
+    "CDU": 12.0,
+    "SPD": 5.5,
+    "DIE LINKE": 4.3,
+    "FDP": 1.2,
+    "GRÜNE": 0.7
+   }
+  },
+  "15087275": {
+   "name": "Mansfeld, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "Sonstige": 38.3,
+    "AfD": 32.5,
+    "CDU": 12.4,
+    "DIE LINKE": 8.1,
+    "SPD": 6.1,
+    "GRÜNE": 1.4,
+    "FDP": 1.3
+   }
+  },
+  "15087370": {
+   "name": "Sangerhausen, Stadt",
+   "beteiligung": 50.9,
+   "parteien": {
+    "AfD": 31.4,
+    "CDU": 30.3,
+    "Sonstige": 15.1,
+    "SPD": 10.5,
+    "DIE LINKE": 9.9,
+    "FDP": 1.5,
+    "GRÜNE": 1.2
+   }
+  },
+  "15087386": {
+   "name": "Seegebiet Mansfelder Land",
+   "beteiligung": 66.2,
+   "parteien": {
+    "AfD": 38.3,
+    "CDU": 20.8,
+    "Sonstige": 18.8,
+    "SPD": 14.9,
+    "DIE LINKE": 4.5,
+    "GRÜNE": 1.5,
+    "FDP": 1.3
+   }
+  },
+  "15087412": {
+   "name": "Südharz",
+   "beteiligung": 64.1,
+   "parteien": {
+    "Sonstige": 41.9,
+    "AfD": 26.1,
+    "CDU": 18.9,
+    "SPD": 5.7,
+    "DIE LINKE": 4.1,
+    "FDP": 1.8,
+    "GRÜNE": 1.6
+   }
+  },
+  "15087440": {
+   "name": "Wallhausen",
+   "beteiligung": 61.2,
+   "parteien": {
+    "AfD": 34.1,
+    "CDU": 22.3,
+    "Sonstige": 18.0,
+    "SPD": 13.9,
+    "DIE LINKE": 6.7,
+    "FDP": 3.6,
+    "GRÜNE": 1.5
+   }
+  },
+  "15087470": {
+   "name": "Wimmelburg",
+   "beteiligung": 62.0,
+   "parteien": {
+    "SPD": 32.1,
+    "AfD": 30.9,
+    "Sonstige": 14.1,
+    "CDU": 11.4,
+    "DIE LINKE": 8.3,
+    "FDP": 3.0,
+    "GRÜNE": 0.3
+   }
+  },
+  "15088020": {
+   "name": "Bad Dürrenberg, Solestadt",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 37.9,
+    "AfD": 33.7,
+    "FDP": 10.3,
+    "DIE LINKE": 7.4,
+    "SPD": 5.6,
+    "GRÜNE": 2.9,
+    "Sonstige": 2.1
+   }
+  },
+  "15088025": {
+   "name": "Bad Lauchstädt, Goethestadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "AfD": 37.1,
+    "CDU": 36.1,
+    "DIE LINKE": 8.4,
+    "Sonstige": 6.8,
+    "SPD": 5.8,
+    "GRÜNE": 3.6,
+    "FDP": 2.3
+   }
+  },
+  "15088030": {
+   "name": "Barnstädt",
+   "beteiligung": 70.4,
+   "parteien": {
+    "SPD": 34.3,
+    "AfD": 33.3,
+    "CDU": 23.1,
+    "DIE LINKE": 4.0,
+    "Sonstige": 2.4,
+    "FDP": 1.6,
+    "GRÜNE": 1.3
+   }
+  },
+  "15088065": {
+   "name": "Braunsbedra, Stadt",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 43.7,
+    "AfD": 35.3,
+    "DIE LINKE": 6.4,
+    "SPD": 6.0,
+    "Sonstige": 5.3,
+    "FDP": 1.9,
+    "GRÜNE": 1.4
+   }
+  },
+  "15088100": {
+   "name": "Farnstädt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "AfD": 40.5,
+    "CDU": 25.9,
+    "SPD": 19.0,
+    "DIE LINKE": 5.8,
+    "Sonstige": 4.9,
+    "FDP": 2.2,
+    "GRÜNE": 1.7
+   }
+  },
+  "15088150": {
+   "name": "Kabelsketal",
+   "beteiligung": 63.2,
+   "parteien": {
+    "AfD": 34.5,
+    "CDU": 25.5,
+    "Sonstige": 16.7,
+    "DIE LINKE": 10.0,
+    "SPD": 7.9,
+    "GRÜNE": 3.0,
+    "FDP": 2.5
+   }
+  },
+  "15088195": {
+   "name": "Landsberg, Stadt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "AfD": 33.5,
+    "CDU": 30.4,
+    "DIE LINKE": 16.3,
+    "Sonstige": 6.9,
+    "SPD": 6.6,
+    "GRÜNE": 3.6,
+    "FDP": 2.7
+   }
+  },
+  "15088205": {
+   "name": "Leuna, Stadt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "CDU": 40.1,
+    "AfD": 35.8,
+    "SPD": 6.7,
+    "DIE LINKE": 6.3,
+    "FDP": 5.6,
+    "Sonstige": 3.0,
+    "GRÜNE": 2.5
+   }
+  },
+  "15088216": {
+   "name": "Wettin-Löbejün, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "AfD": 32.6,
+    "CDU": 32.4,
+    "Sonstige": 7.6,
+    "SPD": 7.2,
+    "GRÜNE": 7.2,
+    "DIE LINKE": 6.7,
+    "FDP": 6.2
+   }
+  },
+  "15088220": {
+   "name": "Merseburg, Stadt",
+   "beteiligung": 56.0,
+   "parteien": {
+    "CDU": 33.9,
+    "AfD": 33.7,
+    "SPD": 10.8,
+    "DIE LINKE": 8.8,
+    "Sonstige": 5.8,
+    "FDP": 4.0,
+    "GRÜNE": 3.0
+   }
+  },
+  "15088235": {
+   "name": "Mücheln (Geiseltal), Stadt",
+   "beteiligung": 66.0,
+   "parteien": {
+    "AfD": 37.0,
+    "CDU": 33.7,
+    "SPD": 13.7,
+    "DIE LINKE": 7.3,
+    "Sonstige": 5.0,
+    "FDP": 1.7,
+    "GRÜNE": 1.6
+   }
+  },
+  "15088250": {
+   "name": "Nemsdorf-Göhrendorf",
+   "beteiligung": 70.6,
+   "parteien": {
+    "AfD": 36.6,
+    "CDU": 28.4,
+    "SPD": 21.8,
+    "DIE LINKE": 7.1,
+    "FDP": 2.4,
+    "Sonstige": 2.3,
+    "GRÜNE": 1.4
+   }
+  },
+  "15088265": {
+   "name": "Obhausen",
+   "beteiligung": 66.5,
+   "parteien": {
+    "CDU": 39.2,
+    "AfD": 35.6,
+    "SPD": 13.8,
+    "DIE LINKE": 4.9,
+    "Sonstige": 3.5,
+    "FDP": 1.6,
+    "GRÜNE": 1.4
+   }
+  },
+  "15088295": {
+   "name": "Petersberg",
+   "beteiligung": 73.3,
+   "parteien": {
+    "AfD": 31.8,
+    "CDU": 30.4,
+    "Sonstige": 19.1,
+    "SPD": 7.8,
+    "DIE LINKE": 4.9,
+    "GRÜNE": 3.6,
+    "FDP": 2.5
+   }
+  },
+  "15088305": {
+   "name": "Querfurt, Stadt",
+   "beteiligung": 61.3,
+   "parteien": {
+    "AfD": 36.7,
+    "SPD": 27.9,
+    "CDU": 21.7,
+    "DIE LINKE": 4.8,
+    "FDP": 3.3,
+    "Sonstige": 3.1,
+    "GRÜNE": 2.5
+   }
+  },
+  "15088319": {
+   "name": "Salzatal",
+   "beteiligung": 67.4,
+   "parteien": {
+    "AfD": 28.1,
+    "Sonstige": 28.1,
+    "CDU": 25.6,
+    "DIE LINKE": 7.6,
+    "SPD": 6.0,
+    "GRÜNE": 2.9,
+    "FDP": 1.7
+   }
+  },
+  "15088330": {
+   "name": "Schkopau",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 34.7,
+    "CDU": 32.9,
+    "SPD": 15.0,
+    "DIE LINKE": 6.6,
+    "Sonstige": 4.2,
+    "GRÜNE": 3.6,
+    "FDP": 3.0
+   }
+  },
+  "15088340": {
+   "name": "Schraplau, Stadt",
+   "beteiligung": 56.8,
+   "parteien": {
+    "AfD": 43.2,
+    "CDU": 26.2,
+    "SPD": 11.9,
+    "Sonstige": 6.6,
+    "FDP": 5.2,
+    "DIE LINKE": 4.7,
+    "GRÜNE": 2.1
+   }
+  },
+  "15088355": {
+   "name": "Steigra",
+   "beteiligung": 71.8,
+   "parteien": {
+    "AfD": 38.1,
+    "CDU": 34.2,
+    "SPD": 17.8,
+    "DIE LINKE": 3.6,
+    "Sonstige": 2.7,
+    "GRÜNE": 2.0,
+    "FDP": 1.6
+   }
+  },
+  "15088365": {
+   "name": "Teutschenthal",
+   "beteiligung": 66.6,
+   "parteien": {
+    "Sonstige": 33.9,
+    "AfD": 32.6,
+    "CDU": 17.9,
+    "SPD": 4.8,
+    "FDP": 4.7,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 2.0
+   }
+  },
+  "15089005": {
+   "name": "Alsleben (Saale), Stadt",
+   "beteiligung": 52.8,
+   "parteien": {
+    "CDU": 44.7,
+    "AfD": 30.4,
+    "DIE LINKE": 7.1,
+    "FDP": 6.5,
+    "Sonstige": 6.2,
+    "SPD": 4.1,
+    "GRÜNE": 1.0
+   }
+  },
+  "15089015": {
+   "name": "Aschersleben, Stadt",
+   "beteiligung": 56.8,
+   "parteien": {
+    "Sonstige": 33.2,
+    "AfD": 28.1,
+    "CDU": 18.0,
+    "SPD": 7.2,
+    "DIE LINKE": 5.8,
+    "FDP": 3.9,
+    "GRÜNE": 3.8
+   }
+  },
+  "15089026": {
+   "name": "Barby, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 36.3,
+    "Sonstige": 24.8,
+    "AfD": 22.6,
+    "SPD": 7.9,
+    "DIE LINKE": 3.5,
+    "GRÜNE": 2.5,
+    "FDP": 2.4
+   }
+  },
+  "15089030": {
+   "name": "Bernburg (Saale), Stadt",
+   "beteiligung": 56.2,
+   "parteien": {
+    "AfD": 28.3,
+    "CDU": 26.8,
+    "DIE LINKE": 16.3,
+    "FDP": 10.1,
+    "SPD": 8.0,
+    "Sonstige": 6.9,
+    "GRÜNE": 3.5
+   }
+  },
+  "15089041": {
+   "name": "Bördeaue",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 43.3,
+    "AfD": 27.5,
+    "SPD": 11.1,
+    "Sonstige": 10.2,
+    "DIE LINKE": 4.6,
+    "FDP": 1.9,
+    "GRÜNE": 1.4
+   }
+  },
+  "15089042": {
+   "name": "Bördeland",
+   "beteiligung": 63.2,
+   "parteien": {
+    "AfD": 32.7,
+    "CDU": 26.3,
+    "SPD": 23.9,
+    "FDP": 6.5,
+    "DIE LINKE": 5.5,
+    "Sonstige": 3.1,
+    "GRÜNE": 1.9
+   }
+  },
+  "15089043": {
+   "name": "Börde-Hakel",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 32.9,
+    "AfD": 29.5,
+    "SPD": 21.5,
+    "Sonstige": 6.9,
+    "DIE LINKE": 5.3,
+    "FDP": 2.3,
+    "GRÜNE": 1.6
+   }
+  },
+  "15089045": {
+   "name": "Borne",
+   "beteiligung": 62.4,
+   "parteien": {
+    "CDU": 44.6,
+    "AfD": 29.2,
+    "Sonstige": 9.0,
+    "SPD": 7.4,
+    "DIE LINKE": 4.3,
+    "FDP": 4.0,
+    "GRÜNE": 1.4
+   }
+  },
+  "15089055": {
+   "name": "Calbe (Saale), Stadt",
+   "beteiligung": 54.6,
+   "parteien": {
+    "AfD": 32.1,
+    "CDU": 29.2,
+    "SPD": 17.1,
+    "DIE LINKE": 8.0,
+    "Sonstige": 6.9,
+    "FDP": 4.8,
+    "GRÜNE": 1.9
+   }
+  },
+  "15089075": {
+   "name": "Egeln, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "AfD": 31.5,
+    "CDU": 28.1,
+    "SPD": 18.1,
+    "DIE LINKE": 10.8,
+    "Sonstige": 7.7,
+    "GRÜNE": 2.2,
+    "FDP": 1.7
+   }
+  },
+  "15089130": {
+   "name": "Giersleben",
+   "beteiligung": 60.8,
+   "parteien": {
+    "Sonstige": 37.1,
+    "AfD": 25.6,
+    "CDU": 23.8,
+    "DIE LINKE": 5.2,
+    "FDP": 2.9,
+    "SPD": 2.8,
+    "GRÜNE": 2.7
+   }
+  },
+  "15089165": {
+   "name": "Güsten, Stadt",
+   "beteiligung": 57.8,
+   "parteien": {
+    "AfD": 30.5,
+    "CDU": 24.1,
+    "Sonstige": 20.9,
+    "DIE LINKE": 15.9,
+    "SPD": 4.4,
+    "FDP": 3.3,
+    "GRÜNE": 1.0
+   }
+  },
+  "15089175": {
+   "name": "Hecklingen, Stadt",
+   "beteiligung": 56.3,
+   "parteien": {
+    "AfD": 34.4,
+    "Sonstige": 25.8,
+    "CDU": 24.5,
+    "SPD": 6.7,
+    "DIE LINKE": 5.8,
+    "FDP": 1.5,
+    "GRÜNE": 1.3
+   }
+  },
+  "15089185": {
+   "name": "Ilberstedt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "AfD": 37.8,
+    "CDU": 22.2,
+    "DIE LINKE": 11.5,
+    "Sonstige": 11.2,
+    "FDP": 9.9,
+    "SPD": 5.2,
+    "GRÜNE": 2.3
+   }
+  },
+  "15089195": {
+   "name": "Könnern, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "AfD": 34.6,
+    "CDU": 20.9,
+    "FDP": 18.8,
+    "SPD": 11.5,
+    "DIE LINKE": 6.5,
+    "Sonstige": 6.2,
+    "GRÜNE": 1.6
+   }
+  },
+  "15089235": {
+   "name": "Nienburg (Saale), Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "AfD": 28.0,
+    "CDU": 24.0,
+    "Sonstige": 16.6,
+    "SPD": 12.4,
+    "FDP": 11.4,
+    "DIE LINKE": 6.1,
+    "GRÜNE": 1.4
+   }
+  },
+  "15089245": {
+   "name": "Plötzkau",
+   "beteiligung": 60.6,
+   "parteien": {
+    "AfD": 38.6,
+    "CDU": 21.3,
+    "FDP": 13.2,
+    "DIE LINKE": 10.5,
+    "Sonstige": 9.5,
+    "SPD": 5.1,
+    "GRÜNE": 1.9
+   }
+  },
+  "15089305": {
+   "name": "Schönebeck (Elbe), Stadt",
+   "beteiligung": 56.0,
+   "parteien": {
+    "AfD": 30.2,
+    "CDU": 29.5,
+    "SPD": 17.7,
+    "DIE LINKE": 8.4,
+    "FDP": 5.9,
+    "Sonstige": 4.4,
+    "GRÜNE": 3.8
+   }
+  },
+  "15089307": {
+   "name": "Seeland, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 39.7,
+    "AfD": 29.7,
+    "Sonstige": 11.5,
+    "SPD": 7.1,
+    "DIE LINKE": 6.1,
+    "FDP": 3.3,
+    "GRÜNE": 2.5
+   }
+  },
+  "15089310": {
+   "name": "Staßfurt, Stadt",
+   "beteiligung": 52.7,
+   "parteien": {
+    "AfD": 34.4,
+    "CDU": 23.4,
+    "Sonstige": 21.8,
+    "SPD": 7.9,
+    "FDP": 7.0,
+    "DIE LINKE": 4.3,
+    "GRÜNE": 1.2
+   }
+  },
+  "15089365": {
+   "name": "Wolmirsleben",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 40.2,
+    "AfD": 28.1,
+    "SPD": 20.0,
+    "Sonstige": 6.2,
+    "DIE LINKE": 3.6,
+    "FDP": 1.0,
+    "GRÜNE": 0.9
+   }
+  },
+  "15090003": {
+   "name": "Aland",
+   "beteiligung": 67.2,
+   "parteien": {
+    "Sonstige": 37.0,
+    "AfD": 25.9,
+    "CDU": 24.4,
+    "GRÜNE": 4.6,
+    "SPD": 3.4,
+    "DIE LINKE": 3.3,
+    "FDP": 1.3
+   }
+  },
+  "15090007": {
+   "name": "Altmärkische Höhe",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 34.6,
+    "Sonstige": 33.6,
+    "AfD": 23.7,
+    "SPD": 3.1,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 1.8,
+    "FDP": 0.8
+   }
+  },
+  "15090008": {
+   "name": "Altmärkische Wische",
+   "beteiligung": 60.3,
+   "parteien": {
+    "Sonstige": 44.7,
+    "AfD": 26.5,
+    "CDU": 15.1,
+    "SPD": 6.9,
+    "DIE LINKE": 4.8,
+    "GRÜNE": 1.3,
+    "FDP": 0.6
+   }
+  },
+  "15090010": {
+   "name": "Arneburg, Stadt",
+   "beteiligung": 68.0,
+   "parteien": {
+    "Sonstige": 40.2,
+    "AfD": 29.9,
+    "CDU": 15.9,
+    "SPD": 6.0,
+    "DIE LINKE": 4.4,
+    "FDP": 2.2,
+    "GRÜNE": 1.5
+   }
+  },
+  "15090070": {
+   "name": "Bismark (Altmark), Stadt",
+   "beteiligung": 67.5,
+   "parteien": {
+    "CDU": 34.0,
+    "AfD": 28.2,
+    "Sonstige": 23.3,
+    "SPD": 5.3,
+    "DIE LINKE": 3.8,
+    "FDP": 2.9,
+    "GRÜNE": 2.5
+   }
+  },
+  "15090135": {
+   "name": "Eichstedt (Altmark)",
+   "beteiligung": 77.4,
+   "parteien": {
+    "Sonstige": 36.6,
+    "AfD": 31.7,
+    "CDU": 16.5,
+    "SPD": 6.8,
+    "DIE LINKE": 4.4,
+    "FDP": 2.5,
+    "GRÜNE": 1.5
+   }
+  },
+  "15090180": {
+   "name": "Goldbeck",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 41.6,
+    "AfD": 24.4,
+    "SPD": 13.8,
+    "CDU": 12.4,
+    "DIE LINKE": 4.9,
+    "GRÜNE": 1.8,
+    "FDP": 1.1
+   }
+  },
+  "15090220": {
+   "name": "Hassel",
+   "beteiligung": 76.1,
+   "parteien": {
+    "CDU": 31.5,
+    "AfD": 30.9,
+    "Sonstige": 20.6,
+    "SPD": 7.3,
+    "DIE LINKE": 5.9,
+    "GRÜNE": 2.7,
+    "FDP": 1.2
+   }
+  },
+  "15090225": {
+   "name": "Havelberg, Hansestadt",
+   "beteiligung": 60.0,
+   "parteien": {
+    "AfD": 33.8,
+    "CDU": 23.6,
+    "Sonstige": 17.5,
+    "DIE LINKE": 14.5,
+    "SPD": 7.6,
+    "GRÜNE": 2.1,
+    "FDP": 0.9
+   }
+  },
+  "15090245": {
+   "name": "Hohenberg-Krusemark",
+   "beteiligung": 67.1,
+   "parteien": {
+    "AfD": 35.3,
+    "Sonstige": 31.8,
+    "CDU": 16.4,
+    "SPD": 6.0,
+    "DIE LINKE": 3.7,
+    "GRÜNE": 3.5,
+    "FDP": 3.4
+   }
+  },
+  "15090270": {
+   "name": "Iden",
+   "beteiligung": 64.4,
+   "parteien": {
+    "Sonstige": 44.6,
+    "AfD": 24.5,
+    "CDU": 12.1,
+    "GRÜNE": 7.1,
+    "SPD": 5.0,
+    "DIE LINKE": 4.2,
+    "FDP": 2.5
+   }
+  },
+  "15090285": {
+   "name": "Kamern",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 27.1,
+    "AfD": 27.0,
+    "Sonstige": 25.4,
+    "DIE LINKE": 8.7,
+    "SPD": 7.7,
+    "GRÜNE": 2.6,
+    "FDP": 1.6
+   }
+  },
+  "15090310": {
+   "name": "Klietz",
+   "beteiligung": 71.7,
+   "parteien": {
+    "AfD": 34.5,
+    "CDU": 24.3,
+    "Sonstige": 17.7,
+    "SPD": 12.5,
+    "DIE LINKE": 7.1,
+    "FDP": 2.6,
+    "GRÜNE": 1.3
+   }
+  },
+  "15090415": {
+   "name": "Osterburg (Altmark), Hansestadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "Sonstige": 37.8,
+    "AfD": 27.2,
+    "CDU": 18.1,
+    "SPD": 5.6,
+    "DIE LINKE": 4.8,
+    "GRÜNE": 4.0,
+    "FDP": 2.5
+   }
+  },
+  "15090435": {
+   "name": "Rochau",
+   "beteiligung": 75.1,
+   "parteien": {
+    "Sonstige": 48.6,
+    "AfD": 28.5,
+    "CDU": 11.0,
+    "DIE LINKE": 5.0,
+    "SPD": 3.1,
+    "GRÜNE": 3.0,
+    "FDP": 0.8
+   }
+  },
+  "15090445": {
+   "name": "Sandau (Elbe), Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 36.1,
+    "AfD": 33.9,
+    "Sonstige": 13.9,
+    "DIE LINKE": 8.0,
+    "SPD": 5.3,
+    "GRÜNE": 1.8,
+    "FDP": 1.0
+   }
+  },
+  "15090485": {
+   "name": "Schollene",
+   "beteiligung": 63.7,
+   "parteien": {
+    "Sonstige": 30.9,
+    "AfD": 29.2,
+    "CDU": 18.2,
+    "SPD": 10.9,
+    "DIE LINKE": 5.7,
+    "GRÜNE": 3.4,
+    "FDP": 1.7
+   }
+  },
+  "15090500": {
+   "name": "Schönhausen (Elbe)",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 23.8,
+    "CDU": 22.0,
+    "Sonstige": 9.5,
+    "DIE LINKE": 4.8,
+    "FDP": 2.1,
+    "GRÜNE": 0.6
+   }
+  },
+  "15090520": {
+   "name": "Seehausen (Altmark), Hansestadt",
+   "beteiligung": 60.4,
+   "parteien": {
+    "Sonstige": 41.9,
+    "AfD": 27.2,
+    "CDU": 17.8,
+    "DIE LINKE": 4.4,
+    "SPD": 4.2,
+    "GRÜNE": 3.5,
+    "FDP": 1.0
+   }
+  },
+  "15090535": {
+   "name": "Stendal, Hansestadt",
+   "beteiligung": 59.1,
+   "parteien": {
+    "AfD": 30.8,
+    "CDU": 26.7,
+    "Sonstige": 15.1,
+    "SPD": 12.9,
+    "DIE LINKE": 8.3,
+    "GRÜNE": 3.1,
+    "FDP": 3.0
+   }
+  },
+  "15090546": {
+   "name": "Tangerhütte, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "AfD": 37.0,
+    "CDU": 27.1,
+    "Sonstige": 18.1,
+    "SPD": 8.6,
+    "DIE LINKE": 5.5,
+    "FDP": 2.4,
+    "GRÜNE": 1.3
+   }
+  },
+  "15090550": {
+   "name": "Tangermünde, Stadt",
+   "beteiligung": 65.3,
+   "parteien": {
+    "AfD": 38.8,
+    "CDU": 25.2,
+    "SPD": 16.2,
+    "Sonstige": 6.7,
+    "DIE LINKE": 6.1,
+    "FDP": 5.4,
+    "GRÜNE": 1.5
+   }
+  },
+  "15090610": {
+   "name": "Werben (Elbe), Hansestadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "Sonstige": 34.4,
+    "AfD": 27.1,
+    "SPD": 18.7,
+    "CDU": 11.3,
+    "GRÜNE": 4.5,
+    "DIE LINKE": 3.1,
+    "FDP": 0.9
+   }
+  },
+  "15090631": {
+   "name": "Wust-Fischbeck",
+   "beteiligung": 67.6,
+   "parteien": {
+    "AfD": 36.6,
+    "CDU": 29.0,
+    "Sonstige": 14.2,
+    "SPD": 10.3,
+    "DIE LINKE": 4.8,
+    "GRÜNE": 3.5,
+    "FDP": 1.6
+   }
+  },
+  "15090635": {
+   "name": "Zehrental",
+   "beteiligung": 65.4,
+   "parteien": {
+    "Sonstige": 40.5,
+    "AfD": 26.0,
+    "CDU": 17.7,
+    "GRÜNE": 7.8,
+    "SPD": 4.8,
+    "DIE LINKE": 2.1,
+    "FDP": 1.1
+   }
+  },
+  "15091010": {
+   "name": "Annaburg, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "AfD": 34.3,
+    "CDU": 23.6,
+    "FREIE WÄHLER": 20.6,
+    "DIE LINKE": 7.7,
+    "FDP": 6.7,
+    "SPD": 3.9,
+    "Sonstige": 2.3,
+    "GRÜNE": 0.9
+   }
+  },
+  "15091020": {
+   "name": "Bad Schmiedeberg, Stadt",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 35.1,
+    "AfD": 31.4,
+    "SPD": 16.7,
+    "FREIE WÄHLER": 8.4,
+    "DIE LINKE": 4.4,
+    "Sonstige": 2.4,
+    "GRÜNE": 1.6
+   }
+  },
+  "15091060": {
+   "name": "Coswig (Anhalt), Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 29.5,
+    "AfD": 28.3,
+    "FREIE WÄHLER": 15.7,
+    "SPD": 15.2,
+    "DIE LINKE": 3.8,
+    "Sonstige": 3.7,
+    "GRÜNE": 2.6,
+    "FDP": 1.1
+   }
+  },
+  "15091110": {
+   "name": "Gräfenhainichen, Stadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 45.2,
+    "AfD": 31.3,
+    "DIE LINKE": 12.0,
+    "FREIE WÄHLER": 3.6,
+    "SPD": 3.5,
+    "GRÜNE": 1.9,
+    "FDP": 1.4,
+    "Sonstige": 1.1
+   }
+  },
+  "15091145": {
+   "name": "Jessen (Elster), Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 29.6,
+    "AfD": 28.9,
+    "SPD": 13.0,
+    "FREIE WÄHLER": 11.0,
+    "DIE LINKE": 10.5,
+    "FDP": 3.5,
+    "Sonstige": 2.6,
+    "GRÜNE": 0.9
+   }
+  },
+  "15091160": {
+   "name": "Kemberg, Stadt",
+   "beteiligung": 69.7,
+   "parteien": {
+    "CDU": 39.5,
+    "AfD": 27.8,
+    "FREIE WÄHLER": 17.0,
+    "DIE LINKE": 6.7,
+    "SPD": 3.7,
+    "FDP": 2.2,
+    "GRÜNE": 1.6,
+    "Sonstige": 1.6
+   }
+  },
+  "15091241": {
+   "name": "Oranienbaum-Wörlitz, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "CDU": 40.1,
+    "AfD": 31.6,
+    "SPD": 10.4,
+    "DIE LINKE": 7.0,
+    "Sonstige": 3.5,
+    "FREIE WÄHLER": 2.7,
+    "FDP": 2.6,
+    "GRÜNE": 2.1
+   }
+  },
+  "15091375": {
+   "name": "Wittenberg, Lutherstadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "AfD": 26.1,
+    "CDU": 22.5,
+    "SPD": 16.7,
+    "FREIE WÄHLER": 15.3,
+    "DIE LINKE": 7.3,
+    "Sonstige": 7.0,
+    "GRÜNE": 3.3,
+    "FDP": 1.7
+   }
+  },
+  "15091391": {
+   "name": "Zahna-Elster, Stadt",
+   "beteiligung": 70.0,
+   "parteien": {
+    "FREIE WÄHLER": 38.1,
+    "CDU": 26.6,
+    "AfD": 22.6,
+    "DIE LINKE": 4.3,
+    "SPD": 3.4,
+    "Sonstige": 2.9,
+    "GRÜNE": 2.1
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

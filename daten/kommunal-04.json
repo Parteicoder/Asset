@@ -1,0 +1,46 @@
+{
+ "land": "04",
+ "name": "Bremen",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Bremen 2023",
+ "jahr": 2023,
+ "wahl_datum": "",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+ "dataset": "municipal_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "04011000": {
+   "name": "Bremen, Stadt",
+   "beteiligung": 56.7,
+   "parteien": {
+    "SPD": 29.9,
+    "CDU": 26.9,
+    "Sonstige": 14.8,
+    "GRÜNE": 11.7,
+    "DIE LINKE": 11.6,
+    "FDP": 5.1
+   }
+  },
+  "04012000": {
+   "name": "Bremerhaven, Stadt",
+   "beteiligung": 40.3,
+   "parteien": {
+    "SPD": 27.0,
+    "Sonstige": 21.5,
+    "CDU": 20.3,
+    "GRÜNE": 13.7,
+    "AfD": 5.9,
+    "DIE LINKE": 5.3,
+    "FDP": 5.3,
+    "PIRATEN": 0.9
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

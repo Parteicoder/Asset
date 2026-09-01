@@ -1,0 +1,628 @@
+{
+ "land": "10",
+ "name": "Saarland",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Saarland 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+ "dataset": "municipal_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "10041100": {
+   "name": "Saarbrücken, Landeshauptstadt",
+   "beteiligung": 56.5,
+   "parteien": {
+    "SPD": 29.6,
+    "CDU": 28.0,
+    "GRÜNE": 13.7,
+    "Sonstige": 13.2,
+    "FDP": 7.9,
+    "DIE LINKE": 7.5
+   }
+  },
+  "10041511": {
+   "name": "Friedrichsthal, Stadt",
+   "beteiligung": 59.1,
+   "parteien": {
+    "CDU": 26.8,
+    "SPD": 26.4,
+    "AfD": 20.4,
+    "Sonstige": 13.4,
+    "DIE LINKE": 5.7,
+    "GRÜNE": 4.8,
+    "FDP": 2.4
+   }
+  },
+  "10041512": {
+   "name": "Großrosseln",
+   "beteiligung": 70.8,
+   "parteien": {
+    "CDU": 45.4,
+    "SPD": 38.8,
+    "AfD": 13.2,
+    "FDP": 2.6
+   }
+  },
+  "10041513": {
+   "name": "Heusweiler",
+   "beteiligung": 69.9,
+   "parteien": {
+    "CDU": 32.1,
+    "SPD": 29.8,
+    "AfD": 13.7,
+    "FDP": 11.5,
+    "Sonstige": 8.5,
+    "GRÜNE": 4.4
+   }
+  },
+  "10041514": {
+   "name": "Kleinblittersdorf",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Sonstige": 35.0,
+    "SPD": 29.3,
+    "CDU": 25.6,
+    "GRÜNE": 5.8,
+    "FDP": 4.3
+   }
+  },
+  "10041515": {
+   "name": "Püttlingen, Stadt",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 35.0,
+    "SPD": 32.0,
+    "AfD": 13.7,
+    "FREIE WÄHLER": 7.6,
+    "GRÜNE": 5.8,
+    "DIE LINKE": 3.0,
+    "FDP": 2.9
+   }
+  },
+  "10041516": {
+   "name": "Quierschied",
+   "beteiligung": 68.5,
+   "parteien": {
+    "CDU": 40.5,
+    "SPD": 28.4,
+    "AfD": 13.6,
+    "FREIE WÄHLER": 11.5,
+    "DIE LINKE": 3.8,
+    "FDP": 2.3
+   }
+  },
+  "10041517": {
+   "name": "Riegelsberg",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CDU": 34.9,
+    "SPD": 28.4,
+    "AfD": 12.9,
+    "DIE LINKE": 9.4,
+    "GRÜNE": 9.2,
+    "FDP": 5.2
+   }
+  },
+  "10041518": {
+   "name": "Sulzbach/ Saar, Stadt",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 27.7,
+    "SPD": 23.8,
+    "AfD": 20.7,
+    "FREIE WÄHLER": 15.0,
+    "GRÜNE": 5.3,
+    "DIE LINKE": 4.1,
+    "FDP": 3.5
+   }
+  },
+  "10041519": {
+   "name": "Völklingen, Stadt",
+   "beteiligung": 54.9,
+   "parteien": {
+    "SPD": 25.6,
+    "CDU": 23.5,
+    "Sonstige": 21.4,
+    "AfD": 16.2,
+    "FREIE WÄHLER": 4.2,
+    "DIE LINKE": 3.4,
+    "GRÜNE": 3.3,
+    "FDP": 2.5
+   }
+  },
+  "10042111": {
+   "name": "Beckingen",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 43.8,
+    "SPD": 41.6,
+    "DIE LINKE": 7.3,
+    "FDP": 4.2,
+    "GRÜNE": 3.2
+   }
+  },
+  "10042112": {
+   "name": "Losheim am See",
+   "beteiligung": 69.8,
+   "parteien": {
+    "CDU": 42.7,
+    "SPD": 33.5,
+    "AfD": 12.3,
+    "Sonstige": 7.4,
+    "FDP": 4.0
+   }
+  },
+  "10042113": {
+   "name": "Merzig, Kreisstadt",
+   "beteiligung": 63.7,
+   "parteien": {
+    "CDU": 41.4,
+    "SPD": 26.2,
+    "AfD": 14.3,
+    "GRÜNE": 7.6,
+    "FREIE WÄHLER": 6.8,
+    "FDP": 3.6
+   }
+  },
+  "10042114": {
+   "name": "Mettlach",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CDU": 44.6,
+    "SPD": 26.5,
+    "AfD": 11.9,
+    "Sonstige": 6.7,
+    "GRÜNE": 4.4,
+    "FDP": 4.0,
+    "DIE LINKE": 1.8
+   }
+  },
+  "10042115": {
+   "name": "Perl",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 48.7,
+    "SPD": 35.4,
+    "GRÜNE": 8.4,
+    "FDP": 7.5
+   }
+  },
+  "10042116": {
+   "name": "Wadern, Stadt",
+   "beteiligung": 74.0,
+   "parteien": {
+    "CDU": 33.8,
+    "SPD": 27.0,
+    "Sonstige": 20.4,
+    "AfD": 11.3,
+    "GRÜNE": 3.9,
+    "FREIE WÄHLER": 2.0,
+    "FDP": 1.6
+   }
+  },
+  "10042117": {
+   "name": "Weiskirchen",
+   "beteiligung": 73.1,
+   "parteien": {
+    "CDU": 39.2,
+    "SPD": 29.7,
+    "AfD": 13.6,
+    "FREIE WÄHLER": 9.4,
+    "Sonstige": 6.1,
+    "DIE LINKE": 2.1
+   }
+  },
+  "10043111": {
+   "name": "Eppelborn",
+   "beteiligung": 73.2,
+   "parteien": {
+    "CDU": 46.4,
+    "SPD": 34.4,
+    "AfD": 11.8,
+    "GRÜNE": 4.2,
+    "FDP": 3.2
+   }
+  },
+  "10043112": {
+   "name": "Illingen",
+   "beteiligung": 71.7,
+   "parteien": {
+    "CDU": 37.7,
+    "SPD": 28.5,
+    "Sonstige": 15.1,
+    "AfD": 10.4,
+    "GRÜNE": 5.3,
+    "FDP": 1.7,
+    "DIE LINKE": 1.3
+   }
+  },
+  "10043113": {
+   "name": "Merchweiler",
+   "beteiligung": 69.7,
+   "parteien": {
+    "CDU": 45.8,
+    "SPD": 40.4,
+    "DIE LINKE": 7.9,
+    "GRÜNE": 5.9
+   }
+  },
+  "10043114": {
+   "name": "Neunkirchen, Kreisstadt",
+   "beteiligung": 53.7,
+   "parteien": {
+    "SPD": 34.4,
+    "CDU": 25.8,
+    "AfD": 22.5,
+    "FREIE WÄHLER": 5.6,
+    "GRÜNE": 4.8,
+    "DIE LINKE": 4.1,
+    "FDP": 2.8
+   }
+  },
+  "10043115": {
+   "name": "Ottweiler, Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "SPD": 39.2,
+    "CDU": 32.5,
+    "AfD": 13.2,
+    "BSW": 9.7,
+    "GRÜNE": 4.0,
+    "DIE LINKE": 1.4
+   }
+  },
+  "10043116": {
+   "name": "Schiffweiler",
+   "beteiligung": 67.4,
+   "parteien": {
+    "SPD": 37.0,
+    "CDU": 34.4,
+    "AfD": 13.6,
+    "Sonstige": 9.0,
+    "GRÜNE": 4.4,
+    "FDP": 1.6
+   }
+  },
+  "10043117": {
+   "name": "Spiesen-Elversberg",
+   "beteiligung": 60.5,
+   "parteien": {
+    "SPD": 23.6,
+    "CDU": 23.0,
+    "Sonstige": 21.1,
+    "AfD": 17.1,
+    "DIE LINKE": 6.6,
+    "FDP": 5.1,
+    "GRÜNE": 3.6
+   }
+  },
+  "10044111": {
+   "name": "Dillingen/ Saar, Stadt",
+   "beteiligung": 57.9,
+   "parteien": {
+    "CDU": 40.0,
+    "SPD": 23.9,
+    "AfD": 14.6,
+    "BSW": 12.2,
+    "GRÜNE": 5.1,
+    "FDP": 4.2
+   }
+  },
+  "10044112": {
+   "name": "Lebach, Stadt",
+   "beteiligung": 69.3,
+   "parteien": {
+    "CDU": 47.8,
+    "SPD": 28.5,
+    "FDP": 17.1,
+    "GRÜNE": 6.5
+   }
+  },
+  "10044113": {
+   "name": "Nalbach",
+   "beteiligung": 69.4,
+   "parteien": {
+    "SPD": 60.7,
+    "CDU": 39.3
+   }
+  },
+  "10044114": {
+   "name": "Rehlingen-Siersburg",
+   "beteiligung": 72.9,
+   "parteien": {
+    "SPD": 41.1,
+    "CDU": 32.4,
+    "AfD": 12.8,
+    "FREIE WÄHLER": 8.6,
+    "GRÜNE": 5.1
+   }
+  },
+  "10044115": {
+   "name": "Saarlouis, Kreisstadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 36.6,
+    "SPD": 34.9,
+    "AfD": 14.0,
+    "GRÜNE": 6.2,
+    "FREIE WÄHLER": 3.2,
+    "FDP": 3.0,
+    "DIE LINKE": 2.2
+   }
+  },
+  "10044116": {
+   "name": "Saarwellingen",
+   "beteiligung": 70.4,
+   "parteien": {
+    "SPD": 35.4,
+    "FREIE WÄHLER": 34.7,
+    "CDU": 22.5,
+    "GRÜNE": 3.9,
+    "DIE LINKE": 3.4
+   }
+  },
+  "10044117": {
+   "name": "Schmelz",
+   "beteiligung": 66.9,
+   "parteien": {
+    "SPD": 41.0,
+    "CDU": 33.1,
+    "Sonstige": 14.5,
+    "FDP": 4.2,
+    "GRÜNE": 3.6,
+    "DIE LINKE": 3.6
+   }
+  },
+  "10044118": {
+   "name": "Schwalbach",
+   "beteiligung": 72.0,
+   "parteien": {
+    "SPD": 33.6,
+    "CDU": 31.9,
+    "AfD": 13.4,
+    "Sonstige": 7.3,
+    "FREIE WÄHLER": 6.8,
+    "GRÜNE": 3.2,
+    "FDP": 2.1,
+    "DIE LINKE": 1.8
+   }
+  },
+  "10044119": {
+   "name": "Überherrn",
+   "beteiligung": 69.9,
+   "parteien": {
+    "CDU": 48.3,
+    "SPD": 32.6,
+    "DIE LINKE": 13.6,
+    "GRÜNE": 5.6
+   }
+  },
+  "10044120": {
+   "name": "Wadgassen",
+   "beteiligung": 64.5,
+   "parteien": {
+    "SPD": 34.8,
+    "Sonstige": 27.3,
+    "CDU": 24.1,
+    "FDP": 4.7,
+    "GRÜNE": 4.3,
+    "FREIE WÄHLER": 2.6,
+    "DIE LINKE": 2.3
+   }
+  },
+  "10044121": {
+   "name": "Wallerfangen",
+   "beteiligung": 68.9,
+   "parteien": {
+    "CDU": 37.1,
+    "SPD": 35.7,
+    "FREIE WÄHLER": 17.2,
+    "GRÜNE": 6.5,
+    "DIE LINKE": 3.5
+   }
+  },
+  "10044122": {
+   "name": "Bous",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CDU": 40.4,
+    "SPD": 27.8,
+    "FREIE WÄHLER": 17.4,
+    "GRÜNE": 9.7,
+    "Sonstige": 4.7
+   }
+  },
+  "10044123": {
+   "name": "Ensdorf",
+   "beteiligung": 62.2,
+   "parteien": {
+    "CDU": 38.6,
+    "SPD": 28.7,
+    "FREIE WÄHLER": 20.6,
+    "GRÜNE": 7.6,
+    "DIE LINKE": 4.6
+   }
+  },
+  "10045111": {
+   "name": "Bexbach, Stadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 36.9,
+    "SPD": 29.6,
+    "FREIE WÄHLER": 18.5,
+    "DIE LINKE": 6.5,
+    "GRÜNE": 4.9,
+    "FDP": 3.6
+   }
+  },
+  "10045112": {
+   "name": "Blieskastel, Stadt",
+   "beteiligung": 74.4,
+   "parteien": {
+    "CDU": 34.9,
+    "SPD": 28.6,
+    "AfD": 14.6,
+    "GRÜNE": 10.3,
+    "Sonstige": 8.4,
+    "DIE LINKE": 3.2
+   }
+  },
+  "10045113": {
+   "name": "Gersheim",
+   "beteiligung": 75.4,
+   "parteien": {
+    "CDU": 38.8,
+    "SPD": 34.7,
+    "AfD": 14.9,
+    "GRÜNE": 9.1,
+    "DIE LINKE": 2.6
+   }
+  },
+  "10045114": {
+   "name": "Homburg, Kreisstadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 31.0,
+    "SPD": 24.1,
+    "AfD": 17.3,
+    "GRÜNE": 11.4,
+    "FREIE WÄHLER": 8.1,
+    "DIE LINKE": 5.1,
+    "FDP": 3.0
+   }
+  },
+  "10045115": {
+   "name": "Kirkel",
+   "beteiligung": 76.7,
+   "parteien": {
+    "CDU": 37.9,
+    "SPD": 37.7,
+    "FDP": 10.0,
+    "GRÜNE": 9.6,
+    "DIE LINKE": 4.7
+   }
+  },
+  "10045116": {
+   "name": "Mandelbachtal",
+   "beteiligung": 74.0,
+   "parteien": {
+    "CDU": 42.6,
+    "SPD": 26.4,
+    "AfD": 11.1,
+    "FREIE WÄHLER": 10.7,
+    "GRÜNE": 7.2,
+    "DIE LINKE": 2.0
+   }
+  },
+  "10045117": {
+   "name": "St. Ingbert, Stadt",
+   "beteiligung": 65.4,
+   "parteien": {
+    "CDU": 30.6,
+    "SPD": 21.4,
+    "AfD": 12.5,
+    "FREIE WÄHLER": 12.2,
+    "Sonstige": 10.4,
+    "GRÜNE": 7.6,
+    "FDP": 2.9,
+    "DIE LINKE": 2.5
+   }
+  },
+  "10046111": {
+   "name": "Freisen",
+   "beteiligung": 75.4,
+   "parteien": {
+    "SPD": 39.5,
+    "CDU": 26.3,
+    "FREIE WÄHLER": 24.9,
+    "AfD": 9.3
+   }
+  },
+  "10046112": {
+   "name": "Marpingen",
+   "beteiligung": 78.4,
+   "parteien": {
+    "SPD": 46.3,
+    "CDU": 40.3,
+    "AfD": 8.0,
+    "GRÜNE": 3.7,
+    "DIE LINKE": 1.7
+   }
+  },
+  "10046113": {
+   "name": "Namborn",
+   "beteiligung": 75.5,
+   "parteien": {
+    "CDU": 39.9,
+    "Sonstige": 22.4,
+    "SPD": 21.4,
+    "AfD": 12.6,
+    "DIE LINKE": 3.7
+   }
+  },
+  "10046114": {
+   "name": "Nohfelden",
+   "beteiligung": 76.1,
+   "parteien": {
+    "CDU": 54.3,
+    "SPD": 31.2,
+    "Sonstige": 9.7,
+    "GRÜNE": 3.2,
+    "DIE LINKE": 1.7
+   }
+  },
+  "10046115": {
+   "name": "Nonnweiler",
+   "beteiligung": 74.2,
+   "parteien": {
+    "CDU": 42.4,
+    "SPD": 33.5,
+    "AfD": 9.8,
+    "FREIE WÄHLER": 8.2,
+    "GRÜNE": 4.3,
+    "FDP": 1.9
+   }
+  },
+  "10046116": {
+   "name": "Oberthal",
+   "beteiligung": 80.7,
+   "parteien": {
+    "SPD": 45.2,
+    "CDU": 43.9,
+    "AfD": 8.3,
+    "DIE LINKE": 2.6
+   }
+  },
+  "10046117": {
+   "name": "St. Wendel, Kreisstadt",
+   "beteiligung": 72.7,
+   "parteien": {
+    "CDU": 46.2,
+    "SPD": 27.0,
+    "AfD": 10.3,
+    "Sonstige": 6.3,
+    "GRÜNE": 5.3,
+    "FDP": 3.0,
+    "DIE LINKE": 2.0
+   }
+  },
+  "10046118": {
+   "name": "Tholey",
+   "beteiligung": 77.6,
+   "parteien": {
+    "CDU": 67.9,
+    "SPD": 24.2,
+    "GRÜNE": 4.4,
+    "FDP": 3.4
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

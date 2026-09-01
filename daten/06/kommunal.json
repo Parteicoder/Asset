@@ -1,0 +1,4377 @@
+{
+ "land": "06",
+ "name": "Hessen",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Hessen 2026",
+ "jahr": 2026,
+ "wahl_datum": "2026-03-15",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+ "dataset": "municipal_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "06411000": {
+   "name": "Darmstadt, Wissenschaftsstadt",
+   "beteiligung": 58.3,
+   "parteien": {
+    "GRÜNE": 22.8,
+    "Sonstige": 20.2,
+    "SPD": 15.8,
+    "CDU": 15.3,
+    "DIE LINKE": 10.2,
+    "AfD": 8.6,
+    "FDP": 3.9,
+    "BSW": 1.4,
+    "FREIE WÄHLER": 1.1,
+    "Die PARTEI": 0.6
+   }
+  },
+  "06412000": {
+   "name": "Frankfurt am Main, Stadt",
+   "beteiligung": 49.6,
+   "parteien": {
+    "CDU": 25.0,
+    "GRÜNE": 20.8,
+    "SPD": 16.6,
+    "Sonstige": 12.4,
+    "DIE LINKE": 9.2,
+    "AfD": 8.2,
+    "FDP": 4.6,
+    "BSW": 1.2,
+    "Die PARTEI": 1.0,
+    "FREIE WÄHLER": 1.0,
+    "PIRATEN": 0.1
+   }
+  },
+  "06413000": {
+   "name": "Offenbach am Main, Stadt",
+   "beteiligung": 36.4,
+   "parteien": {
+    "SPD": 35.0,
+    "CDU": 18.7,
+    "GRÜNE": 13.0,
+    "DIE LINKE": 12.1,
+    "Sonstige": 6.9,
+    "FDP": 5.6,
+    "FREIE WÄHLER": 3.4,
+    "AfD": 3.4,
+    "BSW": 1.9
+   }
+  },
+  "06414000": {
+   "name": "Wiesbaden, Landeshauptstadt",
+   "beteiligung": 48.1,
+   "parteien": {
+    "CDU": 26.5,
+    "SPD": 22.3,
+    "GRÜNE": 15.2,
+    "AfD": 11.9,
+    "DIE LINKE": 7.8,
+    "Sonstige": 7.5,
+    "FDP": 5.0,
+    "FREIE WÄHLER": 1.7,
+    "BSW": 1.5,
+    "Die PARTEI": 0.5
+   }
+  },
+  "06431001": {
+   "name": "Abtsteinach",
+   "beteiligung": 62.8,
+   "parteien": {
+    "CDU": 42.4,
+    "Sonstige": 39.9,
+    "SPD": 17.7
+   }
+  },
+  "06431002": {
+   "name": "Bensheim, Stadt",
+   "beteiligung": 56.1,
+   "parteien": {
+    "CDU": 35.8,
+    "GRÜNE": 21.8,
+    "Sonstige": 21.2,
+    "SPD": 14.2,
+    "FDP": 7.0
+   }
+  },
+  "06431003": {
+   "name": "Biblis",
+   "beteiligung": 53.5,
+   "parteien": {
+    "CDU": 48.9,
+    "Sonstige": 32.6,
+    "SPD": 18.5
+   }
+  },
+  "06431004": {
+   "name": "Birkenau",
+   "beteiligung": 62.2,
+   "parteien": {
+    "CDU": 31.1,
+    "SPD": 21.1,
+    "GRÜNE": 20.2,
+    "AfD": 19.5,
+    "FDP": 8.2
+   }
+  },
+  "06431005": {
+   "name": "Bürstadt, Stadt",
+   "beteiligung": 48.2,
+   "parteien": {
+    "CDU": 37.9,
+    "SPD": 23.9,
+    "Sonstige": 19.9,
+    "GRÜNE": 13.2,
+    "FDP": 5.2
+   }
+  },
+  "06431006": {
+   "name": "Einhausen",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 55.0,
+    "SPD": 24.8,
+    "GRÜNE": 20.1
+   }
+  },
+  "06431007": {
+   "name": "Fürth",
+   "beteiligung": 60.0,
+   "parteien": {
+    "CDU": 47.8,
+    "Sonstige": 18.1,
+    "GRÜNE": 17.8,
+    "SPD": 9.6,
+    "AfD": 6.7
+   }
+  },
+  "06431008": {
+   "name": "Gorxheimertal",
+   "beteiligung": 50.2,
+   "parteien": {
+    "Sonstige": 49.6,
+    "SPD": 27.4,
+    "CDU": 23.0
+   }
+  },
+  "06431009": {
+   "name": "Grasellenbach",
+   "beteiligung": 58.2,
+   "parteien": {
+    "CDU": 33.0,
+    "Sonstige": 30.1,
+    "SPD": 25.6,
+    "GRÜNE": 11.3
+   }
+  },
+  "06431010": {
+   "name": "Groß-Rohrheim",
+   "beteiligung": 59.8,
+   "parteien": {
+    "Sonstige": 46.0,
+    "SPD": 43.6,
+    "CDU": 10.4
+   }
+  },
+  "06431011": {
+   "name": "Heppenheim (Bergstraße), Kreisstadt",
+   "beteiligung": 55.0,
+   "parteien": {
+    "CDU": 37.4,
+    "GRÜNE": 17.0,
+    "SPD": 16.2,
+    "FDP": 10.7,
+    "Sonstige": 7.7,
+    "FREIE WÄHLER": 6.7,
+    "DIE LINKE": 4.3
+   }
+  },
+  "06431012": {
+   "name": "Hirschhorn (Neckar), Stadt",
+   "beteiligung": 57.0,
+   "parteien": {
+    "Sonstige": 40.1,
+    "CDU": 39.8,
+    "SPD": 20.1
+   }
+  },
+  "06431013": {
+   "name": "Lampertheim, Stadt",
+   "beteiligung": 45.3,
+   "parteien": {
+    "CDU": 40.8,
+    "SPD": 25.3,
+    "Sonstige": 14.1,
+    "GRÜNE": 13.1,
+    "FDP": 6.7
+   }
+  },
+  "06431014": {
+   "name": "Lautertal (Odenwald)",
+   "beteiligung": 64.7,
+   "parteien": {
+    "CDU": 31.5,
+    "Sonstige": 25.5,
+    "SPD": 23.1,
+    "GRÜNE": 20.0
+   }
+  },
+  "06431015": {
+   "name": "Lindenfels, Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "Sonstige": 31.5,
+    "SPD": 30.4,
+    "CDU": 19.4,
+    "GRÜNE": 12.5,
+    "FDP": 6.2
+   }
+  },
+  "06431016": {
+   "name": "Lorsch, Karolingerstadt",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 39.2,
+    "Sonstige": 20.1,
+    "GRÜNE": 18.4,
+    "SPD": 16.0,
+    "FDP": 6.3
+   }
+  },
+  "06431017": {
+   "name": "Mörlenbach",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 42.2,
+    "Sonstige": 28.7,
+    "GRÜNE": 14.3,
+    "SPD": 10.9,
+    "FDP": 3.9
+   }
+  },
+  "06431018": {
+   "name": "Neckarsteinach, Stadt",
+   "beteiligung": 58.7,
+   "parteien": {
+    "Sonstige": 38.0,
+    "SPD": 26.6,
+    "CDU": 21.3,
+    "GRÜNE": 14.1
+   }
+  },
+  "06431019": {
+   "name": "Rimbach",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 29.3,
+    "SPD": 27.9,
+    "Sonstige": 24.3,
+    "GRÜNE": 11.8,
+    "FDP": 6.6
+   }
+  },
+  "06431020": {
+   "name": "Viernheim, Stadt",
+   "beteiligung": 46.2,
+   "parteien": {
+    "CDU": 34.4,
+    "Sonstige": 28.5,
+    "SPD": 21.5,
+    "GRÜNE": 11.8,
+    "FDP": 3.7
+   }
+  },
+  "06431021": {
+   "name": "Wald-Michelbach",
+   "beteiligung": 52.0,
+   "parteien": {
+    "Sonstige": 38.4,
+    "CDU": 24.6,
+    "SPD": 22.2,
+    "GRÜNE": 9.0,
+    "FDP": 5.8
+   }
+  },
+  "06431022": {
+   "name": "Zwingenberg, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "CDU": 38.4,
+    "Sonstige": 28.2,
+    "FDP": 18.1,
+    "SPD": 15.3
+   }
+  },
+  "06432001": {
+   "name": "Alsbach-Hähnlein",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 41.8,
+    "Sonstige": 37.8,
+    "SPD": 20.5
+   }
+  },
+  "06432002": {
+   "name": "Babenhausen, Stadt",
+   "beteiligung": 53.4,
+   "parteien": {
+    "CDU": 42.1,
+    "Sonstige": 21.8,
+    "SPD": 20.1,
+    "GRÜNE": 16.0
+   }
+  },
+  "06432003": {
+   "name": "Bickenbach",
+   "beteiligung": 61.4,
+   "parteien": {
+    "SPD": 38.7,
+    "CDU": 33.1,
+    "Sonstige": 19.5,
+    "FDP": 8.7
+   }
+  },
+  "06432004": {
+   "name": "Dieburg, Stadt",
+   "beteiligung": 59.5,
+   "parteien": {
+    "CDU": 35.9,
+    "GRÜNE": 18.2,
+    "SPD": 15.6,
+    "Sonstige": 14.7,
+    "DIE LINKE": 9.1,
+    "FDP": 6.5
+   }
+  },
+  "06432005": {
+   "name": "Eppertshausen",
+   "beteiligung": 52.8,
+   "parteien": {
+    "CDU": 64.8,
+    "SPD": 31.0,
+    "FDP": 4.2
+   }
+  },
+  "06432006": {
+   "name": "Erzhausen",
+   "beteiligung": 58.4,
+   "parteien": {
+    "Sonstige": 42.3,
+    "SPD": 22.4,
+    "CDU": 19.6,
+    "GRÜNE": 15.7
+   }
+  },
+  "06432007": {
+   "name": "Fischbachtal",
+   "beteiligung": 67.9,
+   "parteien": {
+    "SPD": 39.3,
+    "Sonstige": 31.1,
+    "CDU": 24.2,
+    "GRÜNE": 5.4
+   }
+  },
+  "06432008": {
+   "name": "Griesheim, Stadt",
+   "beteiligung": 51.4,
+   "parteien": {
+    "CDU": 29.9,
+    "SPD": 23.6,
+    "GRÜNE": 19.6,
+    "Sonstige": 11.9,
+    "DIE LINKE": 7.7,
+    "FDP": 7.2
+   }
+  },
+  "06432009": {
+   "name": "Groß-Bieberau, Stadt",
+   "beteiligung": 62.9,
+   "parteien": {
+    "Sonstige": 34.1,
+    "CDU": 31.4,
+    "SPD": 22.9,
+    "GRÜNE": 11.7
+   }
+  },
+  "06432010": {
+   "name": "Groß-Umstadt, Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "SPD": 31.1,
+    "CDU": 25.4,
+    "Sonstige": 19.9,
+    "GRÜNE": 13.1,
+    "DIE LINKE": 5.8,
+    "FDP": 4.6
+   }
+  },
+  "06432011": {
+   "name": "Groß-Zimmern",
+   "beteiligung": 58.4,
+   "parteien": {
+    "CDU": 50.0,
+    "SPD": 19.0,
+    "GRÜNE": 15.0,
+    "Sonstige": 11.4,
+    "FDP": 4.6
+   }
+  },
+  "06432012": {
+   "name": "Messel",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 46.6,
+    "SPD": 33.3,
+    "GRÜNE": 20.0
+   }
+  },
+  "06432013": {
+   "name": "Modautal",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 50.9,
+    "SPD": 25.2,
+    "GRÜNE": 16.7,
+    "FDP": 7.2
+   }
+  },
+  "06432014": {
+   "name": "Mühltal",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CDU": 33.3,
+    "GRÜNE": 24.5,
+    "SPD": 15.2,
+    "Sonstige": 13.7,
+    "FDP": 7.5,
+    "DIE LINKE": 5.9
+   }
+  },
+  "06432015": {
+   "name": "Münster (Hessen)",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 36.4,
+    "Sonstige": 30.9,
+    "SPD": 19.7,
+    "FDP": 13.0
+   }
+  },
+  "06432016": {
+   "name": "Ober-Ramstadt, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "SPD": 34.7,
+    "CDU": 29.6,
+    "GRÜNE": 21.7,
+    "Sonstige": 13.9
+   }
+  },
+  "06432017": {
+   "name": "Otzberg",
+   "beteiligung": 62.5,
+   "parteien": {
+    "Sonstige": 40.7,
+    "CDU": 36.7,
+    "GRÜNE": 16.6,
+    "FDP": 6.0
+   }
+  },
+  "06432018": {
+   "name": "Pfungstadt, Stadt",
+   "beteiligung": 46.5,
+   "parteien": {
+    "CDU": 40.7,
+    "SPD": 19.8,
+    "Sonstige": 12.6,
+    "FREIE WÄHLER": 12.6,
+    "GRÜNE": 10.8,
+    "DIE LINKE": 3.4
+   }
+  },
+  "06432019": {
+   "name": "Reinheim, Stadt",
+   "beteiligung": 55.0,
+   "parteien": {
+    "SPD": 48.1,
+    "CDU": 19.0,
+    "GRÜNE": 14.2,
+    "Sonstige": 11.5,
+    "FDP": 4.5,
+    "DIE LINKE": 2.6
+   }
+  },
+  "06432020": {
+   "name": "Roßdorf",
+   "beteiligung": 61.1,
+   "parteien": {
+    "SPD": 30.5,
+    "GRÜNE": 24.2,
+    "CDU": 22.9,
+    "Sonstige": 22.4
+   }
+  },
+  "06432021": {
+   "name": "Schaafheim",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 36.0,
+    "Sonstige": 27.6,
+    "SPD": 20.0,
+    "GRÜNE": 14.8,
+    "FDP": 1.6
+   }
+  },
+  "06432022": {
+   "name": "Seeheim-Jugenheim",
+   "beteiligung": 62.3,
+   "parteien": {
+    "CDU": 32.8,
+    "GRÜNE": 28.3,
+    "SPD": 25.1,
+    "FDP": 7.9,
+    "DIE LINKE": 5.9
+   }
+  },
+  "06432023": {
+   "name": "Weiterstadt, Stadt",
+   "beteiligung": 45.5,
+   "parteien": {
+    "SPD": 34.5,
+    "CDU": 32.0,
+    "Sonstige": 22.6,
+    "Die PARTEI": 5.6,
+    "FDP": 5.4
+   }
+  },
+  "06433001": {
+   "name": "Biebesheim am Rhein",
+   "beteiligung": 54.5,
+   "parteien": {
+    "SPD": 27.0,
+    "CDU": 26.7,
+    "AfD": 20.1,
+    "GRÜNE": 14.4,
+    "Sonstige": 11.7
+   }
+  },
+  "06433002": {
+   "name": "Bischofsheim",
+   "beteiligung": 54.9,
+   "parteien": {
+    "Sonstige": 43.3,
+    "SPD": 31.8,
+    "CDU": 25.0
+   }
+  },
+  "06433003": {
+   "name": "Büttelborn",
+   "beteiligung": 51.9,
+   "parteien": {
+    "SPD": 41.2,
+    "CDU": 35.8,
+    "Sonstige": 13.7,
+    "DIE LINKE": 9.3
+   }
+  },
+  "06433004": {
+   "name": "Gernsheim, Schöfferstadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "CDU": 50.2,
+    "SPD": 20.7,
+    "Sonstige": 14.9,
+    "GRÜNE": 14.1
+   }
+  },
+  "06433005": {
+   "name": "Ginsheim-Gustavsburg, Stadt",
+   "beteiligung": 50.4,
+   "parteien": {
+    "SPD": 31.5,
+    "CDU": 28.5,
+    "Sonstige": 16.1,
+    "GRÜNE": 13.7,
+    "DIE LINKE": 5.5,
+    "FDP": 4.7
+   }
+  },
+  "06433006": {
+   "name": "Groß-Gerau, Stadt",
+   "beteiligung": 50.7,
+   "parteien": {
+    "CDU": 31.9,
+    "SPD": 28.0,
+    "FREIE WÄHLER": 13.2,
+    "GRÜNE": 12.8,
+    "DIE LINKE": 6.5,
+    "Sonstige": 4.8,
+    "FDP": 2.8
+   }
+  },
+  "06433007": {
+   "name": "Kelsterbach, Stadt",
+   "beteiligung": 49.0,
+   "parteien": {
+    "CDU": 35.7,
+    "SPD": 27.7,
+    "Sonstige": 27.2,
+    "DIE LINKE": 6.0,
+    "FDP": 1.7,
+    "FREIE WÄHLER": 1.6
+   }
+  },
+  "06433008": {
+   "name": "Mörfelden-Walldorf, Stadt",
+   "beteiligung": 48.2,
+   "parteien": {
+    "SPD": 27.7,
+    "CDU": 23.8,
+    "GRÜNE": 21.8,
+    "Sonstige": 14.7,
+    "DIE LINKE": 5.3,
+    "FDP": 4.2,
+    "AfD": 2.5
+   }
+  },
+  "06433009": {
+   "name": "Nauheim",
+   "beteiligung": 49.7,
+   "parteien": {
+    "CDU": 35.7,
+    "SPD": 33.6,
+    "GRÜNE": 21.4,
+    "FDP": 9.3
+   }
+  },
+  "06433010": {
+   "name": "Raunheim, Stadt",
+   "beteiligung": 47.5,
+   "parteien": {
+    "Sonstige": 46.9,
+    "SPD": 28.0,
+    "CDU": 14.2,
+    "GRÜNE": 6.1,
+    "FDP": 4.8
+   }
+  },
+  "06433011": {
+   "name": "Riedstadt, Büchnerstadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "CDU": 30.4,
+    "SPD": 26.9,
+    "Sonstige": 21.1,
+    "GRÜNE": 14.8,
+    "AfD": 6.8
+   }
+  },
+  "06433012": {
+   "name": "Rüsselsheim am Main, Stadt",
+   "beteiligung": 45.1,
+   "parteien": {
+    "CDU": 26.3,
+    "SPD": 21.8,
+    "Sonstige": 19.1,
+    "AfD": 13.2,
+    "GRÜNE": 12.2,
+    "DIE LINKE": 5.3,
+    "FDP": 2.0
+   }
+  },
+  "06433013": {
+   "name": "Stockstadt am Rhein",
+   "beteiligung": 51.5,
+   "parteien": {
+    "Sonstige": 36.5,
+    "CDU": 35.3,
+    "SPD": 28.1
+   }
+  },
+  "06433014": {
+   "name": "Trebur",
+   "beteiligung": 59.1,
+   "parteien": {
+    "Sonstige": 65.7,
+    "CDU": 20.1,
+    "SPD": 11.5,
+    "FDP": 2.6
+   }
+  },
+  "06434001": {
+   "name": "Bad Homburg v. d. Höhe, Stadt",
+   "beteiligung": 51.8,
+   "parteien": {
+    "CDU": 46.0,
+    "GRÜNE": 15.4,
+    "SPD": 12.9,
+    "Sonstige": 12.8,
+    "FDP": 8.9,
+    "DIE LINKE": 3.9
+   }
+  },
+  "06434002": {
+   "name": "Friedrichsdorf, Philipp-Reis-Stadt",
+   "beteiligung": 58.1,
+   "parteien": {
+    "CDU": 31.0,
+    "GRÜNE": 25.9,
+    "Sonstige": 22.2,
+    "SPD": 10.9,
+    "FDP": 10.0
+   }
+  },
+  "06434003": {
+   "name": "Glashütten",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 34.1,
+    "Sonstige": 32.7,
+    "GRÜNE": 19.0,
+    "FDP": 8.4,
+    "SPD": 5.8
+   }
+  },
+  "06434004": {
+   "name": "Grävenwiesbach",
+   "beteiligung": 59.9,
+   "parteien": {
+    "Sonstige": 47.7,
+    "CDU": 27.1,
+    "SPD": 14.0,
+    "GRÜNE": 11.2
+   }
+  },
+  "06434005": {
+   "name": "Königstein im Taunus, Stadt",
+   "beteiligung": 58.8,
+   "parteien": {
+    "CDU": 34.4,
+    "Sonstige": 27.1,
+    "FDP": 14.1,
+    "GRÜNE": 10.1,
+    "SPD": 7.2,
+    "AfD": 7.1
+   }
+  },
+  "06434006": {
+   "name": "Kronberg im Taunus, Stadt",
+   "beteiligung": 57.9,
+   "parteien": {
+    "CDU": 32.9,
+    "Sonstige": 25.3,
+    "GRÜNE": 15.7,
+    "SPD": 13.3,
+    "FDP": 12.8
+   }
+  },
+  "06434007": {
+   "name": "Neu-Anspach, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 38.3,
+    "SPD": 23.9,
+    "Sonstige": 19.2,
+    "GRÜNE": 14.4,
+    "FDP": 4.3
+   }
+  },
+  "06434008": {
+   "name": "Oberursel (Taunus), Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 27.8,
+    "Sonstige": 21.9,
+    "GRÜNE": 21.3,
+    "SPD": 12.2,
+    "AfD": 8.1,
+    "FDP": 4.4,
+    "DIE LINKE": 4.3
+   }
+  },
+  "06434009": {
+   "name": "Schmitten im Taunus",
+   "beteiligung": 60.7,
+   "parteien": {
+    "Sonstige": 34.8,
+    "CDU": 31.5,
+    "GRÜNE": 11.5,
+    "AfD": 10.8,
+    "SPD": 4.9,
+    "DIE LINKE": 3.8,
+    "FDP": 2.7
+   }
+  },
+  "06434010": {
+   "name": "Steinbach (Taunus), Stadt",
+   "beteiligung": 52.4,
+   "parteien": {
+    "CDU": 30.3,
+    "FDP": 28.1,
+    "SPD": 23.5,
+    "GRÜNE": 18.1
+   }
+  },
+  "06434011": {
+   "name": "Usingen, Stadt",
+   "beteiligung": 53.0,
+   "parteien": {
+    "CDU": 38.8,
+    "SPD": 16.2,
+    "GRÜNE": 16.0,
+    "AfD": 11.6,
+    "Sonstige": 11.1,
+    "FDP": 6.2
+   }
+  },
+  "06434012": {
+   "name": "Wehrheim",
+   "beteiligung": 60.4,
+   "parteien": {
+    "CDU": 48.4,
+    "GRÜNE": 18.6,
+    "SPD": 17.0,
+    "FDP": 15.9
+   }
+  },
+  "06434013": {
+   "name": "Weilrod",
+   "beteiligung": 58.9,
+   "parteien": {
+    "Sonstige": 59.6,
+    "CDU": 15.4,
+    "GRÜNE": 13.1,
+    "SPD": 11.8
+   }
+  },
+  "06435001": {
+   "name": "Bad Orb, Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 35.9,
+    "Sonstige": 24.1,
+    "AfD": 16.4,
+    "GRÜNE": 14.8,
+    "SPD": 8.7
+   }
+  },
+  "06435002": {
+   "name": "Bad Soden-Salmünster, Stadt",
+   "beteiligung": 51.7,
+   "parteien": {
+    "CDU": 42.6,
+    "Sonstige": 36.5,
+    "SPD": 20.9
+   }
+  },
+  "06435003": {
+   "name": "Biebergemünd",
+   "beteiligung": 66.0,
+   "parteien": {
+    "Sonstige": 41.4,
+    "CDU": 30.6,
+    "SPD": 17.3,
+    "GRÜNE": 10.8
+   }
+  },
+  "06435004": {
+   "name": "Birstein",
+   "beteiligung": 62.4,
+   "parteien": {
+    "Sonstige": 51.6,
+    "SPD": 29.9,
+    "CDU": 13.7,
+    "FDP": 4.8
+   }
+  },
+  "06435005": {
+   "name": "Brachttal",
+   "beteiligung": 58.4,
+   "parteien": {
+    "SPD": 29.5,
+    "CDU": 29.1,
+    "Sonstige": 25.2,
+    "GRÜNE": 16.3
+   }
+  },
+  "06435006": {
+   "name": "Bruchköbel, Stadt",
+   "beteiligung": 53.8,
+   "parteien": {
+    "CDU": 30.9,
+    "FDP": 22.9,
+    "GRÜNE": 19.4,
+    "SPD": 17.7,
+    "AfD": 9.1
+   }
+  },
+  "06435007": {
+   "name": "Erlensee, Stadt",
+   "beteiligung": 48.7,
+   "parteien": {
+    "SPD": 28.6,
+    "AfD": 20.3,
+    "CDU": 18.9,
+    "FREIE WÄHLER": 16.8,
+    "GRÜNE": 10.2,
+    "DIE LINKE": 5.1
+   }
+  },
+  "06435008": {
+   "name": "Flörsbachtal",
+   "beteiligung": 65.9,
+   "parteien": {
+    "Sonstige": 56.7,
+    "SPD": 43.3
+   }
+  },
+  "06435009": {
+   "name": "Freigericht",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 44.6,
+    "Sonstige": 29.6,
+    "GRÜNE": 13.0,
+    "SPD": 12.9
+   }
+  },
+  "06435010": {
+   "name": "Gelnhausen, Barbarossastadt, Kreisstadt",
+   "beteiligung": 56.3,
+   "parteien": {
+    "CDU": 35.7,
+    "Sonstige": 23.8,
+    "SPD": 23.5,
+    "GRÜNE": 14.2,
+    "DIE LINKE": 2.8
+   }
+  },
+  "06435011": {
+   "name": "Großkrotzenburg",
+   "beteiligung": 58.8,
+   "parteien": {
+    "CDU": 29.8,
+    "Sonstige": 23.1,
+    "GRÜNE": 20.1,
+    "SPD": 15.4,
+    "FDP": 11.5
+   }
+  },
+  "06435012": {
+   "name": "Gründau",
+   "beteiligung": 55.7,
+   "parteien": {
+    "CDU": 36.7,
+    "SPD": 29.5,
+    "AfD": 19.1,
+    "Sonstige": 14.7
+   }
+  },
+  "06435013": {
+   "name": "Hammersbach",
+   "beteiligung": 64.3,
+   "parteien": {
+    "SPD": 47.6,
+    "CDU": 41.9,
+    "GRÜNE": 10.5
+   }
+  },
+  "06435014": {
+   "name": "Hanau, Brüder-Grimm-Stadt",
+   "beteiligung": 46.5,
+   "parteien": {
+    "SPD": 31.3,
+    "CDU": 29.0,
+    "GRÜNE": 10.4,
+    "AfD": 9.5,
+    "Sonstige": 8.5,
+    "DIE LINKE": 5.0,
+    "FDP": 3.8,
+    "BSW": 1.7,
+    "FREIE WÄHLER": 0.8
+   }
+  },
+  "06435015": {
+   "name": "Hasselroth",
+   "beteiligung": 59.9,
+   "parteien": {
+    "Sonstige": 46.4,
+    "SPD": 21.5,
+    "CDU": 16.4,
+    "AfD": 15.7
+   }
+  },
+  "06435016": {
+   "name": "Jossgrund",
+   "beteiligung": 69.5,
+   "parteien": {
+    "Sonstige": 37.2,
+    "CDU": 30.0,
+    "SPD": 17.6,
+    "GRÜNE": 15.2
+   }
+  },
+  "06435017": {
+   "name": "Langenselbold, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 37.3,
+    "SPD": 32.2,
+    "GRÜNE": 8.7,
+    "Sonstige": 8.5,
+    "AfD": 6.3,
+    "DIE LINKE": 5.0,
+    "FDP": 1.9
+   }
+  },
+  "06435018": {
+   "name": "Linsengericht",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CDU": 30.7,
+    "SPD": 30.4,
+    "Sonstige": 19.6,
+    "AfD": 13.2,
+    "DIE LINKE": 3.4,
+    "FDP": 2.6
+   }
+  },
+  "06435019": {
+   "name": "Maintal, Stadt",
+   "beteiligung": 46.2,
+   "parteien": {
+    "CDU": 28.6,
+    "SPD": 19.2,
+    "Sonstige": 19.2,
+    "GRÜNE": 15.9,
+    "AfD": 7.6,
+    "FDP": 5.3,
+    "DIE LINKE": 4.1
+   }
+  },
+  "06435020": {
+   "name": "Neuberg",
+   "beteiligung": 57.4,
+   "parteien": {
+    "SPD": 33.8,
+    "CDU": 25.3,
+    "FREIE WÄHLER": 16.0,
+    "FDP": 13.6,
+    "Sonstige": 11.3
+   }
+  },
+  "06435021": {
+   "name": "Nidderau, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "SPD": 38.2,
+    "CDU": 30.8,
+    "GRÜNE": 17.0,
+    "AfD": 6.3,
+    "FREIE WÄHLER": 5.9,
+    "FDP": 1.9
+   }
+  },
+  "06435022": {
+   "name": "Niederdorfelden",
+   "beteiligung": 55.0,
+   "parteien": {
+    "SPD": 54.6,
+    "Sonstige": 30.6,
+    "GRÜNE": 14.8
+   }
+  },
+  "06435023": {
+   "name": "Rodenbach",
+   "beteiligung": 56.1,
+   "parteien": {
+    "SPD": 40.5,
+    "CDU": 37.8,
+    "GRÜNE": 11.3,
+    "FDP": 10.4
+   }
+  },
+  "06435024": {
+   "name": "Ronneburg",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 52.8,
+    "SPD": 32.5,
+    "FDP": 8.3,
+    "DIE LINKE": 6.4
+   }
+  },
+  "06435025": {
+   "name": "Schlüchtern, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "CDU": 28.3,
+    "SPD": 24.3,
+    "AfD": 17.4,
+    "GRÜNE": 11.0,
+    "Sonstige": 9.8,
+    "FDP": 5.2,
+    "DIE LINKE": 4.0
+   }
+  },
+  "06435026": {
+   "name": "Schöneck",
+   "beteiligung": 57.0,
+   "parteien": {
+    "CDU": 34.0,
+    "Sonstige": 21.5,
+    "SPD": 21.3,
+    "GRÜNE": 17.3,
+    "FDP": 5.8
+   }
+  },
+  "06435027": {
+   "name": "Sinntal",
+   "beteiligung": 63.2,
+   "parteien": {
+    "Sonstige": 47.7,
+    "SPD": 27.2,
+    "CDU": 25.1
+   }
+  },
+  "06435028": {
+   "name": "Steinau an der Straße, Brüder-Grimm-Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "Sonstige": 72.8,
+    "SPD": 27.2
+   }
+  },
+  "06435029": {
+   "name": "Wächtersbach, Stadt",
+   "beteiligung": 55.7,
+   "parteien": {
+    "Sonstige": 41.1,
+    "SPD": 38.3,
+    "CDU": 11.8,
+    "GRÜNE": 5.5,
+    "DIE LINKE": 3.3
+   }
+  },
+  "06436001": {
+   "name": "Bad Soden am Taunus, Stadt",
+   "beteiligung": 56.6,
+   "parteien": {
+    "CDU": 46.9,
+    "GRÜNE": 18.5,
+    "SPD": 13.1,
+    "Sonstige": 11.9,
+    "FDP": 9.6
+   }
+  },
+  "06436002": {
+   "name": "Eppstein, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "CDU": 39.6,
+    "GRÜNE": 18.9,
+    "SPD": 18.8,
+    "Sonstige": 15.7,
+    "FDP": 6.9
+   }
+  },
+  "06436003": {
+   "name": "Eschborn, Stadt",
+   "beteiligung": 51.6,
+   "parteien": {
+    "CDU": 36.3,
+    "GRÜNE": 16.7,
+    "SPD": 16.7,
+    "FDP": 15.5,
+    "Sonstige": 14.8
+   }
+  },
+  "06436004": {
+   "name": "Flörsheim am Main, Stadt",
+   "beteiligung": 52.9,
+   "parteien": {
+    "Sonstige": 40.2,
+    "CDU": 32.4,
+    "SPD": 17.5,
+    "FDP": 9.9
+   }
+  },
+  "06436005": {
+   "name": "Hattersheim am Main, Stadt",
+   "beteiligung": 51.3,
+   "parteien": {
+    "CDU": 50.3,
+    "SPD": 20.7,
+    "GRÜNE": 15.0,
+    "FDP": 6.3,
+    "DIE LINKE": 5.6,
+    "Sonstige": 2.1
+   }
+  },
+  "06436006": {
+   "name": "Hochheim am Main, Stadt",
+   "beteiligung": 56.2,
+   "parteien": {
+    "CDU": 29.8,
+    "Sonstige": 26.0,
+    "GRÜNE": 20.5,
+    "SPD": 15.8,
+    "FDP": 7.8
+   }
+  },
+  "06436007": {
+   "name": "Hofheim am Taunus, Kreisstadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "CDU": 27.3,
+    "Sonstige": 27.2,
+    "GRÜNE": 17.3,
+    "SPD": 12.5,
+    "AfD": 5.7,
+    "DIE LINKE": 5.1,
+    "FDP": 4.9
+   }
+  },
+  "06436008": {
+   "name": "Kelkheim (Taunus), Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "CDU": 41.5,
+    "Sonstige": 37.2,
+    "SPD": 11.6,
+    "FDP": 9.7
+   }
+  },
+  "06436009": {
+   "name": "Kriftel",
+   "beteiligung": 57.9,
+   "parteien": {
+    "CDU": 53.9,
+    "GRÜNE": 19.8,
+    "SPD": 15.5,
+    "FDP": 10.7
+   }
+  },
+  "06436010": {
+   "name": "Liederbach am Taunus",
+   "beteiligung": 58.0,
+   "parteien": {
+    "CDU": 41.4,
+    "Sonstige": 21.3,
+    "GRÜNE": 17.1,
+    "SPD": 13.0,
+    "FDP": 7.2
+   }
+  },
+  "06436011": {
+   "name": "Schwalbach am Taunus, Stadt",
+   "beteiligung": 53.4,
+   "parteien": {
+    "CDU": 37.3,
+    "GRÜNE": 25.6,
+    "SPD": 24.1,
+    "Sonstige": 12.9
+   }
+  },
+  "06436012": {
+   "name": "Sulzbach (Taunus)",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 34.5,
+    "SPD": 19.1,
+    "GRÜNE": 17.7,
+    "Sonstige": 17.1,
+    "FDP": 6.0,
+    "FREIE WÄHLER": 5.6
+   }
+  },
+  "06437001": {
+   "name": "Bad König, Stadt",
+   "beteiligung": 56.8,
+   "parteien": {
+    "Sonstige": 46.9,
+    "SPD": 20.4,
+    "CDU": 19.2,
+    "GRÜNE": 7.4,
+    "AfD": 6.2
+   }
+  },
+  "06437003": {
+   "name": "Brensbach",
+   "beteiligung": 66.0,
+   "parteien": {
+    "SPD": 45.9,
+    "Sonstige": 27.7,
+    "CDU": 26.5
+   }
+  },
+  "06437004": {
+   "name": "Breuberg, Stadt",
+   "beteiligung": 53.0,
+   "parteien": {
+    "Sonstige": 49.2,
+    "SPD": 32.2,
+    "CDU": 9.7,
+    "GRÜNE": 8.9
+   }
+  },
+  "06437005": {
+   "name": "Brombachtal",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CDU": 42.0,
+    "Sonstige": 19.8,
+    "AfD": 18.6,
+    "SPD": 10.9,
+    "GRÜNE": 8.7
+   }
+  },
+  "06437006": {
+   "name": "Erbach, Kreisstadt",
+   "beteiligung": 50.8,
+   "parteien": {
+    "SPD": 30.6,
+    "CDU": 28.7,
+    "Sonstige": 23.1,
+    "GRÜNE": 13.3,
+    "AfD": 4.3
+   }
+  },
+  "06437007": {
+   "name": "Fränkisch-Crumbach",
+   "beteiligung": 70.3,
+   "parteien": {
+    "SPD": 40.9,
+    "CDU": 37.2,
+    "FDP": 12.2,
+    "GRÜNE": 9.7
+   }
+  },
+  "06437009": {
+   "name": "Höchst i. Odw.",
+   "beteiligung": 51.1,
+   "parteien": {
+    "Sonstige": 38.2,
+    "SPD": 25.5,
+    "CDU": 21.1,
+    "GRÜNE": 15.2
+   }
+  },
+  "06437010": {
+   "name": "Lützelbach",
+   "beteiligung": 56.7,
+   "parteien": {
+    "Sonstige": 57.5,
+    "SPD": 24.8,
+    "CDU": 17.7
+   }
+  },
+  "06437011": {
+   "name": "Michelstadt, Stadt",
+   "beteiligung": 56.9,
+   "parteien": {
+    "SPD": 29.6,
+    "CDU": 25.0,
+    "Sonstige": 24.3,
+    "GRÜNE": 13.8,
+    "FDP": 7.2
+   }
+  },
+  "06437012": {
+   "name": "Mossautal",
+   "beteiligung": 64.7,
+   "parteien": {
+    "Sonstige": 50.5,
+    "CDU": 30.5,
+    "SPD": 19.0
+   }
+  },
+  "06437013": {
+   "name": "Reichelsheim (Odenwald)",
+   "beteiligung": 61.7,
+   "parteien": {
+    "Sonstige": 50.3,
+    "SPD": 26.2,
+    "GRÜNE": 13.1,
+    "AfD": 10.4
+   }
+  },
+  "06437016": {
+   "name": "Oberzent, Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "Sonstige": 32.8,
+    "CDU": 29.4,
+    "SPD": 26.6,
+    "GRÜNE": 11.1
+   }
+  },
+  "06438001": {
+   "name": "Dietzenbach, Kreisstadt",
+   "beteiligung": 45.2,
+   "parteien": {
+    "CDU": 30.9,
+    "SPD": 23.5,
+    "GRÜNE": 17.4,
+    "AfD": 11.2,
+    "DIE LINKE": 7.0,
+    "FDP": 5.4,
+    "Sonstige": 4.6
+   }
+  },
+  "06438002": {
+   "name": "Dreieich, Stadt",
+   "beteiligung": 53.9,
+   "parteien": {
+    "CDU": 33.5,
+    "SPD": 20.5,
+    "GRÜNE": 19.2,
+    "AfD": 12.2,
+    "Sonstige": 7.3,
+    "FDP": 6.3,
+    "DIE LINKE": 1.0
+   }
+  },
+  "06438003": {
+   "name": "Egelsbach",
+   "beteiligung": 56.1,
+   "parteien": {
+    "GRÜNE": 32.0,
+    "CDU": 23.1,
+    "SPD": 19.4,
+    "Sonstige": 18.5,
+    "FDP": 7.0
+   }
+  },
+  "06438004": {
+   "name": "Hainburg",
+   "beteiligung": 58.1,
+   "parteien": {
+    "CDU": 52.9,
+    "GRÜNE": 16.2,
+    "SPD": 13.7,
+    "AfD": 6.8,
+    "Sonstige": 6.3,
+    "FDP": 4.0
+   }
+  },
+  "06438005": {
+   "name": "Heusenstamm, Stadt",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 42.7,
+    "SPD": 21.2,
+    "GRÜNE": 15.1,
+    "AfD": 10.4,
+    "FDP": 6.5,
+    "Sonstige": 4.1
+   }
+  },
+  "06438006": {
+   "name": "Langen (Hessen), Stadt",
+   "beteiligung": 44.6,
+   "parteien": {
+    "CDU": 25.7,
+    "GRÜNE": 24.9,
+    "Sonstige": 14.6,
+    "AfD": 13.3,
+    "SPD": 12.6,
+    "DIE LINKE": 5.3,
+    "FDP": 3.6
+   }
+  },
+  "06438007": {
+   "name": "Mainhausen",
+   "beteiligung": 62.1,
+   "parteien": {
+    "SPD": 47.1,
+    "CDU": 15.9,
+    "GRÜNE": 12.5,
+    "AfD": 12.4,
+    "Sonstige": 7.1,
+    "FDP": 5.0
+   }
+  },
+  "06438008": {
+   "name": "Mühlheim am Main, Stadt",
+   "beteiligung": 51.2,
+   "parteien": {
+    "CDU": 26.5,
+    "SPD": 24.0,
+    "AfD": 16.8,
+    "GRÜNE": 14.0,
+    "Sonstige": 13.1,
+    "Die PARTEI": 2.9,
+    "FDP": 2.8
+   }
+  },
+  "06438009": {
+   "name": "Neu-Isenburg, Hugenotten- und Waldenserstadt",
+   "beteiligung": 44.7,
+   "parteien": {
+    "CDU": 27.2,
+    "SPD": 19.5,
+    "GRÜNE": 15.0,
+    "AfD": 13.7,
+    "Sonstige": 12.1,
+    "DIE LINKE": 6.8,
+    "FDP": 5.8
+   }
+  },
+  "06438010": {
+   "name": "Obertshausen, Stadt",
+   "beteiligung": 43.3,
+   "parteien": {
+    "CDU": 41.5,
+    "GRÜNE": 16.3,
+    "SPD": 15.5,
+    "Sonstige": 13.6,
+    "AfD": 9.6,
+    "FDP": 3.4
+   }
+  },
+  "06438011": {
+   "name": "Rodgau, Stadt",
+   "beteiligung": 55.3,
+   "parteien": {
+    "CDU": 32.9,
+    "SPD": 15.3,
+    "AfD": 14.8,
+    "Sonstige": 13.9,
+    "GRÜNE": 13.8,
+    "DIE LINKE": 4.8,
+    "FDP": 4.5
+   }
+  },
+  "06438012": {
+   "name": "Rödermark, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "CDU": 35.4,
+    "Sonstige": 30.5,
+    "AfD": 15.1,
+    "SPD": 12.3,
+    "FDP": 6.6
+   }
+  },
+  "06438013": {
+   "name": "Seligenstadt, Einhardstadt",
+   "beteiligung": 65.1,
+   "parteien": {
+    "CDU": 30.9,
+    "GRÜNE": 18.4,
+    "SPD": 15.2,
+    "AfD": 14.1,
+    "FDP": 14.0,
+    "Sonstige": 7.4
+   }
+  },
+  "06439001": {
+   "name": "Aarbergen",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 40.2,
+    "Sonstige": 27.6,
+    "SPD": 16.6,
+    "GRÜNE": 15.6
+   }
+  },
+  "06439002": {
+   "name": "Bad Schwalbach, Kreisstadt",
+   "beteiligung": 50.7,
+   "parteien": {
+    "CDU": 40.6,
+    "GRÜNE": 21.7,
+    "Sonstige": 20.8,
+    "SPD": 16.9
+   }
+  },
+  "06439003": {
+   "name": "Eltville am Rhein, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "CDU": 42.7,
+    "GRÜNE": 22.2,
+    "SPD": 14.8,
+    "AfD": 10.8,
+    "FDP": 4.8,
+    "Sonstige": 4.8
+   }
+  },
+  "06439004": {
+   "name": "Geisenheim, Hochschulstadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 28.3,
+    "SPD": 20.0,
+    "GRÜNE": 17.9,
+    "AfD": 14.3,
+    "Sonstige": 10.8,
+    "FDP": 8.7
+   }
+  },
+  "06439005": {
+   "name": "Heidenrod",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 33.4,
+    "SPD": 29.6,
+    "AfD": 17.8,
+    "GRÜNE": 10.6,
+    "Sonstige": 8.5
+   }
+  },
+  "06439006": {
+   "name": "Hohenstein",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 41.1,
+    "SPD": 37.9,
+    "Sonstige": 17.6,
+    "GRÜNE": 3.5
+   }
+  },
+  "06439007": {
+   "name": "Hünstetten",
+   "beteiligung": 64.4,
+   "parteien": {
+    "Sonstige": 50.6,
+    "CDU": 18.3,
+    "SPD": 14.6,
+    "GRÜNE": 13.3,
+    "FDP": 3.2
+   }
+  },
+  "06439008": {
+   "name": "Idstein, Hochschulstadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "CDU": 34.1,
+    "GRÜNE": 17.9,
+    "SPD": 17.4,
+    "AfD": 11.7,
+    "Sonstige": 8.4,
+    "DIE LINKE": 5.3,
+    "FDP": 5.2
+   }
+  },
+  "06439009": {
+   "name": "Kiedrich",
+   "beteiligung": 66.0,
+   "parteien": {
+    "SPD": 50.0,
+    "CDU": 25.1,
+    "GRÜNE": 16.9,
+    "FDP": 8.0
+   }
+  },
+  "06439010": {
+   "name": "Lorch, Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "Sonstige": 36.0,
+    "CDU": 34.3,
+    "SPD": 18.5,
+    "AfD": 11.2
+   }
+  },
+  "06439011": {
+   "name": "Niedernhausen",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 38.7,
+    "SPD": 18.7,
+    "GRÜNE": 17.3,
+    "Sonstige": 16.7,
+    "FDP": 8.6
+   }
+  },
+  "06439012": {
+   "name": "Oestrich-Winkel, Stadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "SPD": 42.1,
+    "CDU": 26.9,
+    "GRÜNE": 12.0,
+    "AfD": 10.8,
+    "FDP": 8.3
+   }
+  },
+  "06439013": {
+   "name": "Rüdesheim am Rhein, Stadt",
+   "beteiligung": 50.7,
+   "parteien": {
+    "Sonstige": 55.9,
+    "CDU": 26.1,
+    "AfD": 9.3,
+    "SPD": 8.7
+   }
+  },
+  "06439014": {
+   "name": "Schlangenbad",
+   "beteiligung": 61.6,
+   "parteien": {
+    "Sonstige": 40.0,
+    "CDU": 31.0,
+    "GRÜNE": 15.0,
+    "SPD": 9.7,
+    "FDP": 4.3
+   }
+  },
+  "06439015": {
+   "name": "Taunusstein, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "CDU": 33.1,
+    "SPD": 22.3,
+    "GRÜNE": 16.3,
+    "AfD": 15.7,
+    "Sonstige": 8.0,
+    "FDP": 4.7
+   }
+  },
+  "06439016": {
+   "name": "Waldems",
+   "beteiligung": 60.7,
+   "parteien": {
+    "CDU": 42.6,
+    "SPD": 23.9,
+    "Sonstige": 17.6,
+    "GRÜNE": 16.0
+   }
+  },
+  "06439017": {
+   "name": "Walluf",
+   "beteiligung": 62.0,
+   "parteien": {
+    "SPD": 44.1,
+    "CDU": 30.4,
+    "Sonstige": 16.7,
+    "FDP": 8.9
+   }
+  },
+  "06440001": {
+   "name": "Altenstadt",
+   "beteiligung": 55.8,
+   "parteien": {
+    "CDU": 31.0,
+    "Sonstige": 24.5,
+    "SPD": 21.0,
+    "GRÜNE": 12.9,
+    "FDP": 5.5,
+    "DIE LINKE": 5.1
+   }
+  },
+  "06440002": {
+   "name": "Bad Nauheim, Stadt",
+   "beteiligung": 51.8,
+   "parteien": {
+    "CDU": 29.6,
+    "Sonstige": 26.0,
+    "GRÜNE": 21.0,
+    "SPD": 14.5,
+    "FDP": 8.9
+   }
+  },
+  "06440003": {
+   "name": "Bad Vilbel, Stadt",
+   "beteiligung": 58.5,
+   "parteien": {
+    "CDU": 41.7,
+    "GRÜNE": 23.8,
+    "SPD": 14.4,
+    "AfD": 9.1,
+    "DIE LINKE": 5.5,
+    "FDP": 5.5
+   }
+  },
+  "06440004": {
+   "name": "Büdingen, Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 27.2,
+    "Sonstige": 26.9,
+    "AfD": 19.2,
+    "SPD": 15.1,
+    "GRÜNE": 8.8,
+    "FDP": 2.7
+   }
+  },
+  "06440005": {
+   "name": "Butzbach, Friedrich-Ludwig-Weidig-Stadt",
+   "beteiligung": 55.1,
+   "parteien": {
+    "CDU": 38.1,
+    "SPD": 21.0,
+    "GRÜNE": 14.4,
+    "Sonstige": 12.1,
+    "DIE LINKE": 8.4,
+    "FDP": 5.9
+   }
+  },
+  "06440006": {
+   "name": "Echzell",
+   "beteiligung": 60.2,
+   "parteien": {
+    "CDU": 40.5,
+    "SPD": 38.0,
+    "GRÜNE": 21.5
+   }
+  },
+  "06440007": {
+   "name": "Florstadt, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "CDU": 38.1,
+    "SPD": 34.0,
+    "GRÜNE": 16.4,
+    "FREIE WÄHLER": 11.5
+   }
+  },
+  "06440008": {
+   "name": "Friedberg (Hessen), Kreisstadt",
+   "beteiligung": 50.5,
+   "parteien": {
+    "CDU": 30.8,
+    "GRÜNE": 23.0,
+    "SPD": 18.7,
+    "Sonstige": 13.7,
+    "DIE LINKE": 7.9,
+    "FDP": 5.8
+   }
+  },
+  "06440009": {
+   "name": "Gedern, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "Sonstige": 60.5,
+    "CDU": 27.4,
+    "SPD": 12.1
+   }
+  },
+  "06440010": {
+   "name": "Glauburg",
+   "beteiligung": 62.5,
+   "parteien": {
+    "Sonstige": 42.5,
+    "SPD": 22.5,
+    "CDU": 17.8,
+    "GRÜNE": 17.2
+   }
+  },
+  "06440011": {
+   "name": "Hirzenhain",
+   "beteiligung": 53.6,
+   "parteien": {
+    "Sonstige": 61.9,
+    "CDU": 38.1
+   }
+  },
+  "06440012": {
+   "name": "Karben, Stadt",
+   "beteiligung": 59.1,
+   "parteien": {
+    "CDU": 51.2,
+    "SPD": 13.9,
+    "GRÜNE": 12.9,
+    "AfD": 10.3,
+    "FREIE WÄHLER": 5.1,
+    "DIE LINKE": 4.7,
+    "FDP": 1.9
+   }
+  },
+  "06440013": {
+   "name": "Kefenrod",
+   "beteiligung": 59.6,
+   "parteien": {
+    "Sonstige": 44.0,
+    "SPD": 29.4,
+    "CDU": 26.6
+   }
+  },
+  "06440014": {
+   "name": "Limeshain",
+   "beteiligung": 54.4,
+   "parteien": {
+    "SPD": 44.5,
+    "Sonstige": 42.0,
+    "GRÜNE": 13.5
+   }
+  },
+  "06440015": {
+   "name": "Münzenberg, Stadt",
+   "beteiligung": 64.7,
+   "parteien": {
+    "CDU": 42.9,
+    "SPD": 31.9,
+    "Sonstige": 25.2
+   }
+  },
+  "06440016": {
+   "name": "Nidda, Johannes-Pistorius-Stadt",
+   "beteiligung": 55.8,
+   "parteien": {
+    "CDU": 36.5,
+    "Sonstige": 25.9,
+    "SPD": 24.5,
+    "GRÜNE": 10.1,
+    "FDP": 2.9
+   }
+  },
+  "06440017": {
+   "name": "Niddatal, Stadt",
+   "beteiligung": 62.3,
+   "parteien": {
+    "CDU": 49.5,
+    "SPD": 25.1,
+    "GRÜNE": 12.6,
+    "FDP": 6.6,
+    "DIE LINKE": 6.1
+   }
+  },
+  "06440018": {
+   "name": "Ober-Mörlen",
+   "beteiligung": 59.9,
+   "parteien": {
+    "CDU": 35.7,
+    "SPD": 30.8,
+    "Sonstige": 22.9,
+    "GRÜNE": 10.6
+   }
+  },
+  "06440019": {
+   "name": "Ortenberg, Stadt",
+   "beteiligung": 55.8,
+   "parteien": {
+    "Sonstige": 41.1,
+    "CDU": 27.4,
+    "SPD": 20.3,
+    "GRÜNE": 11.3
+   }
+  },
+  "06440020": {
+   "name": "Ranstadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "SPD": 32.0,
+    "CDU": 29.5,
+    "Sonstige": 28.7,
+    "GRÜNE": 9.8
+   }
+  },
+  "06440021": {
+   "name": "Reichelsheim (Wetterau), Stadt",
+   "beteiligung": 62.2,
+   "parteien": {
+    "SPD": 42.9,
+    "CDU": 29.8,
+    "FREIE WÄHLER": 18.8,
+    "GRÜNE": 8.5
+   }
+  },
+  "06440022": {
+   "name": "Rockenberg",
+   "beteiligung": 66.1,
+   "parteien": {
+    "Sonstige": 40.9,
+    "CDU": 39.2,
+    "SPD": 20.0
+   }
+  },
+  "06440023": {
+   "name": "Rosbach v. d. Höhe, Stadt",
+   "beteiligung": 54.0,
+   "parteien": {
+    "Sonstige": 36.6,
+    "CDU": 27.7,
+    "GRÜNE": 16.9,
+    "SPD": 11.8,
+    "FDP": 7.0
+   }
+  },
+  "06440024": {
+   "name": "Wölfersheim",
+   "beteiligung": 61.7,
+   "parteien": {
+    "SPD": 56.8,
+    "CDU": 16.2,
+    "GRÜNE": 13.8,
+    "Sonstige": 13.2
+   }
+  },
+  "06440025": {
+   "name": "Wöllstadt",
+   "beteiligung": 62.5,
+   "parteien": {
+    "Sonstige": 48.0,
+    "CDU": 41.6,
+    "SPD": 10.4
+   }
+  },
+  "06531001": {
+   "name": "Allendorf (Lumda), Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "Sonstige": 38.6,
+    "SPD": 21.8,
+    "CDU": 17.4,
+    "GRÜNE": 12.5,
+    "AfD": 9.7
+   }
+  },
+  "06531002": {
+   "name": "Biebertal",
+   "beteiligung": 62.7,
+   "parteien": {
+    "Sonstige": 41.5,
+    "SPD": 22.0,
+    "CDU": 16.8,
+    "GRÜNE": 16.0,
+    "FDP": 3.6
+   }
+  },
+  "06531003": {
+   "name": "Buseck",
+   "beteiligung": 61.6,
+   "parteien": {
+    "Sonstige": 39.9,
+    "CDU": 23.3,
+    "SPD": 22.6,
+    "GRÜNE": 12.8,
+    "FDP": 1.3
+   }
+  },
+  "06531004": {
+   "name": "Fernwald",
+   "beteiligung": 61.6,
+   "parteien": {
+    "SPD": 30.0,
+    "Sonstige": 27.0,
+    "CDU": 26.9,
+    "GRÜNE": 16.1
+   }
+  },
+  "06531005": {
+   "name": "Gießen, Universitätsstadt",
+   "beteiligung": 56.0,
+   "parteien": {
+    "CDU": 21.8,
+    "SPD": 19.2,
+    "GRÜNE": 17.3,
+    "DIE LINKE": 14.2,
+    "Sonstige": 12.7,
+    "AfD": 7.6,
+    "FDP": 3.3,
+    "BSW": 2.3,
+    "Die PARTEI": 1.7
+   }
+  },
+  "06531006": {
+   "name": "Grünberg, Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "CDU": 35.9,
+    "Sonstige": 28.3,
+    "SPD": 16.5,
+    "GRÜNE": 13.8,
+    "FDP": 5.5
+   }
+  },
+  "06531007": {
+   "name": "Heuchelheim a. d. Lahn",
+   "beteiligung": 63.1,
+   "parteien": {
+    "CDU": 31.5,
+    "GRÜNE": 22.6,
+    "SPD": 22.5,
+    "Sonstige": 20.6,
+    "FDP": 2.8
+   }
+  },
+  "06531008": {
+   "name": "Hungen, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "Sonstige": 29.6,
+    "CDU": 23.0,
+    "AfD": 18.4,
+    "SPD": 16.6,
+    "GRÜNE": 12.3
+   }
+  },
+  "06531009": {
+   "name": "Langgöns",
+   "beteiligung": 55.1,
+   "parteien": {
+    "CDU": 43.1,
+    "SPD": 23.5,
+    "GRÜNE": 20.4,
+    "Sonstige": 13.0
+   }
+  },
+  "06531010": {
+   "name": "Laubach, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "Sonstige": 29.0,
+    "CDU": 23.5,
+    "AfD": 17.4,
+    "SPD": 12.9,
+    "GRÜNE": 10.1,
+    "DIE LINKE": 5.2,
+    "FDP": 1.9
+   }
+  },
+  "06531011": {
+   "name": "Lich, Stadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "Sonstige": 36.8,
+    "CDU": 20.3,
+    "SPD": 18.6,
+    "GRÜNE": 13.8,
+    "FDP": 10.5
+   }
+  },
+  "06531012": {
+   "name": "Linden, Stadt",
+   "beteiligung": 55.7,
+   "parteien": {
+    "CDU": 40.0,
+    "SPD": 18.2,
+    "GRÜNE": 16.7,
+    "FREIE WÄHLER": 8.4,
+    "DIE LINKE": 6.1,
+    "AfD": 5.6,
+    "BSW": 2.9,
+    "FDP": 2.0
+   }
+  },
+  "06531013": {
+   "name": "Lollar, Stadt",
+   "beteiligung": 52.5,
+   "parteien": {
+    "CDU": 29.2,
+    "Sonstige": 27.1,
+    "SPD": 21.3,
+    "GRÜNE": 16.1,
+    "FDP": 6.3
+   }
+  },
+  "06531014": {
+   "name": "Pohlheim, Stadt",
+   "beteiligung": 56.4,
+   "parteien": {
+    "CDU": 34.5,
+    "SPD": 30.1,
+    "FREIE WÄHLER": 15.7,
+    "GRÜNE": 14.7,
+    "FDP": 4.9
+   }
+  },
+  "06531015": {
+   "name": "Rabenau",
+   "beteiligung": 63.8,
+   "parteien": {
+    "Sonstige": 43.1,
+    "AfD": 18.8,
+    "CDU": 15.1,
+    "SPD": 14.9,
+    "GRÜNE": 8.2
+   }
+  },
+  "06531016": {
+   "name": "Reiskirchen",
+   "beteiligung": 55.5,
+   "parteien": {
+    "Sonstige": 32.5,
+    "CDU": 29.5,
+    "SPD": 26.5,
+    "GRÜNE": 11.5
+   }
+  },
+  "06531017": {
+   "name": "Staufenberg, Stadt",
+   "beteiligung": 58.2,
+   "parteien": {
+    "SPD": 38.9,
+    "Sonstige": 33.4,
+    "CDU": 24.3,
+    "FDP": 3.4
+   }
+  },
+  "06531018": {
+   "name": "Wettenberg",
+   "beteiligung": 64.1,
+   "parteien": {
+    "SPD": 30.2,
+    "CDU": 27.1,
+    "Sonstige": 19.9,
+    "GRÜNE": 16.8,
+    "FDP": 5.9
+   }
+  },
+  "06532001": {
+   "name": "Aßlar, Stadt",
+   "beteiligung": 46.9,
+   "parteien": {
+    "Sonstige": 40.2,
+    "CDU": 25.4,
+    "SPD": 23.0,
+    "GRÜNE": 11.3
+   }
+  },
+  "06532002": {
+   "name": "Bischoffen",
+   "beteiligung": 56.8,
+   "parteien": {
+    "Sonstige": 51.7,
+    "CDU": 34.9,
+    "GRÜNE": 13.5
+   }
+  },
+  "06532003": {
+   "name": "Braunfels, Stadt",
+   "beteiligung": 51.2,
+   "parteien": {
+    "Sonstige": 41.0,
+    "CDU": 31.3,
+    "SPD": 15.4,
+    "GRÜNE": 12.3
+   }
+  },
+  "06532004": {
+   "name": "Breitscheid",
+   "beteiligung": 51.9,
+   "parteien": {
+    "Sonstige": 42.1,
+    "CDU": 40.5,
+    "SPD": 17.4
+   }
+  },
+  "06532005": {
+   "name": "Dietzhölztal, Hochschulgemeinde",
+   "beteiligung": 42.0,
+   "parteien": {
+    "CDU": 41.8,
+    "SPD": 34.7,
+    "Sonstige": 17.5,
+    "FDP": 6.0
+   }
+  },
+  "06532006": {
+   "name": "Dillenburg, Oranienstadt",
+   "beteiligung": 43.3,
+   "parteien": {
+    "CDU": 32.9,
+    "AfD": 18.9,
+    "SPD": 18.4,
+    "FDP": 12.6,
+    "GRÜNE": 11.9,
+    "Sonstige": 5.2
+   }
+  },
+  "06532007": {
+   "name": "Driedorf",
+   "beteiligung": 59.7,
+   "parteien": {
+    "CDU": 39.4,
+    "SPD": 23.8,
+    "Sonstige": 20.9,
+    "AfD": 15.9
+   }
+  },
+  "06532008": {
+   "name": "Ehringshausen",
+   "beteiligung": 54.7,
+   "parteien": {
+    "CDU": 43.9,
+    "SPD": 28.7,
+    "Sonstige": 27.4
+   }
+  },
+  "06532009": {
+   "name": "Eschenburg",
+   "beteiligung": 48.3,
+   "parteien": {
+    "CDU": 47.0,
+    "SPD": 24.1,
+    "Sonstige": 17.8,
+    "AfD": 11.1
+   }
+  },
+  "06532010": {
+   "name": "Greifenstein",
+   "beteiligung": 60.2,
+   "parteien": {
+    "CDU": 28.6,
+    "SPD": 27.8,
+    "AfD": 20.6,
+    "Sonstige": 10.9,
+    "GRÜNE": 6.2,
+    "FDP": 6.0
+   }
+  },
+  "06532011": {
+   "name": "Haiger, Stadt",
+   "beteiligung": 53.6,
+   "parteien": {
+    "Sonstige": 38.5,
+    "CDU": 31.4,
+    "AfD": 15.0,
+    "SPD": 11.7,
+    "FDP": 3.4
+   }
+  },
+  "06532012": {
+   "name": "Herborn, Stadt",
+   "beteiligung": 47.6,
+   "parteien": {
+    "CDU": 38.6,
+    "Sonstige": 21.9,
+    "SPD": 20.6,
+    "GRÜNE": 14.9,
+    "FDP": 4.0
+   }
+  },
+  "06532013": {
+   "name": "Hohenahr",
+   "beteiligung": 61.5,
+   "parteien": {
+    "CDU": 42.5,
+    "SPD": 40.1,
+    "GRÜNE": 17.4
+   }
+  },
+  "06532014": {
+   "name": "Hüttenberg",
+   "beteiligung": 62.4,
+   "parteien": {
+    "Sonstige": 39.5,
+    "CDU": 25.7,
+    "GRÜNE": 17.7,
+    "SPD": 14.7,
+    "FDP": 2.4
+   }
+  },
+  "06532015": {
+   "name": "Lahnau",
+   "beteiligung": 58.7,
+   "parteien": {
+    "SPD": 33.3,
+    "CDU": 29.8,
+    "Sonstige": 24.8,
+    "GRÜNE": 12.1
+   }
+  },
+  "06532016": {
+   "name": "Leun, Stadt",
+   "beteiligung": 55.1,
+   "parteien": {
+    "CDU": 36.7,
+    "Sonstige": 31.5,
+    "SPD": 18.0,
+    "GRÜNE": 13.7
+   }
+  },
+  "06532017": {
+   "name": "Mittenaar",
+   "beteiligung": 51.3,
+   "parteien": {
+    "CDU": 38.6,
+    "SPD": 38.3,
+    "FDP": 12.6,
+    "GRÜNE": 10.5
+   }
+  },
+  "06532018": {
+   "name": "Schöffengrund",
+   "beteiligung": 58.4,
+   "parteien": {
+    "Sonstige": 44.9,
+    "CDU": 23.0,
+    "SPD": 17.3,
+    "GRÜNE": 13.8,
+    "FDP": 0.9
+   }
+  },
+  "06532019": {
+   "name": "Siegbach",
+   "beteiligung": 56.2,
+   "parteien": {
+    "CDU": 48.5,
+    "SPD": 26.9,
+    "GRÜNE": 24.6
+   }
+  },
+  "06532020": {
+   "name": "Sinn",
+   "beteiligung": 50.9,
+   "parteien": {
+    "CDU": 39.9,
+    "Sonstige": 21.7,
+    "SPD": 19.9,
+    "GRÜNE": 18.4
+   }
+  },
+  "06532021": {
+   "name": "Solms, Stadt",
+   "beteiligung": 50.2,
+   "parteien": {
+    "Sonstige": 53.3,
+    "SPD": 20.8,
+    "CDU": 16.0,
+    "GRÜNE": 10.0
+   }
+  },
+  "06532022": {
+   "name": "Waldsolms",
+   "beteiligung": 57.7,
+   "parteien": {
+    "Sonstige": 34.3,
+    "CDU": 32.7,
+    "GRÜNE": 17.4,
+    "SPD": 15.6
+   }
+  },
+  "06532023": {
+   "name": "Wetzlar, Stadt",
+   "beteiligung": 47.4,
+   "parteien": {
+    "CDU": 29.9,
+    "SPD": 24.1,
+    "AfD": 14.2,
+    "GRÜNE": 11.4,
+    "Sonstige": 8.1,
+    "DIE LINKE": 6.4,
+    "FDP": 3.4,
+    "Die PARTEI": 2.4
+   }
+  },
+  "06533001": {
+   "name": "Beselich",
+   "beteiligung": 55.4,
+   "parteien": {
+    "Sonstige": 46.5,
+    "CDU": 32.5,
+    "SPD": 21.0
+   }
+  },
+  "06533002": {
+   "name": "Brechen",
+   "beteiligung": 62.3,
+   "parteien": {
+    "Sonstige": 46.3,
+    "CDU": 28.5,
+    "GRÜNE": 11.8,
+    "SPD": 9.3,
+    "FDP": 4.1
+   }
+  },
+  "06533003": {
+   "name": "Bad Camberg, Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 55.8,
+    "SPD": 21.3,
+    "GRÜNE": 15.5,
+    "AfD": 4.2,
+    "DIE LINKE": 3.2
+   }
+  },
+  "06533004": {
+   "name": "Dornburg",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 45.0,
+    "Sonstige": 39.1,
+    "SPD": 12.9,
+    "FDP": 3.0
+   }
+  },
+  "06533005": {
+   "name": "Elbtal",
+   "beteiligung": 56.0,
+   "parteien": {
+    "Sonstige": 40.6,
+    "CDU": 39.0,
+    "SPD": 20.4
+   }
+  },
+  "06533006": {
+   "name": "Elz",
+   "beteiligung": 56.9,
+   "parteien": {
+    "CDU": 53.1,
+    "SPD": 25.8,
+    "Sonstige": 15.6,
+    "DIE LINKE": 5.5
+   }
+  },
+  "06533007": {
+   "name": "Hadamar, Stadt",
+   "beteiligung": 48.9,
+   "parteien": {
+    "Sonstige": 41.8,
+    "CDU": 32.4,
+    "SPD": 12.9,
+    "GRÜNE": 12.8
+   }
+  },
+  "06533008": {
+   "name": "Hünfelden",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 34.4,
+    "SPD": 27.0,
+    "GRÜNE": 12.8,
+    "Sonstige": 10.8,
+    "AfD": 10.0,
+    "FDP": 5.0
+   }
+  },
+  "06533009": {
+   "name": "Limburg a. d. Lahn, Kreisstadt",
+   "beteiligung": 49.4,
+   "parteien": {
+    "CDU": 40.3,
+    "SPD": 19.7,
+    "GRÜNE": 14.9,
+    "AfD": 12.5,
+    "FDP": 5.3,
+    "DIE LINKE": 3.3,
+    "FREIE WÄHLER": 2.1,
+    "Sonstige": 2.0
+   }
+  },
+  "06533010": {
+   "name": "Löhnberg",
+   "beteiligung": 60.8,
+   "parteien": {
+    "Sonstige": 42.5,
+    "SPD": 24.1,
+    "GRÜNE": 18.3,
+    "CDU": 15.1
+   }
+  },
+  "06533011": {
+   "name": "Mengerskirchen, Marktflecken",
+   "beteiligung": 55.5,
+   "parteien": {
+    "CDU": 48.7,
+    "SPD": 29.1,
+    "Sonstige": 14.0,
+    "GRÜNE": 8.2
+   }
+  },
+  "06533012": {
+   "name": "Merenberg, Marktflecken",
+   "beteiligung": 60.3,
+   "parteien": {
+    "SPD": 45.3,
+    "CDU": 24.0,
+    "AfD": 12.5,
+    "GRÜNE": 10.7,
+    "Sonstige": 7.5
+   }
+  },
+  "06533013": {
+   "name": "Runkel, Stadt",
+   "beteiligung": 56.4,
+   "parteien": {
+    "CDU": 38.8,
+    "SPD": 27.3,
+    "Sonstige": 14.6,
+    "GRÜNE": 10.8,
+    "AfD": 8.6
+   }
+  },
+  "06533014": {
+   "name": "Selters (Taunus)",
+   "beteiligung": 51.4,
+   "parteien": {
+    "Sonstige": 50.3,
+    "CDU": 26.4,
+    "SPD": 13.6,
+    "GRÜNE": 9.6
+   }
+  },
+  "06533015": {
+   "name": "Villmar, Marktflecken",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 40.1,
+    "SPD": 28.3,
+    "Sonstige": 20.2,
+    "GRÜNE": 11.4
+   }
+  },
+  "06533016": {
+   "name": "Waldbrunn (Westerwald)",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 42.5,
+    "Sonstige": 39.2,
+    "SPD": 18.3
+   }
+  },
+  "06533017": {
+   "name": "Weilburg, Stadt",
+   "beteiligung": 52.6,
+   "parteien": {
+    "CDU": 46.6,
+    "SPD": 27.2,
+    "GRÜNE": 14.6,
+    "FDP": 11.5
+   }
+  },
+  "06533018": {
+   "name": "Weilmünster, Marktflecken",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 44.5,
+    "SPD": 35.0,
+    "Sonstige": 20.4
+   }
+  },
+  "06533019": {
+   "name": "Weinbach",
+   "beteiligung": 59.2,
+   "parteien": {
+    "SPD": 33.1,
+    "CDU": 30.6,
+    "Sonstige": 17.8,
+    "AfD": 11.5,
+    "GRÜNE": 7.1
+   }
+  },
+  "06534001": {
+   "name": "Amöneburg, Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "CDU": 40.1,
+    "Sonstige": 30.8,
+    "SPD": 20.2,
+    "GRÜNE": 8.9
+   }
+  },
+  "06534002": {
+   "name": "Angelburg",
+   "beteiligung": 54.8,
+   "parteien": {
+    "Sonstige": 43.9,
+    "SPD": 28.3,
+    "CDU": 27.8
+   }
+  },
+  "06534003": {
+   "name": "Bad Endbach",
+   "beteiligung": 51.2,
+   "parteien": {
+    "CDU": 38.3,
+    "Sonstige": 31.2,
+    "SPD": 30.5
+   }
+  },
+  "06534004": {
+   "name": "Biedenkopf, Stadt",
+   "beteiligung": 52.8,
+   "parteien": {
+    "Sonstige": 45.1,
+    "CDU": 26.9,
+    "SPD": 18.1,
+    "GRÜNE": 9.9
+   }
+  },
+  "06534005": {
+   "name": "Breidenbach",
+   "beteiligung": 47.7,
+   "parteien": {
+    "Sonstige": 41.9,
+    "SPD": 30.1,
+    "CDU": 28.0
+   }
+  },
+  "06534006": {
+   "name": "Cölbe",
+   "beteiligung": 58.6,
+   "parteien": {
+    "GRÜNE": 28.5,
+    "CDU": 26.2,
+    "SPD": 24.1,
+    "Sonstige": 21.3
+   }
+  },
+  "06534007": {
+   "name": "Dautphetal",
+   "beteiligung": 60.1,
+   "parteien": {
+    "Sonstige": 38.8,
+    "CDU": 37.2,
+    "SPD": 23.9
+   }
+  },
+  "06534008": {
+   "name": "Ebsdorfergrund",
+   "beteiligung": 64.7,
+   "parteien": {
+    "Sonstige": 32.6,
+    "SPD": 32.1,
+    "CDU": 23.0,
+    "GRÜNE": 12.2
+   }
+  },
+  "06534009": {
+   "name": "Fronhausen",
+   "beteiligung": 66.4,
+   "parteien": {
+    "CDU": 35.1,
+    "SPD": 24.1,
+    "Sonstige": 23.6,
+    "GRÜNE": 17.3
+   }
+  },
+  "06534010": {
+   "name": "Gladenbach, Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 31.9,
+    "SPD": 25.2,
+    "Sonstige": 20.2,
+    "FREIE WÄHLER": 13.6,
+    "GRÜNE": 9.1
+   }
+  },
+  "06534011": {
+   "name": "Kirchhain, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 30.5,
+    "SPD": 28.5,
+    "AfD": 18.4,
+    "GRÜNE": 8.6,
+    "Sonstige": 7.5,
+    "DIE LINKE": 4.2,
+    "FDP": 2.2
+   }
+  },
+  "06534012": {
+   "name": "Lahntal",
+   "beteiligung": 58.7,
+   "parteien": {
+    "Sonstige": 40.4,
+    "SPD": 24.6,
+    "CDU": 19.3,
+    "GRÜNE": 15.6
+   }
+  },
+  "06534013": {
+   "name": "Lohra",
+   "beteiligung": 62.3,
+   "parteien": {
+    "Sonstige": 60.0,
+    "SPD": 16.0,
+    "CDU": 14.0,
+    "GRÜNE": 10.0
+   }
+  },
+  "06534014": {
+   "name": "Marburg, Universitätsstadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CDU": 23.0,
+    "GRÜNE": 18.8,
+    "SPD": 16.8,
+    "Sonstige": 15.2,
+    "DIE LINKE": 12.7,
+    "AfD": 7.8,
+    "FDP": 3.1,
+    "FREIE WÄHLER": 1.7,
+    "Die PARTEI": 0.8
+   }
+  },
+  "06534015": {
+   "name": "Münchhausen",
+   "beteiligung": 63.4,
+   "parteien": {
+    "CDU": 49.9,
+    "SPD": 34.8,
+    "Sonstige": 15.3
+   }
+  },
+  "06534016": {
+   "name": "Neustadt (Hessen), Stadt",
+   "beteiligung": 54.6,
+   "parteien": {
+    "CDU": 57.9,
+    "SPD": 23.1,
+    "Sonstige": 19.0
+   }
+  },
+  "06534017": {
+   "name": "Rauschenberg, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "Sonstige": 32.3,
+    "CDU": 29.3,
+    "SPD": 22.2,
+    "GRÜNE": 16.3
+   }
+  },
+  "06534018": {
+   "name": "Stadtallendorf, Stadt",
+   "beteiligung": 44.1,
+   "parteien": {
+    "CDU": 34.5,
+    "SPD": 31.5,
+    "Sonstige": 13.6,
+    "FDP": 12.8,
+    "GRÜNE": 7.7
+   }
+  },
+  "06534019": {
+   "name": "Steffenberg",
+   "beteiligung": 57.4,
+   "parteien": {
+    "Sonstige": 51.1,
+    "SPD": 26.3,
+    "CDU": 22.6
+   }
+  },
+  "06534020": {
+   "name": "Weimar (Lahn)",
+   "beteiligung": 66.2,
+   "parteien": {
+    "Sonstige": 34.2,
+    "CDU": 27.7,
+    "SPD": 21.6,
+    "GRÜNE": 16.4
+   }
+  },
+  "06534021": {
+   "name": "Wetter (Hessen), Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "SPD": 42.0,
+    "CDU": 39.9,
+    "GRÜNE": 18.1
+   }
+  },
+  "06535001": {
+   "name": "Alsfeld, Stadt",
+   "beteiligung": 57.2,
+   "parteien": {
+    "CDU": 51.7,
+    "SPD": 22.3,
+    "Sonstige": 14.8,
+    "GRÜNE": 11.3
+   }
+  },
+  "06535002": {
+   "name": "Antrifttal",
+   "beteiligung": 69.9,
+   "parteien": {
+    "Sonstige": 100.0
+   },
+   "hinweis": "GERDA weist hier nur örtliche Listen, Wählervereinigungen oder Einzelbewerber zusammengefasst als Sonstige aus."
+  },
+  "06535003": {
+   "name": "Feldatal",
+   "beteiligung": 70.0,
+   "parteien": {
+    "Sonstige": 100.0
+   },
+   "hinweis": "GERDA weist hier nur örtliche Listen, Wählervereinigungen oder Einzelbewerber zusammengefasst als Sonstige aus."
+  },
+  "06535004": {
+   "name": "Freiensteinau",
+   "beteiligung": 70.8,
+   "parteien": {
+    "Sonstige": 87.5,
+    "SPD": 12.5
+   }
+  },
+  "06535005": {
+   "name": "Gemünden (Felda)",
+   "beteiligung": 59.2,
+   "parteien": {
+    "Sonstige": 81.1,
+    "SPD": 18.9
+   }
+  },
+  "06535006": {
+   "name": "Grebenau, Stadt",
+   "beteiligung": 66.4,
+   "parteien": {
+    "Sonstige": 71.8,
+    "CDU": 15.0,
+    "SPD": 13.2
+   }
+  },
+  "06535007": {
+   "name": "Grebenhain",
+   "beteiligung": 66.4,
+   "parteien": {
+    "CDU": 51.2,
+    "SPD": 48.8
+   }
+  },
+  "06535008": {
+   "name": "Herbstein, Stadt",
+   "beteiligung": 65.5,
+   "parteien": {
+    "CDU": 50.4,
+    "SPD": 29.1,
+    "Sonstige": 20.6
+   }
+  },
+  "06535009": {
+   "name": "Homberg (Ohm), Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "Sonstige": 47.6,
+    "SPD": 26.0,
+    "AfD": 16.2,
+    "GRÜNE": 10.2
+   }
+  },
+  "06535010": {
+   "name": "Kirtorf, Stadt",
+   "beteiligung": 66.2,
+   "parteien": {
+    "Sonstige": 100.0
+   },
+   "hinweis": "GERDA weist hier nur örtliche Listen, Wählervereinigungen oder Einzelbewerber zusammengefasst als Sonstige aus."
+  },
+  "06535011": {
+   "name": "Lauterbach (Hessen), Kreisstadt",
+   "beteiligung": 63.8,
+   "parteien": {
+    "CDU": 47.2,
+    "SPD": 22.9,
+    "GRÜNE": 13.9,
+    "FDP": 10.1,
+    "DIE LINKE": 5.8
+   }
+  },
+  "06535012": {
+   "name": "Lautertal (Vogelsberg)",
+   "beteiligung": 69.6,
+   "parteien": {
+    "SPD": 60.3,
+    "CDU": 39.7
+   }
+  },
+  "06535013": {
+   "name": "Mücke",
+   "beteiligung": 62.7,
+   "parteien": {
+    "Sonstige": 53.7,
+    "SPD": 19.1,
+    "CDU": 17.6,
+    "GRÜNE": 9.6
+   }
+  },
+  "06535014": {
+   "name": "Romrod, Stadt",
+   "beteiligung": 64.9,
+   "parteien": {
+    "Sonstige": 58.9,
+    "SPD": 41.1
+   }
+  },
+  "06535015": {
+   "name": "Schlitz, Stadt",
+   "beteiligung": 62.2,
+   "parteien": {
+    "CDU": 52.2,
+    "SPD": 21.0,
+    "Sonstige": 17.6,
+    "FDP": 9.2
+   }
+  },
+  "06535016": {
+   "name": "Schotten, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "SPD": 37.0,
+    "CDU": 33.0,
+    "FREIE WÄHLER": 19.2,
+    "GRÜNE": 10.8
+   }
+  },
+  "06535017": {
+   "name": "Schwalmtal",
+   "beteiligung": 67.8,
+   "parteien": {
+    "Sonstige": 56.4,
+    "SPD": 25.2,
+    "AfD": 9.7,
+    "GRÜNE": 8.7
+   }
+  },
+  "06535018": {
+   "name": "Ulrichstein, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "Sonstige": 35.3,
+    "CDU": 32.9,
+    "SPD": 31.8
+   }
+  },
+  "06535019": {
+   "name": "Wartenberg",
+   "beteiligung": 60.7,
+   "parteien": {
+    "Sonstige": 56.0,
+    "SPD": 16.5,
+    "CDU": 15.6,
+    "GRÜNE": 11.9
+   }
+  },
+  "06611000": {
+   "name": "Kassel, documenta-Stadt",
+   "beteiligung": 50.9,
+   "parteien": {
+    "GRÜNE": 22.4,
+    "CDU": 20.0,
+    "SPD": 19.9,
+    "DIE LINKE": 15.1,
+    "AfD": 11.3,
+    "Sonstige": 3.6,
+    "FDP": 3.3,
+    "BSW": 3.1,
+    "FREIE WÄHLER": 0.8,
+    "Die PARTEI": 0.6
+   }
+  },
+  "06631001": {
+   "name": "Bad Salzschlirf",
+   "beteiligung": 53.0,
+   "parteien": {
+    "Sonstige": 48.1,
+    "CDU": 35.5,
+    "SPD": 16.4
+   }
+  },
+  "06631002": {
+   "name": "Burghaun, Marktgemeinde",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 58.0,
+    "SPD": 31.6,
+    "FDP": 10.4
+   }
+  },
+  "06631003": {
+   "name": "Dipperz",
+   "beteiligung": 68.3,
+   "parteien": {
+    "Sonstige": 51.3,
+    "CDU": 42.5,
+    "SPD": 6.3
+   }
+  },
+  "06631004": {
+   "name": "Ebersburg",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 58.4,
+    "Sonstige": 41.6
+   }
+  },
+  "06631005": {
+   "name": "Ehrenberg (Rhön)",
+   "beteiligung": 73.1,
+   "parteien": {
+    "Sonstige": 65.6,
+    "CDU": 34.4
+   }
+  },
+  "06631006": {
+   "name": "Eichenzell",
+   "beteiligung": 62.5,
+   "parteien": {
+    "CDU": 48.2,
+    "Sonstige": 30.1,
+    "SPD": 16.9,
+    "FDP": 4.7
+   }
+  },
+  "06631007": {
+   "name": "Eiterfeld, Marktgemeinde",
+   "beteiligung": 69.3,
+   "parteien": {
+    "CDU": 51.0,
+    "Sonstige": 35.2,
+    "SPD": 6.9,
+    "GRÜNE": 6.0,
+    "FDP": 0.8
+   }
+  },
+  "06631008": {
+   "name": "Flieden",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 51.4,
+    "Sonstige": 15.9,
+    "SPD": 12.2,
+    "FDP": 9.4,
+    "GRÜNE": 7.2,
+    "Die PARTEI": 3.9
+   }
+  },
+  "06631009": {
+   "name": "Fulda, Stadt",
+   "beteiligung": 52.0,
+   "parteien": {
+    "CDU": 37.9,
+    "AfD": 20.1,
+    "GRÜNE": 12.1,
+    "SPD": 9.2,
+    "Sonstige": 9.0,
+    "DIE LINKE": 5.2,
+    "FDP": 3.1,
+    "FREIE WÄHLER": 2.1,
+    "Die PARTEI": 1.3
+   }
+  },
+  "06631010": {
+   "name": "Gersfeld (Rhön), Stadt",
+   "beteiligung": 61.3,
+   "parteien": {
+    "Sonstige": 41.5,
+    "SPD": 34.4,
+    "CDU": 24.1
+   }
+  },
+  "06631011": {
+   "name": "Großenlüder",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 56.6,
+    "Sonstige": 31.1,
+    "SPD": 12.3
+   }
+  },
+  "06631012": {
+   "name": "Hilders, Marktgemeinde",
+   "beteiligung": 67.6,
+   "parteien": {
+    "CDU": 54.7,
+    "Sonstige": 45.3
+   }
+  },
+  "06631013": {
+   "name": "Hofbieber",
+   "beteiligung": 68.6,
+   "parteien": {
+    "CDU": 74.8,
+    "Sonstige": 15.7,
+    "FDP": 5.9,
+    "SPD": 3.6
+   }
+  },
+  "06631014": {
+   "name": "Hosenfeld",
+   "beteiligung": 67.0,
+   "parteien": {
+    "Sonstige": 54.0,
+    "CDU": 46.0
+   }
+  },
+  "06631015": {
+   "name": "Hünfeld, Konrad-Zuse-Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "CDU": 60.2,
+    "SPD": 12.3,
+    "Sonstige": 10.1,
+    "FDP": 8.8,
+    "GRÜNE": 8.5
+   }
+  },
+  "06631016": {
+   "name": "Kalbach",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CDU": 43.3,
+    "Sonstige": 28.3,
+    "SPD": 27.7,
+    "FDP": 0.6
+   }
+  },
+  "06631017": {
+   "name": "Künzell",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 50.9,
+    "Sonstige": 19.0,
+    "GRÜNE": 14.0,
+    "SPD": 10.7,
+    "FDP": 5.4
+   }
+  },
+  "06631018": {
+   "name": "Neuhof",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 50.8,
+    "AfD": 15.3,
+    "SPD": 13.3,
+    "Sonstige": 12.5,
+    "GRÜNE": 7.3,
+    "FDP": 0.8
+   }
+  },
+  "06631019": {
+   "name": "Nüsttal",
+   "beteiligung": 71.2,
+   "parteien": {
+    "CDU": 74.0,
+    "Sonstige": 26.0
+   }
+  },
+  "06631020": {
+   "name": "Petersberg",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 48.5,
+    "Sonstige": 30.2,
+    "GRÜNE": 15.1,
+    "FDP": 6.2
+   }
+  },
+  "06631021": {
+   "name": "Poppenhausen (Wasserkuppe)",
+   "beteiligung": 74.5,
+   "parteien": {
+    "CDU": 44.2,
+    "FREIE WÄHLER": 39.0,
+    "Sonstige": 16.8
+   }
+  },
+  "06631023": {
+   "name": "Tann (Rhön), Stadt",
+   "beteiligung": 60.0,
+   "parteien": {
+    "CDU": 57.1,
+    "SPD": 42.9
+   }
+  },
+  "06632001": {
+   "name": "Alheim",
+   "beteiligung": 64.0,
+   "parteien": {
+    "Sonstige": 46.4,
+    "CDU": 37.5,
+    "GRÜNE": 8.3,
+    "FDP": 7.9
+   }
+  },
+  "06632002": {
+   "name": "Bad Hersfeld, Kreisstadt",
+   "beteiligung": 48.5,
+   "parteien": {
+    "SPD": 31.0,
+    "CDU": 25.6,
+    "Sonstige": 18.9,
+    "GRÜNE": 12.7,
+    "FDP": 11.8
+   }
+  },
+  "06632003": {
+   "name": "Bebra, Stadt",
+   "beteiligung": 51.2,
+   "parteien": {
+    "CDU": 39.6,
+    "Sonstige": 27.7,
+    "SPD": 25.0,
+    "GRÜNE": 6.3,
+    "FDP": 1.3
+   }
+  },
+  "06632004": {
+   "name": "Breitenbach a. Herzberg",
+   "beteiligung": 67.1,
+   "parteien": {
+    "Sonstige": 52.0,
+    "SPD": 42.8,
+    "DIE LINKE": 5.1
+   }
+  },
+  "06632005": {
+   "name": "Cornberg",
+   "beteiligung": 62.6,
+   "parteien": {
+    "Sonstige": 50.7,
+    "SPD": 49.3
+   }
+  },
+  "06632006": {
+   "name": "Friedewald",
+   "beteiligung": 58.4,
+   "parteien": {
+    "SPD": 46.6,
+    "Sonstige": 27.7,
+    "CDU": 25.7
+   }
+  },
+  "06632007": {
+   "name": "Hauneck",
+   "beteiligung": 61.5,
+   "parteien": {
+    "Sonstige": 37.9,
+    "SPD": 34.6,
+    "CDU": 21.8,
+    "GRÜNE": 5.7
+   }
+  },
+  "06632008": {
+   "name": "Haunetal, Marktgemeinde",
+   "beteiligung": 71.7,
+   "parteien": {
+    "CDU": 44.2,
+    "Sonstige": 33.3,
+    "SPD": 22.4
+   }
+  },
+  "06632009": {
+   "name": "Heringen (Werra), Stadt",
+   "beteiligung": 55.3,
+   "parteien": {
+    "Sonstige": 39.2,
+    "SPD": 37.6,
+    "CDU": 23.2
+   }
+  },
+  "06632010": {
+   "name": "Hohenroda",
+   "beteiligung": 61.5,
+   "parteien": {
+    "SPD": 41.5,
+    "Sonstige": 35.0,
+    "FDP": 13.2,
+    "CDU": 10.3
+   }
+  },
+  "06632011": {
+   "name": "Kirchheim",
+   "beteiligung": 58.8,
+   "parteien": {
+    "CDU": 61.3,
+    "Sonstige": 38.7
+   }
+  },
+  "06632012": {
+   "name": "Ludwigsau",
+   "beteiligung": 65.4,
+   "parteien": {
+    "SPD": 40.3,
+    "Sonstige": 31.4,
+    "CDU": 28.3
+   }
+  },
+  "06632013": {
+   "name": "Nentershausen",
+   "beteiligung": 66.2,
+   "parteien": {
+    "Sonstige": 43.3,
+    "SPD": 30.1,
+    "CDU": 26.6
+   }
+  },
+  "06632014": {
+   "name": "Neuenstein",
+   "beteiligung": 58.4,
+   "parteien": {
+    "CDU": 57.0,
+    "SPD": 43.0
+   }
+  },
+  "06632015": {
+   "name": "Niederaula, Marktgemeinde",
+   "beteiligung": 62.7,
+   "parteien": {
+    "Sonstige": 57.7,
+    "SPD": 36.4,
+    "GRÜNE": 6.0
+   }
+  },
+  "06632016": {
+   "name": "Philippsthal (Werra), Marktgemeinde",
+   "beteiligung": 57.4,
+   "parteien": {
+    "SPD": 36.8,
+    "Sonstige": 33.8,
+    "CDU": 29.3
+   }
+  },
+  "06632017": {
+   "name": "Ronshausen",
+   "beteiligung": 66.3,
+   "parteien": {
+    "SPD": 50.8,
+    "CDU": 37.9,
+    "FDP": 11.4
+   }
+  },
+  "06632018": {
+   "name": "Rotenburg a. d. Fulda, Stadt",
+   "beteiligung": 55.1,
+   "parteien": {
+    "CDU": 35.8,
+    "Sonstige": 29.6,
+    "SPD": 27.1,
+    "GRÜNE": 7.4
+   }
+  },
+  "06632019": {
+   "name": "Schenklengsfeld",
+   "beteiligung": 66.1,
+   "parteien": {
+    "Sonstige": 70.7,
+    "SPD": 29.3
+   }
+  },
+  "06632020": {
+   "name": "Wildeck",
+   "beteiligung": 67.3,
+   "parteien": {
+    "Sonstige": 56.4,
+    "SPD": 20.8,
+    "CDU": 18.2,
+    "GRÜNE": 4.5
+   }
+  },
+  "06633001": {
+   "name": "Ahnatal",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 34.2,
+    "SPD": 29.7,
+    "GRÜNE": 19.0,
+    "Sonstige": 17.1
+   }
+  },
+  "06633002": {
+   "name": "Bad Karlshafen, Stadt",
+   "beteiligung": 48.9,
+   "parteien": {
+    "SPD": 40.0,
+    "Sonstige": 35.4,
+    "CDU": 24.5
+   }
+  },
+  "06633003": {
+   "name": "Baunatal, Stadt",
+   "beteiligung": 50.6,
+   "parteien": {
+    "Sonstige": 35.1,
+    "SPD": 32.6,
+    "CDU": 17.4,
+    "GRÜNE": 12.9,
+    "FDP": 2.0
+   }
+  },
+  "06633004": {
+   "name": "Breuna",
+   "beteiligung": 65.6,
+   "parteien": {
+    "SPD": 59.3,
+    "CDU": 40.7
+   }
+  },
+  "06633005": {
+   "name": "Calden",
+   "beteiligung": 58.9,
+   "parteien": {
+    "SPD": 47.3,
+    "Sonstige": 26.4,
+    "CDU": 26.2
+   }
+  },
+  "06633006": {
+   "name": "Bad Emstal",
+   "beteiligung": 54.9,
+   "parteien": {
+    "SPD": 37.4,
+    "CDU": 28.6,
+    "Sonstige": 25.1,
+    "DIE LINKE": 8.9
+   }
+  },
+  "06633007": {
+   "name": "Espenau",
+   "beteiligung": 59.0,
+   "parteien": {
+    "Sonstige": 50.5,
+    "SPD": 26.9,
+    "CDU": 22.6
+   }
+  },
+  "06633008": {
+   "name": "Fuldabrück",
+   "beteiligung": 60.1,
+   "parteien": {
+    "SPD": 40.0,
+    "CDU": 39.2,
+    "GRÜNE": 14.3,
+    "FDP": 6.5
+   }
+  },
+  "06633009": {
+   "name": "Fuldatal",
+   "beteiligung": 54.0,
+   "parteien": {
+    "CDU": 38.7,
+    "SPD": 29.8,
+    "GRÜNE": 16.6,
+    "DIE LINKE": 6.9,
+    "FDP": 4.3,
+    "FREIE WÄHLER": 3.8
+   }
+  },
+  "06633010": {
+   "name": "Grebenstein, Stadt",
+   "beteiligung": 61.1,
+   "parteien": {
+    "Sonstige": 45.8,
+    "SPD": 25.9,
+    "CDU": 22.9,
+    "FDP": 5.4
+   }
+  },
+  "06633011": {
+   "name": "Habichtswald",
+   "beteiligung": 63.6,
+   "parteien": {
+    "SPD": 50.2,
+    "CDU": 23.3,
+    "Sonstige": 17.8,
+    "GRÜNE": 8.7
+   }
+  },
+  "06633012": {
+   "name": "Helsa",
+   "beteiligung": 53.7,
+   "parteien": {
+    "SPD": 43.4,
+    "CDU": 42.1,
+    "Sonstige": 14.4
+   }
+  },
+  "06633013": {
+   "name": "Hofgeismar, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "SPD": 42.0,
+    "CDU": 41.1,
+    "Sonstige": 11.6,
+    "FDP": 5.3
+   }
+  },
+  "06633014": {
+   "name": "Immenhausen, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "SPD": 46.4,
+    "Sonstige": 27.9,
+    "CDU": 25.7
+   }
+  },
+  "06633015": {
+   "name": "Kaufungen, Kunigundengemeinde",
+   "beteiligung": 58.7,
+   "parteien": {
+    "Sonstige": 32.2,
+    "SPD": 31.8,
+    "CDU": 23.1,
+    "GRÜNE": 12.9
+   }
+  },
+  "06633016": {
+   "name": "Liebenau, Stadt",
+   "beteiligung": 64.0,
+   "parteien": {
+    "Sonstige": 53.6,
+    "SPD": 36.4,
+    "CDU": 10.0
+   }
+  },
+  "06633017": {
+   "name": "Lohfelden",
+   "beteiligung": 51.6,
+   "parteien": {
+    "SPD": 39.3,
+    "CDU": 28.0,
+    "Sonstige": 18.3,
+    "GRÜNE": 14.5
+   }
+  },
+  "06633018": {
+   "name": "Naumburg, Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 41.7,
+    "SPD": 33.3,
+    "Sonstige": 18.3,
+    "DIE LINKE": 6.7
+   }
+  },
+  "06633019": {
+   "name": "Nieste",
+   "beteiligung": 61.8,
+   "parteien": {
+    "SPD": 52.6,
+    "CDU": 35.6,
+    "DIE LINKE": 11.8
+   }
+  },
+  "06633020": {
+   "name": "Niestetal",
+   "beteiligung": 54.9,
+   "parteien": {
+    "SPD": 39.7,
+    "CDU": 29.8,
+    "Sonstige": 19.0,
+    "GRÜNE": 11.5
+   }
+  },
+  "06633022": {
+   "name": "Reinhardshagen",
+   "beteiligung": 60.3,
+   "parteien": {
+    "Sonstige": 63.4,
+    "SPD": 31.4,
+    "CDU": 5.2
+   }
+  },
+  "06633023": {
+   "name": "Schauenburg",
+   "beteiligung": 59.3,
+   "parteien": {
+    "SPD": 41.0,
+    "CDU": 24.7,
+    "Sonstige": 21.7,
+    "GRÜNE": 12.6
+   }
+  },
+  "06633024": {
+   "name": "Söhrewald",
+   "beteiligung": 60.8,
+   "parteien": {
+    "SPD": 54.2,
+    "CDU": 24.2,
+    "Sonstige": 21.6
+   }
+  },
+  "06633025": {
+   "name": "Trendelburg, Stadt",
+   "beteiligung": 63.2,
+   "parteien": {
+    "Sonstige": 46.0,
+    "SPD": 30.8,
+    "CDU": 23.1
+   }
+  },
+  "06633026": {
+   "name": "Vellmar, Stadt",
+   "beteiligung": 56.4,
+   "parteien": {
+    "SPD": 41.4,
+    "CDU": 34.7,
+    "GRÜNE": 17.0,
+    "AfD": 7.0
+   }
+  },
+  "06633028": {
+   "name": "Wolfhagen, Hans-Staden-Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 31.9,
+    "SPD": 30.7,
+    "Sonstige": 24.9,
+    "GRÜNE": 7.8,
+    "DIE LINKE": 4.7
+   }
+  },
+  "06633029": {
+   "name": "Zierenberg, Stadt",
+   "beteiligung": 61.3,
+   "parteien": {
+    "Sonstige": 41.8,
+    "SPD": 24.7,
+    "CDU": 21.5,
+    "GRÜNE": 12.0
+   }
+  },
+  "06633030": {
+   "name": "Wesertal",
+   "beteiligung": 58.9,
+   "parteien": {
+    "SPD": 47.0,
+    "Sonstige": 33.9,
+    "CDU": 19.2
+   }
+  },
+  "06634001": {
+   "name": "Borken (Hessen), Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "SPD": 33.1,
+    "Sonstige": 30.7,
+    "CDU": 24.8,
+    "AfD": 11.4
+   }
+  },
+  "06634002": {
+   "name": "Edermünde",
+   "beteiligung": 64.3,
+   "parteien": {
+    "SPD": 42.2,
+    "CDU": 25.9,
+    "Sonstige": 19.9,
+    "GRÜNE": 12.0
+   }
+  },
+  "06634003": {
+   "name": "Felsberg, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "SPD": 35.4,
+    "CDU": 23.6,
+    "Sonstige": 14.7,
+    "GRÜNE": 11.9,
+    "AfD": 9.5,
+    "FDP": 5.0
+   }
+  },
+  "06634004": {
+   "name": "Frielendorf, Marktflecken",
+   "beteiligung": 64.0,
+   "parteien": {
+    "SPD": 44.4,
+    "Sonstige": 33.1,
+    "CDU": 22.5
+   }
+  },
+  "06634005": {
+   "name": "Fritzlar, Dom- und Kaiserstadt",
+   "beteiligung": 58.7,
+   "parteien": {
+    "CDU": 47.3,
+    "SPD": 24.9,
+    "GRÜNE": 11.8,
+    "Sonstige": 11.5,
+    "FDP": 4.4
+   }
+  },
+  "06634006": {
+   "name": "Gilserberg",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 46.8,
+    "SPD": 30.5,
+    "CDU": 22.7
+   }
+  },
+  "06634007": {
+   "name": "Gudensberg, Stadt",
+   "beteiligung": 56.4,
+   "parteien": {
+    "Sonstige": 36.3,
+    "SPD": 27.1,
+    "CDU": 22.5,
+    "GRÜNE": 11.3,
+    "FDP": 2.8
+   }
+  },
+  "06634008": {
+   "name": "Guxhagen",
+   "beteiligung": 64.0,
+   "parteien": {
+    "SPD": 41.0,
+    "Sonstige": 29.6,
+    "CDU": 13.7,
+    "GRÜNE": 12.4,
+    "FREIE WÄHLER": 3.3
+   }
+  },
+  "06634009": {
+   "name": "Homberg (Efze), Reformationsstadt, Kreisstadt",
+   "beteiligung": 57.9,
+   "parteien": {
+    "CDU": 33.3,
+    "SPD": 28.1,
+    "Sonstige": 23.7,
+    "GRÜNE": 9.7,
+    "FDP": 5.3
+   }
+  },
+  "06634010": {
+   "name": "Jesberg",
+   "beteiligung": 66.5,
+   "parteien": {
+    "SPD": 51.1,
+    "CDU": 37.1,
+    "GRÜNE": 11.9
+   }
+  },
+  "06634011": {
+   "name": "Knüllwald",
+   "beteiligung": 63.2,
+   "parteien": {
+    "SPD": 44.7,
+    "Sonstige": 36.7,
+    "CDU": 18.5
+   }
+  },
+  "06634012": {
+   "name": "Körle",
+   "beteiligung": 66.0,
+   "parteien": {
+    "SPD": 62.3,
+    "CDU": 37.7
+   }
+  },
+  "06634013": {
+   "name": "Malsfeld",
+   "beteiligung": 69.2,
+   "parteien": {
+    "SPD": 39.0,
+    "Sonstige": 36.8,
+    "CDU": 12.6,
+    "FDP": 8.5,
+    "DIE LINKE": 3.1
+   }
+  },
+  "06634014": {
+   "name": "Melsungen, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "SPD": 45.6,
+    "FDP": 15.8,
+    "CDU": 12.5,
+    "GRÜNE": 11.3,
+    "AfD": 7.7,
+    "Sonstige": 7.0
+   }
+  },
+  "06634015": {
+   "name": "Morschen",
+   "beteiligung": 65.3,
+   "parteien": {
+    "SPD": 28.9,
+    "Sonstige": 28.2,
+    "FDP": 21.2,
+    "GRÜNE": 14.7,
+    "CDU": 7.0
+   }
+  },
+  "06634016": {
+   "name": "Neuental",
+   "beteiligung": 61.5,
+   "parteien": {
+    "SPD": 42.0,
+    "CDU": 30.8,
+    "Sonstige": 22.6,
+    "FDP": 4.7
+   }
+  },
+  "06634017": {
+   "name": "Neukirchen, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "Sonstige": 37.5,
+    "CDU": 25.9,
+    "SPD": 24.6,
+    "FDP": 12.0
+   }
+  },
+  "06634018": {
+   "name": "Niedenstein, Stadt",
+   "beteiligung": 60.2,
+   "parteien": {
+    "Sonstige": 40.3,
+    "SPD": 23.3,
+    "CDU": 18.0,
+    "GRÜNE": 12.7,
+    "DIE LINKE": 5.7
+   }
+  },
+  "06634019": {
+   "name": "Oberaula",
+   "beteiligung": 62.2,
+   "parteien": {
+    "CDU": 50.3,
+    "SPD": 31.4,
+    "Sonstige": 18.3
+   }
+  },
+  "06634020": {
+   "name": "Ottrau",
+   "beteiligung": 71.3,
+   "parteien": {
+    "Sonstige": 41.6,
+    "CDU": 35.4,
+    "SPD": 23.0
+   }
+  },
+  "06634021": {
+   "name": "Schrecksbach",
+   "beteiligung": 62.3,
+   "parteien": {
+    "SPD": 49.9,
+    "CDU": 26.3,
+    "Sonstige": 23.8
+   }
+  },
+  "06634022": {
+   "name": "Schwalmstadt, Konfirmationsstadt",
+   "beteiligung": 50.6,
+   "parteien": {
+    "SPD": 26.3,
+    "FREIE WÄHLER": 22.1,
+    "CDU": 22.0,
+    "Sonstige": 14.5,
+    "GRÜNE": 10.3,
+    "FDP": 4.8
+   }
+  },
+  "06634023": {
+   "name": "Schwarzenborn, Stadt",
+   "beteiligung": 62.4,
+   "parteien": {
+    "CDU": 40.5,
+    "SPD": 33.5,
+    "Sonstige": 26.0
+   }
+  },
+  "06634024": {
+   "name": "Spangenberg, Liebenbachstadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "SPD": 48.9,
+    "CDU": 38.9,
+    "FDP": 12.2
+   }
+  },
+  "06634025": {
+   "name": "Wabern",
+   "beteiligung": 58.6,
+   "parteien": {
+    "Sonstige": 42.7,
+    "SPD": 34.4,
+    "CDU": 18.1,
+    "FDP": 4.7
+   }
+  },
+  "06634026": {
+   "name": "Willingshausen",
+   "beteiligung": 62.3,
+   "parteien": {
+    "Sonstige": 37.9,
+    "SPD": 37.0,
+    "CDU": 25.0
+   }
+  },
+  "06634027": {
+   "name": "Bad Zwesten",
+   "beteiligung": 59.7,
+   "parteien": {
+    "CDU": 42.6,
+    "SPD": 35.9,
+    "GRÜNE": 13.3,
+    "DIE LINKE": 8.1
+   }
+  },
+  "06635001": {
+   "name": "Allendorf (Eder)",
+   "beteiligung": 52.5,
+   "parteien": {
+    "Sonstige": 56.1,
+    "CDU": 27.6,
+    "SPD": 16.3
+   }
+  },
+  "06635002": {
+   "name": "Bad Arolsen, Stadt",
+   "beteiligung": 55.9,
+   "parteien": {
+    "CDU": 35.5,
+    "SPD": 20.3,
+    "GRÜNE": 14.0,
+    "AfD": 11.3,
+    "FREIE WÄHLER": 10.2,
+    "FDP": 5.2,
+    "DIE LINKE": 3.6
+   }
+  },
+  "06635003": {
+   "name": "Bad Wildungen, Stadt",
+   "beteiligung": 48.1,
+   "parteien": {
+    "CDU": 35.6,
+    "SPD": 21.9,
+    "GRÜNE": 12.5,
+    "AfD": 12.4,
+    "FREIE WÄHLER": 10.8,
+    "DIE LINKE": 3.9,
+    "FDP": 2.8
+   }
+  },
+  "06635004": {
+   "name": "Battenberg (Eder), Stadt",
+   "beteiligung": 57.8,
+   "parteien": {
+    "Sonstige": 59.5,
+    "CDU": 21.0,
+    "SPD": 14.0,
+    "FDP": 5.5
+   }
+  },
+  "06635006": {
+   "name": "Burgwald",
+   "beteiligung": 59.5,
+   "parteien": {
+    "Sonstige": 74.0,
+    "SPD": 13.7,
+    "CDU": 12.3
+   }
+  },
+  "06635007": {
+   "name": "Diemelsee",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 30.2,
+    "Sonstige": 27.3,
+    "SPD": 26.9,
+    "FDP": 15.6
+   }
+  },
+  "06635008": {
+   "name": "Diemelstadt, Stadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "Sonstige": 34.7,
+    "CDU": 29.4,
+    "SPD": 25.7,
+    "GRÜNE": 10.2
+   }
+  },
+  "06635009": {
+   "name": "Edertal, Nationalparkgemeinde",
+   "beteiligung": 67.6,
+   "parteien": {
+    "SPD": 28.2,
+    "CDU": 22.9,
+    "FREIE WÄHLER": 20.4,
+    "GRÜNE": 11.1,
+    "Sonstige": 10.9,
+    "FDP": 6.5
+   }
+  },
+  "06635010": {
+   "name": "Frankenau, Nationalparkstadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "Sonstige": 42.1,
+    "SPD": 40.9,
+    "CDU": 13.7,
+    "DIE LINKE": 3.4
+   }
+  },
+  "06635011": {
+   "name": "Frankenberg (Eder), Philipp-Soldan-Stadt",
+   "beteiligung": 54.0,
+   "parteien": {
+    "CDU": 33.5,
+    "SPD": 25.1,
+    "Sonstige": 14.8,
+    "GRÜNE": 12.4,
+    "AfD": 9.0,
+    "FDP": 5.1
+   }
+  },
+  "06635012": {
+   "name": "Gemünden (Wohra), Stadt",
+   "beteiligung": 57.4,
+   "parteien": {
+    "Sonstige": 62.6,
+    "CDU": 37.4
+   }
+  },
+  "06635013": {
+   "name": "Haina (Kloster)",
+   "beteiligung": 60.9,
+   "parteien": {
+    "Sonstige": 79.8,
+    "SPD": 20.2
+   }
+  },
+  "06635014": {
+   "name": "Hatzfeld (Eder), Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "Sonstige": 68.4,
+    "CDU": 13.3,
+    "SPD": 10.7,
+    "AfD": 7.6
+   }
+  },
+  "06635015": {
+   "name": "Korbach, Hansestadt, Kreisstadt",
+   "beteiligung": 49.8,
+   "parteien": {
+    "CDU": 27.4,
+    "Sonstige": 26.0,
+    "SPD": 19.4,
+    "GRÜNE": 13.3,
+    "FDP": 9.7,
+    "DIE LINKE": 4.0
+   }
+  },
+  "06635016": {
+   "name": "Lichtenfels, Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "Sonstige": 32.2,
+    "CDU": 30.8,
+    "FDP": 18.6,
+    "SPD": 15.6,
+    "DIE LINKE": 2.7
+   }
+  },
+  "06635017": {
+   "name": "Rosenthal, Stadt",
+   "beteiligung": 68.3,
+   "parteien": {
+    "FDP": 40.0,
+    "CDU": 33.3,
+    "Sonstige": 26.7
+   }
+  },
+  "06635018": {
+   "name": "Twistetal",
+   "beteiligung": 64.5,
+   "parteien": {
+    "Sonstige": 46.2,
+    "CDU": 30.5,
+    "SPD": 12.9,
+    "GRÜNE": 10.4
+   }
+  },
+  "06635019": {
+   "name": "Vöhl, Nationalparkgemeinde",
+   "beteiligung": 63.1,
+   "parteien": {
+    "Sonstige": 37.0,
+    "CDU": 28.1,
+    "SPD": 27.6,
+    "FDP": 7.2
+   }
+  },
+  "06635020": {
+   "name": "Volkmarsen, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "CDU": 29.4,
+    "Sonstige": 29.4,
+    "SPD": 16.2,
+    "GRÜNE": 13.5,
+    "AfD": 11.5
+   }
+  },
+  "06635021": {
+   "name": "Waldeck, Nationalparkstadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 37.8,
+    "SPD": 22.9,
+    "AfD": 15.1,
+    "GRÜNE": 13.0,
+    "Sonstige": 8.2,
+    "DIE LINKE": 3.0
+   }
+  },
+  "06635022": {
+   "name": "Willingen (Upland)",
+   "beteiligung": 53.2,
+   "parteien": {
+    "CDU": 32.4,
+    "FDP": 26.0,
+    "Sonstige": 21.2,
+    "SPD": 20.4
+   }
+  },
+  "06636001": {
+   "name": "Bad Sooden-Allendorf, Stadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 43.3,
+    "SPD": 23.0,
+    "Sonstige": 14.8,
+    "GRÜNE": 12.2,
+    "DIE LINKE": 6.8
+   }
+  },
+  "06636002": {
+   "name": "Berkatal",
+   "beteiligung": 71.3,
+   "parteien": {
+    "CDU": 39.6,
+    "Sonstige": 39.0,
+    "SPD": 21.5
+   }
+  },
+  "06636003": {
+   "name": "Eschwege, Kreisstadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "CDU": 37.7,
+    "SPD": 36.7,
+    "GRÜNE": 9.9,
+    "Sonstige": 8.8,
+    "DIE LINKE": 4.0,
+    "FDP": 2.9
+   }
+  },
+  "06636004": {
+   "name": "Großalmerode, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "Sonstige": 49.0,
+    "SPD": 39.8,
+    "CDU": 11.2
+   }
+  },
+  "06636005": {
+   "name": "Herleshausen",
+   "beteiligung": 60.3,
+   "parteien": {
+    "Sonstige": 57.6,
+    "SPD": 22.4,
+    "CDU": 20.0
+   }
+  },
+  "06636006": {
+   "name": "Hessisch Lichtenau, Stadt",
+   "beteiligung": 50.9,
+   "parteien": {
+    "SPD": 40.1,
+    "Sonstige": 37.2,
+    "CDU": 22.7
+   }
+  },
+  "06636007": {
+   "name": "Meinhard",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Sonstige": 49.8,
+    "SPD": 33.7,
+    "CDU": 13.3,
+    "GRÜNE": 3.3
+   }
+  },
+  "06636008": {
+   "name": "Meißner",
+   "beteiligung": 70.5,
+   "parteien": {
+    "SPD": 48.8,
+    "Sonstige": 32.0,
+    "CDU": 19.2
+   }
+  },
+  "06636009": {
+   "name": "Neu-Eichenberg",
+   "beteiligung": 61.4,
+   "parteien": {
+    "SPD": 34.1,
+    "Sonstige": 32.3,
+    "CDU": 18.7,
+    "GRÜNE": 14.9
+   }
+  },
+  "06636010": {
+   "name": "Ringgau",
+   "beteiligung": 68.6,
+   "parteien": {
+    "Sonstige": 54.4,
+    "CDU": 23.6,
+    "SPD": 22.0
+   }
+  },
+  "06636011": {
+   "name": "Sontra, Stadt",
+   "beteiligung": 56.7,
+   "parteien": {
+    "SPD": 45.2,
+    "CDU": 30.8,
+    "AfD": 12.2,
+    "Sonstige": 9.1,
+    "GRÜNE": 2.7
+   }
+  },
+  "06636012": {
+   "name": "Waldkappel, Stadt",
+   "beteiligung": 71.7,
+   "parteien": {
+    "CDU": 35.3,
+    "Sonstige": 27.0,
+    "SPD": 26.6,
+    "GRÜNE": 7.2,
+    "DIE LINKE": 3.8
+   }
+  },
+  "06636013": {
+   "name": "Wanfried, Stadt",
+   "beteiligung": 60.5,
+   "parteien": {
+    "CDU": 42.9,
+    "SPD": 26.1,
+    "AfD": 9.7,
+    "GRÜNE": 9.2,
+    "Sonstige": 8.9,
+    "DIE LINKE": 3.2
+   }
+  },
+  "06636014": {
+   "name": "Wehretal",
+   "beteiligung": 58.9,
+   "parteien": {
+    "Sonstige": 46.9,
+    "SPD": 31.7,
+    "CDU": 21.4
+   }
+  },
+  "06636015": {
+   "name": "Weißenborn",
+   "beteiligung": 64.5,
+   "parteien": {
+    "Sonstige": 48.8,
+    "CDU": 25.7,
+    "SPD": 25.5
+   }
+  },
+  "06636016": {
+   "name": "Witzenhausen, Stadt",
+   "beteiligung": 62.0,
+   "parteien": {
+    "SPD": 27.4,
+    "CDU": 21.8,
+    "GRÜNE": 17.6,
+    "DIE LINKE": 14.0,
+    "Sonstige": 10.1,
+    "FDP": 9.1
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

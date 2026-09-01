@@ -1,0 +1,7876 @@
+{
+ "land": "12",
+ "name": "Brandenburg",
+ "titel": "Landtagswahl Brandenburg 2024",
+ "jahr": 2024,
+ "wahl_datum": "2024-09-22",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Wahl je Land, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/state_elections/final/state_harm_25.csv?download=",
+ "dataset": "state_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "12051000": {
+   "name": "Brandenburg an der Havel, Stadt",
+   "beteiligung": 65.4,
+   "parteien": {
+    "SPD": 32.9,
+    "AfD": 26.2,
+    "BSW": 14.3,
+    "CDU": 11.1,
+    "GRÜNE": 4.4,
+    "DIE LINKE": 3.2,
+    "FREIE WÄHLER": 2.9,
+    "Tierschutzpartei": 2.3,
+    "PLUS": 1.4,
+    "FDP": 0.7,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12052000": {
+   "name": "Cottbus/Chóśebuz, Stadt",
+   "beteiligung": 71.3,
+   "parteien": {
+    "SPD": 32.9,
+    "AfD": 31.5,
+    "BSW": 14.1,
+    "CDU": 9.6,
+    "GRÜNE": 2.9,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 1.8,
+    "FREIE WÄHLER": 1.6,
+    "PLUS": 0.9,
+    "FDP": 0.7,
+    "WerteUnion": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12053000": {
+   "name": "Frankfurt (Oder), Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "SPD": 30.5,
+    "AfD": 29.2,
+    "BSW": 16.3,
+    "CDU": 10.9,
+    "DIE LINKE": 3.8,
+    "GRÜNE": 3.1,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 2.0,
+    "PLUS": 0.7,
+    "FDP": 0.7,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12054000": {
+   "name": "Potsdam, Stadt",
+   "beteiligung": 78.8,
+   "parteien": {
+    "SPD": 35.8,
+    "AfD": 15.6,
+    "GRÜNE": 12.6,
+    "BSW": 11.6,
+    "CDU": 11.0,
+    "DIE LINKE": 6.0,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 2.0,
+    "FREIE WÄHLER": 1.4,
+    "FDP": 1.2,
+    "WerteUnion": 0.2,
+    "DLW": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12060005": {
+   "name": "Ahrensfelde",
+   "beteiligung": 78.5,
+   "parteien": {
+    "AfD": 30.8,
+    "SPD": 25.7,
+    "BSW": 17.3,
+    "CDU": 13.3,
+    "FREIE WÄHLER": 4.3,
+    "DIE LINKE": 2.5,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 1.7,
+    "PLUS": 0.7,
+    "FDP": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.1,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060012": {
+   "name": "Althüttendorf",
+   "beteiligung": 70.1,
+   "parteien": {
+    "SPD": 31.0,
+    "AfD": 26.0,
+    "CDU": 15.2,
+    "BSW": 14.5,
+    "FREIE WÄHLER": 3.8,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 1.0,
+    "DLW": 0.7,
+    "FDP": 0.7,
+    "Iii Weg": 0.5,
+    "WerteUnion": 0.5
+   }
+  },
+  "12060020": {
+   "name": "Bernau bei Berlin, Stadt",
+   "beteiligung": 71.9,
+   "parteien": {
+    "SPD": 28.0,
+    "AfD": 25.1,
+    "BSW": 14.8,
+    "FREIE WÄHLER": 9.5,
+    "CDU": 9.4,
+    "DIE LINKE": 4.5,
+    "GRÜNE": 3.9,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 1.5,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12060024": {
+   "name": "Biesenthal, Stadt",
+   "beteiligung": 71.6,
+   "parteien": {
+    "AfD": 28.2,
+    "SPD": 26.6,
+    "BSW": 14.5,
+    "CDU": 10.1,
+    "FREIE WÄHLER": 8.2,
+    "GRÜNE": 5.3,
+    "DIE LINKE": 4.0,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12060034": {
+   "name": "Breydin",
+   "beteiligung": 82.9,
+   "parteien": {
+    "AfD": 34.0,
+    "SPD": 24.7,
+    "BSW": 16.5,
+    "CDU": 10.1,
+    "GRÜNE": 4.1,
+    "FREIE WÄHLER": 3.8,
+    "DIE LINKE": 3.4,
+    "Tierschutzpartei": 1.5,
+    "PLUS": 0.9,
+    "DLW": 0.5,
+    "FDP": 0.3
+   }
+  },
+  "12060036": {
+   "name": "Britz",
+   "beteiligung": 74.5,
+   "parteien": {
+    "AfD": 33.8,
+    "SPD": 27.2,
+    "BSW": 14.6,
+    "CDU": 11.2,
+    "DIE LINKE": 4.3,
+    "FREIE WÄHLER": 2.7,
+    "GRÜNE": 2.7,
+    "Tierschutzpartei": 1.1,
+    "FDP": 0.9,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12060045": {
+   "name": "Chorin",
+   "beteiligung": 79.1,
+   "parteien": {
+    "AfD": 30.7,
+    "SPD": 25.2,
+    "BSW": 17.4,
+    "CDU": 10.3,
+    "GRÜNE": 5.1,
+    "DIE LINKE": 4.4,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 1.3,
+    "FDP": 1.0,
+    "PLUS": 0.5,
+    "DLW": 0.5,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12060052": {
+   "name": "Eberswalde, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "SPD": 28.6,
+    "AfD": 28.5,
+    "BSW": 14.0,
+    "CDU": 9.4,
+    "DIE LINKE": 7.4,
+    "GRÜNE": 5.3,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 1.8,
+    "PLUS": 1.1,
+    "FDP": 1.1,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060068": {
+   "name": "Friedrichswalde",
+   "beteiligung": 78.2,
+   "parteien": {
+    "AfD": 32.9,
+    "SPD": 23.9,
+    "CDU": 16.7,
+    "BSW": 12.8,
+    "GRÜNE": 3.6,
+    "DIE LINKE": 3.2,
+    "FREIE WÄHLER": 2.9,
+    "Tierschutzpartei": 1.4,
+    "FDP": 0.9,
+    "DLW": 0.7,
+    "PLUS": 0.5,
+    "WerteUnion": 0.4
+   }
+  },
+  "12060092": {
+   "name": "Hohenfinow",
+   "beteiligung": 81.2,
+   "parteien": {
+    "AfD": 36.9,
+    "SPD": 25.4,
+    "BSW": 15.9,
+    "CDU": 8.9,
+    "GRÜNE": 3.4,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.7,
+    "DLW": 1.1,
+    "PLUS": 1.1,
+    "FDP": 0.6
+   }
+  },
+  "12060100": {
+   "name": "Joachimsthal, Stadt",
+   "beteiligung": 68.1,
+   "parteien": {
+    "AfD": 35.1,
+    "SPD": 23.4,
+    "CDU": 13.8,
+    "BSW": 13.0,
+    "PLUS": 3.4,
+    "DIE LINKE": 2.7,
+    "GRÜNE": 2.4,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.7,
+    "FDP": 1.1,
+    "Iii Weg": 0.5,
+    "DLW": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12060128": {
+   "name": "Liepe",
+   "beteiligung": 69.8,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 25.4,
+    "BSW": 18.1,
+    "CDU": 8.8,
+    "DIE LINKE": 2.8,
+    "GRÜNE": 2.5,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.3,
+    "DLW": 1.0,
+    "Sonstige": 0.5,
+    "FDP": 0.5,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12060149": {
+   "name": "Lunow-Stolzenhagen",
+   "beteiligung": 80.4,
+   "parteien": {
+    "AfD": 39.4,
+    "SPD": 22.6,
+    "BSW": 15.7,
+    "CDU": 10.8,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 3.5,
+    "FREIE WÄHLER": 1.4,
+    "Tierschutzpartei": 0.9,
+    "FDP": 0.6,
+    "DLW": 0.4,
+    "PLUS": 0.4,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12060154": {
+   "name": "Marienwerder",
+   "beteiligung": 80.1,
+   "parteien": {
+    "AfD": 32.9,
+    "SPD": 27.4,
+    "BSW": 14.9,
+    "CDU": 10.4,
+    "FREIE WÄHLER": 4.8,
+    "GRÜNE": 4.1,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.7,
+    "PLUS": 0.4,
+    "FDP": 0.3,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12060161": {
+   "name": "Melchow",
+   "beteiligung": 79.1,
+   "parteien": {
+    "SPD": 29.5,
+    "AfD": 24.7,
+    "BSW": 15.9,
+    "CDU": 8.4,
+    "FREIE WÄHLER": 8.1,
+    "GRÜNE": 5.9,
+    "DIE LINKE": 3.4,
+    "Tierschutzpartei": 1.5,
+    "PLUS": 1.2,
+    "FDP": 0.7,
+    "DLW": 0.4,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060172": {
+   "name": "Niederfinow",
+   "beteiligung": 74.1,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 23.9,
+    "BSW": 14.8,
+    "CDU": 10.2,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 3.6,
+    "Tierschutzpartei": 2.5,
+    "FREIE WÄHLER": 2.2,
+    "FDP": 0.5,
+    "Sonstige": 0.5,
+    "DLW": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12060176": {
+   "name": "Oderberg, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "AfD": 37.6,
+    "SPD": 25.2,
+    "BSW": 16.5,
+    "CDU": 9.6,
+    "DIE LINKE": 3.6,
+    "GRÜNE": 2.7,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.4,
+    "PLUS": 0.4,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12060181": {
+   "name": "Panketal",
+   "beteiligung": 80.8,
+   "parteien": {
+    "SPD": 29.6,
+    "AfD": 23.7,
+    "BSW": 14.9,
+    "CDU": 12.1,
+    "FREIE WÄHLER": 7.6,
+    "GRÜNE": 4.6,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.0,
+    "PLUS": 0.9,
+    "FDP": 0.9,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12060185": {
+   "name": "Parsteinsee",
+   "beteiligung": 79.8,
+   "parteien": {
+    "AfD": 35.1,
+    "SPD": 28.1,
+    "BSW": 15.6,
+    "CDU": 7.0,
+    "GRÜNE": 6.7,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.1,
+    "PLUS": 0.8,
+    "FDP": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12060192": {
+   "name": "Rüdnitz",
+   "beteiligung": 78.7,
+   "parteien": {
+    "AfD": 28.9,
+    "SPD": 27.0,
+    "BSW": 16.4,
+    "CDU": 9.1,
+    "FREIE WÄHLER": 6.2,
+    "GRÜNE": 3.9,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.6,
+    "PLUS": 0.9,
+    "FDP": 0.8,
+    "DLW": 0.4,
+    "DKP": 0.2,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060198": {
+   "name": "Schorfheide",
+   "beteiligung": 74.5,
+   "parteien": {
+    "AfD": 32.3,
+    "SPD": 27.5,
+    "BSW": 15.4,
+    "CDU": 11.4,
+    "DIE LINKE": 4.1,
+    "FREIE WÄHLER": 2.9,
+    "GRÜNE": 2.3,
+    "Tierschutzpartei": 1.8,
+    "FDP": 0.7,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12060250": {
+   "name": "Sydower Fließ",
+   "beteiligung": 81.2,
+   "parteien": {
+    "AfD": 30.1,
+    "SPD": 27.5,
+    "BSW": 15.9,
+    "CDU": 10.2,
+    "FREIE WÄHLER": 6.7,
+    "GRÜNE": 3.2,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 0.8,
+    "FDP": 0.6,
+    "DLW": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12060269": {
+   "name": "Wandlitz",
+   "beteiligung": 76.1,
+   "parteien": {
+    "AfD": 29.6,
+    "SPD": 28.1,
+    "BSW": 14.6,
+    "CDU": 12.6,
+    "GRÜNE": 4.3,
+    "FREIE WÄHLER": 3.9,
+    "DIE LINKE": 2.6,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 1.0,
+    "FDP": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060280": {
+   "name": "Werneuchen, Stadt",
+   "beteiligung": 75.6,
+   "parteien": {
+    "AfD": 35.4,
+    "SPD": 24.1,
+    "BSW": 15.8,
+    "CDU": 9.8,
+    "FREIE WÄHLER": 5.2,
+    "DIE LINKE": 3.0,
+    "GRÜNE": 2.5,
+    "Tierschutzpartei": 2.1,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12060296": {
+   "name": "Ziethen",
+   "beteiligung": 88.1,
+   "parteien": {
+    "AfD": 40.7,
+    "SPD": 23.6,
+    "BSW": 13.4,
+    "CDU": 7.5,
+    "GRÜNE": 5.0,
+    "DIE LINKE": 4.0,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.2,
+    "DLW": 0.9,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "Sonstige": 0.3
+   }
+  },
+  "12061005": {
+   "name": "Alt Zauche-Wußwerk/Stara Niwa-Wózwjerch",
+   "beteiligung": 77.0,
+   "parteien": {
+    "AfD": 41.7,
+    "SPD": 26.0,
+    "BSW": 12.2,
+    "CDU": 11.0,
+    "FREIE WÄHLER": 2.5,
+    "GRÜNE": 2.5,
+    "DIE LINKE": 0.9,
+    "Tierschutzpartei": 0.9,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "Iii Weg": 0.3
+   }
+  },
+  "12061017": {
+   "name": "Bersteland",
+   "beteiligung": 74.9,
+   "parteien": {
+    "AfD": 36.5,
+    "SPD": 26.4,
+    "BSW": 13.4,
+    "CDU": 13.0,
+    "FREIE WÄHLER": 2.9,
+    "DLW": 2.5,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 2.0,
+    "DIE LINKE": 0.5,
+    "PLUS": 0.4,
+    "FDP": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12061020": {
+   "name": "Bestensee",
+   "beteiligung": 73.2,
+   "parteien": {
+    "AfD": 30.8,
+    "SPD": 30.2,
+    "BSW": 14.0,
+    "CDU": 12.1,
+    "GRÜNE": 3.8,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 2.5,
+    "DIE LINKE": 1.8,
+    "PLUS": 0.7,
+    "FDP": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12061061": {
+   "name": "Byhleguhre-Byhlen/Beła Góra-Bělin",
+   "beteiligung": 82.0,
+   "parteien": {
+    "AfD": 34.5,
+    "SPD": 31.0,
+    "BSW": 13.2,
+    "CDU": 9.9,
+    "FREIE WÄHLER": 3.1,
+    "GRÜNE": 2.9,
+    "DLW": 1.4,
+    "DIE LINKE": 1.4,
+    "FDP": 1.2,
+    "Tierschutzpartei": 1.2,
+    "DKP": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12061097": {
+   "name": "Drahnsdorf",
+   "beteiligung": 75.1,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 28.2,
+    "BSW": 11.5,
+    "CDU": 10.6,
+    "Tierschutzpartei": 2.9,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 2.3,
+    "GRÜNE": 2.0,
+    "DLW": 1.4,
+    "Sonstige": 0.9,
+    "PLUS": 0.6,
+    "Iii Weg": 0.3
+   }
+  },
+  "12061112": {
+   "name": "Eichwalde",
+   "beteiligung": 78.6,
+   "parteien": {
+    "SPD": 34.3,
+    "AfD": 20.7,
+    "BSW": 14.2,
+    "CDU": 11.8,
+    "GRÜNE": 7.5,
+    "DIE LINKE": 4.1,
+    "Tierschutzpartei": 2.4,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 1.4,
+    "FDP": 1.1,
+    "DLW": 0.4,
+    "DKP": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12061164": {
+   "name": "Golßen, Stadt",
+   "beteiligung": 69.7,
+   "parteien": {
+    "AfD": 39.6,
+    "SPD": 30.4,
+    "BSW": 10.7,
+    "CDU": 8.3,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 2.1,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 2.0,
+    "DLW": 1.2,
+    "PLUS": 0.7,
+    "FDP": 0.2,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12061192": {
+   "name": "Groß Köris",
+   "beteiligung": 74.1,
+   "parteien": {
+    "AfD": 36.3,
+    "SPD": 31.2,
+    "BSW": 12.0,
+    "CDU": 11.3,
+    "GRÜNE": 2.3,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.7,
+    "DIE LINKE": 1.3,
+    "DLW": 0.5,
+    "FDP": 0.4,
+    "PLUS": 0.4,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12061216": {
+   "name": "Halbe",
+   "beteiligung": 78.2,
+   "parteien": {
+    "AfD": 35.0,
+    "SPD": 26.9,
+    "BSW": 14.2,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 3.5,
+    "GRÜNE": 2.6,
+    "DIE LINKE": 2.5,
+    "Tierschutzpartei": 2.5,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12061217": {
+   "name": "Heidesee",
+   "beteiligung": 78.1,
+   "parteien": {
+    "AfD": 33.0,
+    "SPD": 30.9,
+    "BSW": 12.2,
+    "CDU": 9.2,
+    "FREIE WÄHLER": 4.7,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.8,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12061219": {
+   "name": "Heideblick",
+   "beteiligung": 78.9,
+   "parteien": {
+    "AfD": 36.6,
+    "SPD": 31.5,
+    "BSW": 12.9,
+    "CDU": 9.1,
+    "GRÜNE": 2.2,
+    "DLW": 1.7,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.3,
+    "FREIE WÄHLER": 1.3,
+    "PLUS": 0.7,
+    "FDP": 0.4,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.2
+   }
+  },
+  "12061224": {
+   "name": "Jamlitz",
+   "beteiligung": 79.8,
+   "parteien": {
+    "AfD": 34.6,
+    "SPD": 27.0,
+    "BSW": 17.1,
+    "CDU": 9.8,
+    "FREIE WÄHLER": 3.4,
+    "Tierschutzpartei": 2.2,
+    "GRÜNE": 1.7,
+    "DIE LINKE": 1.7,
+    "DLW": 0.8,
+    "PLUS": 0.8,
+    "WerteUnion": 0.6,
+    "FDP": 0.3
+   }
+  },
+  "12061244": {
+   "name": "Kasel-Golzig",
+   "beteiligung": 79.6,
+   "parteien": {
+    "AfD": 34.2,
+    "SPD": 29.8,
+    "CDU": 13.3,
+    "BSW": 9.8,
+    "FREIE WÄHLER": 3.0,
+    "DIE LINKE": 2.8,
+    "GRÜNE": 2.6,
+    "Tierschutzpartei": 1.2,
+    "DLW": 0.9,
+    "Iii Weg": 0.9,
+    "PLUS": 0.9,
+    "FDP": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12061260": {
+   "name": "Königs Wusterhausen, Stadt",
+   "beteiligung": 72.1,
+   "parteien": {
+    "SPD": 34.0,
+    "AfD": 27.3,
+    "BSW": 13.8,
+    "CDU": 11.4,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 2.0,
+    "PLUS": 0.9,
+    "FDP": 0.9,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12061265": {
+   "name": "Krausnick-Groß Wasserburg",
+   "beteiligung": 86.0,
+   "parteien": {
+    "AfD": 40.3,
+    "SPD": 26.2,
+    "CDU": 11.6,
+    "BSW": 9.3,
+    "GRÜNE": 2.7,
+    "DIE LINKE": 2.5,
+    "DLW": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.6,
+    "Iii Weg": 1.1,
+    "PLUS": 0.5,
+    "FDP": 0.2
+   }
+  },
+  "12061308": {
+   "name": "Lieberose, Stadt",
+   "beteiligung": 77.0,
+   "parteien": {
+    "AfD": 42.8,
+    "SPD": 25.9,
+    "BSW": 11.1,
+    "CDU": 9.7,
+    "FREIE WÄHLER": 3.0,
+    "DIE LINKE": 2.9,
+    "GRÜNE": 1.3,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.8,
+    "FDP": 0.7,
+    "PLUS": 0.3,
+    "WerteUnion": 0.2
+   }
+  },
+  "12061316": {
+   "name": "Lübben (Spreewald) / Lubin (Błota), Stadt",
+   "beteiligung": 70.6,
+   "parteien": {
+    "AfD": 34.7,
+    "SPD": 29.3,
+    "BSW": 13.0,
+    "CDU": 11.6,
+    "FREIE WÄHLER": 2.6,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 1.0,
+    "DLW": 0.7,
+    "FDP": 0.5,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12061320": {
+   "name": "Luckau, Stadt",
+   "beteiligung": 74.2,
+   "parteien": {
+    "SPD": 33.0,
+    "AfD": 30.9,
+    "BSW": 13.2,
+    "CDU": 11.2,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 2.0,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.8,
+    "DLW": 1.3,
+    "FDP": 1.0,
+    "PLUS": 0.8,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.3
+   }
+  },
+  "12061328": {
+   "name": "Märkisch Buchholz, Stadt",
+   "beteiligung": 72.7,
+   "parteien": {
+    "AfD": 37.7,
+    "SPD": 30.9,
+    "BSW": 11.8,
+    "CDU": 9.7,
+    "GRÜNE": 2.3,
+    "Tierschutzpartei": 2.3,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.7,
+    "FDP": 0.6,
+    "Iii Weg": 0.4,
+    "DLW": 0.2,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12061329": {
+   "name": "Märkische Heide/Markojska Góla",
+   "beteiligung": 82.3,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 28.3,
+    "BSW": 13.5,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 2.9,
+    "DLW": 1.4,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.2,
+    "DIE LINKE": 1.1,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "Iii Weg": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12061332": {
+   "name": "Mittenwalde, Stadt",
+   "beteiligung": 74.3,
+   "parteien": {
+    "AfD": 33.4,
+    "SPD": 29.6,
+    "CDU": 12.1,
+    "BSW": 10.4,
+    "FREIE WÄHLER": 5.2,
+    "GRÜNE": 2.9,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 1.8,
+    "FDP": 1.0,
+    "PLUS": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12061344": {
+   "name": "Münchehofe",
+   "beteiligung": 94.0,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 30.7,
+    "BSW": 13.0,
+    "CDU": 8.8,
+    "GRÜNE": 3.2,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 2.5,
+    "Tierschutzpartei": 2.0,
+    "DLW": 0.5,
+    "DKP": 0.2,
+    "FDP": 0.2
+   }
+  },
+  "12061352": {
+   "name": "Neu Zauche/Nowa Niwa",
+   "beteiligung": 71.8,
+   "parteien": {
+    "AfD": 39.6,
+    "SPD": 25.5,
+    "BSW": 13.8,
+    "CDU": 10.6,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.2,
+    "GRÜNE": 1.6,
+    "DLW": 1.4,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "Iii Weg": 0.2
+   }
+  },
+  "12061405": {
+   "name": "Rietzneuendorf-Staakow",
+   "beteiligung": 91.5,
+   "parteien": {
+    "AfD": 40.8,
+    "SPD": 28.7,
+    "BSW": 10.5,
+    "CDU": 10.3,
+    "GRÜNE": 2.0,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 1.5,
+    "DIE LINKE": 1.3,
+    "Sonstige": 0.7,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "Iii Weg": 0.4,
+    "DKP": 0.2,
+    "FDP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12061428": {
+   "name": "Schlepzig/Słopišća",
+   "beteiligung": 75.6,
+   "parteien": {
+    "AfD": 39.0,
+    "SPD": 26.4,
+    "BSW": 13.1,
+    "CDU": 9.9,
+    "FREIE WÄHLER": 3.1,
+    "GRÜNE": 2.1,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.8,
+    "DLW": 0.8,
+    "PLUS": 0.8,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12061433": {
+   "name": "Schönefeld",
+   "beteiligung": 60.8,
+   "parteien": {
+    "SPD": 29.2,
+    "AfD": 27.0,
+    "CDU": 19.9,
+    "BSW": 10.5,
+    "GRÜNE": 3.2,
+    "Tierschutzpartei": 3.0,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 1.7,
+    "FDP": 1.5,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12061435": {
+   "name": "Schönwald",
+   "beteiligung": 71.6,
+   "parteien": {
+    "AfD": 36.6,
+    "SPD": 26.1,
+    "CDU": 11.6,
+    "BSW": 10.6,
+    "GRÜNE": 5.6,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 1.7,
+    "DIE LINKE": 1.3,
+    "PLUS": 0.9,
+    "DLW": 0.8,
+    "FDP": 0.5,
+    "Iii Weg": 0.4,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.1
+   }
+  },
+  "12061444": {
+   "name": "Schulzendorf",
+   "beteiligung": 77.5,
+   "parteien": {
+    "SPD": 33.8,
+    "AfD": 25.7,
+    "BSW": 12.8,
+    "CDU": 12.8,
+    "GRÜNE": 4.0,
+    "DIE LINKE": 3.0,
+    "Tierschutzpartei": 3.0,
+    "FREIE WÄHLER": 2.2,
+    "PLUS": 1.0,
+    "FDP": 0.8,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1
+   }
+  },
+  "12061448": {
+   "name": "Schwerin",
+   "beteiligung": 81.1,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 29.0,
+    "CDU": 12.1,
+    "BSW": 10.4,
+    "GRÜNE": 3.2,
+    "Tierschutzpartei": 2.5,
+    "FDP": 1.9,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.9,
+    "WerteUnion": 0.5,
+    "DLW": 0.3,
+    "PLUS": 0.3,
+    "DKP": 0.2
+   }
+  },
+  "12061450": {
+   "name": "Schwielochsee/Gójacki Jazor",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AfD": 35.2,
+    "SPD": 29.5,
+    "BSW": 14.1,
+    "CDU": 11.7,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.2,
+    "FDP": 1.0,
+    "DLW": 0.6,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3,
+    "Sonstige": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12061470": {
+   "name": "Spreewaldheide/Błośańska Góla",
+   "beteiligung": 67.5,
+   "parteien": {
+    "AfD": 43.1,
+    "SPD": 26.3,
+    "BSW": 10.2,
+    "CDU": 10.2,
+    "GRÜNE": 2.7,
+    "FREIE WÄHLER": 2.0,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.6,
+    "DLW": 0.8,
+    "WerteUnion": 0.8,
+    "FDP": 0.4,
+    "PLUS": 0.4
+   }
+  },
+  "12061471": {
+   "name": "Steinreich",
+   "beteiligung": 68.8,
+   "parteien": {
+    "AfD": 34.1,
+    "SPD": 34.1,
+    "BSW": 14.7,
+    "CDU": 7.8,
+    "Tierschutzpartei": 2.3,
+    "FREIE WÄHLER": 1.6,
+    "GRÜNE": 1.6,
+    "DIE LINKE": 1.2,
+    "DLW": 0.8,
+    "FDP": 0.8,
+    "PLUS": 0.4,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.4
+   }
+  },
+  "12061476": {
+   "name": "Straupitz (Spreewald)/Tšupc (Błota)",
+   "beteiligung": 78.2,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 27.0,
+    "BSW": 10.4,
+    "CDU": 9.8,
+    "DLW": 3.2,
+    "FREIE WÄHLER": 3.2,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 1.4,
+    "Tierschutzpartei": 1.4,
+    "Iii Weg": 0.6,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.2
+   }
+  },
+  "12061492": {
+   "name": "Teupitz, Stadt",
+   "beteiligung": 72.5,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 27.0,
+    "BSW": 13.6,
+    "CDU": 10.4,
+    "GRÜNE": 2.9,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.8,
+    "FDP": 0.7,
+    "WerteUnion": 0.6,
+    "DLW": 0.4,
+    "PLUS": 0.4,
+    "Sonstige": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12061510": {
+   "name": "Unterspreewald",
+   "beteiligung": 84.2,
+   "parteien": {
+    "AfD": 42.1,
+    "SPD": 24.5,
+    "BSW": 14.7,
+    "CDU": 8.5,
+    "FREIE WÄHLER": 3.5,
+    "GRÜNE": 1.7,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "Iii Weg": 0.4,
+    "WerteUnion": 0.2
+   }
+  },
+  "12061540": {
+   "name": "Wildau, Stadt",
+   "beteiligung": 72.0,
+   "parteien": {
+    "SPD": 35.6,
+    "AfD": 25.3,
+    "BSW": 12.7,
+    "CDU": 10.5,
+    "GRÜNE": 4.4,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.5,
+    "FREIE WÄHLER": 2.4,
+    "PLUS": 1.2,
+    "FDP": 1.1,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "DKP": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12061572": {
+   "name": "Zeuthen",
+   "beteiligung": 79.5,
+   "parteien": {
+    "SPD": 36.7,
+    "AfD": 21.7,
+    "BSW": 13.4,
+    "CDU": 12.3,
+    "GRÜNE": 5.8,
+    "DIE LINKE": 3.6,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 0.8,
+    "FDP": 0.7,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12062024": {
+   "name": "Bad Liebenwerda, Stadt",
+   "beteiligung": 71.3,
+   "parteien": {
+    "AfD": 37.5,
+    "SPD": 26.1,
+    "BSW": 15.1,
+    "CDU": 12.0,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.3,
+    "FDP": 1.1,
+    "GRÜNE": 1.0,
+    "PLUS": 0.6,
+    "DLW": 0.6,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062088": {
+   "name": "Crinitz",
+   "beteiligung": 76.1,
+   "parteien": {
+    "AfD": 31.4,
+    "SPD": 29.3,
+    "BSW": 14.9,
+    "CDU": 13.7,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 2.2,
+    "GRÜNE": 1.5,
+    "DIE LINKE": 1.3,
+    "PLUS": 1.2,
+    "DLW": 0.8,
+    "WerteUnion": 0.3,
+    "DKP": 0.1,
+    "FDP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062092": {
+   "name": "Doberlug-Kirchhain, Stadt",
+   "beteiligung": 74.3,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 29.8,
+    "BSW": 14.6,
+    "CDU": 11.7,
+    "FREIE WÄHLER": 3.4,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.6,
+    "GRÜNE": 1.3,
+    "PLUS": 0.6,
+    "FDP": 0.6,
+    "DLW": 0.5,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12062124": {
+   "name": "Elsterwerda, Stadt",
+   "beteiligung": 68.6,
+   "parteien": {
+    "AfD": 39.3,
+    "SPD": 24.2,
+    "BSW": 14.7,
+    "CDU": 12.8,
+    "FREIE WÄHLER": 2.1,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 0.9,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "DLW": 0.5,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12062128": {
+   "name": "Falkenberg/Elster, Stadt",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 28.3,
+    "CDU": 15.1,
+    "BSW": 14.3,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 1.7,
+    "DIE LINKE": 1.7,
+    "GRÜNE": 1.4,
+    "FDP": 0.8,
+    "DLW": 0.6,
+    "PLUS": 0.3,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062134": {
+   "name": "Fichtwald",
+   "beteiligung": 86.6,
+   "parteien": {
+    "AfD": 31.6,
+    "SPD": 29.1,
+    "BSW": 16.0,
+    "CDU": 14.9,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
+    "GRÜNE": 1.8,
+    "FDP": 0.7,
+    "FREIE WÄHLER": 0.7,
+    "DKP": 0.2,
+    "DLW": 0.2,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12062140": {
+   "name": "Finsterwalde, Stadt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "SPD": 32.6,
+    "AfD": 28.3,
+    "BSW": 13.8,
+    "CDU": 12.3,
+    "FREIE WÄHLER": 3.9,
+    "DIE LINKE": 2.7,
+    "Tierschutzpartei": 2.2,
+    "GRÜNE": 1.9,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12062177": {
+   "name": "Gorden-Staupitz",
+   "beteiligung": 84.8,
+   "parteien": {
+    "AfD": 34.6,
+    "SPD": 27.0,
+    "CDU": 13.9,
+    "BSW": 13.3,
+    "FREIE WÄHLER": 3.9,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 1.5,
+    "GRÜNE": 1.1,
+    "DLW": 0.9,
+    "FDP": 0.9,
+    "PLUS": 0.8,
+    "DKP": 0.2,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062196": {
+   "name": "Gröden",
+   "beteiligung": 77.0,
+   "parteien": {
+    "AfD": 49.5,
+    "SPD": 21.2,
+    "CDU": 12.6,
+    "BSW": 10.7,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.2,
+    "Tierschutzpartei": 0.9,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "GRÜNE": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062208": {
+   "name": "Großthiemig",
+   "beteiligung": 76.9,
+   "parteien": {
+    "AfD": 44.1,
+    "SPD": 20.2,
+    "CDU": 15.5,
+    "BSW": 11.8,
+    "DIE LINKE": 1.8,
+    "FREIE WÄHLER": 1.5,
+    "GRÜNE": 1.5,
+    "DLW": 1.2,
+    "Tierschutzpartei": 0.9,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062219": {
+   "name": "Heideland",
+   "beteiligung": 89.9,
+   "parteien": {
+    "SPD": 36.1,
+    "AfD": 29.4,
+    "BSW": 15.8,
+    "CDU": 7.5,
+    "FREIE WÄHLER": 4.8,
+    "Tierschutzpartei": 2.1,
+    "GRÜNE": 1.6,
+    "DIE LINKE": 1.1,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "PLUS": 0.5
+   }
+  },
+  "12062224": {
+   "name": "Herzberg (Elster), Stadt",
+   "beteiligung": 70.3,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 29.9,
+    "BSW": 16.6,
+    "CDU": 11.1,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 1.3,
+    "DLW": 0.6,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12062232": {
+   "name": "Hirschfeld",
+   "beteiligung": 78.8,
+   "parteien": {
+    "AfD": 56.1,
+    "SPD": 15.3,
+    "BSW": 12.1,
+    "CDU": 10.3,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 0.9,
+    "FDP": 0.8,
+    "DIE LINKE": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "PLUS": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062237": {
+   "name": "Hohenbucko",
+   "beteiligung": 80.3,
+   "parteien": {
+    "AfD": 38.7,
+    "SPD": 23.0,
+    "BSW": 16.2,
+    "CDU": 13.1,
+    "FREIE WÄHLER": 3.3,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 1.2,
+    "Tierschutzpartei": 1.2,
+    "Iii Weg": 0.5,
+    "Sonstige": 0.2,
+    "DLW": 0.2
+   }
+  },
+  "12062240": {
+   "name": "Hohenleipisch",
+   "beteiligung": 81.8,
+   "parteien": {
+    "AfD": 39.3,
+    "SPD": 26.4,
+    "BSW": 14.5,
+    "CDU": 11.1,
+    "FREIE WÄHLER": 3.1,
+    "Tierschutzpartei": 1.9,
+    "DIE LINKE": 1.2,
+    "DLW": 0.7,
+    "GRÜNE": 0.6,
+    "WerteUnion": 0.5,
+    "FDP": 0.4,
+    "PLUS": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062282": {
+   "name": "Kremitzaue",
+   "beteiligung": 79.3,
+   "parteien": {
+    "AfD": 32.9,
+    "SPD": 30.9,
+    "BSW": 15.7,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 2.9,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 1.6,
+    "PLUS": 0.9,
+    "FDP": 0.7,
+    "GRÜNE": 0.7,
+    "Sonstige": 0.4,
+    "DLW": 0.2
+   }
+  },
+  "12062289": {
+   "name": "Lebusa",
+   "beteiligung": 81.5,
+   "parteien": {
+    "AfD": 39.3,
+    "SPD": 24.2,
+    "BSW": 15.1,
+    "CDU": 11.7,
+    "DIE LINKE": 2.4,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.7,
+    "DLW": 1.1,
+    "GRÜNE": 1.1,
+    "PLUS": 0.6,
+    "Sonstige": 0.4,
+    "FDP": 0.2
+   }
+  },
+  "12062293": {
+   "name": "Lichterfeld-Schacksdorf",
+   "beteiligung": 82.3,
+   "parteien": {
+    "AfD": 34.3,
+    "SPD": 30.1,
+    "CDU": 12.8,
+    "BSW": 12.3,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 2.4,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.6,
+    "PLUS": 0.8,
+    "DLW": 0.6,
+    "FDP": 0.5,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062333": {
+   "name": "Massen-Niederlausitz",
+   "beteiligung": 80.1,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 28.5,
+    "CDU": 15.6,
+    "BSW": 13.4,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 2.0,
+    "GRÜNE": 1.1,
+    "Tierschutzpartei": 1.1,
+    "PLUS": 0.8,
+    "DLW": 0.5,
+    "FDP": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062336": {
+   "name": "Merzdorf",
+   "beteiligung": 78.2,
+   "parteien": {
+    "AfD": 50.5,
+    "SPD": 17.2,
+    "CDU": 12.8,
+    "BSW": 12.6,
+    "FREIE WÄHLER": 1.8,
+    "DIE LINKE": 1.2,
+    "Tierschutzpartei": 1.1,
+    "DLW": 0.9,
+    "GRÜNE": 0.7,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "DKP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062341": {
+   "name": "Mühlberg/Elbe, Stadt",
+   "beteiligung": 69.9,
+   "parteien": {
+    "AfD": 42.2,
+    "SPD": 24.8,
+    "BSW": 15.1,
+    "CDU": 10.4,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.0,
+    "DIE LINKE": 0.9,
+    "DLW": 0.7,
+    "FDP": 0.4,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12062372": {
+   "name": "Plessa",
+   "beteiligung": 69.4,
+   "parteien": {
+    "AfD": 43.8,
+    "SPD": 24.5,
+    "BSW": 13.7,
+    "CDU": 8.5,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 1.4,
+    "GRÜNE": 1.0,
+    "DLW": 0.7,
+    "PLUS": 0.7,
+    "Iii Weg": 0.3,
+    "FDP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062410": {
+   "name": "Röderland",
+   "beteiligung": 76.3,
+   "parteien": {
+    "AfD": 44.6,
+    "SPD": 21.1,
+    "BSW": 13.8,
+    "CDU": 13.0,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 1.7,
+    "DIE LINKE": 1.2,
+    "DLW": 0.7,
+    "GRÜNE": 0.6,
+    "FDP": 0.6,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062417": {
+   "name": "Rückersdorf",
+   "beteiligung": 78.4,
+   "parteien": {
+    "AfD": 33.5,
+    "SPD": 29.3,
+    "BSW": 14.1,
+    "CDU": 13.1,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.3,
+    "Tierschutzpartei": 2.0,
+    "GRÜNE": 1.1,
+    "DLW": 0.7,
+    "WerteUnion": 0.6,
+    "FDP": 0.3,
+    "PLUS": 0.2
+   }
+  },
+  "12062425": {
+   "name": "Sallgast",
+   "beteiligung": 75.0,
+   "parteien": {
+    "AfD": 33.4,
+    "SPD": 25.1,
+    "BSW": 15.1,
+    "CDU": 14.7,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.4,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 1.4,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "DLW": 0.6,
+    "WerteUnion": 0.6,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12062440": {
+   "name": "Schilda",
+   "beteiligung": 70.5,
+   "parteien": {
+    "AfD": 36.2,
+    "SPD": 28.4,
+    "BSW": 14.4,
+    "CDU": 12.2,
+    "FREIE WÄHLER": 3.7,
+    "FDP": 1.1,
+    "GRÜNE": 0.7,
+    "DIE LINKE": 0.7,
+    "Tierschutzpartei": 0.7,
+    "WerteUnion": 0.7,
+    "Sonstige": 0.4,
+    "DLW": 0.4,
+    "PLUS": 0.4
+   }
+  },
+  "12062445": {
+   "name": "Schlieben, Stadt",
+   "beteiligung": 71.5,
+   "parteien": {
+    "AfD": 35.8,
+    "SPD": 26.3,
+    "BSW": 15.7,
+    "CDU": 12.4,
+    "FREIE WÄHLER": 3.7,
+    "Tierschutzpartei": 1.9,
+    "DIE LINKE": 1.0,
+    "DLW": 0.9,
+    "GRÜNE": 0.8,
+    "FDP": 0.6,
+    "PLUS": 0.3,
+    "Sonstige": 0.1,
+    "DKP": 0.1,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062453": {
+   "name": "Schönborn",
+   "beteiligung": 69.4,
+   "parteien": {
+    "AfD": 34.2,
+    "SPD": 28.7,
+    "BSW": 16.9,
+    "CDU": 10.3,
+    "FREIE WÄHLER": 3.8,
+    "Tierschutzpartei": 1.9,
+    "DIE LINKE": 1.3,
+    "GRÜNE": 0.8,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "WerteUnion": 0.6,
+    "DLW": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12062461": {
+   "name": "Schönewalde, Stadt",
+   "beteiligung": 76.8,
+   "parteien": {
+    "AfD": 35.5,
+    "SPD": 27.6,
+    "BSW": 16.7,
+    "CDU": 11.0,
+    "FREIE WÄHLER": 2.3,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 1.4,
+    "DLW": 0.7,
+    "FDP": 0.4,
+    "PLUS": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12062464": {
+   "name": "Schraden",
+   "beteiligung": 77.5,
+   "parteien": {
+    "AfD": 42.2,
+    "SPD": 22.6,
+    "BSW": 15.1,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 2.7,
+    "DLW": 1.5,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.5,
+    "FDP": 0.9,
+    "GRÜNE": 0.3,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12062469": {
+   "name": "Sonnewalde, Stadt",
+   "beteiligung": 81.7,
+   "parteien": {
+    "AfD": 37.4,
+    "SPD": 25.2,
+    "CDU": 12.7,
+    "BSW": 12.4,
+    "FREIE WÄHLER": 5.1,
+    "DIE LINKE": 1.8,
+    "GRÜNE": 1.6,
+    "DLW": 1.4,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.4,
+    "PLUS": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12062492": {
+   "name": "Tröbitz",
+   "beteiligung": 73.8,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 29.3,
+    "BSW": 14.1,
+    "CDU": 12.1,
+    "FREIE WÄHLER": 5.3,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 1.3,
+    "Tierschutzpartei": 1.3,
+    "FDP": 0.8,
+    "DLW": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.5,
+    "Iii Weg": 0.3
+   }
+  },
+  "12062500": {
+   "name": "Uebigau-Wahrenbrück, Stadt",
+   "beteiligung": 75.4,
+   "parteien": {
+    "AfD": 34.0,
+    "SPD": 25.0,
+    "BSW": 15.4,
+    "CDU": 13.9,
+    "FREIE WÄHLER": 3.8,
+    "DIE LINKE": 2.5,
+    "Tierschutzpartei": 1.7,
+    "FDP": 1.2,
+    "GRÜNE": 1.0,
+    "DLW": 0.5,
+    "PLUS": 0.5,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12063036": {
+   "name": "Brieselang",
+   "beteiligung": 75.8,
+   "parteien": {
+    "SPD": 34.0,
+    "AfD": 26.6,
+    "CDU": 14.8,
+    "BSW": 10.0,
+    "GRÜNE": 5.3,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 1.1,
+    "FDP": 1.1,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12063056": {
+   "name": "Dallgow-Döberitz",
+   "beteiligung": 77.2,
+   "parteien": {
+    "SPD": 34.7,
+    "CDU": 21.4,
+    "AfD": 20.8,
+    "BSW": 7.8,
+    "GRÜNE": 6.7,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 2.0,
+    "DIE LINKE": 1.7,
+    "FDP": 1.0,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12063080": {
+   "name": "Falkensee, Stadt",
+   "beteiligung": 75.5,
+   "parteien": {
+    "SPD": 36.8,
+    "AfD": 21.2,
+    "CDU": 16.8,
+    "GRÜNE": 8.1,
+    "BSW": 8.1,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.9,
+    "FDP": 1.3,
+    "PLUS": 0.8,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12063088": {
+   "name": "Friesack, Stadt",
+   "beteiligung": 69.8,
+   "parteien": {
+    "AfD": 41.6,
+    "SPD": 27.0,
+    "BSW": 12.7,
+    "CDU": 8.4,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 2.1,
+    "FREIE WÄHLER": 1.6,
+    "DLW": 1.5,
+    "FDP": 1.1,
+    "Tierschutzpartei": 1.0,
+    "PLUS": 0.4,
+    "DKP": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12063094": {
+   "name": "Gollenberg",
+   "beteiligung": 79.2,
+   "parteien": {
+    "AfD": 36.0,
+    "SPD": 29.9,
+    "BSW": 16.5,
+    "CDU": 9.4,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 2.2,
+    "DLW": 1.4,
+    "Tierschutzpartei": 1.4,
+    "FREIE WÄHLER": 0.7,
+    "Iii Weg": 0.4
+   }
+  },
+  "12063112": {
+   "name": "Großderschau",
+   "beteiligung": 79.3,
+   "parteien": {
+    "SPD": 34.7,
+    "AfD": 33.7,
+    "BSW": 12.4,
+    "CDU": 10.0,
+    "DIE LINKE": 3.1,
+    "GRÜNE": 2.4,
+    "FREIE WÄHLER": 1.4,
+    "DLW": 1.0,
+    "PLUS": 0.7,
+    "Tierschutzpartei": 0.7
+   }
+  },
+  "12063134": {
+   "name": "Havelaue",
+   "beteiligung": 75.3,
+   "parteien": {
+    "AfD": 31.4,
+    "SPD": 30.5,
+    "BSW": 13.6,
+    "CDU": 10.2,
+    "GRÜNE": 5.9,
+    "DIE LINKE": 3.1,
+    "DLW": 1.4,
+    "FREIE WÄHLER": 1.4,
+    "FDP": 0.9,
+    "Tierschutzpartei": 0.7,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12063142": {
+   "name": "Wiesenaue",
+   "beteiligung": 77.5,
+   "parteien": {
+    "SPD": 34.4,
+    "AfD": 31.1,
+    "BSW": 15.8,
+    "CDU": 10.4,
+    "FREIE WÄHLER": 2.3,
+    "DLW": 1.5,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.2,
+    "GRÜNE": 1.0,
+    "FDP": 0.6,
+    "PLUS": 0.2
+   }
+  },
+  "12063148": {
+   "name": "Ketzin/Havel, Stadt",
+   "beteiligung": 72.5,
+   "parteien": {
+    "SPD": 36.5,
+    "AfD": 28.1,
+    "BSW": 12.4,
+    "CDU": 12.2,
+    "GRÜNE": 3.1,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.8,
+    "DIE LINKE": 1.6,
+    "FDP": 0.7,
+    "PLUS": 0.5,
+    "DLW": 0.5,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12063161": {
+   "name": "Kleßen-Görne",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 38.6,
+    "SPD": 22.9,
+    "BSW": 15.3,
+    "CDU": 15.3,
+    "DIE LINKE": 3.4,
+    "GRÜNE": 1.7,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.8,
+    "FREIE WÄHLER": 0.4,
+    "PLUS": 0.4
+   }
+  },
+  "12063165": {
+   "name": "Kotzen",
+   "beteiligung": 81.1,
+   "parteien": {
+    "AfD": 36.0,
+    "SPD": 28.7,
+    "BSW": 13.9,
+    "CDU": 10.0,
+    "GRÜNE": 4.6,
+    "DIE LINKE": 3.4,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.0,
+    "PLUS": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12063186": {
+   "name": "Märkisch Luch",
+   "beteiligung": 73.4,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 26.6,
+    "BSW": 12.9,
+    "CDU": 11.9,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.3,
+    "DLW": 1.0,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "Iii Weg": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12063189": {
+   "name": "Milower Land",
+   "beteiligung": 75.2,
+   "parteien": {
+    "AfD": 36.6,
+    "SPD": 30.1,
+    "BSW": 12.4,
+    "CDU": 12.2,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 1.9,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.2,
+    "DLW": 0.7,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.1
+   }
+  },
+  "12063202": {
+   "name": "Mühlenberge",
+   "beteiligung": 80.0,
+   "parteien": {
+    "AfD": 36.5,
+    "SPD": 29.8,
+    "BSW": 14.0,
+    "CDU": 9.5,
+    "GRÜNE": 3.0,
+    "Tierschutzpartei": 2.0,
+    "DIE LINKE": 1.4,
+    "DLW": 1.2,
+    "FDP": 1.2,
+    "FREIE WÄHLER": 1.0,
+    "DKP": 0.2,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12063208": {
+   "name": "Nauen, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 33.1,
+    "BSW": 11.7,
+    "CDU": 10.2,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.7,
+    "DLW": 0.8,
+    "PLUS": 0.8,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12063212": {
+   "name": "Nennhausen",
+   "beteiligung": 74.8,
+   "parteien": {
+    "AfD": 36.7,
+    "SPD": 29.6,
+    "CDU": 12.1,
+    "BSW": 11.2,
+    "GRÜNE": 3.3,
+    "DIE LINKE": 2.3,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.3,
+    "FDP": 0.7,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12063228": {
+   "name": "Paulinenaue",
+   "beteiligung": 70.1,
+   "parteien": {
+    "SPD": 35.5,
+    "AfD": 30.0,
+    "BSW": 11.6,
+    "CDU": 10.9,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 2.5,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.2,
+    "DLW": 1.1,
+    "PLUS": 0.6,
+    "WerteUnion": 0.4,
+    "FDP": 0.3,
+    "Iii Weg": 0.3
+   }
+  },
+  "12063240": {
+   "name": "Pessin",
+   "beteiligung": 73.6,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 28.0,
+    "BSW": 14.7,
+    "CDU": 10.5,
+    "DIE LINKE": 3.3,
+    "Tierschutzpartei": 2.6,
+    "DLW": 2.1,
+    "FREIE WÄHLER": 2.1,
+    "GRÜNE": 2.1,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12063244": {
+   "name": "Premnitz, Stadt",
+   "beteiligung": 67.2,
+   "parteien": {
+    "SPD": 36.9,
+    "AfD": 31.7,
+    "BSW": 13.1,
+    "CDU": 9.2,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.7,
+    "GRÜNE": 1.2,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12063252": {
+   "name": "Rathenow, Stadt",
+   "beteiligung": 63.7,
+   "parteien": {
+    "AfD": 32.0,
+    "SPD": 31.4,
+    "BSW": 13.4,
+    "CDU": 12.7,
+    "DIE LINKE": 3.3,
+    "GRÜNE": 2.0,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.6,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12063256": {
+   "name": "Retzow",
+   "beteiligung": 71.9,
+   "parteien": {
+    "AfD": 37.0,
+    "SPD": 30.2,
+    "BSW": 13.6,
+    "CDU": 6.5,
+    "Tierschutzpartei": 3.6,
+    "DIE LINKE": 2.9,
+    "DLW": 2.3,
+    "GRÜNE": 1.3,
+    "FREIE WÄHLER": 1.0,
+    "FDP": 0.6,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12063260": {
+   "name": "Rhinow, Stadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "AfD": 39.6,
+    "SPD": 24.6,
+    "BSW": 13.6,
+    "CDU": 12.0,
+    "DIE LINKE": 3.0,
+    "Tierschutzpartei": 2.1,
+    "GRÜNE": 1.5,
+    "FREIE WÄHLER": 1.3,
+    "DLW": 1.1,
+    "FDP": 0.8,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12063273": {
+   "name": "Schönwalde-Glien",
+   "beteiligung": 77.2,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 27.1,
+    "CDU": 17.3,
+    "BSW": 8.0,
+    "GRÜNE": 5.0,
+    "FREIE WÄHLER": 2.3,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 1.6,
+    "FDP": 1.0,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12063274": {
+   "name": "Seeblick",
+   "beteiligung": 66.5,
+   "parteien": {
+    "AfD": 31.5,
+    "SPD": 28.8,
+    "BSW": 17.3,
+    "CDU": 11.1,
+    "DIE LINKE": 3.6,
+    "GRÜNE": 2.4,
+    "Tierschutzpartei": 1.8,
+    "FREIE WÄHLER": 1.4,
+    "DLW": 1.2,
+    "FDP": 0.4,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.2
+   }
+  },
+  "12063293": {
+   "name": "Stechow-Ferchesar",
+   "beteiligung": 77.9,
+   "parteien": {
+    "AfD": 34.6,
+    "SPD": 30.2,
+    "BSW": 13.8,
+    "CDU": 11.4,
+    "DIE LINKE": 3.4,
+    "GRÜNE": 1.9,
+    "FREIE WÄHLER": 1.5,
+    "FDP": 1.4,
+    "Tierschutzpartei": 0.8,
+    "PLUS": 0.5,
+    "Sonstige": 0.2,
+    "DLW": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12063357": {
+   "name": "Wustermark",
+   "beteiligung": 71.2,
+   "parteien": {
+    "SPD": 32.2,
+    "AfD": 27.8,
+    "CDU": 15.0,
+    "BSW": 10.5,
+    "GRÜNE": 4.5,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 2.5,
+    "FREIE WÄHLER": 1.9,
+    "FDP": 1.2,
+    "PLUS": 0.9,
+    "DLW": 0.5,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064009": {
+   "name": "Alt Tucheband",
+   "beteiligung": 76.0,
+   "parteien": {
+    "AfD": 45.8,
+    "SPD": 22.3,
+    "BSW": 13.8,
+    "CDU": 7.7,
+    "FREIE WÄHLER": 3.9,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.2,
+    "DLW": 0.6,
+    "FDP": 0.2,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12064029": {
+   "name": "Altlandsberg, Stadt",
+   "beteiligung": 76.2,
+   "parteien": {
+    "AfD": 33.3,
+    "SPD": 26.7,
+    "BSW": 16.7,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.7,
+    "Tierschutzpartei": 2.6,
+    "GRÜNE": 1.9,
+    "PLUS": 0.9,
+    "FDP": 0.8,
+    "WerteUnion": 0.4,
+    "DLW": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064044": {
+   "name": "Bad Freienwalde (Oder), Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 27.0,
+    "BSW": 14.8,
+    "CDU": 11.2,
+    "DIE LINKE": 2.9,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.7,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "FDP": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064053": {
+   "name": "Beiersdorf-Freudenberg",
+   "beteiligung": 85.0,
+   "parteien": {
+    "AfD": 34.7,
+    "SPD": 26.7,
+    "BSW": 15.2,
+    "CDU": 10.3,
+    "GRÜNE": 3.2,
+    "FREIE WÄHLER": 3.0,
+    "DIE LINKE": 3.0,
+    "Tierschutzpartei": 1.6,
+    "FDP": 1.1,
+    "DLW": 0.9,
+    "PLUS": 0.2
+   }
+  },
+  "12064057": {
+   "name": "Bleyen-Genschmar",
+   "beteiligung": 74.4,
+   "parteien": {
+    "AfD": 38.4,
+    "SPD": 27.3,
+    "BSW": 15.9,
+    "CDU": 7.7,
+    "FREIE WÄHLER": 4.1,
+    "Tierschutzpartei": 2.6,
+    "DIE LINKE": 1.8,
+    "DLW": 0.7,
+    "GRÜNE": 0.7,
+    "PLUS": 0.4,
+    "WerteUnion": 0.4
+   }
+  },
+  "12064061": {
+   "name": "Bliesdorf",
+   "beteiligung": 68.9,
+   "parteien": {
+    "AfD": 40.4,
+    "SPD": 24.0,
+    "BSW": 12.9,
+    "CDU": 11.9,
+    "FREIE WÄHLER": 3.1,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.2,
+    "DLW": 0.8,
+    "FDP": 0.6,
+    "WerteUnion": 0.6,
+    "Sonstige": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12064084": {
+   "name": "Buckow (Märkische Schweiz), Stadt",
+   "beteiligung": 68.7,
+   "parteien": {
+    "SPD": 34.3,
+    "AfD": 23.2,
+    "BSW": 13.1,
+    "CDU": 9.7,
+    "GRÜNE": 8.1,
+    "DIE LINKE": 5.2,
+    "Tierschutzpartei": 2.8,
+    "FREIE WÄHLER": 2.3,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "DKP": 0.1,
+    "DLW": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12064125": {
+   "name": "Falkenberg",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AfD": 39.5,
+    "SPD": 23.0,
+    "BSW": 17.2,
+    "CDU": 7.4,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 2.9,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 1.4,
+    "DLW": 1.0,
+    "FDP": 0.9,
+    "PLUS": 0.7,
+    "Sonstige": 0.2,
+    "DKP": 0.2,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064128": {
+   "name": "Falkenhagen (Mark)",
+   "beteiligung": 76.7,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 22.8,
+    "BSW": 17.1,
+    "CDU": 9.1,
+    "FREIE WÄHLER": 3.3,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 2.2,
+    "GRÜNE": 2.0,
+    "FDP": 0.7,
+    "DLW": 0.4,
+    "Sonstige": 0.2,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12064130": {
+   "name": "Fichtenhöhe",
+   "beteiligung": 74.1,
+   "parteien": {
+    "AfD": 42.1,
+    "SPD": 18.9,
+    "BSW": 16.6,
+    "CDU": 8.9,
+    "DIE LINKE": 3.6,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 3.0,
+    "GRÜNE": 2.3,
+    "FDP": 0.7,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12064136": {
+   "name": "Fredersdorf-Vogelsdorf",
+   "beteiligung": 77.9,
+   "parteien": {
+    "AfD": 29.3,
+    "SPD": 28.3,
+    "BSW": 15.7,
+    "CDU": 12.3,
+    "GRÜNE": 3.5,
+    "FREIE WÄHLER": 3.0,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 2.4,
+    "FDP": 0.9,
+    "PLUS": 0.9,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12064153": {
+   "name": "Garzau-Garzin",
+   "beteiligung": 75.8,
+   "parteien": {
+    "AfD": 29.3,
+    "SPD": 26.9,
+    "BSW": 15.7,
+    "CDU": 11.2,
+    "DIE LINKE": 5.3,
+    "GRÜNE": 4.1,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 2.1,
+    "FDP": 1.2,
+    "PLUS": 0.6,
+    "DLW": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12064172": {
+   "name": "Golzow",
+   "beteiligung": 67.4,
+   "parteien": {
+    "AfD": 36.5,
+    "SPD": 27.1,
+    "BSW": 15.9,
+    "CDU": 10.3,
+    "FREIE WÄHLER": 3.1,
+    "DIE LINKE": 2.7,
+    "Tierschutzpartei": 2.0,
+    "GRÜNE": 1.1,
+    "FDP": 0.4,
+    "Sonstige": 0.2,
+    "DLW": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12064190": {
+   "name": "Gusow-Platkow",
+   "beteiligung": 76.3,
+   "parteien": {
+    "AfD": 42.7,
+    "SPD": 22.7,
+    "BSW": 14.0,
+    "CDU": 9.5,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 2.4,
+    "DIE LINKE": 1.8,
+    "GRÜNE": 1.7,
+    "DLW": 0.7,
+    "FDP": 0.7,
+    "PLUS": 0.5,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12064205": {
+   "name": "Heckelberg-Brunow",
+   "beteiligung": 71.9,
+   "parteien": {
+    "AfD": 41.1,
+    "SPD": 24.7,
+    "BSW": 16.9,
+    "CDU": 7.2,
+    "GRÜNE": 2.8,
+    "FREIE WÄHLER": 1.8,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.4,
+    "DLW": 0.9,
+    "PLUS": 0.7,
+    "Sonstige": 0.5,
+    "FDP": 0.2
+   }
+  },
+  "12064222": {
+   "name": "Höhenland",
+   "beteiligung": 82.3,
+   "parteien": {
+    "AfD": 34.6,
+    "SPD": 26.6,
+    "BSW": 14.9,
+    "CDU": 9.1,
+    "FREIE WÄHLER": 4.1,
+    "DIE LINKE": 3.4,
+    "Tierschutzpartei": 2.8,
+    "GRÜNE": 2.2,
+    "PLUS": 0.8,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "DKP": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12064227": {
+   "name": "Hoppegarten",
+   "beteiligung": 71.9,
+   "parteien": {
+    "SPD": 29.8,
+    "AfD": 26.0,
+    "BSW": 18.1,
+    "CDU": 11.8,
+    "GRÜNE": 3.7,
+    "FREIE WÄHLER": 3.2,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 1.9,
+    "PLUS": 0.9,
+    "FDP": 0.8,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064266": {
+   "name": "Küstriner Vorland",
+   "beteiligung": 71.5,
+   "parteien": {
+    "AfD": 43.7,
+    "SPD": 21.5,
+    "BSW": 16.1,
+    "CDU": 7.6,
+    "FREIE WÄHLER": 3.5,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.1,
+    "DLW": 0.7,
+    "WerteUnion": 0.5,
+    "FDP": 0.5,
+    "PLUS": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12064268": {
+   "name": "Lebus, Stadt",
+   "beteiligung": 76.9,
+   "parteien": {
+    "AfD": 33.4,
+    "SPD": 27.3,
+    "BSW": 16.8,
+    "CDU": 12.3,
+    "FREIE WÄHLER": 2.6,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 1.6,
+    "Tierschutzpartei": 1.6,
+    "DLW": 0.6,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064274": {
+   "name": "Letschin",
+   "beteiligung": 73.4,
+   "parteien": {
+    "AfD": 32.1,
+    "SPD": 29.1,
+    "BSW": 16.6,
+    "CDU": 10.9,
+    "FREIE WÄHLER": 3.5,
+    "DIE LINKE": 2.8,
+    "GRÜNE": 2.6,
+    "Tierschutzpartei": 0.9,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "FDP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12064288": {
+   "name": "Lietzen",
+   "beteiligung": 75.0,
+   "parteien": {
+    "AfD": 41.6,
+    "SPD": 22.3,
+    "BSW": 17.2,
+    "CDU": 8.5,
+    "FREIE WÄHLER": 4.4,
+    "DIE LINKE": 1.9,
+    "Tierschutzpartei": 1.2,
+    "GRÜNE": 1.0,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12064290": {
+   "name": "Lindendorf",
+   "beteiligung": 82.2,
+   "parteien": {
+    "AfD": 38.0,
+    "SPD": 26.7,
+    "BSW": 14.3,
+    "CDU": 8.8,
+    "FREIE WÄHLER": 3.4,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 1.9,
+    "GRÜNE": 1.4,
+    "DLW": 0.8,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.2
+   }
+  },
+  "12064303": {
+   "name": "Märkische Höhe",
+   "beteiligung": 84.8,
+   "parteien": {
+    "AfD": 32.2,
+    "SPD": 27.3,
+    "BSW": 14.2,
+    "CDU": 11.0,
+    "DIE LINKE": 4.7,
+    "GRÜNE": 4.2,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 1.2,
+    "DLW": 0.5,
+    "FDP": 0.2
+   }
+  },
+  "12064317": {
+   "name": "Müncheberg, Stadt",
+   "beteiligung": 72.9,
+   "parteien": {
+    "AfD": 34.0,
+    "SPD": 26.9,
+    "BSW": 15.2,
+    "CDU": 7.4,
+    "DIE LINKE": 4.7,
+    "GRÜNE": 4.1,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 2.6,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "DLW": 0.5,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064336": {
+   "name": "Neuenhagen bei Berlin",
+   "beteiligung": 77.3,
+   "parteien": {
+    "SPD": 29.4,
+    "AfD": 23.9,
+    "BSW": 16.4,
+    "CDU": 12.1,
+    "GRÜNE": 5.5,
+    "FREIE WÄHLER": 4.6,
+    "DIE LINKE": 3.1,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 1.1,
+    "FDP": 0.9,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064340": {
+   "name": "Neuhardenberg",
+   "beteiligung": 75.1,
+   "parteien": {
+    "AfD": 39.1,
+    "SPD": 22.7,
+    "BSW": 18.4,
+    "CDU": 9.1,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.4,
+    "FDP": 0.5,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "Iii Weg": 0.3,
+    "DKP": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12064349": {
+   "name": "Neulewin",
+   "beteiligung": 76.5,
+   "parteien": {
+    "AfD": 42.9,
+    "SPD": 27.4,
+    "BSW": 12.8,
+    "CDU": 7.1,
+    "FREIE WÄHLER": 2.8,
+    "GRÜNE": 2.1,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 0.8,
+    "WerteUnion": 0.8,
+    "DLW": 0.5,
+    "FDP": 0.3,
+    "PLUS": 0.3,
+    "Sonstige": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12064365": {
+   "name": "Neutrebbin",
+   "beteiligung": 78.1,
+   "parteien": {
+    "AfD": 37.0,
+    "SPD": 26.1,
+    "BSW": 14.1,
+    "CDU": 8.5,
+    "FREIE WÄHLER": 5.6,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.4,
+    "WerteUnion": 0.9,
+    "FDP": 0.8,
+    "Iii Weg": 0.7,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "Sonstige": 0.1
+   }
+  },
+  "12064370": {
+   "name": "Oberbarnim",
+   "beteiligung": 80.3,
+   "parteien": {
+    "AfD": 32.3,
+    "SPD": 26.8,
+    "BSW": 15.7,
+    "CDU": 9.4,
+    "GRÜNE": 4.7,
+    "DIE LINKE": 4.7,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.9,
+    "FDP": 0.8,
+    "WerteUnion": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "DKP": 0.1,
+    "Iii Weg": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12064371": {
+   "name": "Oderaue",
+   "beteiligung": 75.3,
+   "parteien": {
+    "AfD": 38.4,
+    "SPD": 27.7,
+    "BSW": 15.2,
+    "CDU": 7.3,
+    "FREIE WÄHLER": 2.9,
+    "GRÜNE": 2.9,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.7,
+    "WerteUnion": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064380": {
+   "name": "Petershagen/Eggersdorf",
+   "beteiligung": 80.1,
+   "parteien": {
+    "SPD": 29.5,
+    "AfD": 26.8,
+    "BSW": 16.3,
+    "CDU": 11.9,
+    "GRÜNE": 4.1,
+    "FREIE WÄHLER": 3.2,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 1.1,
+    "FDP": 1.0,
+    "WerteUnion": 0.3,
+    "DLW": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064388": {
+   "name": "Podelzig",
+   "beteiligung": 85.7,
+   "parteien": {
+    "AfD": 35.7,
+    "SPD": 26.8,
+    "BSW": 18.2,
+    "CDU": 9.4,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 1.6,
+    "GRÜNE": 1.4,
+    "DLW": 0.6,
+    "Iii Weg": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "FDP": 0.2
+   }
+  },
+  "12064393": {
+   "name": "Prötzel",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AfD": 37.0,
+    "SPD": 21.6,
+    "BSW": 17.4,
+    "CDU": 8.6,
+    "GRÜNE": 4.5,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 2.0,
+    "FDP": 1.2,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "WerteUnion": 0.6
+   }
+  },
+  "12064408": {
+   "name": "Rehfelde",
+   "beteiligung": 75.5,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 27.2,
+    "BSW": 16.3,
+    "CDU": 10.9,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 2.8,
+    "FREIE WÄHLER": 2.6,
+    "FDP": 0.9,
+    "PLUS": 0.7,
+    "DLW": 0.5,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12064417": {
+   "name": "Reichenow-Möglin",
+   "beteiligung": 79.9,
+   "parteien": {
+    "AfD": 33.5,
+    "SPD": 29.9,
+    "BSW": 12.3,
+    "CDU": 8.2,
+    "DIE LINKE": 5.1,
+    "FREIE WÄHLER": 3.8,
+    "GRÜNE": 3.8,
+    "PLUS": 1.0,
+    "Tierschutzpartei": 1.0,
+    "FDP": 0.5,
+    "WerteUnion": 0.5,
+    "DLW": 0.3
+   }
+  },
+  "12064420": {
+   "name": "Reitwein",
+   "beteiligung": 88.7,
+   "parteien": {
+    "AfD": 36.0,
+    "SPD": 29.1,
+    "BSW": 14.8,
+    "CDU": 9.8,
+    "FREIE WÄHLER": 2.5,
+    "GRÜNE": 2.0,
+    "DIE LINKE": 1.7,
+    "Tierschutzpartei": 1.4,
+    "WerteUnion": 1.1,
+    "PLUS": 0.8,
+    "FDP": 0.6,
+    "DLW": 0.3
+   }
+  },
+  "12064428": {
+   "name": "Rüdersdorf bei Berlin",
+   "beteiligung": 67.2,
+   "parteien": {
+    "AfD": 34.7,
+    "SPD": 25.9,
+    "BSW": 16.5,
+    "CDU": 10.9,
+    "Tierschutzpartei": 3.2,
+    "DIE LINKE": 2.7,
+    "FREIE WÄHLER": 1.9,
+    "GRÜNE": 1.8,
+    "PLUS": 0.8,
+    "FDP": 0.8,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064448": {
+   "name": "Seelow, Stadt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "AfD": 34.8,
+    "SPD": 28.5,
+    "BSW": 17.2,
+    "CDU": 9.0,
+    "DIE LINKE": 3.4,
+    "FREIE WÄHLER": 2.9,
+    "Tierschutzpartei": 1.7,
+    "GRÜNE": 1.0,
+    "FDP": 0.4,
+    "DLW": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12064472": {
+   "name": "Strausberg, Stadt",
+   "beteiligung": 69.0,
+   "parteien": {
+    "SPD": 28.4,
+    "AfD": 28.3,
+    "BSW": 17.4,
+    "CDU": 9.3,
+    "DIE LINKE": 5.3,
+    "GRÜNE": 3.1,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 2.7,
+    "PLUS": 1.1,
+    "FDP": 0.7,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064480": {
+   "name": "Treplin",
+   "beteiligung": 90.7,
+   "parteien": {
+    "AfD": 41.3,
+    "SPD": 21.2,
+    "BSW": 16.6,
+    "CDU": 11.0,
+    "GRÜNE": 2.1,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "DIE LINKE": 1.8,
+    "DLW": 0.7,
+    "Sonstige": 0.7,
+    "FDP": 0.4,
+    "PLUS": 0.4
+   }
+  },
+  "12064482": {
+   "name": "Vierlinden",
+   "beteiligung": 74.2,
+   "parteien": {
+    "AfD": 32.3,
+    "SPD": 25.7,
+    "BSW": 16.0,
+    "CDU": 10.9,
+    "FREIE WÄHLER": 4.3,
+    "DIE LINKE": 3.9,
+    "Tierschutzpartei": 2.5,
+    "GRÜNE": 1.6,
+    "PLUS": 1.2,
+    "DLW": 0.7,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "DKP": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12064484": {
+   "name": "Waldsieversdorf",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 29.9,
+    "SPD": 29.5,
+    "BSW": 15.3,
+    "CDU": 10.0,
+    "GRÜNE": 4.4,
+    "DIE LINKE": 3.9,
+    "Tierschutzpartei": 2.3,
+    "FREIE WÄHLER": 1.6,
+    "PLUS": 1.1,
+    "FDP": 0.9,
+    "DLW": 0.5,
+    "Iii Weg": 0.4,
+    "DKP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12064512": {
+   "name": "Wriezen, Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "AfD": 40.4,
+    "SPD": 27.8,
+    "BSW": 13.8,
+    "CDU": 8.2,
+    "FREIE WÄHLER": 2.6,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.7,
+    "FDP": 1.0,
+    "GRÜNE": 0.8,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12064538": {
+   "name": "Zechin",
+   "beteiligung": 74.0,
+   "parteien": {
+    "AfD": 42.4,
+    "SPD": 27.0,
+    "BSW": 12.3,
+    "CDU": 7.6,
+    "GRÜNE": 2.7,
+    "FREIE WÄHLER": 2.2,
+    "DIE LINKE": 2.2,
+    "FDP": 1.0,
+    "Tierschutzpartei": 1.0,
+    "WerteUnion": 0.7,
+    "Sonstige": 0.2,
+    "DLW": 0.2,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12064539": {
+   "name": "Zeschdorf",
+   "beteiligung": 77.3,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 26.1,
+    "BSW": 18.7,
+    "CDU": 10.5,
+    "DIE LINKE": 3.0,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 2.3,
+    "GRÜNE": 1.2,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12065036": {
+   "name": "Birkenwerder",
+   "beteiligung": 80.8,
+   "parteien": {
+    "SPD": 34.8,
+    "AfD": 21.0,
+    "CDU": 14.1,
+    "BSW": 12.6,
+    "GRÜNE": 7.1,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 2.2,
+    "PLUS": 1.7,
+    "FREIE WÄHLER": 1.5,
+    "FDP": 1.2,
+    "Iii Weg": 0.3,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12065084": {
+   "name": "Fürstenberg/Havel, Stadt",
+   "beteiligung": 71.7,
+   "parteien": {
+    "AfD": 32.4,
+    "SPD": 27.1,
+    "BSW": 14.5,
+    "CDU": 12.9,
+    "DIE LINKE": 3.3,
+    "GRÜNE": 3.3,
+    "Tierschutzpartei": 2.9,
+    "FREIE WÄHLER": 2.0,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.2,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12065096": {
+   "name": "Glienicke/Nordbahn",
+   "beteiligung": 77.0,
+   "parteien": {
+    "SPD": 35.1,
+    "CDU": 21.5,
+    "AfD": 18.9,
+    "BSW": 8.4,
+    "GRÜNE": 6.4,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.1,
+    "FDP": 1.8,
+    "PLUS": 1.5,
+    "FREIE WÄHLER": 1.2,
+    "WerteUnion": 0.5,
+    "DLW": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12065100": {
+   "name": "Gransee, Stadt",
+   "beteiligung": 66.3,
+   "parteien": {
+    "AfD": 32.3,
+    "SPD": 31.3,
+    "BSW": 13.9,
+    "CDU": 11.6,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.4,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.6,
+    "PLUS": 0.8,
+    "FDP": 0.7,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065117": {
+   "name": "Großwoltersdorf",
+   "beteiligung": 82.8,
+   "parteien": {
+    "AfD": 35.5,
+    "SPD": 29.2,
+    "BSW": 13.8,
+    "CDU": 8.5,
+    "GRÜNE": 5.5,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.1,
+    "FDP": 0.9,
+    "FREIE WÄHLER": 0.8,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12065136": {
+   "name": "Hennigsdorf, Stadt",
+   "beteiligung": 67.2,
+   "parteien": {
+    "SPD": 34.8,
+    "AfD": 27.7,
+    "CDU": 11.8,
+    "BSW": 11.2,
+    "GRÜNE": 4.0,
+    "Tierschutzpartei": 2.7,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 2.2,
+    "PLUS": 1.5,
+    "FDP": 0.8,
+    "WerteUnion": 0.4,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12065144": {
+   "name": "Hohen Neuendorf, Stadt",
+   "beteiligung": 78.8,
+   "parteien": {
+    "SPD": 35.4,
+    "AfD": 20.2,
+    "CDU": 17.4,
+    "BSW": 10.9,
+    "GRÜNE": 6.9,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 1.4,
+    "PLUS": 1.4,
+    "FDP": 1.4,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12065165": {
+   "name": "Kremmen, Stadt",
+   "beteiligung": 76.1,
+   "parteien": {
+    "AfD": 30.5,
+    "SPD": 29.1,
+    "CDU": 14.0,
+    "BSW": 10.8,
+    "FREIE WÄHLER": 6.6,
+    "GRÜNE": 2.7,
+    "Tierschutzpartei": 2.5,
+    "DIE LINKE": 2.0,
+    "PLUS": 0.7,
+    "FDP": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.1
+   }
+  },
+  "12065180": {
+   "name": "Leegebruch",
+   "beteiligung": 75.8,
+   "parteien": {
+    "AfD": 33.4,
+    "SPD": 29.5,
+    "CDU": 14.1,
+    "BSW": 11.4,
+    "Tierschutzpartei": 2.8,
+    "DIE LINKE": 2.2,
+    "GRÜNE": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "FDP": 1.0,
+    "PLUS": 1.0,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12065193": {
+   "name": "Liebenwalde, Stadt",
+   "beteiligung": 71.3,
+   "parteien": {
+    "AfD": 37.2,
+    "SPD": 24.5,
+    "BSW": 13.6,
+    "CDU": 13.1,
+    "Tierschutzpartei": 2.5,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 2.2,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "DLW": 0.6,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065198": {
+   "name": "Löwenberger Land",
+   "beteiligung": 76.8,
+   "parteien": {
+    "AfD": 33.1,
+    "SPD": 29.1,
+    "BSW": 14.1,
+    "CDU": 11.6,
+    "FREIE WÄHLER": 3.5,
+    "GRÜNE": 2.6,
+    "Tierschutzpartei": 2.0,
+    "DIE LINKE": 1.7,
+    "FDP": 0.8,
+    "PLUS": 0.6,
+    "DLW": 0.6,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065225": {
+   "name": "Mühlenbecker Land",
+   "beteiligung": 78.7,
+   "parteien": {
+    "SPD": 31.8,
+    "AfD": 24.3,
+    "CDU": 16.7,
+    "BSW": 11.3,
+    "GRÜNE": 5.3,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 2.6,
+    "DIE LINKE": 2.1,
+    "PLUS": 1.4,
+    "FDP": 1.1,
+    "WerteUnion": 0.3,
+    "DLW": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065251": {
+   "name": "Oberkrämer",
+   "beteiligung": 77.0,
+   "parteien": {
+    "SPD": 32.0,
+    "AfD": 27.6,
+    "CDU": 16.9,
+    "BSW": 9.9,
+    "GRÜNE": 4.5,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 1.7,
+    "PLUS": 1.0,
+    "FDP": 1.0,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065256": {
+   "name": "Oranienburg, Stadt",
+   "beteiligung": 70.7,
+   "parteien": {
+    "SPD": 31.1,
+    "AfD": 29.2,
+    "BSW": 13.0,
+    "CDU": 12.0,
+    "GRÜNE": 3.7,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 2.6,
+    "FREIE WÄHLER": 2.3,
+    "PLUS": 1.4,
+    "FDP": 0.9,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12065276": {
+   "name": "Schönermark",
+   "beteiligung": 67.2,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 24.1,
+    "BSW": 18.2,
+    "CDU": 10.0,
+    "DIE LINKE": 6.4,
+    "GRÜNE": 4.1,
+    "FREIE WÄHLER": 0.9,
+    "Iii Weg": 0.9,
+    "Tierschutzpartei": 0.9,
+    "PLUS": 0.5,
+    "WerteUnion": 0.5
+   }
+  },
+  "12065301": {
+   "name": "Sonnenberg",
+   "beteiligung": 79.3,
+   "parteien": {
+    "AfD": 37.5,
+    "SPD": 27.1,
+    "BSW": 13.4,
+    "CDU": 11.6,
+    "FREIE WÄHLER": 3.2,
+    "DIE LINKE": 2.5,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.4,
+    "PLUS": 0.5,
+    "DLW": 0.4,
+    "FDP": 0.4,
+    "WerteUnion": 0.2
+   }
+  },
+  "12065310": {
+   "name": "Stechlin",
+   "beteiligung": 74.4,
+   "parteien": {
+    "SPD": 31.0,
+    "AfD": 29.4,
+    "BSW": 15.4,
+    "CDU": 9.9,
+    "GRÜNE": 4.5,
+    "DIE LINKE": 3.5,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.9,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12065332": {
+   "name": "Velten, Stadt",
+   "beteiligung": 69.3,
+   "parteien": {
+    "AfD": 34.2,
+    "SPD": 30.0,
+    "CDU": 12.0,
+    "BSW": 11.2,
+    "Tierschutzpartei": 2.7,
+    "GRÜNE": 2.2,
+    "FREIE WÄHLER": 2.1,
+    "DIE LINKE": 2.0,
+    "PLUS": 1.4,
+    "FDP": 1.0,
+    "DLW": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12065356": {
+   "name": "Zehdenick, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "AfD": 35.7,
+    "SPD": 29.6,
+    "BSW": 13.0,
+    "CDU": 11.5,
+    "FREIE WÄHLER": 2.8,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.6,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12066008": {
+   "name": "Altdöbern",
+   "beteiligung": 68.9,
+   "parteien": {
+    "AfD": 34.7,
+    "SPD": 31.6,
+    "BSW": 13.3,
+    "CDU": 10.8,
+    "GRÜNE": 2.1,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.3,
+    "FDP": 1.1,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12066041": {
+   "name": "Bronkow",
+   "beteiligung": 87.5,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 30.4,
+    "BSW": 13.1,
+    "CDU": 12.1,
+    "DLW": 1.7,
+    "FDP": 1.7,
+    "FREIE WÄHLER": 1.7,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 1.0,
+    "PLUS": 0.7,
+    "WerteUnion": 0.7
+   }
+  },
+  "12066052": {
+   "name": "Calau/Kalawa, Stadt",
+   "beteiligung": 72.4,
+   "parteien": {
+    "SPD": 33.1,
+    "AfD": 31.1,
+    "BSW": 12.3,
+    "CDU": 11.1,
+    "DIE LINKE": 3.4,
+    "Tierschutzpartei": 2.0,
+    "DLW": 1.8,
+    "GRÜNE": 1.7,
+    "FREIE WÄHLER": 1.5,
+    "PLUS": 0.9,
+    "FDP": 0.7,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12066064": {
+   "name": "Frauendorf",
+   "beteiligung": 86.0,
+   "parteien": {
+    "AfD": 42.7,
+    "SPD": 21.9,
+    "BSW": 15.5,
+    "CDU": 11.7,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 0.8,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "GRÜNE": 0.6,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12066104": {
+   "name": "Großkmehlen",
+   "beteiligung": 77.3,
+   "parteien": {
+    "AfD": 44.3,
+    "SPD": 22.6,
+    "CDU": 13.4,
+    "BSW": 11.9,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.7,
+    "GRÜNE": 1.1,
+    "DIE LINKE": 1.1,
+    "FDP": 0.9,
+    "WerteUnion": 0.6,
+    "PLUS": 0.3,
+    "DLW": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12066112": {
+   "name": "Großräschen/Rań, Stadt",
+   "beteiligung": 70.1,
+   "parteien": {
+    "AfD": 37.7,
+    "SPD": 30.7,
+    "BSW": 14.2,
+    "CDU": 8.7,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 1.7,
+    "GRÜNE": 1.1,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12066116": {
+   "name": "Grünewald",
+   "beteiligung": 94.8,
+   "parteien": {
+    "AfD": 45.3,
+    "SPD": 22.0,
+    "BSW": 13.0,
+    "CDU": 12.3,
+    "FREIE WÄHLER": 1.4,
+    "FDP": 1.2,
+    "GRÜNE": 1.2,
+    "DIE LINKE": 1.2,
+    "DLW": 0.7,
+    "PLUS": 0.5,
+    "Tierschutzpartei": 0.5,
+    "WerteUnion": 0.5,
+    "Iii Weg": 0.2
+   }
+  },
+  "12066120": {
+   "name": "Guteborn",
+   "beteiligung": 83.7,
+   "parteien": {
+    "AfD": 40.2,
+    "SPD": 25.8,
+    "BSW": 15.7,
+    "CDU": 11.7,
+    "FREIE WÄHLER": 1.3,
+    "GRÜNE": 1.3,
+    "DIE LINKE": 1.3,
+    "FDP": 0.8,
+    "Tierschutzpartei": 0.8,
+    "PLUS": 0.5,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12066124": {
+   "name": "Hermsdorf",
+   "beteiligung": 91.5,
+   "parteien": {
+    "AfD": 46.0,
+    "SPD": 22.2,
+    "BSW": 13.4,
+    "CDU": 11.5,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 1.2,
+    "Tierschutzpartei": 1.0,
+    "DLW": 0.3,
+    "FDP": 0.3,
+    "GRÜNE": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.2
+   }
+  },
+  "12066132": {
+   "name": "Hohenbocka",
+   "beteiligung": 78.8,
+   "parteien": {
+    "AfD": 46.2,
+    "SPD": 22.3,
+    "BSW": 14.0,
+    "CDU": 11.1,
+    "FREIE WÄHLER": 1.4,
+    "Tierschutzpartei": 1.4,
+    "FDP": 0.8,
+    "GRÜNE": 0.6,
+    "DLW": 0.5,
+    "DIE LINKE": 0.5,
+    "PLUS": 0.5,
+    "Sonstige": 0.3,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.2
+   }
+  },
+  "12066168": {
+   "name": "Kroppen",
+   "beteiligung": 89.2,
+   "parteien": {
+    "AfD": 42.0,
+    "SPD": 22.5,
+    "CDU": 15.2,
+    "BSW": 13.0,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 1.2,
+    "Tierschutzpartei": 1.2,
+    "FDP": 1.0,
+    "PLUS": 0.8,
+    "WerteUnion": 0.4,
+    "DKP": 0.2,
+    "DLW": 0.2,
+    "DIE LINKE": 0.2
+   }
+  },
+  "12066176": {
+   "name": "Lauchhammer, Stadt",
+   "beteiligung": 68.3,
+   "parteien": {
+    "AfD": 41.1,
+    "SPD": 24.1,
+    "BSW": 15.1,
+    "CDU": 9.8,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 2.0,
+    "GRÜNE": 1.0,
+    "FDP": 0.6,
+    "DLW": 0.4,
+    "PLUS": 0.4,
+    "DKP": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12066188": {
+   "name": "Lindenau",
+   "beteiligung": 82.2,
+   "parteien": {
+    "AfD": 41.6,
+    "SPD": 18.1,
+    "CDU": 17.2,
+    "BSW": 16.0,
+    "FREIE WÄHLER": 1.6,
+    "FDP": 1.2,
+    "Tierschutzpartei": 1.2,
+    "GRÜNE": 1.0,
+    "DKP": 0.4,
+    "DLW": 0.4,
+    "Iii Weg": 0.4,
+    "DIE LINKE": 0.4,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12066196": {
+   "name": "Lübbenau/Spreewald / Lubnjow/Błota, Stadt",
+   "beteiligung": 70.5,
+   "parteien": {
+    "SPD": 33.8,
+    "AfD": 31.1,
+    "BSW": 13.0,
+    "CDU": 11.1,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.7,
+    "GRÜNE": 1.6,
+    "DLW": 1.5,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12066202": {
+   "name": "Luckaitztal",
+   "beteiligung": 84.2,
+   "parteien": {
+    "AfD": 38.2,
+    "SPD": 30.7,
+    "BSW": 11.8,
+    "CDU": 10.1,
+    "DIE LINKE": 2.6,
+    "DLW": 2.0,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.3,
+    "FREIE WÄHLER": 0.7,
+    "PLUS": 0.4,
+    "FDP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12066226": {
+   "name": "Neu-Seeland/Nowa Jazorina",
+   "beteiligung": 84.0,
+   "parteien": {
+    "AfD": 33.3,
+    "SPD": 28.0,
+    "BSW": 15.7,
+    "CDU": 11.6,
+    "GRÜNE": 2.7,
+    "FREIE WÄHLER": 2.2,
+    "DIE LINKE": 1.9,
+    "Tierschutzpartei": 1.9,
+    "PLUS": 1.2,
+    "DLW": 0.7,
+    "FDP": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12066228": {
+   "name": "Neupetershain/Nowe Wiki",
+   "beteiligung": 70.6,
+   "parteien": {
+    "AfD": 40.8,
+    "SPD": 26.8,
+    "BSW": 15.1,
+    "CDU": 7.2,
+    "FREIE WÄHLER": 2.6,
+    "GRÜNE": 1.7,
+    "DIE LINKE": 1.7,
+    "Tierschutzpartei": 1.7,
+    "FDP": 1.0,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "Iii Weg": 0.3,
+    "Sonstige": 0.1
+   }
+  },
+  "12066240": {
+   "name": "Ortrand, Stadt",
+   "beteiligung": 73.2,
+   "parteien": {
+    "AfD": 43.6,
+    "SPD": 20.8,
+    "CDU": 14.4,
+    "BSW": 13.1,
+    "FREIE WÄHLER": 2.6,
+    "GRÜNE": 1.4,
+    "Tierschutzpartei": 1.2,
+    "DIE LINKE": 0.9,
+    "FDP": 0.8,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Iii Weg": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12066272": {
+   "name": "Ruhland, Stadt",
+   "beteiligung": 66.1,
+   "parteien": {
+    "AfD": 38.8,
+    "SPD": 28.7,
+    "BSW": 12.8,
+    "CDU": 11.1,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.5,
+    "DIE LINKE": 1.4,
+    "GRÜNE": 1.1,
+    "FDP": 0.9,
+    "PLUS": 0.5,
+    "DLW": 0.5,
+    "WerteUnion": 0.4,
+    "DKP": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12066285": {
+   "name": "Schipkau",
+   "beteiligung": 71.9,
+   "parteien": {
+    "AfD": 41.5,
+    "SPD": 25.5,
+    "BSW": 14.1,
+    "CDU": 9.5,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 2.0,
+    "FDP": 1.0,
+    "GRÜNE": 0.8,
+    "DLW": 0.4,
+    "PLUS": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12066292": {
+   "name": "Schwarzbach",
+   "beteiligung": 93.5,
+   "parteien": {
+    "AfD": 44.6,
+    "SPD": 22.9,
+    "BSW": 11.9,
+    "CDU": 11.9,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.7,
+    "GRÜNE": 1.1,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "FDP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12066296": {
+   "name": "Schwarzheide, Stadt",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 40.6,
+    "SPD": 27.4,
+    "BSW": 13.3,
+    "CDU": 10.0,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.8,
+    "FREIE WÄHLER": 1.6,
+    "GRÜNE": 1.3,
+    "PLUS": 0.7,
+    "FDP": 0.6,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12066304": {
+   "name": "Senftenberg/Zły Komorow, Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "AfD": 35.1,
+    "SPD": 30.1,
+    "BSW": 15.0,
+    "CDU": 10.1,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.7,
+    "GRÜNE": 1.5,
+    "PLUS": 0.6,
+    "FDP": 0.6,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12066316": {
+   "name": "Tettau",
+   "beteiligung": 81.5,
+   "parteien": {
+    "AfD": 45.0,
+    "SPD": 18.1,
+    "CDU": 14.9,
+    "BSW": 13.9,
+    "GRÜNE": 1.7,
+    "FREIE WÄHLER": 1.5,
+    "FDP": 1.4,
+    "DIE LINKE": 1.0,
+    "PLUS": 0.8,
+    "Tierschutzpartei": 0.8,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.2,
+    "DLW": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12066320": {
+   "name": "Vetschau/Spreewald / Wětošow/Błota, Stadt",
+   "beteiligung": 73.4,
+   "parteien": {
+    "AfD": 35.7,
+    "SPD": 32.1,
+    "BSW": 13.6,
+    "CDU": 9.1,
+    "DIE LINKE": 2.1,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.6,
+    "GRÜNE": 1.5,
+    "DLW": 1.0,
+    "FDP": 0.6,
+    "WerteUnion": 0.4,
+    "PLUS": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12067024": {
+   "name": "Bad Saarow",
+   "beteiligung": 72.1,
+   "parteien": {
+    "SPD": 29.4,
+    "AfD": 28.7,
+    "BSW": 16.3,
+    "CDU": 13.5,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.7,
+    "FDP": 1.0,
+    "PLUS": 0.7,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067036": {
+   "name": "Beeskow, Stadt",
+   "beteiligung": 70.0,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 28.3,
+    "BSW": 13.2,
+    "CDU": 10.9,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.7,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 1.5,
+    "DLW": 0.9,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "WerteUnion": 0.4,
+    "DKP": 0.1
+   }
+  },
+  "12067040": {
+   "name": "Berkenbrück",
+   "beteiligung": 79.0,
+   "parteien": {
+    "AfD": 38.8,
+    "SPD": 25.7,
+    "BSW": 14.5,
+    "CDU": 9.8,
+    "FREIE WÄHLER": 3.2,
+    "DLW": 1.7,
+    "GRÜNE": 1.7,
+    "Tierschutzpartei": 1.5,
+    "DIE LINKE": 1.3,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12067072": {
+   "name": "Briesen (Mark)",
+   "beteiligung": 70.3,
+   "parteien": {
+    "AfD": 34.0,
+    "SPD": 27.0,
+    "BSW": 14.8,
+    "CDU": 11.2,
+    "FREIE WÄHLER": 3.3,
+    "GRÜNE": 2.5,
+    "DLW": 2.0,
+    "DIE LINKE": 1.9,
+    "Tierschutzpartei": 1.7,
+    "PLUS": 0.9,
+    "FDP": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12067076": {
+   "name": "Brieskow-Finkenheerd",
+   "beteiligung": 75.5,
+   "parteien": {
+    "AfD": 39.9,
+    "SPD": 27.2,
+    "BSW": 14.7,
+    "CDU": 10.8,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.4,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.2,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12067112": {
+   "name": "Diensdorf-Radlow",
+   "beteiligung": 84.9,
+   "parteien": {
+    "AfD": 31.7,
+    "SPD": 26.7,
+    "BSW": 15.6,
+    "CDU": 15.2,
+    "GRÜNE": 3.2,
+    "DIE LINKE": 2.3,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.4,
+    "FDP": 1.1,
+    "DLW": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12067120": {
+   "name": "Eisenhüttenstadt, Stadt",
+   "beteiligung": 64.9,
+   "parteien": {
+    "AfD": 36.5,
+    "SPD": 29.8,
+    "BSW": 15.3,
+    "CDU": 8.5,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 2.3,
+    "Tierschutzpartei": 1.9,
+    "GRÜNE": 1.2,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12067124": {
+   "name": "Erkner, Stadt",
+   "beteiligung": 70.5,
+   "parteien": {
+    "SPD": 29.4,
+    "AfD": 28.9,
+    "BSW": 17.1,
+    "CDU": 10.0,
+    "DIE LINKE": 3.8,
+    "GRÜNE": 3.7,
+    "Tierschutzpartei": 2.3,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 1.5,
+    "FDP": 0.7,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12067137": {
+   "name": "Friedland, Stadt",
+   "beteiligung": 80.0,
+   "parteien": {
+    "AfD": 37.4,
+    "SPD": 29.2,
+    "BSW": 12.6,
+    "CDU": 11.7,
+    "FREIE WÄHLER": 2.3,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.3,
+    "PLUS": 0.7,
+    "DLW": 0.6,
+    "FDP": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067144": {
+   "name": "Fürstenwalde/Spree, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "AfD": 33.1,
+    "SPD": 26.2,
+    "BSW": 14.8,
+    "CDU": 9.8,
+    "FREIE WÄHLER": 4.1,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.9,
+    "GRÜNE": 2.7,
+    "DLW": 1.3,
+    "PLUS": 0.8,
+    "FDP": 0.7,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12067173": {
+   "name": "Gosen-Neu Zittau",
+   "beteiligung": 71.2,
+   "parteien": {
+    "AfD": 36.3,
+    "SPD": 26.4,
+    "BSW": 15.4,
+    "CDU": 8.3,
+    "FREIE WÄHLER": 3.2,
+    "DIE LINKE": 2.7,
+    "Tierschutzpartei": 2.6,
+    "GRÜNE": 2.5,
+    "PLUS": 1.1,
+    "DLW": 0.7,
+    "FDP": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12067180": {
+   "name": "Groß Lindow",
+   "beteiligung": 78.3,
+   "parteien": {
+    "AfD": 42.1,
+    "SPD": 23.0,
+    "BSW": 15.5,
+    "CDU": 12.0,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.6,
+    "DIE LINKE": 1.2,
+    "PLUS": 0.7,
+    "GRÜNE": 0.6,
+    "WerteUnion": 0.5,
+    "FDP": 0.4,
+    "DKP": 0.2,
+    "DLW": 0.2,
+    "Sonstige": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067201": {
+   "name": "Grünheide (Mark)",
+   "beteiligung": 77.1,
+   "parteien": {
+    "AfD": 28.7,
+    "SPD": 28.3,
+    "BSW": 16.3,
+    "CDU": 11.0,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 3.3,
+    "Tierschutzpartei": 2.6,
+    "FREIE WÄHLER": 2.3,
+    "PLUS": 1.3,
+    "DLW": 1.3,
+    "FDP": 0.7,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12067205": {
+   "name": "Grunow-Dammendorf",
+   "beteiligung": 88.4,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 30.2,
+    "BSW": 15.1,
+    "CDU": 10.5,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 2.2,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.1,
+    "WerteUnion": 1.1,
+    "DLW": 0.5,
+    "FDP": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12067237": {
+   "name": "Jacobsdorf",
+   "beteiligung": 74.5,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 25.1,
+    "BSW": 15.6,
+    "CDU": 11.4,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 2.1,
+    "DLW": 1.9,
+    "GRÜNE": 1.8,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 0.6,
+    "FDP": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.2
+   }
+  },
+  "12067288": {
+   "name": "Langewahl",
+   "beteiligung": 87.8,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 24.6,
+    "BSW": 14.7,
+    "CDU": 11.1,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.7,
+    "PLUS": 1.1,
+    "FDP": 0.6,
+    "WerteUnion": 0.5,
+    "DLW": 0.2
+   }
+  },
+  "12067292": {
+   "name": "Lawitz",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 40.4,
+    "SPD": 25.5,
+    "BSW": 14.2,
+    "CDU": 8.1,
+    "FREIE WÄHLER": 6.0,
+    "Tierschutzpartei": 2.4,
+    "GRÜNE": 1.3,
+    "DIE LINKE": 1.0,
+    "DKP": 0.3,
+    "FDP": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12067324": {
+   "name": "Mixdorf",
+   "beteiligung": 75.3,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 27.1,
+    "BSW": 17.2,
+    "CDU": 12.3,
+    "FREIE WÄHLER": 2.5,
+    "DIE LINKE": 1.7,
+    "PLUS": 1.3,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.0,
+    "DLW": 0.8,
+    "FDP": 0.5,
+    "DKP": 0.2,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12067336": {
+   "name": "Müllrose, Stadt",
+   "beteiligung": 74.1,
+   "parteien": {
+    "AfD": 33.3,
+    "SPD": 27.7,
+    "BSW": 16.5,
+    "CDU": 12.6,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 1.5,
+    "Tierschutzpartei": 1.2,
+    "PLUS": 0.9,
+    "FDP": 0.7,
+    "WerteUnion": 0.5,
+    "DLW": 0.3
+   }
+  },
+  "12067338": {
+   "name": "Neißemünde",
+   "beteiligung": 80.8,
+   "parteien": {
+    "AfD": 36.1,
+    "SPD": 27.8,
+    "BSW": 16.4,
+    "CDU": 10.6,
+    "GRÜNE": 2.0,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.6,
+    "DIE LINKE": 1.5,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067357": {
+   "name": "Neuzelle",
+   "beteiligung": 78.9,
+   "parteien": {
+    "AfD": 38.2,
+    "SPD": 26.8,
+    "BSW": 14.4,
+    "CDU": 10.2,
+    "FREIE WÄHLER": 2.9,
+    "GRÜNE": 1.7,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 0.9,
+    "FDP": 0.9,
+    "PLUS": 0.8,
+    "WerteUnion": 0.8,
+    "DLW": 0.6,
+    "DKP": 0.1
+   }
+  },
+  "12067397": {
+   "name": "Ragow-Merz",
+   "beteiligung": 88.4,
+   "parteien": {
+    "AfD": 35.9,
+    "SPD": 27.1,
+    "BSW": 16.4,
+    "CDU": 10.5,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.6,
+    "DLW": 1.1,
+    "Tierschutzpartei": 1.1,
+    "WerteUnion": 1.1,
+    "PLUS": 0.8,
+    "Sonstige": 0.3,
+    "DKP": 0.3,
+    "FDP": 0.3
+   }
+  },
+  "12067408": {
+   "name": "Rauen",
+   "beteiligung": 79.7,
+   "parteien": {
+    "AfD": 31.5,
+    "SPD": 30.3,
+    "BSW": 14.1,
+    "CDU": 10.1,
+    "FREIE WÄHLER": 3.7,
+    "GRÜNE": 2.8,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 2.0,
+    "DLW": 1.3,
+    "PLUS": 0.8,
+    "FDP": 0.7,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12067413": {
+   "name": "Reichenwalde",
+   "beteiligung": 77.2,
+   "parteien": {
+    "SPD": 29.3,
+    "AfD": 28.3,
+    "BSW": 17.4,
+    "CDU": 11.5,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 3.0,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 1.5,
+    "FDP": 1.1,
+    "PLUS": 1.1,
+    "DLW": 0.8,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12067426": {
+   "name": "Rietz-Neuendorf",
+   "beteiligung": 79.8,
+   "parteien": {
+    "AfD": 39.4,
+    "SPD": 23.8,
+    "BSW": 14.8,
+    "CDU": 9.7,
+    "FREIE WÄHLER": 2.4,
+    "GRÜNE": 2.2,
+    "DLW": 2.2,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.8,
+    "WerteUnion": 0.6,
+    "PLUS": 0.5,
+    "FDP": 0.3,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067438": {
+   "name": "Schlaubetal",
+   "beteiligung": 85.9,
+   "parteien": {
+    "AfD": 40.3,
+    "SPD": 25.2,
+    "BSW": 14.6,
+    "CDU": 11.0,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 1.8,
+    "GRÜNE": 1.2,
+    "Tierschutzpartei": 1.0,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12067440": {
+   "name": "Schöneiche bei Berlin",
+   "beteiligung": 78.4,
+   "parteien": {
+    "SPD": 30.5,
+    "AfD": 24.3,
+    "CDU": 13.8,
+    "BSW": 13.6,
+    "GRÜNE": 5.6,
+    "DIE LINKE": 4.3,
+    "FREIE WÄHLER": 3.2,
+    "Tierschutzpartei": 2.1,
+    "PLUS": 1.1,
+    "FDP": 1.0,
+    "WerteUnion": 0.2,
+    "DLW": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12067458": {
+   "name": "Siehdichum",
+   "beteiligung": 89.8,
+   "parteien": {
+    "AfD": 34.8,
+    "SPD": 26.3,
+    "BSW": 15.0,
+    "CDU": 12.2,
+    "DIE LINKE": 2.9,
+    "FREIE WÄHLER": 2.7,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.9,
+    "FDP": 0.9,
+    "PLUS": 0.5,
+    "WerteUnion": 0.4,
+    "DLW": 0.3,
+    "Sonstige": 0.2
+   }
+  },
+  "12067469": {
+   "name": "Spreenhagen",
+   "beteiligung": 76.9,
+   "parteien": {
+    "AfD": 35.3,
+    "SPD": 27.0,
+    "BSW": 15.4,
+    "CDU": 11.1,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 2.3,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.9,
+    "PLUS": 0.9,
+    "DLW": 0.8,
+    "FDP": 0.7,
+    "WerteUnion": 0.3
+   }
+  },
+  "12067473": {
+   "name": "Steinhöfel",
+   "beteiligung": 80.9,
+   "parteien": {
+    "AfD": 38.9,
+    "SPD": 23.3,
+    "BSW": 13.7,
+    "CDU": 10.2,
+    "DLW": 3.3,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.5,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 0.7,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12067481": {
+   "name": "Storkow (Mark), Stadt",
+   "beteiligung": 72.8,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 30.8,
+    "BSW": 13.9,
+    "CDU": 8.9,
+    "FREIE WÄHLER": 3.1,
+    "DIE LINKE": 2.6,
+    "Tierschutzpartei": 2.4,
+    "GRÜNE": 2.1,
+    "PLUS": 0.9,
+    "DLW": 0.8,
+    "FDP": 0.6,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12067493": {
+   "name": "Tauche",
+   "beteiligung": 78.3,
+   "parteien": {
+    "AfD": 39.5,
+    "SPD": 26.4,
+    "BSW": 13.7,
+    "CDU": 10.0,
+    "FREIE WÄHLER": 2.7,
+    "DIE LINKE": 2.6,
+    "GRÜNE": 1.6,
+    "Tierschutzpartei": 1.1,
+    "DLW": 0.7,
+    "PLUS": 0.6,
+    "FDP": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12067508": {
+   "name": "Vogelsang",
+   "beteiligung": 83.8,
+   "parteien": {
+    "AfD": 42.7,
+    "SPD": 23.3,
+    "BSW": 16.1,
+    "CDU": 11.0,
+    "FREIE WÄHLER": 2.5,
+    "DIE LINKE": 0.9,
+    "PLUS": 0.9,
+    "Tierschutzpartei": 0.9,
+    "GRÜNE": 0.6,
+    "DKP": 0.2,
+    "DLW": 0.2,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12067520": {
+   "name": "Wendisch Rietz",
+   "beteiligung": 76.3,
+   "parteien": {
+    "AfD": 29.5,
+    "SPD": 25.9,
+    "BSW": 17.6,
+    "CDU": 14.6,
+    "Tierschutzpartei": 2.8,
+    "GRÜNE": 2.5,
+    "FREIE WÄHLER": 2.3,
+    "DIE LINKE": 2.3,
+    "PLUS": 0.9,
+    "FDP": 0.8,
+    "DLW": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12067528": {
+   "name": "Wiesenau",
+   "beteiligung": 76.3,
+   "parteien": {
+    "AfD": 40.3,
+    "SPD": 25.4,
+    "BSW": 13.0,
+    "CDU": 12.3,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 2.0,
+    "DIE LINKE": 1.5,
+    "GRÜNE": 1.2,
+    "PLUS": 0.7,
+    "DLW": 0.5,
+    "WerteUnion": 0.4,
+    "FDP": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12067544": {
+   "name": "Woltersdorf",
+   "beteiligung": 79.7,
+   "parteien": {
+    "SPD": 29.6,
+    "AfD": 26.7,
+    "BSW": 14.6,
+    "CDU": 13.3,
+    "GRÜNE": 5.2,
+    "DIE LINKE": 3.6,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 1.9,
+    "PLUS": 1.3,
+    "FDP": 0.8,
+    "WerteUnion": 0.3,
+    "DLW": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12067552": {
+   "name": "Ziltendorf",
+   "beteiligung": 78.9,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 25.6,
+    "BSW": 15.6,
+    "CDU": 10.7,
+    "FREIE WÄHLER": 2.3,
+    "DIE LINKE": 1.7,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.1,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.5,
+    "DLW": 0.4,
+    "DKP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12068052": {
+   "name": "Breddin",
+   "beteiligung": 71.8,
+   "parteien": {
+    "SPD": 34.8,
+    "AfD": 27.7,
+    "CDU": 12.7,
+    "BSW": 11.0,
+    "GRÜNE": 5.2,
+    "FREIE WÄHLER": 2.3,
+    "DIE LINKE": 2.1,
+    "DLW": 1.5,
+    "Tierschutzpartei": 1.5,
+    "FDP": 0.6,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2
+   }
+  },
+  "12068072": {
+   "name": "Dabergotz",
+   "beteiligung": 80.8,
+   "parteien": {
+    "AfD": 34.3,
+    "SPD": 27.2,
+    "CDU": 14.7,
+    "BSW": 10.2,
+    "DIE LINKE": 3.8,
+    "FREIE WÄHLER": 2.8,
+    "GRÜNE": 2.6,
+    "DLW": 2.1,
+    "Tierschutzpartei": 1.2,
+    "Iii Weg": 0.5,
+    "PLUS": 0.5,
+    "FDP": 0.2
+   }
+  },
+  "12068109": {
+   "name": "Dreetz",
+   "beteiligung": 69.9,
+   "parteien": {
+    "SPD": 29.8,
+    "AfD": 28.5,
+    "CDU": 13.5,
+    "BSW": 12.7,
+    "DLW": 3.9,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.5,
+    "GRÜNE": 2.2,
+    "FREIE WÄHLER": 2.0,
+    "FDP": 0.6,
+    "PLUS": 0.3,
+    "Sonstige": 0.3,
+    "DKP": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12068117": {
+   "name": "Fehrbellin",
+   "beteiligung": 70.5,
+   "parteien": {
+    "AfD": 31.2,
+    "SPD": 29.4,
+    "BSW": 13.3,
+    "CDU": 12.8,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.0,
+    "DLW": 1.2,
+    "PLUS": 0.8,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12068181": {
+   "name": "Heiligengrabe",
+   "beteiligung": 70.2,
+   "parteien": {
+    "AfD": 39.1,
+    "SPD": 25.5,
+    "CDU": 14.8,
+    "BSW": 10.6,
+    "FREIE WÄHLER": 3.5,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 1.3,
+    "DLW": 0.4,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12068188": {
+   "name": "Herzberg (Mark)",
+   "beteiligung": 76.0,
+   "parteien": {
+    "AfD": 32.0,
+    "SPD": 23.7,
+    "BSW": 17.1,
+    "CDU": 12.8,
+    "FREIE WÄHLER": 4.6,
+    "GRÜNE": 4.1,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 1.1,
+    "FDP": 0.9,
+    "PLUS": 0.7,
+    "DLW": 0.5,
+    "Sonstige": 0.2
+   }
+  },
+  "12068264": {
+   "name": "Kyritz, Stadt",
+   "beteiligung": 67.3,
+   "parteien": {
+    "SPD": 32.0,
+    "AfD": 31.6,
+    "CDU": 14.4,
+    "BSW": 11.7,
+    "DIE LINKE": 2.8,
+    "GRÜNE": 2.5,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.5,
+    "FDP": 0.5,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12068280": {
+   "name": "Lindow (Mark), Stadt",
+   "beteiligung": 68.8,
+   "parteien": {
+    "AfD": 31.9,
+    "SPD": 29.7,
+    "BSW": 14.4,
+    "CDU": 13.2,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.3,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 1.5,
+    "FDP": 0.7,
+    "PLUS": 0.4,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12068306": {
+   "name": "Märkisch Linden",
+   "beteiligung": 80.2,
+   "parteien": {
+    "AfD": 34.6,
+    "SPD": 26.0,
+    "BSW": 13.8,
+    "CDU": 13.8,
+    "GRÜNE": 3.4,
+    "FREIE WÄHLER": 2.5,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.7,
+    "DLW": 1.1,
+    "FDP": 0.7,
+    "PLUS": 0.4,
+    "Sonstige": 0.1
+   }
+  },
+  "12068320": {
+   "name": "Neuruppin, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "SPD": 33.1,
+    "AfD": 25.9,
+    "BSW": 13.2,
+    "CDU": 12.9,
+    "GRÜNE": 4.6,
+    "DIE LINKE": 3.8,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 0.7,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12068324": {
+   "name": "Neustadt (Dosse), Stadt",
+   "beteiligung": 67.8,
+   "parteien": {
+    "AfD": 32.3,
+    "SPD": 29.8,
+    "BSW": 12.9,
+    "CDU": 12.9,
+    "GRÜNE": 3.7,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.4,
+    "DLW": 1.2,
+    "FDP": 0.7,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12068353": {
+   "name": "Rheinsberg, Stadt",
+   "beteiligung": 73.6,
+   "parteien": {
+    "AfD": 32.5,
+    "SPD": 29.0,
+    "BSW": 13.6,
+    "CDU": 12.0,
+    "FREIE WÄHLER": 4.9,
+    "DIE LINKE": 2.6,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 1.3,
+    "FDP": 0.6,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12068372": {
+   "name": "Rüthnick",
+   "beteiligung": 78.6,
+   "parteien": {
+    "SPD": 32.8,
+    "AfD": 26.0,
+    "CDU": 12.9,
+    "BSW": 12.5,
+    "GRÜNE": 5.1,
+    "FREIE WÄHLER": 3.9,
+    "DIE LINKE": 3.9,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "Sonstige": 0.3
+   }
+  },
+  "12068409": {
+   "name": "Sieversdorf-Hohenofen",
+   "beteiligung": 71.0,
+   "parteien": {
+    "SPD": 32.3,
+    "AfD": 31.3,
+    "BSW": 12.4,
+    "CDU": 12.2,
+    "GRÜNE": 2.9,
+    "DLW": 1.9,
+    "DIE LINKE": 1.9,
+    "FREIE WÄHLER": 1.7,
+    "PLUS": 1.2,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.7,
+    "WerteUnion": 0.2
+   }
+  },
+  "12068413": {
+   "name": "Storbeck-Frankendorf",
+   "beteiligung": 79.7,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 22.3,
+    "BSW": 17.9,
+    "CDU": 11.3,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 1.6,
+    "Tierschutzpartei": 1.6,
+    "DLW": 1.3,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12068417": {
+   "name": "Stüdenitz-Schönermark",
+   "beteiligung": 78.4,
+   "parteien": {
+    "AfD": 31.9,
+    "SPD": 31.4,
+    "CDU": 12.8,
+    "BSW": 11.8,
+    "GRÜNE": 3.4,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "DLW": 1.6,
+    "FDP": 0.5,
+    "PLUS": 0.5
+   }
+  },
+  "12068425": {
+   "name": "Temnitzquell",
+   "beteiligung": 80.2,
+   "parteien": {
+    "AfD": 32.7,
+    "SPD": 27.5,
+    "BSW": 13.5,
+    "CDU": 12.8,
+    "GRÜNE": 4.3,
+    "DIE LINKE": 3.1,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 1.7,
+    "FDP": 0.8,
+    "DLW": 0.6,
+    "PLUS": 0.4
+   }
+  },
+  "12068426": {
+   "name": "Temnitztal",
+   "beteiligung": 77.0,
+   "parteien": {
+    "AfD": 30.3,
+    "SPD": 28.6,
+    "BSW": 12.4,
+    "CDU": 11.9,
+    "DIE LINKE": 3.8,
+    "GRÜNE": 3.6,
+    "FREIE WÄHLER": 2.9,
+    "DLW": 2.2,
+    "Tierschutzpartei": 1.9,
+    "FDP": 1.0,
+    "PLUS": 1.0,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12068437": {
+   "name": "Vielitzsee",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 31.1,
+    "SPD": 29.8,
+    "CDU": 15.4,
+    "BSW": 12.5,
+    "FREIE WÄHLER": 3.3,
+    "GRÜNE": 2.3,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 1.3,
+    "WerteUnion": 1.0,
+    "DLW": 0.3,
+    "FDP": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12068452": {
+   "name": "Walsleben",
+   "beteiligung": 65.8,
+   "parteien": {
+    "AfD": 33.0,
+    "SPD": 26.0,
+    "BSW": 17.8,
+    "CDU": 10.8,
+    "DIE LINKE": 4.1,
+    "GRÜNE": 2.7,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.4,
+    "DLW": 0.9,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "Iii Weg": 0.2
+   }
+  },
+  "12068468": {
+   "name": "Wittstock/Dosse, Stadt",
+   "beteiligung": 67.0,
+   "parteien": {
+    "AfD": 36.7,
+    "SPD": 25.6,
+    "CDU": 17.8,
+    "BSW": 11.3,
+    "DIE LINKE": 2.5,
+    "Tierschutzpartei": 1.6,
+    "GRÜNE": 1.5,
+    "FREIE WÄHLER": 1.4,
+    "PLUS": 0.6,
+    "Iii Weg": 0.4,
+    "DLW": 0.4,
+    "FDP": 0.3,
+    "WerteUnion": 0.1
+   }
+  },
+  "12068477": {
+   "name": "Wusterhausen/Dosse",
+   "beteiligung": 71.4,
+   "parteien": {
+    "AfD": 32.2,
+    "SPD": 30.2,
+    "BSW": 13.5,
+    "CDU": 13.0,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 2.2,
+    "Tierschutzpartei": 1.8,
+    "FREIE WÄHLER": 1.8,
+    "DLW": 1.6,
+    "FDP": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12068501": {
+   "name": "Zernitz-Lohm",
+   "beteiligung": 67.7,
+   "parteien": {
+    "AfD": 31.1,
+    "SPD": 28.9,
+    "CDU": 15.2,
+    "BSW": 13.2,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.8,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.4,
+    "DLW": 1.0,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.2,
+    "FDP": 0.2,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12069017": {
+   "name": "Beelitz, Stadt",
+   "beteiligung": 77.6,
+   "parteien": {
+    "SPD": 33.4,
+    "AfD": 23.8,
+    "BSW": 13.9,
+    "CDU": 13.6,
+    "GRÜNE": 5.2,
+    "FREIE WÄHLER": 2.7,
+    "Tierschutzpartei": 2.4,
+    "DIE LINKE": 2.3,
+    "FDP": 1.1,
+    "PLUS": 1.1,
+    "DLW": 0.3,
+    "WerteUnion": 0.1,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12069018": {
+   "name": "Beetzsee",
+   "beteiligung": 72.1,
+   "parteien": {
+    "SPD": 29.0,
+    "AfD": 27.6,
+    "BSW": 17.4,
+    "CDU": 14.4,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.6,
+    "FDP": 0.8,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.1
+   }
+  },
+  "12069019": {
+   "name": "Beetzseeheide",
+   "beteiligung": 82.2,
+   "parteien": {
+    "SPD": 32.8,
+    "AfD": 24.4,
+    "CDU": 16.2,
+    "BSW": 14.0,
+    "GRÜNE": 4.0,
+    "FREIE WÄHLER": 3.3,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.3,
+    "DLW": 1.1,
+    "PLUS": 0.4,
+    "DKP": 0.2,
+    "FDP": 0.2
+   }
+  },
+  "12069020": {
+   "name": "Bad Belzig, Stadt",
+   "beteiligung": 73.0,
+   "parteien": {
+    "SPD": 34.6,
+    "AfD": 23.3,
+    "BSW": 15.4,
+    "CDU": 10.9,
+    "GRÜNE": 6.1,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.3,
+    "Tierschutzpartei": 2.2,
+    "FDP": 0.7,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.2
+   }
+  },
+  "12069028": {
+   "name": "Bensdorf",
+   "beteiligung": 79.9,
+   "parteien": {
+    "AfD": 35.3,
+    "SPD": 27.0,
+    "BSW": 15.2,
+    "CDU": 12.1,
+    "FREIE WÄHLER": 2.5,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 2.0,
+    "GRÜNE": 1.8,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.5,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069052": {
+   "name": "Borkheide",
+   "beteiligung": 76.2,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 24.6,
+    "BSW": 13.3,
+    "CDU": 13.3,
+    "GRÜNE": 5.5,
+    "FREIE WÄHLER": 3.6,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 1.6,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.1,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069056": {
+   "name": "Borkwalde",
+   "beteiligung": 80.1,
+   "parteien": {
+    "SPD": 28.9,
+    "AfD": 26.6,
+    "BSW": 14.8,
+    "CDU": 11.3,
+    "GRÜNE": 6.2,
+    "FREIE WÄHLER": 3.8,
+    "DIE LINKE": 2.9,
+    "Tierschutzpartei": 2.5,
+    "FDP": 1.0,
+    "PLUS": 0.8,
+    "DLW": 0.6,
+    "WerteUnion": 0.2,
+    "Sonstige": 0.1,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069076": {
+   "name": "Brück, Stadt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "SPD": 32.8,
+    "AfD": 23.9,
+    "BSW": 15.0,
+    "CDU": 13.8,
+    "GRÜNE": 4.2,
+    "FREIE WÄHLER": 3.2,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 2.1,
+    "DLW": 0.8,
+    "FDP": 0.8,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12069089": {
+   "name": "Buckautal",
+   "beteiligung": 73.8,
+   "parteien": {
+    "AfD": 41.4,
+    "SPD": 21.4,
+    "BSW": 14.4,
+    "CDU": 14.0,
+    "FREIE WÄHLER": 1.8,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.8,
+    "DLW": 1.1,
+    "GRÜNE": 1.1,
+    "FDP": 0.7,
+    "Sonstige": 0.7
+   }
+  },
+  "12069216": {
+   "name": "Golzow",
+   "beteiligung": 80.1,
+   "parteien": {
+    "SPD": 33.6,
+    "AfD": 24.6,
+    "BSW": 16.1,
+    "CDU": 13.8,
+    "FREIE WÄHLER": 3.3,
+    "GRÜNE": 2.4,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
+    "DLW": 0.9,
+    "FDP": 0.6,
+    "PLUS": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12069224": {
+   "name": "Görzke",
+   "beteiligung": 76.0,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 25.5,
+    "BSW": 14.8,
+    "CDU": 13.0,
+    "FREIE WÄHLER": 1.5,
+    "GRÜNE": 1.3,
+    "DIE LINKE": 1.2,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.9,
+    "PLUS": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.3
+   }
+  },
+  "12069232": {
+   "name": "Gräben",
+   "beteiligung": 59.2,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 27.2,
+    "CDU": 16.0,
+    "BSW": 14.2,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 1.1,
+    "FREIE WÄHLER": 0.7,
+    "FDP": 0.4
+   }
+  },
+  "12069249": {
+   "name": "Groß Kreutz (Havel)",
+   "beteiligung": 77.8,
+   "parteien": {
+    "SPD": 29.7,
+    "AfD": 28.9,
+    "CDU": 13.9,
+    "BSW": 13.8,
+    "GRÜNE": 3.9,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 1.8,
+    "FDP": 1.0,
+    "PLUS": 0.9,
+    "DLW": 0.7,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069270": {
+   "name": "Havelsee, Stadt",
+   "beteiligung": 76.7,
+   "parteien": {
+    "AfD": 31.0,
+    "SPD": 29.3,
+    "BSW": 15.8,
+    "CDU": 13.2,
+    "GRÜNE": 2.3,
+    "FREIE WÄHLER": 2.2,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 2.0,
+    "FDP": 0.9,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.1
+   }
+  },
+  "12069304": {
+   "name": "Kleinmachnow",
+   "beteiligung": 84.4,
+   "parteien": {
+    "SPD": 39.3,
+    "CDU": 20.5,
+    "GRÜNE": 14.2,
+    "AfD": 11.5,
+    "BSW": 6.7,
+    "FDP": 2.2,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 1.2,
+    "FREIE WÄHLER": 1.1,
+    "PLUS": 0.7,
+    "WerteUnion": 0.3,
+    "DLW": 0.1
+   }
+  },
+  "12069306": {
+   "name": "Kloster Lehnin",
+   "beteiligung": 75.7,
+   "parteien": {
+    "SPD": 30.8,
+    "AfD": 29.2,
+    "CDU": 15.6,
+    "BSW": 14.0,
+    "GRÜNE": 2.6,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.9,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.1,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069345": {
+   "name": "Linthe",
+   "beteiligung": 87.1,
+   "parteien": {
+    "SPD": 29.2,
+    "AfD": 27.2,
+    "CDU": 16.6,
+    "BSW": 14.5,
+    "GRÜNE": 3.3,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 1.7,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "Sonstige": 0.3,
+    "WerteUnion": 0.2
+   }
+  },
+  "12069397": {
+   "name": "Michendorf",
+   "beteiligung": 83.0,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 21.1,
+    "CDU": 14.7,
+    "BSW": 11.1,
+    "GRÜNE": 9.0,
+    "DIE LINKE": 3.1,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.9,
+    "FDP": 1.5,
+    "PLUS": 1.0,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069402": {
+   "name": "Mühlenfließ",
+   "beteiligung": 82.0,
+   "parteien": {
+    "SPD": 32.9,
+    "AfD": 30.6,
+    "CDU": 13.5,
+    "BSW": 11.8,
+    "GRÜNE": 2.9,
+    "FREIE WÄHLER": 2.7,
+    "DIE LINKE": 1.3,
+    "Tierschutzpartei": 1.3,
+    "PLUS": 1.1,
+    "DLW": 0.8,
+    "FDP": 0.6,
+    "Sonstige": 0.3
+   }
+  },
+  "12069448": {
+   "name": "Niemegk, Stadt",
+   "beteiligung": 70.3,
+   "parteien": {
+    "SPD": 37.0,
+    "AfD": 26.7,
+    "BSW": 13.8,
+    "CDU": 12.8,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 2.1,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.4,
+    "DLW": 0.9,
+    "PLUS": 0.7,
+    "FDP": 0.4,
+    "WerteUnion": 0.1
+   }
+  },
+  "12069454": {
+   "name": "Nuthetal",
+   "beteiligung": 83.6,
+   "parteien": {
+    "SPD": 35.5,
+    "AfD": 18.8,
+    "CDU": 13.9,
+    "BSW": 13.4,
+    "GRÜNE": 7.8,
+    "DIE LINKE": 3.7,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 1.4,
+    "FDP": 1.1,
+    "DLW": 0.3,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12069460": {
+   "name": "Päwesin",
+   "beteiligung": 86.6,
+   "parteien": {
+    "SPD": 31.3,
+    "AfD": 28.9,
+    "BSW": 13.4,
+    "CDU": 13.4,
+    "GRÜNE": 3.5,
+    "DIE LINKE": 3.0,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.5,
+    "PLUS": 1.0,
+    "DLW": 0.7,
+    "FDP": 0.7,
+    "WerteUnion": 0.2
+   }
+  },
+  "12069470": {
+   "name": "Planebruch",
+   "beteiligung": 94.8,
+   "parteien": {
+    "SPD": 29.7,
+    "AfD": 26.9,
+    "CDU": 16.3,
+    "BSW": 13.9,
+    "GRÜNE": 3.2,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.7,
+    "DLW": 1.1,
+    "PLUS": 1.1,
+    "FDP": 0.6,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12069474": {
+   "name": "Planetal",
+   "beteiligung": 83.2,
+   "parteien": {
+    "SPD": 38.3,
+    "AfD": 20.0,
+    "CDU": 15.0,
+    "BSW": 14.5,
+    "GRÜNE": 4.5,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.6,
+    "FDP": 1.3,
+    "Tierschutzpartei": 1.3,
+    "PLUS": 0.6,
+    "Sonstige": 0.3,
+    "DLW": 0.3,
+    "DKP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12069485": {
+   "name": "Rabenstein/Fläming",
+   "beteiligung": 85.0,
+   "parteien": {
+    "SPD": 33.3,
+    "AfD": 24.3,
+    "CDU": 19.0,
+    "BSW": 15.0,
+    "FREIE WÄHLER": 2.8,
+    "GRÜNE": 1.7,
+    "DIE LINKE": 1.0,
+    "FDP": 0.9,
+    "Tierschutzpartei": 0.9,
+    "PLUS": 0.7,
+    "DLW": 0.3
+   }
+  },
+  "12069537": {
+   "name": "Rosenau",
+   "beteiligung": 82.8,
+   "parteien": {
+    "AfD": 37.1,
+    "SPD": 27.3,
+    "BSW": 14.7,
+    "CDU": 11.4,
+    "FREIE WÄHLER": 2.7,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.8,
+    "GRÜNE": 1.3,
+    "FDP": 0.7,
+    "PLUS": 0.5,
+    "DLW": 0.2,
+    "Iii Weg": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12069541": {
+   "name": "Roskow",
+   "beteiligung": 77.5,
+   "parteien": {
+    "AfD": 32.2,
+    "SPD": 25.7,
+    "BSW": 14.6,
+    "CDU": 14.3,
+    "FREIE WÄHLER": 4.6,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 1.9,
+    "FDP": 0.8,
+    "PLUS": 0.7,
+    "DLW": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12069590": {
+   "name": "Schwielowsee",
+   "beteiligung": 80.2,
+   "parteien": {
+    "SPD": 35.7,
+    "AfD": 18.9,
+    "CDU": 13.6,
+    "BSW": 13.4,
+    "GRÜNE": 8.0,
+    "DIE LINKE": 3.3,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 1.8,
+    "FDP": 1.4,
+    "PLUS": 1.0,
+    "WerteUnion": 0.4,
+    "DLW": 0.2
+   }
+  },
+  "12069596": {
+   "name": "Seddiner See",
+   "beteiligung": 76.2,
+   "parteien": {
+    "SPD": 31.3,
+    "AfD": 24.2,
+    "BSW": 15.5,
+    "CDU": 13.2,
+    "FREIE WÄHLER": 4.5,
+    "DIE LINKE": 3.4,
+    "GRÜNE": 3.0,
+    "Tierschutzpartei": 2.4,
+    "PLUS": 1.1,
+    "FDP": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12069604": {
+   "name": "Stahnsdorf",
+   "beteiligung": 80.3,
+   "parteien": {
+    "SPD": 36.1,
+    "AfD": 19.4,
+    "CDU": 17.0,
+    "BSW": 9.4,
+    "GRÜNE": 7.2,
+    "FREIE WÄHLER": 3.3,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 1.8,
+    "FDP": 1.8,
+    "PLUS": 1.2,
+    "WerteUnion": 0.3,
+    "DLW": 0.2
+   }
+  },
+  "12069616": {
+   "name": "Teltow, Stadt",
+   "beteiligung": 73.5,
+   "parteien": {
+    "SPD": 37.3,
+    "AfD": 18.0,
+    "CDU": 16.7,
+    "BSW": 9.3,
+    "GRÜNE": 7.8,
+    "Tierschutzpartei": 2.5,
+    "DIE LINKE": 2.5,
+    "FDP": 2.2,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 1.2,
+    "WerteUnion": 0.2,
+    "DLW": 0.2
+   }
+  },
+  "12069632": {
+   "name": "Treuenbrietzen, Stadt",
+   "beteiligung": 73.0,
+   "parteien": {
+    "SPD": 34.3,
+    "AfD": 26.1,
+    "BSW": 14.7,
+    "CDU": 11.6,
+    "GRÜNE": 3.5,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.6,
+    "DIE LINKE": 2.4,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12069648": {
+   "name": "Wenzlow",
+   "beteiligung": 75.2,
+   "parteien": {
+    "AfD": 38.0,
+    "SPD": 24.2,
+    "CDU": 14.7,
+    "BSW": 12.6,
+    "FREIE WÄHLER": 3.7,
+    "Tierschutzpartei": 2.8,
+    "DIE LINKE": 1.2,
+    "GRÜNE": 0.9,
+    "FDP": 0.6,
+    "WerteUnion": 0.6,
+    "Sonstige": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12069656": {
+   "name": "Werder (Havel), Stadt",
+   "beteiligung": 77.6,
+   "parteien": {
+    "SPD": 32.6,
+    "AfD": 23.1,
+    "CDU": 14.8,
+    "BSW": 12.3,
+    "GRÜNE": 7.0,
+    "DIE LINKE": 2.9,
+    "FREIE WÄHLER": 2.3,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 1.4,
+    "FDP": 1.1,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12069665": {
+   "name": "Wiesenburg/Mark",
+   "beteiligung": 75.3,
+   "parteien": {
+    "SPD": 33.0,
+    "AfD": 27.2,
+    "BSW": 16.1,
+    "CDU": 10.6,
+    "DIE LINKE": 3.8,
+    "GRÜNE": 3.7,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.8,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12069680": {
+   "name": "Wollin",
+   "beteiligung": 78.1,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 27.8,
+    "CDU": 15.1,
+    "BSW": 15.0,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.9,
+    "FREIE WÄHLER": 1.7,
+    "PLUS": 1.6,
+    "GRÜNE": 1.4,
+    "DLW": 0.8,
+    "FDP": 0.6,
+    "Iii Weg": 0.2
+   }
+  },
+  "12069688": {
+   "name": "Wusterwitz",
+   "beteiligung": 72.9,
+   "parteien": {
+    "SPD": 31.3,
+    "AfD": 30.8,
+    "BSW": 14.9,
+    "CDU": 14.2,
+    "GRÜNE": 2.0,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.8,
+    "FREIE WÄHLER": 1.7,
+    "FDP": 0.6,
+    "PLUS": 0.5,
+    "DLW": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12069696": {
+   "name": "Ziesar, Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "AfD": 34.8,
+    "SPD": 27.2,
+    "CDU": 15.0,
+    "BSW": 13.2,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 2.1,
+    "GRÜNE": 1.6,
+    "Tierschutzpartei": 1.6,
+    "FDP": 0.9,
+    "PLUS": 0.5,
+    "DKP": 0.3,
+    "DLW": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12070008": {
+   "name": "Bad Wilsnack, Stadt",
+   "beteiligung": 69.5,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 30.3,
+    "BSW": 14.2,
+    "CDU": 13.2,
+    "GRÜNE": 2.2,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.5,
+    "PLUS": 0.7,
+    "FDP": 0.4,
+    "DLW": 0.3,
+    "Sonstige": 0.1,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12070028": {
+   "name": "Berge",
+   "beteiligung": 75.7,
+   "parteien": {
+    "AfD": 35.8,
+    "SPD": 31.0,
+    "BSW": 15.0,
+    "CDU": 10.4,
+    "FREIE WÄHLER": 2.2,
+    "DIE LINKE": 2.2,
+    "GRÜNE": 1.1,
+    "DLW": 0.7,
+    "Iii Weg": 0.4,
+    "PLUS": 0.4,
+    "Tierschutzpartei": 0.4,
+    "FDP": 0.2
+   }
+  },
+  "12070052": {
+   "name": "Breese",
+   "beteiligung": 78.6,
+   "parteien": {
+    "AfD": 33.0,
+    "SPD": 29.7,
+    "CDU": 14.5,
+    "BSW": 12.2,
+    "FREIE WÄHLER": 3.2,
+    "GRÜNE": 2.3,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 0.6,
+    "DLW": 0.4,
+    "FDP": 0.4,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12070060": {
+   "name": "Cumlosen",
+   "beteiligung": 82.3,
+   "parteien": {
+    "AfD": 33.0,
+    "SPD": 31.8,
+    "CDU": 16.6,
+    "BSW": 10.3,
+    "DIE LINKE": 2.0,
+    "GRÜNE": 1.6,
+    "Tierschutzpartei": 1.6,
+    "FREIE WÄHLER": 1.2,
+    "Iii Weg": 1.2,
+    "DLW": 0.2,
+    "FDP": 0.2,
+    "PLUS": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12070096": {
+   "name": "Gerdshagen",
+   "beteiligung": 70.6,
+   "parteien": {
+    "AfD": 38.9,
+    "SPD": 31.1,
+    "BSW": 14.3,
+    "CDU": 7.5,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 2.5,
+    "DIE LINKE": 1.4,
+    "DLW": 0.7,
+    "GRÜNE": 0.7,
+    "Sonstige": 0.4
+   }
+  },
+  "12070125": {
+   "name": "Groß Pankow (Prignitz)",
+   "beteiligung": 73.1,
+   "parteien": {
+    "AfD": 31.9,
+    "SPD": 29.6,
+    "BSW": 14.3,
+    "CDU": 12.4,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.5,
+    "DLW": 1.2,
+    "FDP": 0.6,
+    "PLUS": 0.5,
+    "Iii Weg": 0.2,
+    "DKP": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12070145": {
+   "name": "Gülitz-Reetz",
+   "beteiligung": 78.4,
+   "parteien": {
+    "AfD": 38.0,
+    "SPD": 24.9,
+    "BSW": 17.4,
+    "CDU": 12.8,
+    "GRÜNE": 2.0,
+    "DIE LINKE": 2.0,
+    "FREIE WÄHLER": 1.0,
+    "DLW": 0.7,
+    "Tierschutzpartei": 0.7,
+    "FDP": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12070149": {
+   "name": "Gumtow",
+   "beteiligung": 73.8,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 27.9,
+    "CDU": 14.3,
+    "BSW": 13.5,
+    "GRÜNE": 3.6,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.4,
+    "DLW": 0.7,
+    "FDP": 0.5,
+    "WerteUnion": 0.3,
+    "PLUS": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12070153": {
+   "name": "Halenbeck-Rohlsdorf",
+   "beteiligung": 69.4,
+   "parteien": {
+    "AfD": 39.8,
+    "SPD": 28.5,
+    "CDU": 11.0,
+    "BSW": 10.4,
+    "DIE LINKE": 2.9,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.3,
+    "GRÜNE": 1.3,
+    "DLW": 0.6,
+    "PLUS": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12070173": {
+   "name": "Karstädt",
+   "beteiligung": 73.5,
+   "parteien": {
+    "AfD": 35.0,
+    "SPD": 26.2,
+    "CDU": 16.2,
+    "BSW": 12.7,
+    "DIE LINKE": 2.8,
+    "FREIE WÄHLER": 2.6,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.0,
+    "Iii Weg": 0.5,
+    "DLW": 0.5,
+    "FDP": 0.3,
+    "PLUS": 0.2
+   }
+  },
+  "12070222": {
+   "name": "Kümmernitztal",
+   "beteiligung": 74.6,
+   "parteien": {
+    "AfD": 32.7,
+    "SPD": 30.5,
+    "BSW": 14.2,
+    "CDU": 11.9,
+    "Tierschutzpartei": 3.1,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 2.2,
+    "FDP": 0.4,
+    "PLUS": 0.4
+   }
+  },
+  "12070236": {
+   "name": "Lanz",
+   "beteiligung": 72.7,
+   "parteien": {
+    "AfD": 38.4,
+    "SPD": 21.7,
+    "CDU": 15.3,
+    "BSW": 12.1,
+    "Iii Weg": 3.2,
+    "FREIE WÄHLER": 3.0,
+    "DIE LINKE": 2.5,
+    "GRÜNE": 1.4,
+    "Tierschutzpartei": 0.7,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "Sonstige": 0.5,
+    "DLW": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12070241": {
+   "name": "Legde/Quitzöbel",
+   "beteiligung": 86.6,
+   "parteien": {
+    "AfD": 41.6,
+    "SPD": 25.9,
+    "CDU": 15.8,
+    "BSW": 8.9,
+    "DIE LINKE": 1.8,
+    "FREIE WÄHLER": 1.6,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 1.1,
+    "GRÜNE": 0.7,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "Sonstige": 0.2
+   }
+  },
+  "12070244": {
+   "name": "Lenzen (Elbe), Stadt",
+   "beteiligung": 62.5,
+   "parteien": {
+    "AfD": 30.9,
+    "SPD": 27.1,
+    "CDU": 16.4,
+    "BSW": 13.8,
+    "DIE LINKE": 3.9,
+    "FREIE WÄHLER": 2.4,
+    "GRÜNE": 1.6,
+    "Tierschutzpartei": 1.4,
+    "Iii Weg": 0.8,
+    "DLW": 0.5,
+    "PLUS": 0.5,
+    "FDP": 0.4,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12070246": {
+   "name": "Lenzerwische",
+   "beteiligung": 78.7,
+   "parteien": {
+    "AfD": 33.0,
+    "SPD": 26.6,
+    "CDU": 18.5,
+    "BSW": 12.8,
+    "FREIE WÄHLER": 3.4,
+    "GRÜNE": 2.4,
+    "DIE LINKE": 1.3,
+    "PLUS": 0.7,
+    "DLW": 0.3,
+    "FDP": 0.3,
+    "Tierschutzpartei": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12070266": {
+   "name": "Marienfließ",
+   "beteiligung": 83.4,
+   "parteien": {
+    "SPD": 33.3,
+    "AfD": 31.6,
+    "BSW": 14.8,
+    "CDU": 11.6,
+    "GRÜNE": 3.6,
+    "DIE LINKE": 1.7,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.3,
+    "FDP": 0.2,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12070280": {
+   "name": "Meyenburg, Stadt",
+   "beteiligung": 65.4,
+   "parteien": {
+    "AfD": 37.9,
+    "SPD": 31.6,
+    "CDU": 12.5,
+    "BSW": 11.2,
+    "FREIE WÄHLER": 1.7,
+    "GRÜNE": 1.5,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 0.9,
+    "DLW": 0.3,
+    "Iii Weg": 0.3,
+    "PLUS": 0.3,
+    "FDP": 0.2,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12070296": {
+   "name": "Perleberg, Stadt",
+   "beteiligung": 68.7,
+   "parteien": {
+    "AfD": 31.9,
+    "SPD": 29.1,
+    "BSW": 13.7,
+    "CDU": 13.0,
+    "DIE LINKE": 5.3,
+    "FREIE WÄHLER": 2.7,
+    "GRÜNE": 1.4,
+    "Tierschutzpartei": 1.1,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12070300": {
+   "name": "Pirow",
+   "beteiligung": 75.9,
+   "parteien": {
+    "AfD": 42.6,
+    "SPD": 24.9,
+    "CDU": 14.3,
+    "BSW": 10.2,
+    "DIE LINKE": 3.0,
+    "GRÜNE": 1.5,
+    "FDP": 0.8,
+    "FREIE WÄHLER": 0.8,
+    "PLUS": 0.8,
+    "DLW": 0.4,
+    "Iii Weg": 0.4,
+    "Tierschutzpartei": 0.4
+   }
+  },
+  "12070302": {
+   "name": "Plattenburg",
+   "beteiligung": 72.2,
+   "parteien": {
+    "AfD": 32.6,
+    "SPD": 28.9,
+    "BSW": 13.4,
+    "CDU": 12.1,
+    "DIE LINKE": 3.4,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 2.5,
+    "Tierschutzpartei": 1.9,
+    "DLW": 0.7,
+    "PLUS": 0.7,
+    "FDP": 0.4,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12070316": {
+   "name": "Pritzwalk, Stadt",
+   "beteiligung": 66.3,
+   "parteien": {
+    "SPD": 32.8,
+    "AfD": 32.1,
+    "BSW": 13.9,
+    "CDU": 12.0,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.2,
+    "PLUS": 0.8,
+    "FDP": 0.7,
+    "Iii Weg": 0.5,
+    "DLW": 0.5,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12070325": {
+   "name": "Putlitz, Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 30.5,
+    "BSW": 14.0,
+    "CDU": 12.3,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 2.2,
+    "FREIE WÄHLER": 2.1,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.7,
+    "PLUS": 0.7,
+    "FDP": 0.5,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12070348": {
+   "name": "Rühstädt",
+   "beteiligung": 80.8,
+   "parteien": {
+    "SPD": 30.1,
+    "AfD": 29.5,
+    "CDU": 14.9,
+    "BSW": 13.4,
+    "DLW": 3.1,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 1.9,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.2,
+    "Iii Weg": 0.9,
+    "FDP": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12070393": {
+   "name": "Triglitz",
+   "beteiligung": 76.6,
+   "parteien": {
+    "AfD": 35.5,
+    "SPD": 27.5,
+    "CDU": 13.8,
+    "BSW": 13.1,
+    "GRÜNE": 3.1,
+    "DIE LINKE": 2.1,
+    "Tierschutzpartei": 1.5,
+    "FREIE WÄHLER": 1.2,
+    "FDP": 0.9,
+    "WerteUnion": 0.6,
+    "DLW": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12070416": {
+   "name": "Weisen",
+   "beteiligung": 80.0,
+   "parteien": {
+    "AfD": 35.3,
+    "SPD": 31.2,
+    "CDU": 13.2,
+    "BSW": 10.7,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.1,
+    "DIE LINKE": 1.8,
+    "GRÜNE": 1.2,
+    "DLW": 0.5,
+    "Iii Weg": 0.5,
+    "PLUS": 0.5,
+    "FDP": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12070424": {
+   "name": "Wittenberge, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "SPD": 37.1,
+    "AfD": 30.3,
+    "BSW": 12.4,
+    "CDU": 11.1,
+    "DIE LINKE": 2.4,
+    "FREIE WÄHLER": 1.9,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.4,
+    "PLUS": 0.4,
+    "FDP": 0.4,
+    "Iii Weg": 0.3,
+    "DLW": 0.3,
+    "WerteUnion": 0.1
+   }
+  },
+  "12071028": {
+   "name": "Briesen/Brjazyna",
+   "beteiligung": 82.3,
+   "parteien": {
+    "SPD": 33.1,
+    "AfD": 32.6,
+    "BSW": 13.9,
+    "CDU": 13.3,
+    "FREIE WÄHLER": 1.9,
+    "Tierschutzpartei": 1.7,
+    "GRÜNE": 1.3,
+    "DIE LINKE": 0.9,
+    "PLUS": 0.7,
+    "DLW": 0.2,
+    "FDP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12071032": {
+   "name": "Burg (Spreewald)/Bórkowy (Błota)",
+   "beteiligung": 73.8,
+   "parteien": {
+    "AfD": 36.0,
+    "SPD": 29.3,
+    "BSW": 14.1,
+    "CDU": 11.9,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.3,
+    "FDP": 0.7,
+    "DLW": 0.7,
+    "PLUS": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071041": {
+   "name": "Dissen-Striesow/Dešno-Strjažow",
+   "beteiligung": 93.9,
+   "parteien": {
+    "AfD": 33.9,
+    "SPD": 30.1,
+    "CDU": 13.5,
+    "BSW": 13.2,
+    "GRÜNE": 2.9,
+    "FREIE WÄHLER": 2.3,
+    "WerteUnion": 1.0,
+    "DIE LINKE": 0.9,
+    "PLUS": 0.8,
+    "FDP": 0.5,
+    "Tierschutzpartei": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071044": {
+   "name": "Döbern/Derbno, Stadt",
+   "beteiligung": 67.5,
+   "parteien": {
+    "AfD": 42.3,
+    "SPD": 27.0,
+    "BSW": 14.2,
+    "CDU": 9.3,
+    "FREIE WÄHLER": 1.5,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 0.7,
+    "PLUS": 0.7,
+    "WerteUnion": 0.7,
+    "DLW": 0.4,
+    "FDP": 0.4,
+    "Iii Weg": 0.2
+   }
+  },
+  "12071052": {
+   "name": "Drachhausen/Hochoza",
+   "beteiligung": 85.6,
+   "parteien": {
+    "AfD": 40.2,
+    "SPD": 26.8,
+    "BSW": 15.8,
+    "CDU": 8.8,
+    "FREIE WÄHLER": 2.3,
+    "DIE LINKE": 2.3,
+    "GRÜNE": 2.1,
+    "Tierschutzpartei": 1.1,
+    "DLW": 0.4,
+    "FDP": 0.4
+   }
+  },
+  "12071057": {
+   "name": "Drebkau/Drjowk, Stadt",
+   "beteiligung": 77.2,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 30.4,
+    "BSW": 14.2,
+    "CDU": 10.6,
+    "DIE LINKE": 1.8,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 0.9,
+    "FDP": 0.7,
+    "DLW": 0.6,
+    "WerteUnion": 0.4,
+    "PLUS": 0.4,
+    "Iii Weg": 0.2
+   }
+  },
+  "12071060": {
+   "name": "Drehnow/Drjenow",
+   "beteiligung": 85.8,
+   "parteien": {
+    "AfD": 42.4,
+    "SPD": 22.4,
+    "CDU": 14.1,
+    "BSW": 13.8,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.4,
+    "FDP": 0.5,
+    "Tierschutzpartei": 0.5,
+    "DLW": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12071074": {
+   "name": "Felixsee/Feliksowy Jazor",
+   "beteiligung": 79.4,
+   "parteien": {
+    "AfD": 42.4,
+    "SPD": 25.9,
+    "BSW": 14.3,
+    "CDU": 9.8,
+    "Tierschutzpartei": 1.9,
+    "DIE LINKE": 1.7,
+    "FREIE WÄHLER": 1.1,
+    "GRÜNE": 1.0,
+    "FDP": 0.6,
+    "WerteUnion": 0.6,
+    "DLW": 0.5,
+    "PLUS": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071076": {
+   "name": "Forst (Lausitz)/Baršć (Łužyca), Stadt",
+   "beteiligung": 70.0,
+   "parteien": {
+    "AfD": 39.2,
+    "SPD": 32.5,
+    "BSW": 12.1,
+    "CDU": 8.3,
+    "DIE LINKE": 2.1,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.3,
+    "GRÜNE": 1.0,
+    "FDP": 0.9,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071153": {
+   "name": "Groß Schacksdorf-Simmersdorf",
+   "beteiligung": 79.1,
+   "parteien": {
+    "AfD": 43.4,
+    "SPD": 32.7,
+    "BSW": 10.3,
+    "CDU": 6.3,
+    "FREIE WÄHLER": 2.0,
+    "DIE LINKE": 1.8,
+    "Tierschutzpartei": 1.2,
+    "GRÜNE": 0.8,
+    "DLW": 0.4,
+    "Iii Weg": 0.4,
+    "Sonstige": 0.4,
+    "FDP": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12071160": {
+   "name": "Guben, Stadt",
+   "beteiligung": 67.0,
+   "parteien": {
+    "AfD": 36.8,
+    "SPD": 30.3,
+    "BSW": 14.8,
+    "CDU": 9.7,
+    "DIE LINKE": 2.5,
+    "FREIE WÄHLER": 1.6,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.2,
+    "FDP": 0.7,
+    "DLW": 0.4,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071164": {
+   "name": "Guhrow/Góry",
+   "beteiligung": 84.6,
+   "parteien": {
+    "AfD": 33.7,
+    "SPD": 30.1,
+    "BSW": 15.6,
+    "CDU": 12.6,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.4,
+    "FREIE WÄHLER": 1.1,
+    "DLW": 0.8,
+    "Sonstige": 0.3,
+    "FDP": 0.3,
+    "PLUS": 0.3
+   }
+  },
+  "12071176": {
+   "name": "Heinersbrück/Móst",
+   "beteiligung": 81.7,
+   "parteien": {
+    "AfD": 49.4,
+    "SPD": 18.7,
+    "BSW": 11.7,
+    "CDU": 10.0,
+    "Tierschutzpartei": 2.5,
+    "DLW": 2.0,
+    "FREIE WÄHLER": 1.5,
+    "DIE LINKE": 1.5,
+    "GRÜNE": 0.7,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.5,
+    "Sonstige": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12071189": {
+   "name": "Jämlitz-Klein Düben",
+   "beteiligung": 78.1,
+   "parteien": {
+    "AfD": 53.3,
+    "SPD": 21.3,
+    "BSW": 12.3,
+    "CDU": 5.7,
+    "DIE LINKE": 2.3,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.0,
+    "GRÜNE": 0.7,
+    "WerteUnion": 0.7,
+    "FDP": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12071193": {
+   "name": "Jänschwalde/Janšojce",
+   "beteiligung": 87.1,
+   "parteien": {
+    "AfD": 42.2,
+    "SPD": 23.8,
+    "BSW": 15.5,
+    "CDU": 8.6,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 2.0,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.4,
+    "DLW": 0.8,
+    "FDP": 0.7,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "DKP": 0.2,
+    "Sonstige": 0.1
+   }
+  },
+  "12071244": {
+   "name": "Kolkwitz/Gołkojce",
+   "beteiligung": 82.6,
+   "parteien": {
+    "AfD": 35.8,
+    "SPD": 29.3,
+    "BSW": 13.3,
+    "CDU": 12.7,
+    "FREIE WÄHLER": 1.9,
+    "GRÜNE": 1.6,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.4,
+    "FDP": 0.9,
+    "WerteUnion": 0.6,
+    "DLW": 0.6,
+    "PLUS": 0.4,
+    "Iii Weg": 0.1
+   }
+  },
+  "12071294": {
+   "name": "Neiße-Malxetal/Dolina Nysa-Małksa",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 48.1,
+    "SPD": 24.0,
+    "BSW": 12.4,
+    "CDU": 8.7,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.5,
+    "DIE LINKE": 1.4,
+    "FDP": 0.6,
+    "GRÜNE": 0.5,
+    "WerteUnion": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12071301": {
+   "name": "Neuhausen/Spree / Kopańce/Sprjewja",
+   "beteiligung": 83.4,
+   "parteien": {
+    "AfD": 37.1,
+    "SPD": 29.5,
+    "BSW": 15.2,
+    "CDU": 9.5,
+    "GRÜNE": 1.9,
+    "DIE LINKE": 1.7,
+    "Tierschutzpartei": 1.7,
+    "FREIE WÄHLER": 1.6,
+    "FDP": 0.5,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12071304": {
+   "name": "Peitz/Picnjo, Stadt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "AfD": 41.2,
+    "SPD": 25.2,
+    "BSW": 14.6,
+    "CDU": 10.0,
+    "FREIE WÄHLER": 2.2,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.6,
+    "GRÜNE": 1.3,
+    "FDP": 0.9,
+    "DLW": 0.3,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1,
+    "DKP": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12071337": {
+   "name": "Schenkendöbern/Derbno",
+   "beteiligung": 81.6,
+   "parteien": {
+    "AfD": 40.5,
+    "SPD": 24.0,
+    "BSW": 15.6,
+    "CDU": 9.7,
+    "DIE LINKE": 2.6,
+    "GRÜNE": 1.9,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.8,
+    "DLW": 0.7,
+    "WerteUnion": 0.6,
+    "FDP": 0.3,
+    "PLUS": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12071341": {
+   "name": "Schmogrow-Fehrow/Smogorjow-Prjawoz",
+   "beteiligung": 92.1,
+   "parteien": {
+    "AfD": 37.7,
+    "SPD": 27.1,
+    "CDU": 11.9,
+    "BSW": 11.7,
+    "FREIE WÄHLER": 3.1,
+    "DLW": 2.4,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.8,
+    "Tierschutzpartei": 1.0,
+    "FDP": 0.5,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "Sonstige": 0.2
+   }
+  },
+  "12071372": {
+   "name": "Spremberg/Grodk, Stadt",
+   "beteiligung": 73.2,
+   "parteien": {
+    "AfD": 41.5,
+    "SPD": 25.4,
+    "BSW": 13.8,
+    "CDU": 10.7,
+    "DIE LINKE": 2.3,
+    "FREIE WÄHLER": 1.7,
+    "Tierschutzpartei": 1.7,
+    "GRÜNE": 1.1,
+    "FDP": 0.7,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12071384": {
+   "name": "Tauer/Turjej",
+   "beteiligung": 80.7,
+   "parteien": {
+    "AfD": 40.3,
+    "SPD": 22.9,
+    "BSW": 13.6,
+    "CDU": 9.6,
+    "GRÜNE": 3.8,
+    "FREIE WÄHLER": 2.9,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 1.8,
+    "FDP": 1.3,
+    "DLW": 0.7,
+    "Sonstige": 0.2,
+    "PLUS": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12071386": {
+   "name": "Teichland/Gatojce",
+   "beteiligung": 87.5,
+   "parteien": {
+    "AfD": 39.9,
+    "SPD": 25.6,
+    "BSW": 17.2,
+    "CDU": 9.3,
+    "FREIE WÄHLER": 2.2,
+    "GRÜNE": 1.5,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.2,
+    "FDP": 0.6,
+    "WerteUnion": 0.5,
+    "DLW": 0.4,
+    "Iii Weg": 0.1,
+    "PLUS": 0.1
+   }
+  },
+  "12071392": {
+   "name": "Tschernitz/Cersk",
+   "beteiligung": 77.3,
+   "parteien": {
+    "AfD": 50.9,
+    "SPD": 19.5,
+    "BSW": 12.3,
+    "CDU": 8.5,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "GRÜNE": 0.9,
+    "DLW": 0.4,
+    "FDP": 0.4,
+    "WerteUnion": 0.4,
+    "Sonstige": 0.1,
+    "Iii Weg": 0.1,
+    "PLUS": 0.1
+   }
+  },
+  "12071401": {
+   "name": "Turnow-Preilack/Turnow-Pśiłuk",
+   "beteiligung": 87.4,
+   "parteien": {
+    "AfD": 41.1,
+    "SPD": 24.3,
+    "BSW": 14.4,
+    "CDU": 10.6,
+    "FREIE WÄHLER": 4.1,
+    "DIE LINKE": 1.4,
+    "Tierschutzpartei": 1.2,
+    "FDP": 1.0,
+    "GRÜNE": 0.9,
+    "WerteUnion": 0.5,
+    "PLUS": 0.4,
+    "DLW": 0.2
+   }
+  },
+  "12071408": {
+   "name": "Welzow/Wjelcej, Stadt",
+   "beteiligung": 68.1,
+   "parteien": {
+    "AfD": 39.0,
+    "SPD": 30.0,
+    "BSW": 14.2,
+    "CDU": 8.4,
+    "FREIE WÄHLER": 2.3,
+    "GRÜNE": 1.8,
+    "Tierschutzpartei": 1.6,
+    "DIE LINKE": 1.2,
+    "FDP": 0.6,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.3,
+    "DLW": 0.1
+   }
+  },
+  "12071412": {
+   "name": "Werben/Wjerbno",
+   "beteiligung": 83.7,
+   "parteien": {
+    "AfD": 34.0,
+    "SPD": 31.8,
+    "CDU": 12.9,
+    "BSW": 12.1,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 1.8,
+    "DIE LINKE": 1.4,
+    "Tierschutzpartei": 1.1,
+    "PLUS": 0.7,
+    "DLW": 0.6,
+    "FDP": 0.5,
+    "WerteUnion": 0.2
+   }
+  },
+  "12071414": {
+   "name": "Wiesengrund/Łukojce",
+   "beteiligung": 85.3,
+   "parteien": {
+    "AfD": 46.1,
+    "SPD": 28.6,
+    "BSW": 11.5,
+    "CDU": 6.2,
+    "FREIE WÄHLER": 1.9,
+    "DIE LINKE": 1.5,
+    "Tierschutzpartei": 1.2,
+    "GRÜNE": 1.1,
+    "WerteUnion": 0.8,
+    "FDP": 0.6,
+    "PLUS": 0.2,
+    "DLW": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12072002": {
+   "name": "Am Mellensee",
+   "beteiligung": 76.7,
+   "parteien": {
+    "AfD": 35.0,
+    "SPD": 29.1,
+    "BSW": 12.7,
+    "CDU": 11.6,
+    "GRÜNE": 2.8,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
+    "WerteUnion": 0.6,
+    "PLUS": 0.5,
+    "FDP": 0.5,
+    "DLW": 0.3,
+    "DKP": 0.1
+   }
+  },
+  "12072014": {
+   "name": "Baruth/Mark, Stadt",
+   "beteiligung": 75.3,
+   "parteien": {
+    "AfD": 33.4,
+    "SPD": 30.7,
+    "BSW": 14.1,
+    "CDU": 10.8,
+    "DIE LINKE": 2.6,
+    "GRÜNE": 2.5,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 2.1,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12072017": {
+   "name": "Blankenfelde-Mahlow",
+   "beteiligung": 72.3,
+   "parteien": {
+    "SPD": 30.6,
+    "AfD": 25.2,
+    "CDU": 16.0,
+    "BSW": 11.1,
+    "FREIE WÄHLER": 5.1,
+    "GRÜNE": 4.1,
+    "Tierschutzpartei": 2.8,
+    "DIE LINKE": 2.0,
+    "FDP": 1.4,
+    "PLUS": 0.9,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12072053": {
+   "name": "Dahme/Mark, Stadt",
+   "beteiligung": 68.3,
+   "parteien": {
+    "SPD": 33.8,
+    "AfD": 31.2,
+    "BSW": 12.5,
+    "CDU": 10.9,
+    "FREIE WÄHLER": 3.6,
+    "DIE LINKE": 2.4,
+    "GRÜNE": 2.1,
+    "Tierschutzpartei": 1.6,
+    "FDP": 0.6,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.1
+   }
+  },
+  "12072055": {
+   "name": "Dahmetal",
+   "beteiligung": 82.6,
+   "parteien": {
+    "SPD": 38.5,
+    "AfD": 26.8,
+    "CDU": 12.6,
+    "BSW": 11.7,
+    "GRÜNE": 2.5,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.6,
+    "DIE LINKE": 1.3,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "WerteUnion": 0.6,
+    "Sonstige": 0.3,
+    "DKP": 0.3,
+    "FDP": 0.3
+   }
+  },
+  "12072120": {
+   "name": "Großbeeren",
+   "beteiligung": 76.2,
+   "parteien": {
+    "SPD": 33.5,
+    "CDU": 22.7,
+    "AfD": 22.0,
+    "BSW": 8.2,
+    "GRÜNE": 4.4,
+    "Tierschutzpartei": 2.4,
+    "DIE LINKE": 1.6,
+    "FREIE WÄHLER": 1.6,
+    "FDP": 1.6,
+    "PLUS": 0.9,
+    "WerteUnion": 0.6,
+    "DLW": 0.5,
+    "Iii Weg": 0.1
+   }
+  },
+  "12072157": {
+   "name": "Ihlow",
+   "beteiligung": 92.7,
+   "parteien": {
+    "AfD": 43.6,
+    "SPD": 27.1,
+    "BSW": 11.7,
+    "CDU": 9.3,
+    "DIE LINKE": 2.6,
+    "FREIE WÄHLER": 1.4,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.2,
+    "FDP": 0.8,
+    "DLW": 0.4,
+    "WerteUnion": 0.4,
+    "PLUS": 0.2
+   }
+  },
+  "12072169": {
+   "name": "Jüterbog, Stadt",
+   "beteiligung": 70.4,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 32.6,
+    "BSW": 12.6,
+    "CDU": 9.3,
+    "DIE LINKE": 3.2,
+    "Tierschutzpartei": 2.4,
+    "FREIE WÄHLER": 1.8,
+    "GRÜNE": 1.8,
+    "PLUS": 0.6,
+    "FDP": 0.6,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12072232": {
+   "name": "Luckenwalde, Stadt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "SPD": 32.7,
+    "AfD": 31.0,
+    "BSW": 14.0,
+    "CDU": 9.7,
+    "DIE LINKE": 3.7,
+    "GRÜNE": 2.7,
+    "Tierschutzpartei": 2.4,
+    "FREIE WÄHLER": 1.8,
+    "PLUS": 0.9,
+    "FDP": 0.7,
+    "DLW": 0.2,
+    "WerteUnion": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12072240": {
+   "name": "Ludwigsfelde, Stadt",
+   "beteiligung": 70.8,
+   "parteien": {
+    "SPD": 36.2,
+    "AfD": 23.1,
+    "BSW": 13.1,
+    "CDU": 12.4,
+    "GRÜNE": 3.9,
+    "FREIE WÄHLER": 2.9,
+    "Tierschutzpartei": 2.8,
+    "DIE LINKE": 2.6,
+    "FDP": 1.0,
+    "PLUS": 1.0,
+    "WerteUnion": 0.4,
+    "DLW": 0.4,
+    "Iii Weg": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12072297": {
+   "name": "Niedergörsdorf",
+   "beteiligung": 71.7,
+   "parteien": {
+    "AfD": 33.8,
+    "SPD": 33.7,
+    "BSW": 12.1,
+    "CDU": 9.6,
+    "DIE LINKE": 2.6,
+    "Tierschutzpartei": 2.1,
+    "FREIE WÄHLER": 1.8,
+    "GRÜNE": 1.5,
+    "DLW": 1.1,
+    "PLUS": 0.8,
+    "FDP": 0.4,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12072298": {
+   "name": "Niederer Fläming",
+   "beteiligung": 81.3,
+   "parteien": {
+    "SPD": 34.1,
+    "AfD": 30.8,
+    "BSW": 13.4,
+    "CDU": 11.8,
+    "GRÜNE": 2.1,
+    "DIE LINKE": 2.1,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.4,
+    "DLW": 0.7,
+    "PLUS": 0.5,
+    "FDP": 0.4,
+    "WerteUnion": 0.3,
+    "DKP": 0.2
+   }
+  },
+  "12072312": {
+   "name": "Nuthe-Urstromtal",
+   "beteiligung": 78.7,
+   "parteien": {
+    "SPD": 30.6,
+    "AfD": 30.5,
+    "BSW": 14.7,
+    "CDU": 12.0,
+    "FREIE WÄHLER": 2.5,
+    "GRÜNE": 2.5,
+    "DIE LINKE": 2.2,
+    "Tierschutzpartei": 2.1,
+    "DLW": 0.9,
+    "FDP": 0.7,
+    "PLUS": 0.7,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12072340": {
+   "name": "Rangsdorf",
+   "beteiligung": 79.6,
+   "parteien": {
+    "SPD": 35.0,
+    "AfD": 22.1,
+    "CDU": 15.4,
+    "BSW": 11.6,
+    "GRÜNE": 5.1,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.7,
+    "Tierschutzpartei": 2.5,
+    "FDP": 1.2,
+    "PLUS": 0.7,
+    "WerteUnion": 0.4,
+    "DLW": 0.3,
+    "Iii Weg": 0.1
+   }
+  },
+  "12072426": {
+   "name": "Trebbin, Stadt",
+   "beteiligung": 75.6,
+   "parteien": {
+    "SPD": 32.3,
+    "AfD": 29.1,
+    "CDU": 13.7,
+    "BSW": 11.4,
+    "GRÜNE": 3.8,
+    "FREIE WÄHLER": 2.6,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 2.1,
+    "FDP": 0.8,
+    "PLUS": 0.8,
+    "DLW": 0.6,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "DKP": 0.1
+   }
+  },
+  "12072477": {
+   "name": "Zossen, Stadt",
+   "beteiligung": 69.4,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 28.7,
+    "BSW": 13.6,
+    "CDU": 12.9,
+    "GRÜNE": 3.0,
+    "Tierschutzpartei": 2.7,
+    "FREIE WÄHLER": 2.7,
+    "DIE LINKE": 2.0,
+    "PLUS": 0.9,
+    "FDP": 0.9,
+    "DLW": 0.4,
+    "WerteUnion": 0.3,
+    "Iii Weg": 0.2
+   }
+  },
+  "12073008": {
+   "name": "Angermünde, Stadt",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 33.2,
+    "SPD": 29.9,
+    "BSW": 14.8,
+    "CDU": 10.5,
+    "DIE LINKE": 3.1,
+    "GRÜNE": 2.9,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 1.6,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073069": {
+   "name": "Boitzenburger Land",
+   "beteiligung": 73.7,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 25.4,
+    "BSW": 17.3,
+    "CDU": 11.7,
+    "GRÜNE": 5.0,
+    "DIE LINKE": 2.7,
+    "FREIE WÄHLER": 2.5,
+    "Tierschutzpartei": 1.5,
+    "PLUS": 0.8,
+    "FDP": 0.6,
+    "DLW": 0.5,
+    "DKP": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073085": {
+   "name": "Brüssow, Stadt",
+   "beteiligung": 66.1,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 23.0,
+    "BSW": 14.2,
+    "CDU": 13.5,
+    "GRÜNE": 3.8,
+    "DIE LINKE": 3.6,
+    "FREIE WÄHLER": 1.6,
+    "Tierschutzpartei": 1.1,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "WerteUnion": 0.3,
+    "DLW": 0.2,
+    "DKP": 0.1,
+    "Iii Weg": 0.1
+   }
+  },
+  "12073093": {
+   "name": "Carmzow-Wallmow",
+   "beteiligung": 71.4,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 21.6,
+    "BSW": 15.1,
+    "GRÜNE": 12.3,
+    "CDU": 6.7,
+    "DIE LINKE": 5.0,
+    "Tierschutzpartei": 2.5,
+    "FREIE WÄHLER": 0.8,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "DKP": 0.3,
+    "FDP": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12073097": {
+   "name": "Casekow",
+   "beteiligung": 73.7,
+   "parteien": {
+    "AfD": 41.4,
+    "SPD": 22.8,
+    "BSW": 16.2,
+    "CDU": 10.3,
+    "FREIE WÄHLER": 2.8,
+    "DLW": 1.6,
+    "DIE LINKE": 1.6,
+    "Tierschutzpartei": 1.5,
+    "GRÜNE": 0.9,
+    "Iii Weg": 0.5,
+    "WerteUnion": 0.3,
+    "PLUS": 0.2,
+    "FDP": 0.1
+   }
+  },
+  "12073157": {
+   "name": "Flieth-Stegelitz",
+   "beteiligung": 74.0,
+   "parteien": {
+    "AfD": 31.1,
+    "SPD": 25.9,
+    "BSW": 18.3,
+    "CDU": 6.7,
+    "GRÜNE": 5.8,
+    "DIE LINKE": 4.6,
+    "FREIE WÄHLER": 3.0,
+    "Tierschutzpartei": 1.8,
+    "DLW": 0.9,
+    "FDP": 0.9,
+    "WerteUnion": 0.6,
+    "Iii Weg": 0.3
+   }
+  },
+  "12073189": {
+   "name": "Gartz (Oder), Stadt",
+   "beteiligung": 68.1,
+   "parteien": {
+    "AfD": 44.3,
+    "SPD": 23.5,
+    "BSW": 14.6,
+    "CDU": 9.2,
+    "FREIE WÄHLER": 2.5,
+    "DIE LINKE": 1.6,
+    "GRÜNE": 1.4,
+    "DLW": 1.0,
+    "Tierschutzpartei": 0.8,
+    "PLUS": 0.5,
+    "WerteUnion": 0.2,
+    "FDP": 0.2,
+    "Iii Weg": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12073201": {
+   "name": "Gerswalde",
+   "beteiligung": 75.6,
+   "parteien": {
+    "AfD": 31.8,
+    "SPD": 25.0,
+    "BSW": 16.5,
+    "CDU": 9.8,
+    "GRÜNE": 5.9,
+    "DIE LINKE": 3.7,
+    "FREIE WÄHLER": 2.8,
+    "Tierschutzpartei": 2.2,
+    "DLW": 0.6,
+    "PLUS": 0.5,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "Sonstige": 0.2,
+    "DKP": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073216": {
+   "name": "Göritz",
+   "beteiligung": 70.5,
+   "parteien": {
+    "AfD": 33.8,
+    "SPD": 23.1,
+    "BSW": 16.8,
+    "CDU": 12.7,
+    "DIE LINKE": 4.1,
+    "FREIE WÄHLER": 3.4,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.3,
+    "PLUS": 1.1,
+    "DLW": 0.6,
+    "FDP": 0.6,
+    "WerteUnion": 0.4
+   }
+  },
+  "12073225": {
+   "name": "Gramzow",
+   "beteiligung": 76.8,
+   "parteien": {
+    "AfD": 35.0,
+    "SPD": 24.7,
+    "BSW": 15.8,
+    "CDU": 15.0,
+    "FREIE WÄHLER": 2.7,
+    "GRÜNE": 2.0,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.1,
+    "DLW": 0.5,
+    "PLUS": 0.5,
+    "FDP": 0.3,
+    "Iii Weg": 0.3,
+    "WerteUnion": 0.1,
+    "Sonstige": 0.1
+   }
+  },
+  "12073261": {
+   "name": "Grünow",
+   "beteiligung": 81.2,
+   "parteien": {
+    "AfD": 38.0,
+    "SPD": 21.9,
+    "BSW": 16.1,
+    "CDU": 12.1,
+    "GRÜNE": 3.5,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 1.7,
+    "Tierschutzpartei": 1.7,
+    "DLW": 0.6,
+    "FDP": 0.5,
+    "Iii Weg": 0.5,
+    "PLUS": 0.3,
+    "Sonstige": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12073309": {
+   "name": "Hohenselchow-Groß Pinnow",
+   "beteiligung": 73.6,
+   "parteien": {
+    "AfD": 37.2,
+    "SPD": 24.7,
+    "CDU": 14.8,
+    "BSW": 13.3,
+    "DLW": 3.6,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 1.3,
+    "GRÜNE": 0.5,
+    "WerteUnion": 0.5,
+    "PLUS": 0.3
+   }
+  },
+  "12073384": {
+   "name": "Lychen, Stadt",
+   "beteiligung": 71.8,
+   "parteien": {
+    "SPD": 28.6,
+    "AfD": 27.9,
+    "BSW": 19.6,
+    "CDU": 11.9,
+    "GRÜNE": 3.7,
+    "DIE LINKE": 3.6,
+    "Tierschutzpartei": 2.2,
+    "FREIE WÄHLER": 1.2,
+    "PLUS": 0.5,
+    "FDP": 0.4,
+    "DLW": 0.3,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12073393": {
+   "name": "Mescherin",
+   "beteiligung": 73.9,
+   "parteien": {
+    "AfD": 45.2,
+    "SPD": 23.8,
+    "BSW": 15.9,
+    "CDU": 7.2,
+    "FREIE WÄHLER": 2.0,
+    "Tierschutzpartei": 1.7,
+    "DIE LINKE": 1.4,
+    "GRÜNE": 0.9,
+    "FDP": 0.6,
+    "PLUS": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12073396": {
+   "name": "Milmersdorf",
+   "beteiligung": 63.1,
+   "parteien": {
+    "AfD": 32.1,
+    "SPD": 27.9,
+    "BSW": 16.8,
+    "CDU": 9.6,
+    "GRÜNE": 4.2,
+    "DIE LINKE": 3.2,
+    "FREIE WÄHLER": 2.6,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.8,
+    "FDP": 0.4,
+    "Iii Weg": 0.4,
+    "Sonstige": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073404": {
+   "name": "Mittenwalde",
+   "beteiligung": 75.0,
+   "parteien": {
+    "AfD": 33.6,
+    "SPD": 29.4,
+    "BSW": 15.5,
+    "CDU": 10.5,
+    "GRÜNE": 4.2,
+    "DIE LINKE": 2.9,
+    "FREIE WÄHLER": 1.3,
+    "DLW": 0.8,
+    "Tierschutzpartei": 0.8,
+    "DKP": 0.4,
+    "FDP": 0.4
+   }
+  },
+  "12073429": {
+   "name": "Nordwestuckermark",
+   "beteiligung": 75.9,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 23.7,
+    "BSW": 14.8,
+    "CDU": 13.1,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.7,
+    "FREIE WÄHLER": 2.2,
+    "Tierschutzpartei": 1.6,
+    "DLW": 0.5,
+    "PLUS": 0.4,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.2,
+    "FDP": 0.1,
+    "DKP": 0.1
+   }
+  },
+  "12073430": {
+   "name": "Oberuckersee",
+   "beteiligung": 74.6,
+   "parteien": {
+    "AfD": 37.3,
+    "SPD": 23.0,
+    "BSW": 19.1,
+    "CDU": 10.3,
+    "GRÜNE": 3.0,
+    "DIE LINKE": 2.2,
+    "FREIE WÄHLER": 1.5,
+    "Tierschutzpartei": 1.3,
+    "DLW": 0.6,
+    "Iii Weg": 0.6,
+    "PLUS": 0.4,
+    "FDP": 0.3,
+    "Sonstige": 0.2,
+    "WerteUnion": 0.2
+   }
+  },
+  "12073440": {
+   "name": "Pinnow",
+   "beteiligung": 75.4,
+   "parteien": {
+    "AfD": 37.7,
+    "SPD": 25.5,
+    "BSW": 17.6,
+    "CDU": 8.7,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.2,
+    "GRÜNE": 1.8,
+    "Tierschutzpartei": 1.5,
+    "Iii Weg": 0.6,
+    "WerteUnion": 0.6,
+    "DKP": 0.4,
+    "PLUS": 0.4,
+    "DLW": 0.2,
+    "FDP": 0.2
+   }
+  },
+  "12073452": {
+   "name": "Prenzlau, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "AfD": 37.7,
+    "SPD": 25.6,
+    "BSW": 15.4,
+    "CDU": 12.2,
+    "DIE LINKE": 2.7,
+    "FREIE WÄHLER": 1.6,
+    "Tierschutzpartei": 1.6,
+    "GRÜNE": 1.1,
+    "FDP": 0.7,
+    "PLUS": 0.6,
+    "DLW": 0.5,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073458": {
+   "name": "Randowtal",
+   "beteiligung": 79.5,
+   "parteien": {
+    "AfD": 40.3,
+    "SPD": 21.7,
+    "BSW": 15.2,
+    "CDU": 13.6,
+    "GRÜNE": 2.8,
+    "DIE LINKE": 2.3,
+    "PLUS": 1.1,
+    "FREIE WÄHLER": 0.9,
+    "DLW": 0.5,
+    "FDP": 0.5,
+    "Tierschutzpartei": 0.5,
+    "Sonstige": 0.2,
+    "DKP": 0.2,
+    "Iii Weg": 0.2
+   }
+  },
+  "12073490": {
+   "name": "Schenkenberg",
+   "beteiligung": 74.2,
+   "parteien": {
+    "AfD": 34.9,
+    "SPD": 20.3,
+    "BSW": 17.9,
+    "CDU": 14.6,
+    "DIE LINKE": 3.8,
+    "GRÜNE": 2.5,
+    "Tierschutzpartei": 2.5,
+    "FDP": 1.6,
+    "FREIE WÄHLER": 0.8,
+    "DLW": 0.3,
+    "PLUS": 0.3,
+    "WerteUnion": 0.3,
+    "Sonstige": 0.3
+   }
+  },
+  "12073520": {
+   "name": "Schönfeld",
+   "beteiligung": 75.5,
+   "parteien": {
+    "AfD": 35.4,
+    "SPD": 25.8,
+    "BSW": 14.1,
+    "CDU": 12.0,
+    "DIE LINKE": 4.2,
+    "GRÜNE": 2.4,
+    "FREIE WÄHLER": 1.8,
+    "Tierschutzpartei": 1.5,
+    "DLW": 0.9,
+    "Sonstige": 0.9,
+    "FDP": 0.6,
+    "PLUS": 0.3
+   }
+  },
+  "12073532": {
+   "name": "Schwedt/Oder, Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "AfD": 33.1,
+    "SPD": 31.7,
+    "BSW": 16.3,
+    "CDU": 9.7,
+    "FREIE WÄHLER": 2.8,
+    "DIE LINKE": 2.0,
+    "Tierschutzpartei": 1.4,
+    "GRÜNE": 1.2,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "DLW": 0.3,
+    "Iii Weg": 0.2,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073565": {
+   "name": "Tantow",
+   "beteiligung": 72.6,
+   "parteien": {
+    "AfD": 35.6,
+    "SPD": 24.9,
+    "BSW": 15.1,
+    "CDU": 13.2,
+    "FREIE WÄHLER": 3.0,
+    "GRÜNE": 2.2,
+    "DIE LINKE": 1.9,
+    "DLW": 1.6,
+    "Tierschutzpartei": 1.1,
+    "FDP": 0.5,
+    "PLUS": 0.5,
+    "WerteUnion": 0.3
+   }
+  },
+  "12073569": {
+   "name": "Temmen-Ringenwalde",
+   "beteiligung": 86.9,
+   "parteien": {
+    "SPD": 29.0,
+    "AfD": 26.1,
+    "BSW": 14.5,
+    "CDU": 13.7,
+    "GRÜNE": 7.8,
+    "DIE LINKE": 4.3,
+    "FREIE WÄHLER": 2.4,
+    "Tierschutzpartei": 0.8,
+    "DLW": 0.5,
+    "Sonstige": 0.3,
+    "FDP": 0.3,
+    "WerteUnion": 0.3
+   }
+  },
+  "12073572": {
+   "name": "Templin, Stadt",
+   "beteiligung": 71.0,
+   "parteien": {
+    "AfD": 30.4,
+    "SPD": 27.1,
+    "BSW": 18.2,
+    "CDU": 11.7,
+    "GRÜNE": 3.7,
+    "DIE LINKE": 3.0,
+    "Tierschutzpartei": 2.0,
+    "FREIE WÄHLER": 1.9,
+    "PLUS": 0.6,
+    "FDP": 0.6,
+    "DLW": 0.3,
+    "WerteUnion": 0.2,
+    "Iii Weg": 0.1
+   }
+  },
+  "12073578": {
+   "name": "Uckerfelde",
+   "beteiligung": 80.8,
+   "parteien": {
+    "AfD": 36.0,
+    "SPD": 27.1,
+    "CDU": 14.0,
+    "BSW": 12.9,
+    "FREIE WÄHLER": 3.4,
+    "DIE LINKE": 1.9,
+    "GRÜNE": 1.6,
+    "FDP": 1.1,
+    "Tierschutzpartei": 1.1,
+    "DLW": 0.3,
+    "Sonstige": 0.2,
+    "Iii Weg": 0.2,
+    "PLUS": 0.2
+   }
+  },
+  "12073579": {
+   "name": "Uckerland",
+   "beteiligung": 70.4,
+   "parteien": {
+    "AfD": 41.6,
+    "SPD": 19.8,
+    "CDU": 13.3,
+    "BSW": 13.0,
+    "FREIE WÄHLER": 4.0,
+    "DIE LINKE": 2.8,
+    "GRÜNE": 1.9,
+    "Tierschutzpartei": 1.7,
+    "DLW": 0.6,
+    "PLUS": 0.6,
+    "FDP": 0.5,
+    "Iii Weg": 0.1,
+    "WerteUnion": 0.1
+   }
+  },
+  "12073645": {
+   "name": "Zichow",
+   "beteiligung": 81.5,
+   "parteien": {
+    "AfD": 38.7,
+    "SPD": 23.7,
+    "BSW": 16.9,
+    "CDU": 11.3,
+    "GRÜNE": 2.5,
+    "DIE LINKE": 2.0,
+    "FREIE WÄHLER": 1.4,
+    "DLW": 1.1,
+    "Tierschutzpartei": 1.1,
+    "Iii Weg": 0.6,
+    "PLUS": 0.6
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

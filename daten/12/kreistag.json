@@ -1,0 +1,233 @@
+{
+ "land": "12",
+ "name": "Brandenburg",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Brandenburg 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "12060": {
+   "name": "Barnim",
+   "beteiligung": 67.9,
+   "parteien": {
+    "AfD": 24.6,
+    "CDU": 17.2,
+    "Sonstige": 13.9,
+    "BVB/FREIE WÄHLER": 12.1,
+    "SPD": 10.9,
+    "DIE LINKE": 10.9,
+    "GRÜNE": 6.9,
+    "FDP": 2.8,
+    "Einzelbewerber": 0.6
+   }
+  },
+  "12061": {
+   "name": "Dahme-Spreewald",
+   "beteiligung": 66.9,
+   "parteien": {
+    "AfD": 25.6,
+    "SPD": 18.5,
+    "Sonstige": 18.4,
+    "CDU": 16.5,
+    "DIE LINKE": 6.0,
+    "BVB/FREIE WÄHLER": 5.6,
+    "GRÜNE": 5.2,
+    "FDP": 2.5,
+    "Einzelbewerber": 0.9,
+    "Tierschutzpartei": 0.7
+   }
+  },
+  "12062": {
+   "name": "Elbe-Elster",
+   "beteiligung": 68.9,
+   "parteien": {
+    "AfD": 27.5,
+    "Sonstige": 23.8,
+    "CDU": 22.2,
+    "SPD": 10.4,
+    "BVB/FREIE WÄHLER": 6.4,
+    "DIE LINKE": 4.8,
+    "FDP": 2.0,
+    "GRÜNE": 1.9,
+    "Einzelbewerber": 0.9
+   }
+  },
+  "12063": {
+   "name": "Havelland",
+   "beteiligung": 62.7,
+   "parteien": {
+    "AfD": 24.6,
+    "CDU": 24.4,
+    "SPD": 17.8,
+    "Sonstige": 9.8,
+    "GRÜNE": 8.2,
+    "DIE LINKE": 7.0,
+    "BVB/FREIE WÄHLER": 4.6,
+    "FDP": 3.6
+   }
+  },
+  "12064": {
+   "name": "Märkisch-Oderland",
+   "beteiligung": 66.8,
+   "parteien": {
+    "AfD": 29.0,
+    "CDU": 15.8,
+    "SPD": 14.7,
+    "Sonstige": 11.4,
+    "DIE LINKE": 9.4,
+    "BVB/FREIE WÄHLER": 9.2,
+    "GRÜNE": 6.3,
+    "FDP": 4.2
+   }
+  },
+  "12065": {
+   "name": "Oberhavel",
+   "beteiligung": 67.0,
+   "parteien": {
+    "AfD": 25.3,
+    "CDU": 20.6,
+    "SPD": 17.0,
+    "Sonstige": 8.4,
+    "GRÜNE": 7.8,
+    "DIE LINKE": 6.5,
+    "BVB/FREIE WÄHLER": 5.9,
+    "FDP": 4.3,
+    "Tierschutzpartei": 2.9,
+    "Einzelbewerber": 1.2
+   }
+  },
+  "12066": {
+   "name": "Oberspreewald-Lausitz",
+   "beteiligung": 63.9,
+   "parteien": {
+    "AfD": 31.8,
+    "CDU": 17.6,
+    "SPD": 17.1,
+    "Sonstige": 12.2,
+    "DIE LINKE": 7.5,
+    "BVB/FREIE WÄHLER": 5.0,
+    "GRÜNE": 3.0,
+    "FDP": 2.7,
+    "Tierschutzpartei": 2.5,
+    "Einzelbewerber": 0.6
+   }
+  },
+  "12067": {
+   "name": "Oder-Spree",
+   "beteiligung": 66.6,
+   "parteien": {
+    "AfD": 30.2,
+    "SPD": 18.7,
+    "CDU": 15.9,
+    "Sonstige": 9.3,
+    "BVB/FREIE WÄHLER": 8.3,
+    "DIE LINKE": 7.1,
+    "GRÜNE": 4.5,
+    "FDP": 3.2,
+    "Tierschutzpartei": 1.4,
+    "Einzelbewerber": 1.3
+   }
+  },
+  "12068": {
+   "name": "Ostprignitz-Ruppin",
+   "beteiligung": 63.9,
+   "parteien": {
+    "AfD": 26.1,
+    "CDU": 22.1,
+    "SPD": 14.5,
+    "Sonstige": 12.2,
+    "DIE LINKE": 8.5,
+    "BVB/FREIE WÄHLER": 8.2,
+    "GRÜNE": 6.2,
+    "FDP": 1.4,
+    "Einzelbewerber": 0.8
+   }
+  },
+  "12069": {
+   "name": "Potsdam-Mittelmark",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CDU": 25.2,
+    "AfD": 19.2,
+    "SPD": 18.8,
+    "GRÜNE": 11.2,
+    "BVB/FREIE WÄHLER": 10.2,
+    "DIE LINKE": 6.9,
+    "FDP": 4.6,
+    "Sonstige": 3.5,
+    "Einzelbewerber": 0.4
+   }
+  },
+  "12070": {
+   "name": "Prignitz",
+   "beteiligung": 62.8,
+   "parteien": {
+    "AfD": 24.1,
+    "Sonstige": 19.5,
+    "CDU": 19.2,
+    "SPD": 14.7,
+    "DIE LINKE": 8.1,
+    "BVB/FREIE WÄHLER": 7.7,
+    "GRÜNE": 3.6,
+    "FDP": 2.3,
+    "Tierschutzpartei": 0.9
+   }
+  },
+  "12071": {
+   "name": "Spree-Neiße",
+   "beteiligung": 67.6,
+   "parteien": {
+    "AfD": 38.2,
+    "CDU": 20.1,
+    "SPD": 13.0,
+    "Sonstige": 11.1,
+    "DIE LINKE": 6.8,
+    "BVB/FREIE WÄHLER": 5.3,
+    "FDP": 3.3,
+    "GRÜNE": 2.1
+   }
+  },
+  "12072": {
+   "name": "Teltow-Fläming",
+   "beteiligung": 63.7,
+   "parteien": {
+    "AfD": 23.6,
+    "SPD": 19.5,
+    "CDU": 19.1,
+    "Sonstige": 10.8,
+    "BVB/FREIE WÄHLER": 10.4,
+    "DIE LINKE": 8.7,
+    "GRÜNE": 5.3,
+    "FDP": 2.4,
+    "Einzelbewerber": 0.2
+   }
+  },
+  "12073": {
+   "name": "Uckermark",
+   "beteiligung": 64.5,
+   "parteien": {
+    "AfD": 31.1,
+    "CDU": 18.1,
+    "SPD": 17.2,
+    "Sonstige": 10.7,
+    "BVB/FREIE WÄHLER": 8.1,
+    "DIE LINKE": 7.2,
+    "GRÜNE": 3.9,
+    "FDP": 2.3,
+    "Einzelbewerber": 1.4
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

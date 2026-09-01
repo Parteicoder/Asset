@@ -1,0 +1,179 @@
+{
+ "land": "15",
+ "name": "Sachsen-Anhalt",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Sachsen-Anhalt 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "15081": {
+   "name": "Altmarkkreis Salzwedel",
+   "beteiligung": 62.9,
+   "parteien": {
+    "AfD": 27.1,
+    "CDU": 25.3,
+    "SPD": 17.6,
+    "Wählervereinigungen": 14.8,
+    "DIE LINKE": 9.1,
+    "GRÜNE": 3.4,
+    "FDP": 2.7
+   }
+  },
+  "15082": {
+   "name": "Anhalt-Bitterfeld",
+   "beteiligung": 60.2,
+   "parteien": {
+    "AfD": 32.8,
+    "CDU": 25.9,
+    "DIE LINKE": 9.7,
+    "SPD": 8.8,
+    "Wählervereinigungen": 8.5,
+    "FREIE WÄHLER": 7.1,
+    "FDP": 4.3,
+    "GRÜNE": 2.9
+   }
+  },
+  "15083": {
+   "name": "Börde",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 30.9,
+    "AfD": 28.1,
+    "Wählervereinigungen": 15.5,
+    "SPD": 12.9,
+    "DIE LINKE": 6.4,
+    "FDP": 3.0,
+    "GRÜNE": 2.8,
+    "Einzelbewerber": 0.5
+   }
+  },
+  "15084": {
+   "name": "Burgenlandkreis",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 30.2,
+    "AfD": 29.2,
+    "Wählervereinigungen": 16.3,
+    "SPD": 9.6,
+    "DIE LINKE": 5.8,
+    "FDP": 2.2,
+    "Sonstige": 2.2,
+    "GRÜNE": 2.2,
+    "FREIE WÄHLER": 1.3,
+    "Einzelbewerber": 1.0
+   }
+  },
+  "15085": {
+   "name": "Harz",
+   "beteiligung": 61.2,
+   "parteien": {
+    "CDU": 30.5,
+    "AfD": 25.9,
+    "SPD": 13.0,
+    "Wählervereinigungen": 9.4,
+    "DIE LINKE": 8.1,
+    "FREIE WÄHLER": 6.0,
+    "GRÜNE": 4.4,
+    "FDP": 2.5
+   }
+  },
+  "15086": {
+   "name": "Jerichower Land",
+   "beteiligung": 63.6,
+   "parteien": {
+    "AfD": 28.8,
+    "CDU": 27.7,
+    "SPD": 14.2,
+    "Wählervereinigungen": 13.9,
+    "DIE LINKE": 6.5,
+    "FDP": 4.6,
+    "GRÜNE": 3.3,
+    "Die PARTEI": 0.6,
+    "Einzelbewerber": 0.4
+   }
+  },
+  "15087": {
+   "name": "Mansfeld-Südharz",
+   "beteiligung": 59.0,
+   "parteien": {
+    "AfD": 31.4,
+    "CDU": 21.4,
+    "Wählervereinigungen": 15.1,
+    "SPD": 12.3,
+    "DIE LINKE": 7.7,
+    "Sonstige": 7.7,
+    "FDP": 2.0,
+    "GRÜNE": 1.2,
+    "Einzelbewerber": 1.2
+   }
+  },
+  "15088": {
+   "name": "Saalekreis",
+   "beteiligung": 64.1,
+   "parteien": {
+    "AfD": 34.1,
+    "CDU": 31.6,
+    "SPD": 9.7,
+    "Wählervereinigungen": 9.4,
+    "DIE LINKE": 7.7,
+    "FDP": 3.7,
+    "GRÜNE": 3.0,
+    "Sonstige": 0.8
+   }
+  },
+  "15089": {
+   "name": "Salzlandkreis",
+   "beteiligung": 57.4,
+   "parteien": {
+    "AfD": 30.2,
+    "CDU": 26.9,
+    "Wählervereinigungen": 14.1,
+    "SPD": 11.1,
+    "DIE LINKE": 8.1,
+    "FDP": 6.6,
+    "GRÜNE": 2.6,
+    "Einzelbewerber": 0.4
+   }
+  },
+  "15090": {
+   "name": "Stendal",
+   "beteiligung": 63.4,
+   "parteien": {
+    "AfD": 31.6,
+    "CDU": 24.7,
+    "Wählervereinigungen": 21.7,
+    "SPD": 10.1,
+    "DIE LINKE": 6.6,
+    "GRÜNE": 2.7,
+    "FDP": 2.6
+   }
+  },
+  "15091": {
+   "name": "Wittenberg",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CDU": 29.9,
+    "AfD": 28.2,
+    "FREIE WÄHLER": 14.8,
+    "SPD": 11.6,
+    "DIE LINKE": 7.3,
+    "Wählervereinigungen": 3.3,
+    "GRÜNE": 2.3,
+    "FDP": 1.9,
+    "Sonstige": 0.8
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

@@ -1,0 +1,5168 @@
+{
+ "land": "12",
+ "name": "Brandenburg",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Brandenburg 2024",
+ "jahr": 2024,
+ "wahl_datum": "2024-06-09",
+ "schluesselart": "ags",
+ "quelle": "Amt für Statistik Berlin-Brandenburg",
+ "quellenvermerk": "Datenquelle: Amt für Statistik Berlin-Brandenburg, amtliches Ergebnis der Wahlen zu den Gemeindevertretungen vom 9. Juni 2024 (2., aktualisierte Auflage vom 8. Oktober 2024); eigene Aufbereitung (Stimmenanteile je Wahlvorschlag)",
+ "lizenz": "Creative Commons Namensnennung 3.0 Deutschland (CC BY 3.0 DE)",
+ "lizenz_url": "http://creativecommons.org/licenses/by/3.0/de/",
+ "quellendatei": "https://wahlergebnisse.brandenburg.de/12/300/20240609/gemeindevertretungswahl_land/DL/DL_BB_GVW2024.xlsx",
+ "quellenseite": "https://wahlen.brandenburg.de/wahlen/de/kommunalwahlen/ergebnisse/kommunalwahlen/",
+ "gebiete": {
+  "12051000": {
+   "name": "Brandenburg an der Havel, Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "AfD": 23.8,
+    "CDU": 23.6,
+    "SPD": 18.7,
+    "BVB / FREIE WÄHLER": 9.5,
+    "GRÜNE/B 90": 8.9,
+    "DIE LINKE": 7.2,
+    "Bürger für Frieden, Vernunft und Gerechtigkeit": 5.0,
+    "FDP": 2.8,
+    "EB Wenzel": 0.6
+   }
+  },
+  "12052000": {
+   "name": "Cottbus, Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "AfD": 29.3,
+    "SPD": 19.6,
+    "CDU": 16.0,
+    "UC!": 9.0,
+    "DIE LINKE": 7.1,
+    "GRÜNE/B 90": 4.9,
+    "AUB-Freie Wähler": 4.3,
+    "MIBrb": 4.1,
+    "FDP": 2.0,
+    "SUB": 1.9,
+    "ZSC": 1.7
+   }
+  },
+  "12053000": {
+   "name": "Frankfurt (Oder), Stadt",
+   "beteiligung": 58.2,
+   "parteien": {
+    "AfD": 28.7,
+    "CDU": 22.9,
+    "DIE LINKE": 15.8,
+    "SPD": 12.7,
+    "GRÜNE/B 90 & BI Stadtentwicklung": 6.1,
+    "FBI / BVB / FREIE WÄHLER": 5.2,
+    "Die PARTEI": 4.9,
+    "FDP": 3.8
+   }
+  },
+  "12054000": {
+   "name": "Potsdam, Stadt",
+   "beteiligung": 70.4,
+   "parteien": {
+    "SPD": 19.4,
+    "CDU": 14.7,
+    "GRÜNE/B 90": 14.5,
+    "AfD": 13.7,
+    "aNDERE": 10.2,
+    "DIE LINKE": 8.7,
+    "BfW": 5.5,
+    "FDP": 4.5,
+    "BVB / FREIE WÄHLER": 2.9,
+    "Die PARTEI": 2.7,
+    "Volt": 1.9,
+    "Mitten in Potsdam": 1.2,
+    "EB Witzsche": 0.2
+   }
+  },
+  "12060005": {
+   "name": "Ahrensfelde",
+   "beteiligung": 74.2,
+   "parteien": {
+    "AfD": 23.0,
+    "AWG": 17.7,
+    "CDU": 15.5,
+    "SPD": 10.2,
+    "BVE": 8.6,
+    "BfA": 8.4,
+    "BVB / FREIE WÄHLER - AHRENSFELDE": 7.6,
+    "DIE LINKE": 4.8,
+    "GRÜNE/B 90": 4.2
+   }
+  },
+  "12060020": {
+   "name": "Bernau bei Berlin, Stadt",
+   "beteiligung": 66.8,
+   "parteien": {
+    "BVB / FREIE WÄHLER Bernau": 22.1,
+    "AfD": 19.7,
+    "CDU": 15.5,
+    "DIE LINKE": 15.0,
+    "SPD": 8.9,
+    "Bündnis für Bernau e.V.": 7.5,
+    "GRÜNE/B 90": 6.3,
+    "Die PARTEI": 2.7,
+    "FDP": 1.3,
+    "EB Link": 0.6,
+    "EB Neue": 0.4
+   }
+  },
+  "12060052": {
+   "name": "Eberswalde, Stadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "AfD": 24.1,
+    "Bündnis Eberswalde": 11.8,
+    "CDU": 11.8,
+    "DIE LINKE": 11.8,
+    "SPD": 11.1,
+    "BfE": 7.6,
+    "GRÜNE/B 90": 7.1,
+    "FDP": 6.0,
+    "Die PARTEI/ALE/BI Radwege": 3.1,
+    "Bürgerfraktion Barnim": 2.2,
+    "BVB / FREIE WÄHLER EBERSWALDE Eberswalde": 2.1,
+    "EB Fiedler": 0.7,
+    "EB Ludewig": 0.7
+   }
+  },
+  "12060181": {
+   "name": "Panketal",
+   "beteiligung": 73.2,
+   "parteien": {
+    "AfD": 20.6,
+    "CDU": 19.1,
+    "BVB / FREIE WÄHLER Panketal": 16.7,
+    "SPD": 12.7,
+    "DIE LINKE": 10.8,
+    "GRÜNE/B 90": 9.9,
+    "100% Panketal": 5.1,
+    "Die PARTEI": 2.7,
+    "FDP": 2.3
+   }
+  },
+  "12060198": {
+   "name": "Schorfheide",
+   "beteiligung": 70.2,
+   "parteien": {
+    "Bündnis Schorfheide": 28.7,
+    "AfD": 22.1,
+    "CDU": 10.7,
+    "DIE LINKE": 9.6,
+    "WIR": 9.3,
+    "Freie Wähler Schorfheide": 8.9,
+    "SPD": 5.9,
+    "GRÜNE/B 90": 3.0,
+    "Pro Eichhorst": 1.7
+   }
+  },
+  "12060269": {
+   "name": "Wandlitz",
+   "beteiligung": 71.2,
+   "parteien": {
+    "AfD": 24.9,
+    "CDU": 15.2,
+    "F.Bg.W.": 13.0,
+    "UWG": 11.4,
+    "SPD": 7.0,
+    "Bündnis Klosterfelde": 6.1,
+    "DIE LINKE": 5.5,
+    "GRÜNE/B 90": 5.4,
+    "BVB / FREIE WÄHLER Wandlitz": 4.1,
+    "EB Kinski": 2.3,
+    "Die PARTEI": 2.1,
+    "EB Fischer": 1.3,
+    "FDP": 1.2,
+    "Bündnis 1A Bürgernah": 0.5
+   }
+  },
+  "12060280": {
+   "name": "Werneuchen, Stadt",
+   "beteiligung": 72.9,
+   "parteien": {
+    "AfD": 28.8,
+    "UWW/BVB-FW": 14.8,
+    "CDU": 13.9,
+    "DIE LINKE": 9.4,
+    "GFW": 8.7,
+    "SPD": 8.4,
+    "GRÜNE/B 90": 4.6,
+    "EB Keiling": 4.2,
+    "WiW": 3.9,
+    "Die PARTEI": 1.6,
+    "FDP": 1.6
+   }
+  },
+  "12060024": {
+   "name": "Biesenthal, Stadt",
+   "beteiligung": 70.4,
+   "parteien": {
+    "BVB/FW Biesenthal": 24.9,
+    "CDU": 20.7,
+    "AfD": 14.9,
+    "DIE LINKE": 11.2,
+    "BAM": 9.3,
+    "GRÜNE/B 90": 7.7,
+    "PROD": 4.4,
+    "SPD": 3.4,
+    "EB Weprajetzky": 1.9,
+    "Die PARTEI": 1.5
+   }
+  },
+  "12060034": {
+   "name": "Breydin",
+   "beteiligung": 77.6,
+   "parteien": {
+    "Pro Breydin": 50.0,
+    "IG-BREYDIN": 28.3,
+    "SPD": 15.9,
+    "FDP": 5.9
+   }
+  },
+  "12060154": {
+   "name": "Marienwerder",
+   "beteiligung": 73.1,
+   "parteien": {
+    "WG HEIMAT": 46.9,
+    "BÜRGER": 42.8,
+    "CDU": 10.3
+   }
+  },
+  "12060161": {
+   "name": "Melchow",
+   "beteiligung": 79.1,
+   "parteien": {
+    "PROM": 57.1,
+    "WG NfM": 17.8,
+    "WG Nonnenfließ": 11.8,
+    "SPD": 10.7,
+    "Die PARTEI": 2.6
+   }
+  },
+  "12060192": {
+   "name": "Rüdnitz",
+   "beteiligung": 71.5,
+   "parteien": {
+    "FWR": 48.7,
+    "WAR": 46.3,
+    "EB Rothe": 5.1
+   }
+  },
+  "12060250": {
+   "name": "Sydower Fließ",
+   "beteiligung": 79.3,
+   "parteien": {
+    "WSF": 53.8,
+    "BBSF": 40.2,
+    "EB Lenke": 6.0
+   }
+  },
+  "12060012": {
+   "name": "Althüttendorf",
+   "beteiligung": 73.5,
+   "parteien": {
+    "FFA": 39.8,
+    "Heimatverein Althüttendorf": 22.6,
+    "EB Pieper": 16.9,
+    "EB Gaedeke": 15.3,
+    "EB Schlesinger": 5.3
+   }
+  },
+  "12060068": {
+   "name": "Friedrichswalde",
+   "beteiligung": 81.2,
+   "parteien": {
+    "EB Schwieger": 19.6,
+    "EB Jaensch": 13.5,
+    "EB Weiß": 13.3,
+    "EB Dr. Schädler": 10.1,
+    "EB Schulz": 8.8,
+    "EB Westphal": 8.8,
+    "SPD": 5.9,
+    "EB Senften": 4.6,
+    "EB Hakenbeck": 4.6,
+    "EB Seidowski": 4.0,
+    "EB Winkelmann": 3.8,
+    "EB Heller": 3.1
+   }
+  },
+  "12060100": {
+   "name": "Joachimsthal, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "CDU": 29.4,
+    "Pro Joachimsthal": 23.0,
+    "AfD": 20.8,
+    "SPD": 7.5,
+    "PUB": 5.5,
+    "FDP": 5.2,
+    "DIE LINKE": 4.3,
+    "EB Machel": 2.8,
+    "BVB": 1.5
+   }
+  },
+  "12060296": {
+   "name": "Ziethen",
+   "beteiligung": 75.4,
+   "parteien": {
+    "WG Klein Ziethen": 23.9,
+    "EB Stein": 22.3,
+    "EB Wölk": 19.6,
+    "EB Gust": 18.3,
+    "EB Wüstner": 8.1,
+    "EB Rouvel": 7.8
+   }
+  },
+  "12060036": {
+   "name": "Britz",
+   "beteiligung": 71.2,
+   "parteien": {
+    "UWG Britz": 80.3,
+    "FDP": 7.8,
+    "DIE LINKE": 6.7,
+    "EB Ahl": 5.2
+   }
+  },
+  "12060045": {
+   "name": "Chorin",
+   "beteiligung": 74.8,
+   "parteien": {
+    "CDU": 24.4,
+    "UWB": 20.9,
+    "DIE LINKE": 18.0,
+    "GRÜNE/B 90": 10.9,
+    "EB Krüger": 10.4,
+    "EB Dr. Engel": 7.3,
+    "EB Boche": 4.9,
+    "EB Peschke": 3.3
+   }
+  },
+  "12060092": {
+   "name": "Hohenfinow",
+   "beteiligung": 72.2,
+   "parteien": {
+    "Parteilose WG Hohenfinow": 65.1,
+    "EB Gutsche": 12.3,
+    "CDU": 7.1,
+    "EB Püschel": 4.8,
+    "EB Domke": 4.5,
+    "EB Eglin": 3.3,
+    "EB Gellenbeck": 2.9
+   }
+  },
+  "12060128": {
+   "name": "Liepe",
+   "beteiligung": 70.1,
+   "parteien": {
+    "GfL": 85.8,
+    "EB Schwarz": 11.0,
+    "CDU": 3.2
+   }
+  },
+  "12060149": {
+   "name": "Lunow-Stolzenhagen",
+   "beteiligung": 74.6,
+   "parteien": {
+    "AIG": 44.8,
+    "ABLS": 41.3,
+    "CDU": 8.2,
+    "EB Püschel": 5.7
+   }
+  },
+  "12060172": {
+   "name": "Niederfinow",
+   "beteiligung": 73.8,
+   "parteien": {
+    "FuN": 100.0
+   }
+  },
+  "12060176": {
+   "name": "Oderberg, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "BfO": 66.2,
+    "SPD": 17.3,
+    "CDU": 13.8,
+    "GRÜNE/B 90": 2.7
+   }
+  },
+  "12060185": {
+   "name": "Parsteinsee",
+   "beteiligung": 75.2,
+   "parteien": {
+    "IFP": 63.5,
+    "MfP": 17.0,
+    "Alternative WG Parsteinsee": 15.8,
+    "EB Matzdorf": 3.7
+   }
+  },
+  "12061020": {
+   "name": "Bestensee",
+   "beteiligung": 63.5,
+   "parteien": {
+    "UBBP": 28.4,
+    "AfD": 21.8,
+    "WIR!": 15.2,
+    "Plan Bestensee 2025": 12.8,
+    "CDU": 9.3,
+    "EB Quasdorf": 8.5,
+    "DIE LINKE": 3.9
+   }
+  },
+  "12061112": {
+   "name": "Eichwalde",
+   "beteiligung": 73.5,
+   "parteien": {
+    "CDU": 20.0,
+    "SPD": 18.8,
+    "WIE": 17.7,
+    "AfD": 16.6,
+    "GRÜNE/B 90": 11.2,
+    "DIE LINKE": 9.8,
+    "Die PARTEI": 4.2,
+    "FDP": 1.8
+   }
+  },
+  "12061217": {
+   "name": "Heidesee",
+   "beteiligung": 71.8,
+   "parteien": {
+    "BfB": 24.1,
+    "AfD": 23.2,
+    "UWGH": 13.2,
+    "CDU": 10.4,
+    "DIE LINKE": 8.0,
+    "SPD": 7.4,
+    "UWG": 6.3,
+    "EB Beer": 6.2,
+    "FDP": 1.3
+   }
+  },
+  "12061219": {
+   "name": "Heideblick",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AWGH": 40.9,
+    "WG Süd": 14.5,
+    "WG Pro Heideblick": 11.1,
+    "EB Seide": 8.1,
+    "WGWa": 7.5,
+    "FWG": 6.9,
+    "WGW": 5.7,
+    "GRÜNE/B 90": 5.3
+   }
+  },
+  "12061260": {
+   "name": "Königs Wusterhausen, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "AfD": 22.2,
+    "SPD": 21.3,
+    "CDU": 19.2,
+    "FWKW": 12.1,
+    "DIE LINKE": 6.0,
+    "GRÜNE/B 90": 4.8,
+    "Wir für KW": 3.9,
+    "BKW VG": 3.7,
+    "UFL": 1.9,
+    "FDP": 1.5,
+    "BVB / FREIE WÄHLER": 1.1,
+    "Die PARTEI": 1.1,
+    "BVO": 0.8,
+    "EB Jung": 0.4
+   }
+  },
+  "12061316": {
+   "name": "Lübben (Spreewald), Stadt",
+   "beteiligung": 64.6,
+   "parteien": {
+    "PRO LÜBBEN": 23.0,
+    "CDU": 18.9,
+    "AfD": 18.7,
+    "UL": 12.0,
+    "SPD": 11.8,
+    "WG diestadtfraktion": 7.7,
+    "DIE LINKE": 4.8,
+    "GRÜNE/B 90": 3.2
+   }
+  },
+  "12061320": {
+   "name": "Luckau, Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "Luckau-Land": 22.6,
+    "UWG": 19.6,
+    "SPD": 18.8,
+    "CDU": 15.0,
+    "FDP": 6.8,
+    "DIE LINKE": 6.6,
+    "EB Jahnke": 4.9,
+    "Volt": 3.0,
+    "GRÜNE/B 90": 2.7
+   }
+  },
+  "12061329": {
+   "name": "Märkische Heide",
+   "beteiligung": 77.3,
+   "parteien": {
+    "Märkische Heide": 37.9,
+    "AfD": 20.2,
+    "CDU": 14.6,
+    "SPD": 13.6,
+    "EB Sonnenberg": 4.9,
+    "EB Bretzke": 3.8,
+    "DIE LINKE": 2.5,
+    "EB Rottenau": 2.4
+   }
+  },
+  "12061332": {
+   "name": "Mittenwalde, Stadt",
+   "beteiligung": 70.0,
+   "parteien": {
+    "Bürger für Bürger & BVB/Freie Wähler": 20.6,
+    "AfD": 20.4,
+    "CDU": 19.1,
+    "Pro Bürger – Hand in Hand": 18.8,
+    "SPD": 6.3,
+    "GWS": 4.8,
+    "DIE LINKE": 4.6,
+    "GRÜNE/B 90": 3.9,
+    "FDP": 1.5
+   }
+  },
+  "12061433": {
+   "name": "Schönefeld",
+   "beteiligung": 56.2,
+   "parteien": {
+    "CDU": 25.7,
+    "AfD": 21.7,
+    "BIS": 14.1,
+    "SPD": 12.8,
+    "Schönefeld machen!": 12.1,
+    "DIE LINKE": 5.4,
+    "GRÜNE/B 90": 4.2,
+    "FWS": 4.1
+   }
+  },
+  "12061444": {
+   "name": "Schulzendorf",
+   "beteiligung": 69.6,
+   "parteien": {
+    "AfD": 21.4,
+    "SPD": 19.3,
+    "CDU": 17.7,
+    "Bürgerbündnis": 11.8,
+    "Gemeinsam für Schulzendorf": 9.9,
+    "DIE LINKE": 9.4,
+    "GRÜNE/B 90": 7.4,
+    "FDP": 3.1
+   }
+  },
+  "12061540": {
+   "name": "Wildau, Stadt",
+   "beteiligung": 63.2,
+   "parteien": {
+    "BBW": 17.7,
+    "AfD": 16.9,
+    "SPD": 15.7,
+    "BfW": 12.3,
+    "CDU": 12.1,
+    "EB Prof. Dr. Dr. Ungvari": 8.1,
+    "DIE LINKE": 6.5,
+    "GRÜNE/B 90": 5.6,
+    "GfW": 5.2
+   }
+  },
+  "12061572": {
+   "name": "Zeuthen",
+   "beteiligung": 70.9,
+   "parteien": {
+    "BfZ": 37.9,
+    "CDU": 20.9,
+    "SPD": 16.8,
+    "GRÜNE/B 90": 12.3,
+    "DIE LINKE": 8.7,
+    "Z.U.M. Leben": 3.4
+   }
+  },
+  "12061192": {
+   "name": "Groß Köris",
+   "beteiligung": 68.2,
+   "parteien": {
+    "WIR": 24.6,
+    "AfD": 21.1,
+    "ZZG": 17.3,
+    "BBK": 13.3,
+    "SPD": 7.1,
+    "CDU": 6.2,
+    "BBL": 4.2,
+    "FDP": 3.7,
+    "BVB/FREIE WÄHLER-Schenkenländchen": 1.6,
+    "EB Stegemann, Jörg": 1.0
+   }
+  },
+  "12061216": {
+   "name": "Halbe",
+   "beteiligung": 70.4,
+   "parteien": {
+    "AfD": 26.1,
+    "Bürgerbündnis Halbe": 17.2,
+    "IZG": 16.9,
+    "WFH": 13.8,
+    "BVB/FREIE WÄHLER-Schenkenländchen": 11.4,
+    "GFH": 10.1,
+    "EB Schulz, H.": 4.4
+   }
+  },
+  "12061328": {
+   "name": "Märkisch Buchholz, Stadt",
+   "beteiligung": 72.3,
+   "parteien": {
+    "Heimatverein Märkisch Buchholz e.V.": 46.5,
+    "DGKÖ": 16.3,
+    "B:ob": 13.0,
+    "Stiehl, Monika": 12.1,
+    "Steinke, Sandra": 6.2,
+    "SPD": 5.8
+   }
+  },
+  "12061344": {
+   "name": "Münchehofe",
+   "beteiligung": 84.2,
+   "parteien": {
+    "KuH Verein": 42.8,
+    "FFB e.V.": 25.0,
+    "FFW Hermsdorf": 20.0,
+    "SPD": 12.2
+   }
+  },
+  "12061448": {
+   "name": "Schwerin",
+   "beteiligung": 75.4,
+   "parteien": {
+    "BI Schwerin": 96.8,
+    "GRÜNE/B 90": 3.2
+   }
+  },
+  "12061492": {
+   "name": "Teupitz, Stadt",
+   "beteiligung": 67.5,
+   "parteien": {
+    "Gemeinsam Gestalten": 48.5,
+    "BNW": 43.1,
+    "CDU": 8.4
+   }
+  },
+  "12061005": {
+   "name": "Alt Zauche-Wußwerk",
+   "beteiligung": 80.2,
+   "parteien": {
+    "GfAW": 49.7,
+    "Bürger für Wußwerk": 28.8,
+    "AfD": 12.7,
+    "EB Bochynek": 8.8
+   }
+  },
+  "12061061": {
+   "name": "Byhleguhre-Byhlen",
+   "beteiligung": 74.5,
+   "parteien": {
+    "Zukunft auf dem Lande": 55.2,
+    "GFBB": 23.1,
+    "EB Seifert": 15.2,
+    "EB Juckel": 6.6
+   }
+  },
+  "12061224": {
+   "name": "Jamlitz",
+   "beteiligung": 71.3,
+   "parteien": {
+    "EB Wolf": 24.1,
+    "EB Lanzky": 17.7,
+    "EB Schaar": 17.2,
+    "EB Grunemann": 14.1,
+    "EB Domann": 13.7,
+    "EB Bromm": 13.1
+   }
+  },
+  "12061308": {
+   "name": "Lieberose, Stadt",
+   "beteiligung": 73.0,
+   "parteien": {
+    "FLL": 47.5,
+    "BZL": 30.2,
+    "ANZ": 22.3
+   }
+  },
+  "12061352": {
+   "name": "Neu Zauche",
+   "beteiligung": 73.3,
+   "parteien": {
+    "EB Meehs": 16.2,
+    "EB Hoppe": 12.2,
+    "EB Raith": 9.3,
+    "EB R. Schulze": 9.0,
+    "EB Leo": 8.2,
+    "EB Kloas": 7.5,
+    "EB Steinchen": 6.4,
+    "Fremdenverkehrsverein Neu Zauche": 6.1,
+    "EB Lehmann": 5.7,
+    "EB Kossatz": 5.5,
+    "EB Hahn": 5.4,
+    "EB Prediger": 3.1,
+    "EB M. Schulze": 3.0,
+    "EB Graeben": 2.3
+   }
+  },
+  "12061450": {
+   "name": "Schwielochsee",
+   "beteiligung": 74.1,
+   "parteien": {
+    "FBS": 42.4,
+    "Goyatzer Sportverein": 40.1,
+    "EB Drews": 8.0,
+    "EB Bulligk": 5.9,
+    "EB Gliese": 3.5
+   }
+  },
+  "12061470": {
+   "name": "Spreewaldheide",
+   "beteiligung": 75.6,
+   "parteien": {
+    "pro Spreewaldheide": 48.4,
+    "AfD": 24.7,
+    "CDU": 20.1,
+    "EB Mietk": 6.7
+   }
+  },
+  "12061476": {
+   "name": "Straupitz",
+   "beteiligung": 70.3,
+   "parteien": {
+    "Straupitz im Herzen": 50.5,
+    "WfS": 19.5,
+    "HuFVV Straupitz e.V.": 13.0,
+    "EB M. Welzel": 6.9,
+    "EB R. Welzel": 6.3,
+    "EB Mroos": 3.8
+   }
+  },
+  "12061017": {
+   "name": "Bersteland",
+   "beteiligung": 77.9,
+   "parteien": {
+    "Sport- und Freizeítverein Freiwalde e.V.": 38.0,
+    "WIN": 33.3,
+    "WG Reichwalde": 23.7,
+    "EB Jende": 5.0
+   }
+  },
+  "12061097": {
+   "name": "Drahnsdorf",
+   "beteiligung": 67.7,
+   "parteien": {
+    "WVH": 59.4,
+    "WG Drahnsdorf": 40.6
+   }
+  },
+  "12061164": {
+   "name": "Golßen, Stadt",
+   "beteiligung": 70.2,
+   "parteien": {
+    "GfG": 30.6,
+    "AfD": 27.3,
+    "UBL-Golßen": 27.0,
+    "CDU": 7.8,
+    "DIE LINKE": 4.5,
+    "AOdB": 2.8
+   }
+  },
+  "12061244": {
+   "name": "Kasel-Golzig",
+   "beteiligung": 65.1,
+   "parteien": {
+    "Freie WG Kasel-Golzig": 39.7,
+    "WG Jetsch": 19.4,
+    "FL": 17.3,
+    "WGS": 15.4,
+    "EB Walther": 8.2
+   }
+  },
+  "12061265": {
+   "name": "Krausnick-Groß Wasserburg",
+   "beteiligung": 67.1,
+   "parteien": {
+    "WG für Krausnick-Groß Wasserburg": 52.2,
+    "Unabhängige BV Krausnick-Groß Wasserburg": 31.3,
+    "WIR": 16.5
+   }
+  },
+  "12061405": {
+   "name": "Rietzneuendorf-Staakow",
+   "beteiligung": 80.4,
+   "parteien": {
+    "FFW": 38.2,
+    "WG Dorfgemeinschaft": 23.8,
+    "WG Chor": 16.8,
+    "EB Landwehr": 11.5,
+    "EB Brademann": 9.7
+   }
+  },
+  "12061428": {
+   "name": "Schlepzig",
+   "beteiligung": 72.7,
+   "parteien": {
+    "FFW": 55.4,
+    "WG Grün-Weiß Schlepzig e.V.": 37.6,
+    "GRÜNE/B 90": 7.0
+   }
+  },
+  "12061435": {
+   "name": "Schönwald",
+   "beteiligung": 73.9,
+   "parteien": {
+    "WG Dorfgemeinschaft": 42.4,
+    "WG Jugend, Familie, Zukunft": 21.9,
+    "FFW": 17.7,
+    "CDU": 14.9,
+    "DIE LINKE": 3.1
+   }
+  },
+  "12061471": {
+   "name": "Steinreich",
+   "beteiligung": 70.2,
+   "parteien": {
+    "FWG": 100.0
+   }
+  },
+  "12061510": {
+   "name": "Unterspreewald",
+   "beteiligung": 75.0,
+   "parteien": {
+    "WG Unterspreewald": 72.1,
+    "WG Feuerwehr": 27.9
+   }
+  },
+  "12062092": {
+   "name": "Doberlug-Kirchhain, Stadt",
+   "beteiligung": 69.1,
+   "parteien": {
+    "WBU-LUN": 32.5,
+    "CDU": 26.0,
+    "AfD": 21.9,
+    "SPD": 11.9,
+    "DIE LINKE": 3.5,
+    "FDP": 2.7,
+    "GRÜNE/B 90": 1.6
+   }
+  },
+  "12062124": {
+   "name": "Elsterwerda, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "AfD": 27.8,
+    "aktiv Elsterwerda": 25.4,
+    "SPD": 14.3,
+    "CDU": 14.1,
+    "BfE": 8.0,
+    "DIE LINKE": 6.7,
+    "EB Gehre": 1.6,
+    "GRÜNE/B 90": 1.1,
+    "MG": 1.1
+   }
+  },
+  "12062140": {
+   "name": "Finsterwalde, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CDU": 26.0,
+    "AfD": 22.6,
+    "BVB / FREIE WÄHLER Finsterwalde": 20.6,
+    "SPD": 15.2,
+    "BVG": 8.2,
+    "DIE LINKE": 4.5,
+    "GRÜNE/B 90": 3.1
+   }
+  },
+  "12062224": {
+   "name": "Herzberg (Elster), Stadt",
+   "beteiligung": 68.2,
+   "parteien": {
+    "HZ": 28.1,
+    "AfD": 22.6,
+    "LWG": 21.9,
+    "CDU": 14.0,
+    "SPD": 7.4,
+    "DIE LINKE": 2.7,
+    "IH": 2.6,
+    "FDP": 0.6
+   }
+  },
+  "12062410": {
+   "name": "Röderland",
+   "beteiligung": 70.5,
+   "parteien": {
+    "AfD": 20.6,
+    "CDU": 12.5,
+    "Freie WG Saathain": 12.1,
+    "WG Haida": 9.0,
+    "Unabhängige WG Stolzenhain": 8.7,
+    "UWW": 7.5,
+    "WG Reichenhain": 7.4,
+    "EB Groß": 6.1,
+    "EB Dommitzsch": 5.4,
+    "BVG": 4.3,
+    "WG Würdenhain": 3.7,
+    "SPD": 2.9
+   }
+  },
+  "12062461": {
+   "name": "Schönewalde, Stadt",
+   "beteiligung": 74.0,
+   "parteien": {
+    "CDU": 24.9,
+    "AfD": 14.5,
+    "UWG-BG": 13.7,
+    "WG Seniorenverein Dubro": 7.6,
+    "WG Freunde der Region": 7.2,
+    "UWG-SW": 6.7,
+    "DIE LINKE": 6.0,
+    "WG FFw Knippelsdorf": 5.7,
+    "EB Hinrich": 4.0,
+    "EB Lehmann": 3.2,
+    "GRÜNE/B 90": 2.7,
+    "EB Hoch": 2.2,
+    "EB Ern": 1.6
+   }
+  },
+  "12062469": {
+   "name": "Sonnewalde, Stadt",
+   "beteiligung": 78.1,
+   "parteien": {
+    "CDU": 33.9,
+    "UWSU": 27.4,
+    "AfD": 24.3,
+    "EB Rose": 7.5,
+    "EB Deißing": 4.9,
+    "DIE LINKE": 2.1
+   }
+  },
+  "12062024": {
+   "name": "Bad Liebenwerda, Stadt",
+   "beteiligung": 70.9,
+   "parteien": {
+    "AfD": 28.1,
+    "WOS": 15.2,
+    "CDU": 12.8,
+    "BWfE": 11.4,
+    "SPD": 9.6,
+    "FDP": 8.4,
+    "DIE LINKE": 6.3,
+    "EB Gogolin": 4.4,
+    "EB Jakober, Johannes": 2.4,
+    "EB Richter, Ronny": 1.3
+   }
+  },
+  "12062128": {
+   "name": "Falkenberg/Elster, Stadt",
+   "beteiligung": 64.4,
+   "parteien": {
+    "UVK": 48.5,
+    "SPD": 18.8,
+    "CDU": 16.5,
+    "FDP": 9.6,
+    "DIE LINKE": 6.6
+   }
+  },
+  "12062341": {
+   "name": "Mühlberg/Elbe, Stadt",
+   "beteiligung": 67.4,
+   "parteien": {
+    "WG für Wirtschaftsraum Mühlberg": 20.4,
+    "EB MS": 15.7,
+    "CDU": 12.9,
+    "WG Koßdorf – Lönnewitz": 12.2,
+    "WG „Für Altenau“": 11.8,
+    "EB Selig, Andy": 8.7,
+    "Bürgerbund für Fichtenberg": 7.8,
+    "EB Nawroth, Christoph": 5.8,
+    "WG Zukunft gestalten – für eine Lebenwerte Heimat": 3.4,
+    "EB Teubel, Benedikt": 1.4
+   }
+  },
+  "12062500": {
+   "name": "Uebigau-Wahrenbrück, Stadt",
+   "beteiligung": 71.0,
+   "parteien": {
+    "CDU": 23.0,
+    "AfD": 18.6,
+    "FDP": 13.0,
+    "WG LUN": 11.5,
+    "DIE LINKE": 10.9,
+    "UWG": 8.5,
+    "LAW/Freie Wähler": 8.1,
+    "BWfE": 6.4
+   }
+  },
+  "12062219": {
+   "name": "Heideland",
+   "beteiligung": 79.3,
+   "parteien": {
+    "WG Drößig": 30.1,
+    "EB Löwe, Andreas": 15.1,
+    "EB Schreiber": 12.5,
+    "EB Handta": 11.1,
+    "EB Bruchholz": 10.8,
+    "SPD": 7.9,
+    "EB Schmidt": 7.4,
+    "EB Löwe, Silke": 5.2
+   }
+  },
+  "12062417": {
+   "name": "Rückersdorf",
+   "beteiligung": 74.3,
+   "parteien": {
+    "CDU": 46.2,
+    "AKDL": 26.3,
+    "SGF": 11.8,
+    "FW Rückersdorf": 9.1,
+    "EB Schollbach": 4.0,
+    "DIE LINKE": 2.6
+   }
+  },
+  "12062440": {
+   "name": "Schilda",
+   "beteiligung": 68.4,
+   "parteien": {
+    "WGS": 54.9,
+    "EB Fröschke": 19.4,
+    "EB Eisermann": 13.2,
+    "AfD": 12.5
+   }
+  },
+  "12062453": {
+   "name": "Schönborn",
+   "beteiligung": 70.5,
+   "parteien": {
+    "UWG": 81.1,
+    "WGLi": 13.6,
+    "EB Sachs": 5.3
+   }
+  },
+  "12062492": {
+   "name": "Tröbitz",
+   "beteiligung": 69.2,
+   "parteien": {
+    "WVLT": 47.7,
+    "WGT": 38.9,
+    "DIE LINKE": 13.4
+   }
+  },
+  "12062088": {
+   "name": "Crinitz",
+   "beteiligung": 73.1,
+   "parteien": {
+    "WG Wir für Crinitz und Gahro": 83.2,
+    "EB Hannig": 11.1,
+    "EB Jordan": 5.7
+   }
+  },
+  "12062293": {
+   "name": "Lichterfeld-Schacksdorf",
+   "beteiligung": 77.4,
+   "parteien": {
+    "WGr LSL": 73.0,
+    "AfD": 15.8,
+    "SPD": 11.1
+   }
+  },
+  "12062333": {
+   "name": "Massen-Niederlausitz",
+   "beteiligung": 80.0,
+   "parteien": {
+    "CDU": 33.5,
+    "UWGM": 25.1,
+    "SPD": 22.6,
+    "EBin Pötzsch": 8.0,
+    "EB Mehnert": 7.6,
+    "EBin Matuschka": 3.2
+   }
+  },
+  "12062425": {
+   "name": "Sallgast",
+   "beteiligung": 69.8,
+   "parteien": {
+    "UWG-Vereinigung": 38.6,
+    "Freie WG": 22.8,
+    "WGÖ": 19.2,
+    "CDU": 10.7,
+    "WGK": 8.7
+   }
+  },
+  "12062177": {
+   "name": "Gorden-Staupitz",
+   "beteiligung": 73.7,
+   "parteien": {
+    "WG Dorfclub Gorden e.V.": 43.4,
+    "WG \"Rubbeldikaz\" Staupitz e.V.": 21.6,
+    "WG Sportverein \"Schwarz-Weiß\" Staupitz e.V.": 18.7,
+    "FF Feuerwehr Staupitz": 16.3
+   }
+  },
+  "12062240": {
+   "name": "Hohenleipisch",
+   "beteiligung": 73.8,
+   "parteien": {
+    "BfHD": 100.0
+   }
+  },
+  "12062372": {
+   "name": "Plessa",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 23.1,
+    "AfD": 19.7,
+    "WBP": 14.8,
+    "PBG": 14.7,
+    "UWG": 10.1,
+    "EB Schulze": 4.9,
+    "EB Wießner": 4.8,
+    "EB Rozek": 4.6,
+    "EB Haupt": 3.4
+   }
+  },
+  "12062464": {
+   "name": "Schraden",
+   "beteiligung": 74.2,
+   "parteien": {
+    "EB Jung": 23.3,
+    "EB Holzapfel": 20.0,
+    "EB Stange": 17.6,
+    "EB Wagner": 13.9,
+    "EB Münnich": 12.9,
+    "EB Degen": 12.3
+   }
+  },
+  "12062134": {
+   "name": "Fichtwald",
+   "beteiligung": 81.6,
+   "parteien": {
+    "Bürgergemeinschaft Fichtwald": 33.2,
+    "Freie WG Fichtwald": 29.8,
+    "WG gemeinsames Fichtwald": 19.1,
+    "EB Leutner": 7.5,
+    "AfD": 6.8,
+    "EB Stolpe": 3.6
+   }
+  },
+  "12062237": {
+   "name": "Hohenbucko",
+   "beteiligung": 79.4,
+   "parteien": {
+    "WG Hohenbucko-Proßmarke": 63.0,
+    "ZOZ": 30.8,
+    "EB Krüger": 6.2
+   }
+  },
+  "12062282": {
+   "name": "Kremitzaue",
+   "beteiligung": 77.4,
+   "parteien": {
+    "KUW": 41.6,
+    "WG Polzen": 26.0,
+    "WG Malitschkendorf": 20.4,
+    "UWG": 10.5,
+    "CDU": 1.4
+   }
+  },
+  "12062289": {
+   "name": "Lebusa",
+   "beteiligung": 77.4,
+   "parteien": {
+    "WG Bürger für die Gemeinde": 76.3,
+    "WG für eine bürgernahe Alternative in Lebusa": 23.7
+   }
+  },
+  "12062445": {
+   "name": "Schlieben, Stadt",
+   "beteiligung": 70.6,
+   "parteien": {
+    "FWSL": 42.0,
+    "CDU": 30.4,
+    "WG des TSV 1878 Schlieben e.V.": 23.9,
+    "SPD": 3.7
+   }
+  },
+  "12062196": {
+   "name": "Gröden",
+   "beteiligung": 72.0,
+   "parteien": {
+    "CDU": 35.6,
+    "AfD": 21.4,
+    "EB Schmidt": 12.9,
+    "Heimatverein Gröden e.V.": 12.8,
+    "Sport": 9.6,
+    "FFw": 7.6
+   }
+  },
+  "12062208": {
+   "name": "Großthiemig",
+   "beteiligung": 70.6,
+   "parteien": {
+    "FFw": 30.6,
+    "CDU": 15.8,
+    "AfD": 15.2,
+    "Sport": 15.1,
+    "EB Imhof": 10.8,
+    "EB Ziegenbalg": 9.4,
+    "EB Weichelt": 3.1
+   }
+  },
+  "12062232": {
+   "name": "Hirschfeld",
+   "beteiligung": 50.2,
+   "parteien": {
+    "Gemeinsam für Hirschfeld": 42.0,
+    "FF Hirschfeld": 28.1,
+    "SV Hirschfeld e.V.": 13.5,
+    "Heimatverein Hirschfeld e.V.": 11.0,
+    "CDU": 5.4
+   }
+  },
+  "12062336": {
+   "name": "Merzdorf",
+   "beteiligung": 73.3,
+   "parteien": {
+    "FFw": 33.9,
+    "Sport": 23.2,
+    "CDU": 19.1,
+    "Seniorenverein Merzdorf e.V.": 13.8,
+    "Heimatverein Merzdorf e.V.": 10.0
+   }
+  },
+  "12063036": {
+   "name": "Brieselang",
+   "beteiligung": 65.2,
+   "parteien": {
+    "CDU": 26.9,
+    "AfD": 22.3,
+    "BFB": 15.6,
+    "SPD": 8.1,
+    "GRÜNE/B 90": 7.1,
+    "DIE LINKE": 6.2,
+    "FW": 4.8,
+    "FDP": 2.6,
+    "DBA": 2.4,
+    "EB Zander": 1.5,
+    "EB Henne": 1.5,
+    "EB Jatzak": 1.0
+   }
+  },
+  "12063056": {
+   "name": "Dallgow-Döberitz",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 26.1,
+    "AfD": 17.0,
+    "FWG": 17.0,
+    "GRÜNE/B 90": 13.3,
+    "SPD": 8.9,
+    "EB Böttcher": 7.1,
+    "Die PARTEI": 3.9,
+    "EB Biernath": 2.6,
+    "FDP": 2.5,
+    "EB Frank": 1.7
+   }
+  },
+  "12063080": {
+   "name": "Falkensee, Stadt",
+   "beteiligung": 66.0,
+   "parteien": {
+    "CDU": 26.0,
+    "AfD": 18.9,
+    "SPD": 16.4,
+    "GRÜNE/B 90": 15.7,
+    "DIE LINKE": 5.9,
+    "FW Falkensee": 5.5,
+    "wff": 5.2,
+    "FDP": 4.0,
+    "PIRATEN-PDS-SORBEN-TIERSCHUTZ-HIPHOP": 1.5,
+    "Die PARTEI": 0.6,
+    "dieBasis": 0.3
+   }
+  },
+  "12063148": {
+   "name": "Ketzin/Havel, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "AfD": 20.0,
+    "SPD": 18.7,
+    "CDU": 13.7,
+    "Bürger für Ketzin/Havel": 13.5,
+    "GRÜNE/B 90": 7.0,
+    "WG Tremmen": 6.0,
+    "Ketziner Bürgerpiraten": 4.4,
+    "EB Bierschenk": 4.2,
+    "FWG": 3.7,
+    "FWZ-2008": 3.5,
+    "Die PARTEI": 2.0,
+    "FDP": 1.5,
+    "EB Sens": 1.1,
+    "EB Scherbarth": 0.7
+   }
+  },
+  "12063189": {
+   "name": "Milower Land",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CDU": 29.3,
+    "AfD": 24.5,
+    "SPD": 20.7,
+    "WGM": 17.9,
+    "EB Wirtz": 4.3,
+    "FDP": 3.2
+   }
+  },
+  "12063208": {
+   "name": "Nauen, Stadt",
+   "beteiligung": 54.1,
+   "parteien": {
+    "WIR FÜR NAUEN": 30.2,
+    "AfD": 24.4,
+    "LWN": 15.7,
+    "CDU": 15.7,
+    "Bauern": 5.9,
+    "UWN": 2.9,
+    "FDP": 2.2,
+    "BÜRGERFREUNDLICHKEIT": 2.1,
+    "NWB": 1.0
+   }
+  },
+  "12063244": {
+   "name": "Premnitz, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "SPD": 27.0,
+    "DMP": 25.1,
+    "AfD": 24.7,
+    "CDU": 15.9,
+    "DIE LINKE": 6.0,
+    "FDP": 1.3
+   }
+  },
+  "12063252": {
+   "name": "Rathenow, Stadt",
+   "beteiligung": 54.5,
+   "parteien": {
+    "AfD": 30.9,
+    "CDU": 23.7,
+    "SPD": 18.7,
+    "DIE LINKE": 14.2,
+    "FDP": 4.3,
+    "FW Rathenow": 3.7,
+    "GRÜNE/B 90": 2.7,
+    "PIRATEN-PDS-SORBEN-TIERSCHUTZ-HIPHOP": 1.8
+   }
+  },
+  "12063273": {
+   "name": "Schönwalde-Glien",
+   "beteiligung": 70.6,
+   "parteien": {
+    "CDU": 38.4,
+    "AfD": 20.4,
+    "SPD": 14.8,
+    "GRÜNE/B 90": 8.5,
+    "BVB / FREIE WÄHLER Schönwalde-Glien": 6.6,
+    "BfS": 4.9,
+    "DIE LINKE": 3.0,
+    "EB Gierke": 1.8,
+    "Forum SG": 1.6
+   }
+  },
+  "12063357": {
+   "name": "Wustermark",
+   "beteiligung": 60.7,
+   "parteien": {
+    "CDU": 24.1,
+    "AfD": 19.2,
+    "WWG": 18.2,
+    "SPD": 17.0,
+    "GRÜNE/B 90": 8.9,
+    "DIE LINKE": 7.9,
+    "FDP": 3.0,
+    "Anja Kunzmann": 1.6
+   }
+  },
+  "12063088": {
+   "name": "Friesack, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "SPD": 33.5,
+    "AfD": 30.6,
+    "Bauern": 15.2,
+    "CDU": 4.7,
+    "EB Beyer": 3.6,
+    "FDP": 3.4,
+    "EB Wendland": 2.6,
+    "EB Niedermeyer": 2.5,
+    "EB Möller": 2.2,
+    "EB Pundrich": 1.6
+   }
+  },
+  "12063142": {
+   "name": "Wiesenaue",
+   "beteiligung": 70.6,
+   "parteien": {
+    "WG Wiesenaue": 100.0
+   }
+  },
+  "12063202": {
+   "name": "Mühlenberge",
+   "beteiligung": 77.1,
+   "parteien": {
+    "WUM": 59.1,
+    "BBM": 40.9
+   }
+  },
+  "12063228": {
+   "name": "Paulinenaue",
+   "beteiligung": 64.1,
+   "parteien": {
+    "WG FF Paulinenaue": 26.7,
+    "WG Kulturverein": 16.6,
+    "WG Für Selbelang": 16.4,
+    "DIE LINKE": 12.7,
+    "EB Wellenbrock": 12.1,
+    "WG Sportverein Paulinenauer TSV": 9.1,
+    "EB Müller": 6.4
+   }
+  },
+  "12063240": {
+   "name": "Pessin",
+   "beteiligung": 67.7,
+   "parteien": {
+    "WG Landleben": 43.1,
+    "WG PCC Rot-Weiß e.V.": 31.0,
+    "EB Wunderlich": 11.4,
+    "EB Bangert": 11.1,
+    "EB Sengebusch-Kähne": 3.3
+   }
+  },
+  "12063256": {
+   "name": "Retzow",
+   "beteiligung": 65.7,
+   "parteien": {
+    "Ländliche WG": 95.6,
+    "FWHW": 4.4
+   }
+  },
+  "12063165": {
+   "name": "Kotzen",
+   "beteiligung": 77.6,
+   "parteien": {
+    "Proaktiv Kotzen": 52.4,
+    "WG Dorf-Natur-Kultur": 19.4,
+    "W.I-L": 17.7,
+    "EB Hünicke": 10.5
+   }
+  },
+  "12063186": {
+   "name": "Märkisch Luch",
+   "beteiligung": 69.3,
+   "parteien": {
+    "Märkisch Luch": 97.2,
+    "EB Kuhlmey": 2.8
+   }
+  },
+  "12063212": {
+   "name": "Nennhausen",
+   "beteiligung": 69.6,
+   "parteien": {
+    "BI Zukunft für Nennhausen": 54.2,
+    "Gemeinsam vor Ort": 40.2,
+    "CDU": 5.6
+   }
+  },
+  "12063293": {
+   "name": "Stechow-Ferchesar",
+   "beteiligung": 77.5,
+   "parteien": {
+    "u.p.W.S.": 43.1,
+    "FWF": 25.3,
+    "Wähler - Wir Gemeinsam": 15.4,
+    "AfD": 14.7,
+    "Annette Isensee": 1.5
+   }
+  },
+  "12063094": {
+   "name": "Gollenberg",
+   "beteiligung": 67.0,
+   "parteien": {
+    "FDP": 66.3,
+    "SPD": 18.1,
+    "EB Behrendt": 15.6
+   }
+  },
+  "12063112": {
+   "name": "Großderschau",
+   "beteiligung": 78.0,
+   "parteien": {
+    "SPD": 40.9,
+    "EB Specht": 14.2,
+    "EB Ratzmer": 13.4,
+    "EB Sossna": 11.9,
+    "EB Fiebig": 8.1,
+    "EB Peiker": 6.1,
+    "EB Lienig": 5.3
+   }
+  },
+  "12063134": {
+   "name": "Havelaue",
+   "beteiligung": 71.2,
+   "parteien": {
+    "CDU": 28.5,
+    "FDP": 26.0,
+    "DIE LINKE": 22.5,
+    "SPD": 12.5,
+    "SGH": 10.4
+   }
+  },
+  "12063161": {
+   "name": "Kleßen-Görne",
+   "beteiligung": 78.9,
+   "parteien": {
+    "EB Siebert": 26.6,
+    "EB Zander": 14.6,
+    "CDU": 13.4,
+    "EB Lähns": 12.1,
+    "Bauern": 10.5,
+    "EB Leist": 10.1,
+    "SPD": 8.5,
+    "EB Stäbler": 4.2
+   }
+  },
+  "12063260": {
+   "name": "Rhinow, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "BfR": 41.0,
+    "ARFR": 19.3,
+    "SPD": 17.6,
+    "FDP": 11.5,
+    "CDU": 6.2,
+    "DIE LINKE": 4.4
+   }
+  },
+  "12063274": {
+   "name": "Seeblick",
+   "beteiligung": 60.7,
+   "parteien": {
+    "FWGS": 35.7,
+    "GfS": 23.7,
+    "EB Höffler": 20.1,
+    "EB Seidel": 7.7,
+    "FDP": 7.6,
+    "SPD": 5.2
+   }
+  },
+  "12064029": {
+   "name": "Altlandsberg, Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "AfD": 26.0,
+    "BSL": 15.9,
+    "SPD": 15.3,
+    "CDU": 13.2,
+    "DIE LINKE": 9.6,
+    "BfA": 8.9,
+    "A&O": 4.0,
+    "FDP": 2.7,
+    "Bündnis Stadt Atlandsberg": 2.3,
+    "GRÜNE/B 90": 2.1
+   }
+  },
+  "12064044": {
+   "name": "Bad Freienwalde (Oder), Stadt",
+   "beteiligung": 58.5,
+   "parteien": {
+    "AfD": 30.1,
+    "CDU": 21.9,
+    "DIE LINKE": 13.1,
+    "Wählervereinigung 2019": 10.9,
+    "SPD": 6.6,
+    "BuB": 5.9,
+    "WG NCC": 4.1,
+    "WG Inselgemeinden": 2.7,
+    "GRÜNE/B 90": 2.6,
+    "FDP": 2.2
+   }
+  },
+  "12064136": {
+   "name": "Fredersdorf-Vogelsdorf",
+   "beteiligung": 69.0,
+   "parteien": {
+    "AfD": 23.4,
+    "CDU": 19.5,
+    "SPD": 11.1,
+    "W.I.R.": 9.9,
+    "GFV": 8.4,
+    "DIE LINKE": 7.6,
+    "GRÜNE/B 90": 5.3,
+    "FDP": 3.1,
+    "FuD": 3.0,
+    "KWfFV": 2.8,
+    "BFFV": 2.1,
+    "EB Steinmann": 2.0,
+    "Bauern": 1.2,
+    "EB Schramm": 0.6
+   }
+  },
+  "12064227": {
+   "name": "Hoppegarten",
+   "beteiligung": 69.8,
+   "parteien": {
+    "AfD": 23.8,
+    "CDU": 19.3,
+    "DIE LINKE": 11.9,
+    "SPD": 11.1,
+    "GRÜNE/B 90": 10.1,
+    "FREIE MITTE": 7.1,
+    "SGB": 4.9,
+    "FDP": 4.0,
+    "Bündnis Hoppegarten (BHVG)": 3.9,
+    "BfH": 3.9
+   }
+  },
+  "12064274": {
+   "name": "Letschin",
+   "beteiligung": 68.0,
+   "parteien": {
+    "FWL": 24.7,
+    "AfD": 18.8,
+    "WiO": 15.8,
+    "SPD": 13.7,
+    "CDU": 12.6,
+    "WG ZL": 7.9,
+    "DIE LINKE": 4.7,
+    "GRÜNE/B 90": 1.9
+   }
+  },
+  "12064317": {
+   "name": "Müncheberg, Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "AfD": 29.2,
+    "WG BvM": 18.4,
+    "SPD": 16.8,
+    "DIE LINKE": 13.6,
+    "WG OfM": 9.4,
+    "LV Aktion Zukunft/Grüne": 6.8,
+    "Die PARTEI": 3.4,
+    "FDP": 2.4
+   }
+  },
+  "12064336": {
+   "name": "Neuenhagen bei Berlin",
+   "beteiligung": 72.1,
+   "parteien": {
+    "AfD": 20.7,
+    "WG DIE PARTEILOSEN": 18.2,
+    "CDU": 15.9,
+    "GRÜNE/B 90": 11.0,
+    "FREIE MITTE": 10.8,
+    "DIE LINKE": 10.0,
+    "SPD": 9.1,
+    "FDP": 3.2,
+    "EB Fröhlich": 1.0
+   }
+  },
+  "12064380": {
+   "name": "Petershagen/Eggersdorf",
+   "beteiligung": 73.8,
+   "parteien": {
+    "AfD": 24.1,
+    "CDU": 15.3,
+    "PEBB": 15.3,
+    "DIE LINKE": 9.2,
+    "GRÜNE/B 90": 8.9,
+    "SPD": 8.8,
+    "FWPE": 8.3,
+    "TfPE": 5.5,
+    "FDP": 4.5
+   }
+  },
+  "12064428": {
+   "name": "Rüdersdorf bei Berlin",
+   "beteiligung": 58.6,
+   "parteien": {
+    "AfD": 28.9,
+    "SPD": 15.0,
+    "CDU": 14.6,
+    "Bündnis Rüdersdorf": 14.1,
+    "FVG/HWG": 12.3,
+    "UBB": 6.3,
+    "DIE LINKE": 5.5,
+    "WG Bürger der Ortsteile": 1.7,
+    "FDP": 1.6
+   }
+  },
+  "12064448": {
+   "name": "Seelow, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "AfD": 31.4,
+    "SPD": 16.8,
+    "DIE LINKE": 16.7,
+    "W-HKS": 15.9,
+    "CDU": 5.4,
+    "EB Handrick": 4.9,
+    "EB Kadler": 4.7,
+    "BVB / FREIE WÄHLER": 2.6,
+    "FDP": 1.7
+   }
+  },
+  "12064472": {
+   "name": "Strausberg, Stadt",
+   "beteiligung": 62.9,
+   "parteien": {
+    "AfD": 24.0,
+    "DIE LINKE": 16.5,
+    "UfW Pro Strausberg": 12.9,
+    "SPD": 12.1,
+    "CDU": 11.1,
+    "BVB / FREIE WÄHLER SRB": 7.3,
+    "GRÜNE/B 90": 5.0,
+    "FDP": 4.9,
+    "EB Knoblich": 2.5,
+    "EB Nickel": 2.4,
+    "EB Krebs": 0.9,
+    "EB Krone": 0.4
+   }
+  },
+  "12064512": {
+   "name": "Wriezen, Stadt",
+   "beteiligung": 61.1,
+   "parteien": {
+    "AfD": 31.1,
+    "WRZ": 21.0,
+    "FDP": 16.7,
+    "CDU": 12.7,
+    "BWBO": 6.8,
+    "UWG": 5.5,
+    "BFW": 3.6,
+    "GRÜNE/B 90": 2.5
+   }
+  },
+  "12064053": {
+   "name": "Beiersdorf-Freudenberg",
+   "beteiligung": 76.6,
+   "parteien": {
+    "WG Miteinander-Füreinander": 23.9,
+    "EB Buchholz, R.": 13.3,
+    "EB Böttcher, W.": 12.2,
+    "WG Neue Impulse für Beiersdorf-Freudenberg": 11.7,
+    "EB Richter, M.": 9.6,
+    "EB Urbach, S.": 8.8,
+    "EB Jäschke, E.": 8.7,
+    "EB Bork, S.": 6.4,
+    "EB Hollstein, S.": 5.6
+   }
+  },
+  "12064125": {
+   "name": "Falkenberg",
+   "beteiligung": 68.1,
+   "parteien": {
+    "AfD": 23.6,
+    "WG FFw F/M": 22.7,
+    "WG Falkenberger Sportverein \"Th. Fontane\"": 13.6,
+    "WG FFW Kruge-Gersdorf": 10.4,
+    "EB Fritsche": 7.3,
+    "GRÜNE/B 90": 6.9,
+    "EB Ewald": 6.0,
+    "EB Kufeld": 4.1,
+    "EB Dörge": 3.1,
+    "FFW DANNENBERG/MARK": 2.4
+   }
+  },
+  "12064205": {
+   "name": "Heckelberg-Brunow",
+   "beteiligung": 65.6,
+   "parteien": {
+    "Förderverein Gemeinde Heckelberg-Brunow": 78.5,
+    "WG Bürger für Vernunft": 21.5
+   }
+  },
+  "12064222": {
+   "name": "Höhenland",
+   "beteiligung": 76.1,
+   "parteien": {
+    "WGH": 61.1,
+    "Bauern": 38.9
+   }
+  },
+  "12064009": {
+   "name": "Alt Tucheband",
+   "beteiligung": 70.3,
+   "parteien": {
+    "GAT": 95.6,
+    "DIE LINKE": 4.4
+   }
+  },
+  "12064057": {
+   "name": "Bleyen-Genschmar",
+   "beteiligung": 66.1,
+   "parteien": {
+    "WBG": 52.5,
+    "FdA": 35.0,
+    "CDU": 12.5
+   }
+  },
+  "12064172": {
+   "name": "Golzow",
+   "beteiligung": 68.5,
+   "parteien": {
+    "Unser Golzow": 59.0,
+    "FDP": 21.9,
+    "GfG": 19.1
+   }
+  },
+  "12064266": {
+   "name": "Küstriner Vorland",
+   "beteiligung": 60.5,
+   "parteien": {
+    "IGKV": 33.6,
+    "GFF": 21.1,
+    "SLK": 20.0,
+    "BVB/FW Küstriner Vorland": 14.5,
+    "WEK": 6.4,
+    "DIE LINKE": 2.6,
+    "EB Feldhahn": 1.7
+   }
+  },
+  "12064538": {
+   "name": "Zechin",
+   "beteiligung": 70.4,
+   "parteien": {
+    "SFZ": 64.2,
+    "PrZ": 31.3,
+    "CDU": 4.5
+   }
+  },
+  "12064268": {
+   "name": "Lebus, Stadt",
+   "beteiligung": 77.3,
+   "parteien": {
+    "Pro Lebus": 36.7,
+    "WG Wir für Lebus": 32.0,
+    "AfD": 17.9,
+    "CDU": 10.2,
+    "E Köcher": 3.2
+   }
+  },
+  "12064388": {
+   "name": "Podelzig",
+   "beteiligung": 74.3,
+   "parteien": {
+    "Gemeinschaft freier Wähler": 52.3,
+    "BfP": 47.7
+   }
+  },
+  "12064420": {
+   "name": "Reitwein",
+   "beteiligung": 78.6,
+   "parteien": {
+    "Freunde des Sports": 25.7,
+    "Aktiv für Reitwein": 25.2,
+    "Soziales": 22.6,
+    "E Tietz": 11.2,
+    "Feuerwehr": 9.0,
+    "E Schröder": 6.3
+   }
+  },
+  "12064480": {
+   "name": "Treplin",
+   "beteiligung": 76.1,
+   "parteien": {
+    "FFw": 51.6,
+    "E Kaap": 25.5,
+    "DEV": 22.8
+   }
+  },
+  "12064539": {
+   "name": "Zeschdorf",
+   "beteiligung": 77.0,
+   "parteien": {
+    "Zusammen für eine starke Gemeinde": 50.3,
+    "SPD": 17.7,
+    "AfD": 14.9,
+    "CDU": 10.7,
+    "E Fries": 6.4
+   }
+  },
+  "12064084": {
+   "name": "Buckow (Märkische Schweiz), Stadt",
+   "beteiligung": 72.2,
+   "parteien": {
+    "CDU": 24.3,
+    "SPD": 23.8,
+    "DIE LINKE": 16.8,
+    "BFB": 16.6,
+    "GRÜNE/B 90": 7.9,
+    "Pro Zukunft": 7.2,
+    "EB Kock-Fuchs": 3.4
+   }
+  },
+  "12064153": {
+   "name": "Garzau-Garzin",
+   "beteiligung": 65.8,
+   "parteien": {
+    "IfGG": 47.4,
+    "Freie Wählergemeinschaft Garzin": 30.9,
+    "EB Grabert": 16.0,
+    "EB Scholz": 5.7
+   }
+  },
+  "12064303": {
+   "name": "Märkische Höhe",
+   "beteiligung": 85.7,
+   "parteien": {
+    "Gemeisam f. MH": 70.4,
+    "WG Dialog Märkische Höhe": 21.5,
+    "EB Ullmann": 8.0
+   }
+  },
+  "12064370": {
+   "name": "Oberbarnim",
+   "beteiligung": 73.5,
+   "parteien": {
+    "Klosterdorf für Oberbarnim": 43.7,
+    "WG Gemeinsam. Solidarisch.Transparent. Für Oberbarnim.": 15.9,
+    "FGB/P": 15.6,
+    "Freunde des Brandschutzes": 15.4,
+    "BI Ihlow": 9.3
+   }
+  },
+  "12064408": {
+   "name": "Rehfelde",
+   "beteiligung": 74.5,
+   "parteien": {
+    "FÜR": 28.5,
+    "MDG": 28.1,
+    "AfD": 20.1,
+    "WG Zukunft": 9.8,
+    "CDU": 8.0,
+    "WG Bündnis Rehfelde 24/29": 5.5
+   }
+  },
+  "12064484": {
+   "name": "Waldsieversdorf",
+   "beteiligung": 80.3,
+   "parteien": {
+    "Für Waldsieversdorf": 42.0,
+    "GiW": 25.4,
+    "parteilose Bürger": 23.9,
+    "AfD": 8.7
+   }
+  },
+  "12064128": {
+   "name": "Falkenhagen (Mark)",
+   "beteiligung": 77.1,
+   "parteien": {
+    "WG Wir für Falkenhagen": 36.2,
+    "SPD": 28.9,
+    "CDU": 16.1,
+    "WG Fünf für Falkenhagen": 12.6,
+    "WG Falkenhagen": 6.1
+   }
+  },
+  "12064130": {
+   "name": "Fichtenhöhe",
+   "beteiligung": 75.4,
+   "parteien": {
+    "WG Sport/Feuerwehr Fichtenhöhe": 56.5,
+    "WG Niederjesar": 43.5
+   }
+  },
+  "12064190": {
+   "name": "Gusow-Platkow",
+   "beteiligung": 75.1,
+   "parteien": {
+    "FSS": 44.3,
+    "LNF": 25.5,
+    "WG Dorfclub 1961": 25.0,
+    "WG Allgemeine Frauensportgruppe": 5.1
+   }
+  },
+  "12064288": {
+   "name": "Lietzen",
+   "beteiligung": 74.5,
+   "parteien": {
+    "WG Bürger für Lietzen": 74.4,
+    "EB Elsholz": 19.4,
+    "EB Kühnel": 6.2
+   }
+  },
+  "12064290": {
+   "name": "Lindendorf",
+   "beteiligung": 74.9,
+   "parteien": {
+    "WG Bürgerliste Dolgelin/ Neu Mahlisch": 39.1,
+    "WG Sachsendorf": 18.4,
+    "AfD": 16.8,
+    "WG Wählergruppe FFW und Feuerwehrverein": 14.4,
+    "HKSV": 8.1,
+    "SPD": 3.2
+   }
+  },
+  "12064340": {
+   "name": "Neuhardenberg",
+   "beteiligung": 65.3,
+   "parteien": {
+    "WG Gemeinsam für Neuhardenberg": 32.8,
+    "LV DIE LINKE / Offene Liste": 25.1,
+    "AfD": 22.9,
+    "EB Arndt": 10.1,
+    "EB Hölscher": 3.0,
+    "FDP": 2.0,
+    "GRÜNE/B 90": 1.8,
+    "dieBasis": 1.4,
+    "HEIMAT": 0.9
+   }
+  },
+  "12064482": {
+   "name": "Vierlinden",
+   "beteiligung": 74.1,
+   "parteien": {
+    "AfD": 15.4,
+    "CDU": 12.3,
+    "WG Bürgerliste Marxdorf": 12.1,
+    "WG Görlsdorf": 10.3,
+    "EB Höhne": 9.8,
+    "WG Worin": 9.5,
+    "WG Neuentempel": 9.4,
+    "WG Heimatverein Alt Rosenthal": 5.0,
+    "EB Baumann": 4.7,
+    "EB Metzler": 4.5,
+    "EB Roland": 4.3,
+    "GRÜNE/B 90": 2.7
+   }
+  },
+  "12064061": {
+   "name": "Bliesdorf",
+   "beteiligung": 70.0,
+   "parteien": {
+    "UWBlie": 62.6,
+    "UWKuMe": 26.5,
+    "WG3G": 6.6,
+    "WG AD": 4.3
+   }
+  },
+  "12064349": {
+   "name": "Neulewin",
+   "beteiligung": 68.8,
+   "parteien": {
+    "WG Liste Lietze, Neulewin, Güstebiese": 42.2,
+    "WG KN": 25.1,
+    "PGN": 22.3,
+    "EB Horoba": 7.1,
+    "EB Jahn": 3.2
+   }
+  },
+  "12064365": {
+   "name": "Neutrebbin",
+   "beteiligung": 74.1,
+   "parteien": {
+    "WG WfU": 40.7,
+    "WG Hertha": 27.6,
+    "WG AD": 21.7,
+    "EB Albrecht": 10.0
+   }
+  },
+  "12064371": {
+   "name": "Oderaue",
+   "beteiligung": 72.1,
+   "parteien": {
+    "WG Weitblick Oderaue": 86.2,
+    "EB Schwager": 8.7,
+    "DIE LINKE": 5.1
+   }
+  },
+  "12064393": {
+   "name": "Prötzel",
+   "beteiligung": 72.4,
+   "parteien": {
+    "WG Wir für Prötzel": 26.3,
+    "SPD/ Bündnis 90/ Die Grünen": 19.8,
+    "BfB": 15.9,
+    "AfD": 15.7,
+    "EB Behnen": 10.1,
+    "EB Wolff": 6.2,
+    "EB Damaszek": 6.1
+   }
+  },
+  "12064417": {
+   "name": "Reichenow-Möglin",
+   "beteiligung": 76.4,
+   "parteien": {
+    "WG Reichenow-Möglin": 88.2,
+    "EB Winkelkotte": 5.8,
+    "GRÜNE/B 90": 3.8,
+    "EB Krüger": 2.1
+   }
+  },
+  "12065036": {
+   "name": "Birkenwerder",
+   "beteiligung": 74.7,
+   "parteien": {
+    "AfD": 18.6,
+    "CDU": 17.1,
+    "IOB": 16.8,
+    "ProBirke": 12.4,
+    "SPD": 12.3,
+    "GRÜNE/B 90": 9.4,
+    "DIE LINKE": 5.5,
+    "Briesetalverein": 3.7,
+    "FDP": 3.1,
+    "1f1w": 1.1
+   }
+  },
+  "12065084": {
+   "name": "Fürstenberg/Havel, Stadt",
+   "beteiligung": 66.8,
+   "parteien": {
+    "AfD": 25.3,
+    "CDU": 24.9,
+    "Pro Fürstenberg": 8.1,
+    "DIE LINKE": 7.2,
+    "AFO": 6.3,
+    "GO": 6.0,
+    "Vielfalt": 5.9,
+    "SPD/FDP": 4.8,
+    "Tierschutzpartei": 3.6,
+    "EB Kuhlmann": 3.2,
+    "GRÜNE/B 90": 3.1,
+    "EB Waldorf": 1.3,
+    "EB Sindern": 0.4
+   }
+  },
+  "12065096": {
+   "name": "Glienicke/Nordbahn",
+   "beteiligung": 72.6,
+   "parteien": {
+    "CDU": 32.8,
+    "SPD": 20.7,
+    "AfD": 17.0,
+    "GRÜNE/B 90": 12.8,
+    "DIE LINKE": 8.8,
+    "FDP": 7.9
+   }
+  },
+  "12065136": {
+   "name": "Hennigsdorf, Stadt",
+   "beteiligung": 60.7,
+   "parteien": {
+    "SPD": 24.1,
+    "AfD": 22.9,
+    "DU-BfH": 18.3,
+    "CDU": 17.0,
+    "GRÜNE/B 90": 7.0,
+    "DIE LINKE": 6.8,
+    "FDP": 4.0
+   }
+  },
+  "12065144": {
+   "name": "Hohen Neuendorf, Stadt",
+   "beteiligung": 72.3,
+   "parteien": {
+    "CDU": 24.5,
+    "AfD": 16.2,
+    "SPD": 14.6,
+    "GRÜNE/B 90": 14.1,
+    "EB Gerlach": 8.8,
+    "DIE LINKE": 6.1,
+    "Stadtverein": 5.8,
+    "FDP": 4.2,
+    "Tierschutzpartei": 3.3,
+    "Frieden, Vernunft und Gerechtigkeit": 2.4
+   }
+  },
+  "12065165": {
+   "name": "Kremmen, Stadt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 26.9,
+    "Freie Wähler Ortsteile Kremmen": 21.7,
+    "AfD": 19.1,
+    "DUB": 13.9,
+    "SPD": 10.9,
+    "GRÜNE/B 90": 3.8,
+    "BfK": 3.0,
+    "FDP": 0.8
+   }
+  },
+  "12065180": {
+   "name": "Leegebruch",
+   "beteiligung": 69.4,
+   "parteien": {
+    "CDU": 26.2,
+    "AfD": 24.7,
+    "DIE LINKE": 12.3,
+    "HGBV": 10.0,
+    "SPD": 9.5,
+    "EB Eckert": 7.6,
+    "GRÜNE/B 90": 4.0,
+    "Die PARTEI": 3.3,
+    "FDP": 2.4
+   }
+  },
+  "12065193": {
+   "name": "Liebenwalde, Stadt",
+   "beteiligung": 67.4,
+   "parteien": {
+    "LGU": 34.1,
+    "BfL": 27.8,
+    "CDU": 24.4,
+    "SPD": 8.7,
+    "FDP": 5.0
+   }
+  },
+  "12065198": {
+   "name": "Löwenberger Land",
+   "beteiligung": 71.4,
+   "parteien": {
+    "AfD": 25.4,
+    "FW-LL": 18.9,
+    "BLL": 16.3,
+    "CDU": 11.4,
+    "LGU": 9.7,
+    "SPD": 8.1,
+    "DIE LINKE": 3.3,
+    "GRÜNE/B 90": 3.2,
+    "EB Matthias Brandenburg": 1.9,
+    "FDP": 1.0,
+    "EB Anouk Brandenburg": 0.8
+   }
+  },
+  "12065225": {
+   "name": "Mühlenbecker Land",
+   "beteiligung": 71.9,
+   "parteien": {
+    "CDU": 26.2,
+    "AfD": 20.6,
+    "SPD": 18.0,
+    "Freie Wähler ML": 11.4,
+    "GRÜNE/B 90": 11.2,
+    "DIE LINKE": 7.1,
+    "FDP": 2.9,
+    "EB Leiste": 2.6
+   }
+  },
+  "12065251": {
+   "name": "Oberkrämer",
+   "beteiligung": 71.4,
+   "parteien": {
+    "BfO": 26.2,
+    "AfD": 20.4,
+    "Zukunft Oberkrämer": 17.8,
+    "CDU": 11.4,
+    "FWO": 8.1,
+    "SPD": 7.2,
+    "GRÜNE/B 90": 4.2,
+    "DIE LINKE": 3.0,
+    "FDP": 1.7
+   }
+  },
+  "12065256": {
+   "name": "Oranienburg, Stadt",
+   "beteiligung": 64.8,
+   "parteien": {
+    "AfD": 28.5,
+    "SPD": 20.2,
+    "CDU": 19.3,
+    "DIE LINKE": 7.3,
+    "FWO": 6.1,
+    "GRÜNE/B 90": 6.0,
+    "FDP": 5.6,
+    "Die PARTEI": 3.5,
+    "PIRATEN": 3.4
+   }
+  },
+  "12065332": {
+   "name": "Velten, Stadt",
+   "beteiligung": 62.7,
+   "parteien": {
+    "AfD": 25.7,
+    "SPD": 22.6,
+    "PRO VELTEN": 21.8,
+    "CDU": 12.0,
+    "DIE LINKE": 5.6,
+    "HEIMAT": 4.7,
+    "EB Giese": 2.6,
+    "GRÜNE/B 90": 2.5,
+    "FDP": 2.4
+   }
+  },
+  "12065356": {
+   "name": "Zehdenick, Stadt",
+   "beteiligung": 60.4,
+   "parteien": {
+    "AfD": 29.3,
+    "GfZ": 21.5,
+    "CDU": 11.9,
+    "SPD": 11.2,
+    "WS": 9.8,
+    "BfZ": 4.9,
+    "DIE LINKE": 4.4,
+    "BVB / FREIE WÄHLER Zehdenick": 3.4,
+    "GRÜNE/B 90": 2.6,
+    "FDP": 1.1
+   }
+  },
+  "12065100": {
+   "name": "Gransee, Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 30.6,
+    "AfD": 23.6,
+    "SPD": 18.4,
+    "WG Granseer Land": 12.0,
+    "DIE LINKE": 8.2,
+    "GRÜNE/B 90": 4.3,
+    "EB Hillebrand": 1.8,
+    "PIRATEN": 1.0
+   }
+  },
+  "12065117": {
+   "name": "Großwoltersdorf",
+   "beteiligung": 69.7,
+   "parteien": {
+    "WG Großwoltersdorf": 30.2,
+    "WG Bürgerinitiative Wolfsruh": 28.8,
+    "CDU": 27.5,
+    "GRÜNE/B 90": 13.6
+   }
+  },
+  "12065276": {
+   "name": "Schönermark",
+   "beteiligung": 66.1,
+   "parteien": {
+    "WG Schönermark": 100.0
+   }
+  },
+  "12065301": {
+   "name": "Sonnenberg",
+   "beteiligung": 70.9,
+   "parteien": {
+    "WG Sonnenberg": 36.1,
+    "AfD": 19.7,
+    "WG Schulzendorf": 17.7,
+    "WG Rönnebeck": 11.4,
+    "WG Baumgarten": 8.7,
+    "BVB / FREIE WÄHLER": 6.5
+   }
+  },
+  "12065310": {
+   "name": "Stechlin",
+   "beteiligung": 73.6,
+   "parteien": {
+    "WG STECHLIN GEMEINSAM": 30.3,
+    "WG Heimatverein/Dollgower Bürger": 18.5,
+    "WG Heimatverein Neuglobsow/ Dagow  e.V.": 14.6,
+    "WG FFw/Menzer Bürger": 13.6,
+    "AfD": 9.5,
+    "WG Begegnungsstätte Stechlin": 7.1,
+    "EB Janko": 5.4,
+    "FDP": 0.9
+   }
+  },
+  "12066052": {
+   "name": "Calau, Stadt",
+   "beteiligung": 65.9,
+   "parteien": {
+    "CDU": 31.0,
+    "AfD": 24.8,
+    "SPD": 15.2,
+    "DIE LINKE": 12.9,
+    "LW": 11.7,
+    "GRÜNE/B 90": 3.0,
+    "FDP": 1.5
+   }
+  },
+  "12066112": {
+   "name": "Großräschen, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "BfG": 34.8,
+    "AfD": 27.5,
+    "SPD": 23.2,
+    "DIE LINKE": 5.0,
+    "EB Lehnick": 4.8,
+    "EB Donath": 2.5,
+    "GRÜNE/B 90": 1.3,
+    "FDP": 1.0
+   }
+  },
+  "12066176": {
+   "name": "Lauchhammer, Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "Pro Lauchhammer": 33.8,
+    "AfD": 28.5,
+    "CDU": 13.8,
+    "DIE LINKE": 10.9,
+    "HEIMAT": 4.2,
+    "GRÜNE/B 90": 2.7,
+    "FDP": 2.5,
+    "EB Fischer": 2.2,
+    "WG Hurraß": 1.4
+   }
+  },
+  "12066196": {
+   "name": "Lübbenau/Spreewald, Stadt",
+   "beteiligung": 57.4,
+   "parteien": {
+    "AfD": 26.8,
+    "SPD": 23.0,
+    "CDU": 18.1,
+    "AWG": 13.4,
+    "DIE LINKE": 7.8,
+    "FWLS": 4.5,
+    "FDP": 3.3,
+    "GRÜNE/B 90": 3.1
+   }
+  },
+  "12066285": {
+   "name": "Schipkau",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CDU": 29.2,
+    "AfD": 27.7,
+    "GGS": 14.4,
+    "EB Nützsche": 10.4,
+    "MBB": 7.0,
+    "UBV": 4.3,
+    "DIE LINKE": 2.6,
+    "GRÜNE/B 90": 2.6,
+    "FDP": 1.0,
+    "EB Schürer": 0.8
+   }
+  },
+  "12066296": {
+   "name": "Schwarzheide, Stadt",
+   "beteiligung": 64.5,
+   "parteien": {
+    "AFS": 35.1,
+    "CDU": 25.0,
+    "FWS": 18.6,
+    "DIE LINKE": 11.0,
+    "SPD": 10.4
+   }
+  },
+  "12066304": {
+   "name": "Senftenberg, Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "AfD": 29.0,
+    "SPD": 18.8,
+    "CDU": 15.0,
+    "DIE LINKE": 7.8,
+    "Freie Wähler OSL": 6.3,
+    "Senftenberg NEUDENKEN": 5.9,
+    "WVG": 3.6,
+    "SFB": 2.9,
+    "AGSUS": 2.8,
+    "FDP": 2.5,
+    "WG Senftenberg kann mehr!": 2.2,
+    "GRÜNE/B 90": 1.9,
+    "HEIMAT": 1.4
+   }
+  },
+  "12066320": {
+   "name": "Vetschau/Spreewald, Stadt",
+   "beteiligung": 65.4,
+   "parteien": {
+    "WGO": 27.9,
+    "CDU": 24.5,
+    "AfD": 24.0,
+    "SPD": 15.6,
+    "GRÜNE/B 90": 8.0
+   }
+  },
+  "12066008": {
+   "name": "Altdöbern",
+   "beteiligung": 65.8,
+   "parteien": {
+    "SPD": 58.2,
+    "AFW": 30.8,
+    "CDU": 11.0
+   }
+  },
+  "12066041": {
+   "name": "Bronkow",
+   "beteiligung": 78.8,
+   "parteien": {
+    "WGB": 35.0,
+    "WGL": 21.5,
+    "WfLi": 21.4,
+    "WGSAAD": 13.5,
+    "EWV Müller": 8.6
+   }
+  },
+  "12066202": {
+   "name": "Luckaitztal",
+   "beteiligung": 76.2,
+   "parteien": {
+    "WGSCHÖ": 43.7,
+    "WGBu": 21.2,
+    "WGDM": 19.7,
+    "WGGZW": 15.4
+   }
+  },
+  "12066226": {
+   "name": "Neu-Seeland",
+   "beteiligung": 75.8,
+   "parteien": {
+    "WGNEUS": 60.5,
+    "WGL": 17.5,
+    "WGLi": 13.2,
+    "EWV Peter": 8.8
+   }
+  },
+  "12066228": {
+   "name": "Neupetershain",
+   "beteiligung": 64.3,
+   "parteien": {
+    "WGJN": 65.1,
+    "EWV Soult": 15.3,
+    "EWV Dabow": 13.9,
+    "EWV Jung": 3.2,
+    "GRÜNE/B 90": 2.5
+   }
+  },
+  "12066064": {
+   "name": "Frauendorf",
+   "beteiligung": 80.4,
+   "parteien": {
+    "WG Seniorenclub": 100.0
+   }
+  },
+  "12066104": {
+   "name": "Großkmehlen",
+   "beteiligung": 73.5,
+   "parteien": {
+    "AfD": 32.9,
+    "Unabhängige BG für Großkmehlen": 22.4,
+    "CDU": 20.9,
+    "WG Feuerwehr": 17.8,
+    "EB Trobisch": 5.9
+   }
+  },
+  "12066168": {
+   "name": "Kroppen",
+   "beteiligung": 84.2,
+   "parteien": {
+    "Freie WG Vereine u.Organisationen, Kroppen": 64.9,
+    "CDU": 35.1
+   }
+  },
+  "12066188": {
+   "name": "Lindenau",
+   "beteiligung": 84.0,
+   "parteien": {
+    "Freie WG Lindenau": 37.8,
+    "CDU": 36.5,
+    "EB Boeltzig": 13.2,
+    "AfD": 12.4
+   }
+  },
+  "12066240": {
+   "name": "Ortrand, Stadt",
+   "beteiligung": 72.6,
+   "parteien": {
+    "BVO": 25.9,
+    "CDU": 25.4,
+    "UBO": 23.8,
+    "AfD": 21.8,
+    "EB Kern": 3.1
+   }
+  },
+  "12066316": {
+   "name": "Tettau",
+   "beteiligung": 81.4,
+   "parteien": {
+    "CDU/WKS": 72.0,
+    "AfD": 25.7,
+    "EB Fiedler": 2.4
+   }
+  },
+  "12066116": {
+   "name": "Grünewald",
+   "beteiligung": 75.2,
+   "parteien": {
+    "UWG": 65.4,
+    "IGGS": 34.6
+   }
+  },
+  "12066120": {
+   "name": "Guteborn",
+   "beteiligung": 70.5,
+   "parteien": {
+    "WGG": 100.0
+   }
+  },
+  "12066124": {
+   "name": "Hermsdorf",
+   "beteiligung": 79.6,
+   "parteien": {
+    "UWVH": 41.8,
+    "FWG": 36.5,
+    "UWVL": 21.7
+   }
+  },
+  "12066132": {
+   "name": "Hohenbocka",
+   "beteiligung": 74.2,
+   "parteien": {
+    "UWH": 100.0
+   }
+  },
+  "12066272": {
+   "name": "Ruhland, Stadt",
+   "beteiligung": 65.6,
+   "parteien": {
+    "SPD": 36.7,
+    "UFW": 26.6,
+    "CDU": 23.5,
+    "HEIMAT": 7.4,
+    "DIE LINKE": 3.4,
+    "GRÜNE/B 90": 2.4
+   }
+  },
+  "12066292": {
+   "name": "Schwarzbach",
+   "beteiligung": 78.6,
+   "parteien": {
+    "UWG": 100.0
+   }
+  },
+  "12067036": {
+   "name": "Beeskow, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "BSK": 21.8,
+    "DIE MITTE": 19.8,
+    "CDU": 17.9,
+    "BVB FREIE WÄHLER Beeskow": 10.4,
+    "SPD": 8.2,
+    "BfB": 6.9,
+    "DIE LINKE": 6.2,
+    "EB Wüstenberg": 3.9,
+    "BGB": 2.6,
+    "FDP": 1.3,
+    "GRÜNE/B 90": 1.1
+   }
+  },
+  "12067120": {
+   "name": "Eisenhüttenstadt, Stadt",
+   "beteiligung": 56.5,
+   "parteien": {
+    "AfD": 32.7,
+    "SPD": 19.5,
+    "BVFO": 13.8,
+    "CDU": 13.4,
+    "DIE LINKE": 9.5,
+    "GRÜNE/B 90": 3.2,
+    "EB Niemack": 2.7,
+    "FDP": 2.4,
+    "PIRATEN": 1.1,
+    "EB Friedrich": 1.0,
+    "EB Claus": 0.7
+   }
+  },
+  "12067124": {
+   "name": "Erkner, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "SPD": 29.6,
+    "AfD": 28.2,
+    "CDU": 14.7,
+    "DIE LINKE": 10.3,
+    "Bündnis LOS": 6.2,
+    "GRÜNE/B 90": 6.0,
+    "ÖDP": 3.1,
+    "FDP": 1.9
+   }
+  },
+  "12067137": {
+   "name": "Friedland, Stadt",
+   "beteiligung": 78.0,
+   "parteien": {
+    "WIR": 33.3,
+    "Friedländer Bürgerbündnis": 15.2,
+    "FFW": 8.3,
+    "Tu was!": 7.8,
+    "EB Becker": 7.5,
+    "EB Mittmann": 7.0,
+    "EB Schulze": 5.5,
+    "CDU": 5.4,
+    "DIE LINKE": 4.7,
+    "EB Miersch": 3.1,
+    "EB Voß": 2.3
+   }
+  },
+  "12067144": {
+   "name": "Fürstenwalde/Spree, Stadt",
+   "beteiligung": 56.3,
+   "parteien": {
+    "AfD": 28.1,
+    "BFZ": 17.8,
+    "CDU": 16.3,
+    "SPD": 12.0,
+    "DIE LINKE": 7.2,
+    "GRÜNE/B 90": 4.6,
+    "FDP": 3.8,
+    "Die PARTEI": 3.7,
+    "Bündnis LOS": 3.1,
+    "EB Ristau": 1.7,
+    "FAE": 1.1,
+    "FBW": 0.7
+   }
+  },
+  "12067201": {
+   "name": "Grünheide (Mark)",
+   "beteiligung": 70.0,
+   "parteien": {
+    "AfD": 23.0,
+    "SPD": 21.9,
+    "bürgerbündnis": 11.3,
+    "CDU": 10.6,
+    "Bündnis LOS": 9.5,
+    "FF": 7.3,
+    "FW": 6.1,
+    "GRÜNE/B 90": 3.2,
+    "ALG": 3.1,
+    "ÖDP": 2.6,
+    "Konstruktiv für Grünheide": 1.4
+   }
+  },
+  "12067426": {
+   "name": "Rietz-Neuendorf",
+   "beteiligung": 77.8,
+   "parteien": {
+    "AfD": 22.1,
+    "WHSK": 13.5,
+    "B-J-A": 11.6,
+    "Wählergruppe Kuchenbecker": 8.8,
+    "Wählergruppe Feuerwehr": 7.9,
+    "Wählergruppe Alt Golm": 7.9,
+    "Einzelwahlvorschlag Kiesow, Mario": 6.8,
+    "Einzelwahlvorschlag, Horstmann Melanie": 5.7,
+    "Einzelwahlvorschlag Haase, Jörg": 3.2,
+    "GRÜNE/B 90": 3.1,
+    "Einzelwahlvorschlag Perlitz, Wilfried": 2.3,
+    "Einzelwahlvorschlag Märkisch, Christian": 2.3,
+    "Einzelwahlvorschlag Engelmann, Jonas": 2.2,
+    "Einzelwahlvorschlag Lehmann, Knut": 1.3,
+    "Einzelwahlvorschlag Moede, Ralf": 1.3
+   }
+  },
+  "12067440": {
+   "name": "Schöneiche bei Berlin",
+   "beteiligung": 74.2,
+   "parteien": {
+    "CDU": 19.9,
+    "SPD": 19.7,
+    "AfS": 17.3,
+    "DIE LINKE": 11.9,
+    "Schön": 10.6,
+    "GRÜNE/B 90": 9.2,
+    "ZfS": 8.6,
+    "FDP": 2.9
+   }
+  },
+  "12067481": {
+   "name": "Storkow (Mark), Stadt",
+   "beteiligung": 67.1,
+   "parteien": {
+    "AfD": 24.4,
+    "SPD": 20.6,
+    "FWG": 18.1,
+    "Neues Storkow": 17.1,
+    "CDU": 8.4,
+    "EB Graß": 3.8,
+    "DIE LINKE": 3.8,
+    "EB Kittler": 1.9,
+    "GRÜNE/B 90": 1.9
+   }
+  },
+  "12067493": {
+   "name": "Tauche",
+   "beteiligung": 73.5,
+   "parteien": {
+    "Taucher WG": 12.3,
+    "Wir für unsere Gemeinde": 11.5,
+    "Freiwillige Feuerwehr": 10.7,
+    "EB Reinicke": 9.2,
+    "Stremmener Dorf e.V.": 8.4,
+    "WG Giesensdorf/Wulfersdorf": 7.3,
+    "EB Rußig": 7.2,
+    "EB Henkel": 6.3,
+    "KDF": 4.8,
+    "Schützengilde Kossenblatt e.V.": 4.6,
+    "DIE LINKE": 4.4,
+    "EB Panzer": 4.0,
+    "EB Goldschmidt": 3.8,
+    "FDP": 3.0,
+    "GRÜNE/B 90": 2.8
+   }
+  },
+  "12067544": {
+   "name": "Woltersdorf",
+   "beteiligung": 72.8,
+   "parteien": {
+    "CDU": 34.3,
+    "SPD": 27.0,
+    "FBW": 20.5,
+    "DIE LINKE": 9.2,
+    "GRÜNE/B 90": 9.1
+   }
+  },
+  "12067076": {
+   "name": "Brieskow-Finkenheerd",
+   "beteiligung": 66.5,
+   "parteien": {
+    "SPD": 42.0,
+    "WGBF": 39.2,
+    "EB Kiesewetter": 12.7,
+    "EB Wendland": 6.1
+   }
+  },
+  "12067180": {
+   "name": "Groß Lindow",
+   "beteiligung": 72.1,
+   "parteien": {
+    "BGL": 51.6,
+    "FWGL": 42.5,
+    "SPD": 5.9
+   }
+  },
+  "12067508": {
+   "name": "Vogelsang",
+   "beteiligung": 73.9,
+   "parteien": {
+    "FWV": 81.2,
+    "EB Benkenstein": 15.2,
+    "SPD": 3.7
+   }
+  },
+  "12067528": {
+   "name": "Wiesenau",
+   "beteiligung": 74.6,
+   "parteien": {
+    "WJWS": 38.7,
+    "FBW": 32.8,
+    "AfD": 23.7,
+    "EB Neumann": 4.8
+   }
+  },
+  "12067552": {
+   "name": "Ziltendorf",
+   "beteiligung": 77.4,
+   "parteien": {
+    "WVZN": 72.4,
+    "EB Langhagel": 11.8,
+    "SPD": 8.5,
+    "EB Kurth": 5.4,
+    "GRÜNE/B 90": 1.9
+   }
+  },
+  "12067292": {
+   "name": "Lawitz",
+   "beteiligung": 83.9,
+   "parteien": {
+    "LfL": 61.8,
+    "ALB": 28.8,
+    "WFL": 5.6,
+    "EB Tavernier": 3.7
+   }
+  },
+  "12067338": {
+   "name": "Neißemünde",
+   "beteiligung": 74.0,
+   "parteien": {
+    "ZN": 62.1,
+    "WL": 33.9,
+    "GRÜNE/B 90": 4.0
+   }
+  },
+  "12067357": {
+   "name": "Neuzelle",
+   "beteiligung": 74.3,
+   "parteien": {
+    "OTB.12": 42.4,
+    "FWGN": 25.4,
+    "FDP": 13.6,
+    "CDU": 13.5,
+    "EB Schmidt": 5.1
+   }
+  },
+  "12067040": {
+   "name": "Berkenbrück",
+   "beteiligung": 75.0,
+   "parteien": {
+    "B-B-F": 56.9,
+    "SfBB": 43.1
+   }
+  },
+  "12067072": {
+   "name": "Briesen (Mark)",
+   "beteiligung": 75.2,
+   "parteien": {
+    "BB Briesen": 42.4,
+    "WG BfB": 36.3,
+    "AfD": 16.4,
+    "CDU": 4.9
+   }
+  },
+  "12067237": {
+   "name": "Jacobsdorf",
+   "beteiligung": 72.7,
+   "parteien": {
+    "WfaOdGJ": 32.1,
+    "UWP": 27.2,
+    "WgUB": 16.7,
+    "WGP": 9.0,
+    "CDU": 7.6,
+    "WVS": 7.3
+   }
+  },
+  "12067473": {
+   "name": "Steinhöfel",
+   "beteiligung": 72.3,
+   "parteien": {
+    "AfD": 30.3,
+    "CDU": 11.3,
+    "AB": 10.6,
+    "BM": 7.8,
+    "SPD": 7.6,
+    "ALP": 7.0,
+    "WfD": 6.5,
+    "DIE LINKE": 4.3,
+    "UWV 15518": 4.3,
+    "EB Lehmann": 2.7,
+    "WG Bauernverband Ortsgruppe Gölsdorf e.V.": 2.2,
+    "EB Hain": 2.0,
+    "EB Grabs": 1.9,
+    "GRÜNE/B 90": 1.5
+   }
+  },
+  "12067024": {
+   "name": "Bad Saarow",
+   "beteiligung": 68.3,
+   "parteien": {
+    "PRO BAD SAAROW": 23.2,
+    "CDU": 22.5,
+    "FWS": 20.3,
+    "DIE LINKE": 16.2,
+    "D.direkt": 6.4,
+    "SPD": 4.9,
+    "FDP": 4.4,
+    "EB Pritzsche": 2.2
+   }
+  },
+  "12067112": {
+   "name": "Diensdorf-Radlow",
+   "beteiligung": 72.9,
+   "parteien": {
+    "Förderverein Diensdorf-Radlow e.V.": 67.6,
+    "Gemeindefeuerwehrverein e.V.": 17.7,
+    "EB Wienkoop": 14.7
+   }
+  },
+  "12067288": {
+   "name": "Langewahl",
+   "beteiligung": 73.3,
+   "parteien": {
+    "Bürger für Langewahl": 93.9,
+    "FDP": 6.1
+   }
+  },
+  "12067413": {
+   "name": "Reichenwalde",
+   "beteiligung": 68.4,
+   "parteien": {
+    "SPD": 29.1,
+    "B-J-A": 14.5,
+    "EB Kettner": 14.0,
+    "EB Brendel": 10.3,
+    "FDP": 9.4,
+    "DIE LINKE": 8.5,
+    "EB Balke": 8.4,
+    "EB Becker": 5.7
+   }
+  },
+  "12067520": {
+   "name": "Wendisch Rietz",
+   "beteiligung": 68.0,
+   "parteien": {
+    "FWWR": 100.0
+   }
+  },
+  "12067205": {
+   "name": "Grunow-Dammendorf",
+   "beteiligung": 75.9,
+   "parteien": {
+    "BG Grunow": 47.9,
+    "WGD": 22.9,
+    "EB Teichert": 11.1,
+    "EB Brühl": 9.5,
+    "EB Staar": 5.4,
+    "EB Rommel": 3.2
+   }
+  },
+  "12067324": {
+   "name": "Mixdorf",
+   "beteiligung": 80.1,
+   "parteien": {
+    "Gemeinsames Mixdorf": 100.0
+   }
+  },
+  "12067336": {
+   "name": "Müllrose, Stadt",
+   "beteiligung": 70.6,
+   "parteien": {
+    "PWM": 36.7,
+    "BM": 22.6,
+    "AfD": 18.3,
+    "SPD": 10.4,
+    "CDU": 4.8,
+    "FDP": 3.4,
+    "EB Ermling": 2.1,
+    "EB Geue": 1.6
+   }
+  },
+  "12067397": {
+   "name": "Ragow-Merz",
+   "beteiligung": 77.9,
+   "parteien": {
+    "Bürgerbündnis": 57.8,
+    "WG Feuerwehr": 38.4,
+    "EB Knispel": 3.7
+   }
+  },
+  "12067438": {
+   "name": "Schlaubetal",
+   "beteiligung": 78.0,
+   "parteien": {
+    "WG Fünfeichen": 53.8,
+    "WG Bremsdorf": 24.3,
+    "SVK": 22.0
+   }
+  },
+  "12067458": {
+   "name": "Siehdichum",
+   "beteiligung": 79.9,
+   "parteien": {
+    "Gemeinsam mit Euch": 29.5,
+    "WfS": 26.4,
+    "BV Pohlitz": 24.9,
+    "BV Rießen": 14.4,
+    "EB Galle": 4.8
+   }
+  },
+  "12067173": {
+   "name": "Gosen-Neu Zittau",
+   "beteiligung": 67.6,
+   "parteien": {
+    "SPD": 27.6,
+    "FF Gosen": 23.3,
+    "BVB/FW GO NZ": 16.2,
+    "WG bürgernah": 14.8,
+    "Fw NZ": 6.6,
+    "Filip Schnuppe": 6.1,
+    "FV Dorfkirche Gosen e.V.": 5.5
+   }
+  },
+  "12067408": {
+   "name": "Rauen",
+   "beteiligung": 72.4,
+   "parteien": {
+    "BBZR": 91.2,
+    "FDP": 8.8
+   }
+  },
+  "12067469": {
+   "name": "Spreenhagen",
+   "beteiligung": 71.7,
+   "parteien": {
+    "GfB": 27.1,
+    "SPD": 19.7,
+    "CDU": 13.9,
+    "Gemeinsam Stark": 10.2,
+    "DCM": 10.2,
+    "Bürgernah": 8.4,
+    "HEIMAT": 7.8,
+    "GRÜNE/B 90": 2.7
+   }
+  },
+  "12068117": {
+   "name": "Fehrbellin",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 23.7,
+    "Starke Dörfer": 23.6,
+    "AfD": 20.3,
+    "SPD": 12.8,
+    "WG KBV": 4.7,
+    "DIE LINKE": 4.5,
+    "Pro Protzen": 3.7,
+    "GRÜNE/B 90": 3.4,
+    "BDW": 3.4
+   }
+  },
+  "12068181": {
+   "name": "Heiligengrabe",
+   "beteiligung": 67.5,
+   "parteien": {
+    "FWG": 21.6,
+    "WG-HL": 20.4,
+    "AfD": 16.0,
+    "Gemeinsam für Bürger": 11.0,
+    "BL-B-G-R": 10.3,
+    "AWGH": 7.7,
+    "WG LEBENS(T)RAUM DORF": 7.6,
+    "AB": 2.3,
+    "DIE LINKE": 2.1,
+    "GRÜNE/B 90": 1.0
+   }
+  },
+  "12068264": {
+   "name": "Kyritz, Stadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "Kyritz macht.": 20.1,
+    "AfD": 18.2,
+    "CDU": 16.9,
+    "KLW": 13.8,
+    "DIE LINKE": 9.9,
+    "BfG": 8.5,
+    "WIR": 6.6,
+    "GRÜNE/B 90": 3.4,
+    "WKKK": 2.7
+   }
+  },
+  "12068320": {
+   "name": "Neuruppin, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "AfD": 20.9,
+    "CDU": 18.4,
+    "SPD": 15.8,
+    "Pro Ruppin": 13.6,
+    "GRÜNE/B 90": 10.4,
+    "DIE LINKE": 8.4,
+    "WIN": 6.7,
+    "WG KBV": 2.6,
+    "EWV Liefke, Marion": 1.8,
+    "FDP": 1.3
+   }
+  },
+  "12068353": {
+   "name": "Rheinsberg, Stadt",
+   "beteiligung": 67.9,
+   "parteien": {
+    "BVB/Freie Wähler Rheinsberg": 44.6,
+    "CDU": 28.1,
+    "SPD": 10.3,
+    "DIE LINKE": 9.8,
+    "FDP": 4.1,
+    "GRÜNE/B 90": 3.2
+   }
+  },
+  "12068468": {
+   "name": "Wittstock/Dosse, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "AfD": 29.9,
+    "CDU": 24.1,
+    "FWG": 12.5,
+    "SPD": 12.3,
+    "DIE LINKE": 8.1,
+    "WG KBV": 6.2,
+    "WG Ortsteile mit Zukunft": 3.8,
+    "GRÜNE/B 90": 1.9,
+    "III. WEG": 1.3
+   }
+  },
+  "12068477": {
+   "name": "Wusterhausen/Dosse",
+   "beteiligung": 66.1,
+   "parteien": {
+    "LäR": 35.7,
+    "UWG": 22.1,
+    "DIE LINKE": 13.8,
+    "CDU": 13.2,
+    "WG WKM": 10.8,
+    "EW Henry": 2.4,
+    "EW Köppen": 2.0
+   }
+  },
+  "12068188": {
+   "name": "Herzberg (Mark)",
+   "beteiligung": 68.0,
+   "parteien": {
+    "AfD": 18.0,
+    "EB Wolff": 17.2,
+    "EB Redlof": 13.9,
+    "EB Dip. Ing. Engel": 8.3,
+    "EB Böllersen": 7.9,
+    "EB Ehrendreich": 7.4,
+    "EB Hegemann": 7.3,
+    "EB Hering": 6.2,
+    "EB Bülten": 5.7,
+    "EB Dr. Sandow": 4.4,
+    "GRÜNE/B 90": 3.8
+   }
+  },
+  "12068280": {
+   "name": "Lindow (Mark), Stadt",
+   "beteiligung": 69.1,
+   "parteien": {
+    "CDU": 28.9,
+    "ProL": 27.8,
+    "Lindow Land": 20.4,
+    "SPD": 11.8,
+    "GRÜNE/B 90": 5.5,
+    "EB Krukenberg": 3.0,
+    "FDP": 2.6
+   }
+  },
+  "12068372": {
+   "name": "Rüthnick",
+   "beteiligung": 77.5,
+   "parteien": {
+    "Gemeinsam für Rüthnick": 58.1,
+    "WG KBV": 14.5,
+    "CDU": 12.0,
+    "GRÜNE/B 90": 8.1,
+    "EB Heidrich": 7.2
+   }
+  },
+  "12068437": {
+   "name": "Vielitzsee",
+   "beteiligung": 75.6,
+   "parteien": {
+    "FWV": 42.0,
+    "BfV": 25.3,
+    "Unabhängige WG Vielitzsee": 23.8,
+    "EB Töpfer": 5.2,
+    "EB Zander": 3.7
+   }
+  },
+  "12068052": {
+   "name": "Breddin",
+   "beteiligung": 72.9,
+   "parteien": {
+    "FFw": 40.8,
+    "UWG": 38.3,
+    "Bürgergruppe Breddin": 17.3,
+    "Einzelwahlvorschlag Olischläger": 3.6
+   }
+  },
+  "12068109": {
+   "name": "Dreetz",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Einzelwahlvorschlag Petras": 17.8,
+    "Einzelwahlvorschlag Simon": 13.9,
+    "Einzelwahlvorschlag Schmidt": 11.8,
+    "Einzelwahlvorschlag Findeis": 10.8,
+    "Einzelwahlvorschlag Gerloff": 10.6,
+    "Einzelwahlvorschlag Wangert": 9.9,
+    "Einzelwahlvorschlag Fabisch": 7.2,
+    "Einzelwahlvorschlag Mießner": 6.9,
+    "Einzelwahlvorschlag Fritzsch": 5.8,
+    "Einzelwahlvorschlag Latz": 5.3
+   }
+  },
+  "12068324": {
+   "name": "Neustadt (Dosse), Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 37.5,
+    "Gemeinsam für Neustadt": 26.8,
+    "AfD": 26.5,
+    "DIE LINKE": 5.0,
+    "WG KBV": 4.2
+   }
+  },
+  "12068409": {
+   "name": "Sieversdorf-Hohenofen",
+   "beteiligung": 66.0,
+   "parteien": {
+    "WG FÜR Sieversdorf-Hohenofen": 61.3,
+    "WG Sieversdorf-Hohenofen": 17.7,
+    "CDU": 14.1,
+    "Einzelwahlvorschlag Brenig": 7.0
+   }
+  },
+  "12068417": {
+   "name": "Stüdenitz-Schönermark",
+   "beteiligung": 74.1,
+   "parteien": {
+    "WgS": 41.3,
+    "Wir zusammen für die Zukunft": 40.1,
+    "Einzelwahlvorschlag Kindt": 18.6
+   }
+  },
+  "12068501": {
+   "name": "Zernitz-Lohm",
+   "beteiligung": 64.7,
+   "parteien": {
+    "Zernitzer SV": 53.1,
+    "GRÜNE/B 90": 19.9,
+    "CDU": 16.1,
+    "Einzelwahlvorschlag Srugies": 11.0
+   }
+  },
+  "12068072": {
+   "name": "Dabergotz",
+   "beteiligung": 73.7,
+   "parteien": {
+    "UWD": 61.3,
+    "CDU": 38.7
+   }
+  },
+  "12068306": {
+   "name": "Märkisch Linden",
+   "beteiligung": 77.9,
+   "parteien": {
+    "BG ML": 39.5,
+    "Einzelwahlvorschlag C. Noack": 12.0,
+    "Einzelwahlvorschlag Thiede": 10.4,
+    "Einzelwahlvorschlag Kusch": 9.1,
+    "SPD": 8.3,
+    "Einzelwahlvorschlag Gräning": 8.1,
+    "Einzelwahlvorschlag G. Noack": 4.8,
+    "Einzelwahlvorschlag Kuck": 4.6,
+    "GRÜNE/B 90": 3.0
+   }
+  },
+  "12068413": {
+   "name": "Storbeck-Frankendorf",
+   "beteiligung": 80.5,
+   "parteien": {
+    "Wählergruppe Frankendorf": 59.5,
+    "Wählergruppe Storbeck": 38.1,
+    "CDU": 2.4
+   }
+  },
+  "12068425": {
+   "name": "Temnitzquell",
+   "beteiligung": 77.3,
+   "parteien": {
+    "BGT": 45.3,
+    "Einzelwahlvorschlag Wäbersky": 11.3,
+    "Einzelwahlvorschlag Gentikow": 9.5,
+    "Einzelwahlvorschlag Kramer": 6.6,
+    "Einzelwahlvorschlag Graf": 6.4,
+    "Einzelwahlvorschlag Schrader": 5.2,
+    "Einzelwahlvorschlag Schindler": 5.1,
+    "Einzelwahlvorschlag Stamer": 4.3,
+    "Einzelwahlvorschlag Schulze-Brandies": 3.6,
+    "BVB / FREIE WÄHLER": 2.6
+   }
+  },
+  "12068426": {
+   "name": "Temnitztal",
+   "beteiligung": 75.7,
+   "parteien": {
+    "BGT": 56.0,
+    "Aktive Bürgergemeinschaft Temnitztal": 15.5,
+    "Einzelwahlvorschlag Helberg": 10.4,
+    "SPD": 10.0,
+    "DIE LINKE": 4.5,
+    "Heimatverein Kerzlin e.V.": 3.6
+   }
+  },
+  "12068452": {
+   "name": "Walsleben",
+   "beteiligung": 70.2,
+   "parteien": {
+    "Unabhängige Wählergruppe Walsleben": 57.5,
+    "Junge Wähler Walsleben": 19.4,
+    "Einzelwahlvorschlag Rode": 6.8,
+    "Einzelwahlvorschlag Röder": 5.2,
+    "Einzelwahlvorschlag Petrich": 4.9,
+    "Einzelwahlvorschlag Pirk": 3.2,
+    "Einzelwahlvorschlag Brauer": 3.0
+   }
+  },
+  "12069017": {
+   "name": "Beelitz, Stadt",
+   "beteiligung": 68.7,
+   "parteien": {
+    "UKB": 39.1,
+    "CDU": 20.8,
+    "SPD": 9.3,
+    "BPB": 8.2,
+    "GRÜNE/B 90": 6.9,
+    "GfB": 6.7,
+    "BVB/FREIE WÄHLER Beelitz": 6.1,
+    "FDP": 2.9
+   }
+  },
+  "12069020": {
+   "name": "Bad Belzig, Stadt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "SPD": 16.1,
+    "AfD": 14.2,
+    "CDU": 14.0,
+    "Wir vom Dorf": 13.9,
+    "ZBB": 11.0,
+    "Gewerbeverein Belzig e.V.": 8.7,
+    "DIE LINKE": 8.0,
+    "GRÜNE/B 90": 7.9,
+    "EB Schär": 2.5,
+    "EB Lehmann": 2.0,
+    "PIRATEN, Tierschutz PM": 1.1,
+    "BfFuH": 0.7
+   }
+  },
+  "12069249": {
+   "name": "Groß Kreutz (Havel)",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CDU": 30.5,
+    "IG Havel": 18.2,
+    "AfD": 14.8,
+    "SPD": 11.0,
+    "FW": 7.0,
+    "DIE LINKE": 4.8,
+    "GRÜNE/B 90": 4.7,
+    "EWV": 3.0,
+    "FGK": 2.4,
+    "GÖWL": 2.1,
+    "FDP": 1.5
+   }
+  },
+  "12069304": {
+   "name": "Kleinmachnow",
+   "beteiligung": 79.6,
+   "parteien": {
+    "CDU": 23.3,
+    "GRÜNE/B 90": 21.7,
+    "SPD": 21.3,
+    "AfD": 8.4,
+    "BiK": 7.3,
+    "DIE LINKE": 7.1,
+    "FDP": 6.9,
+    "BVB / FREIE WÄHLER/PRO": 3.5,
+    "EB Masche": 0.5
+   }
+  },
+  "12069306": {
+   "name": "Kloster Lehnin",
+   "beteiligung": 65.8,
+   "parteien": {
+    "BfKL": 28.4,
+    "CDU": 24.7,
+    "AfD": 16.3,
+    "SPD": 14.0,
+    "BAUMFREUNDE": 4.8,
+    "FBB": 4.2,
+    "GRÜNE/B 90": 3.2,
+    "FJVT": 2.4,
+    "PIRATEN, Tierschutz PM": 1.3,
+    "FDP": 0.7
+   }
+  },
+  "12069397": {
+   "name": "Michendorf",
+   "beteiligung": 76.7,
+   "parteien": {
+    "BfM": 28.5,
+    "CDU": 18.3,
+    "AfD": 16.7,
+    "GRÜNE/B 90": 12.3,
+    "SPD": 9.4,
+    "UWG-FW": 5.2,
+    "FDP": 4.5,
+    "DIE LINKE": 3.9,
+    "FRIG": 1.2
+   }
+  },
+  "12069454": {
+   "name": "Nuthetal",
+   "beteiligung": 75.6,
+   "parteien": {
+    "CDU": 26.2,
+    "BFN": 21.2,
+    "SPD": 20.1,
+    "EB Erdmann": 9.6,
+    "GiN": 9.2,
+    "GRÜNE/B 90": 8.8,
+    "AiV": 3.0,
+    "ÖDP": 1.9
+   }
+  },
+  "12069590": {
+   "name": "Schwielowsee",
+   "beteiligung": 72.8,
+   "parteien": {
+    "BBS": 31.1,
+    "WIR": 13.8,
+    "SPD": 12.9,
+    "CDU": 12.3,
+    "FDP/UnBS": 10.1,
+    "GRÜNE/B 90": 9.9,
+    "DIE LINKE": 5.2,
+    "Unser Ferch": 2.7,
+    "Schule und Soziales": 1.8
+   }
+  },
+  "12069596": {
+   "name": "Seddiner See",
+   "beteiligung": 65.8,
+   "parteien": {
+    "BVB/FW Seddiner See": 30.1,
+    "UWGS": 25.0,
+    "DIE LINKE": 15.8,
+    "WGV": 15.7,
+    "WGNKS": 5.6,
+    "SPD": 4.9,
+    "Pro DORV": 2.8
+   }
+  },
+  "12069604": {
+   "name": "Stahnsdorf",
+   "beteiligung": 71.6,
+   "parteien": {
+    "Bürger für Bürger": 26.4,
+    "CDU": 24.6,
+    "AfD": 13.2,
+    "SPD": 10.9,
+    "GRÜNE/B 90": 10.0,
+    "DIE LINKE": 5.4,
+    "FDP": 5.1,
+    "WV": 4.4
+   }
+  },
+  "12069616": {
+   "name": "Teltow, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "SPD": 27.3,
+    "CDU": 17.3,
+    "AfD": 15.6,
+    "GRÜNE/B 90": 12.3,
+    "FDP": 8.5,
+    "DIE LINKE": 5.7,
+    "BVB / FREIE WÄHLER & Bürger für Bürger": 4.4,
+    "GUT für TELTOW": 3.4,
+    "LTR": 2.9,
+    "PIRATEN, Tierschutz PM": 2.5
+   }
+  },
+  "12069632": {
+   "name": "Treuenbrietzen, Stadt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "BIV": 22.4,
+    "CDU": 20.6,
+    "AfD": 16.8,
+    "BSD": 14.8,
+    "GRÜNE/B 90": 12.3,
+    "TSD": 6.0,
+    "EB Schierwald": 4.4,
+    "EB Torges": 2.0,
+    "EB Lindemann": 0.8
+   }
+  },
+  "12069656": {
+   "name": "Werder (Havel), Stadt",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 32.3,
+    "AfD": 17.9,
+    "SPD": 15.0,
+    "GRÜNE/B 90": 8.4,
+    "FWW": 6.5,
+    "DIE LINKE": 6.1,
+    "SMG": 6.0,
+    "BBT": 2.9,
+    "FDP": 2.7,
+    "Ingo Krüger & Co.": 1.5,
+    "EWV Reimann-Kriese": 0.3,
+    "EWV Struck": 0.3
+   }
+  },
+  "12069665": {
+   "name": "Wiesenburg/Mark",
+   "beteiligung": 70.1,
+   "parteien": {
+    "DIE LINKE": 19.1,
+    "LLL": 14.7,
+    "SPD": 10.7,
+    "PD": 10.0,
+    "CDU": 9.7,
+    "FBB": 8.3,
+    "Bürgerliste": 7.5,
+    "Steffen Teuber": 7.2,
+    "GRÜNE/B 90": 7.1,
+    "FDP": 2.7,
+    "Joachim Gorr": 1.6,
+    "BfFuH": 1.4
+   }
+  },
+  "12069018": {
+   "name": "Beetzsee",
+   "beteiligung": 68.7,
+   "parteien": {
+    "Bürgerliste Beetzsee": 31.9,
+    "IfB": 31.2,
+    "Pro Fraktion": 17.2,
+    "CDU": 12.0,
+    "SPD": 7.7
+   }
+  },
+  "12069019": {
+   "name": "Beetzseeheide",
+   "beteiligung": 64.9,
+   "parteien": {
+    "Wir für Beetzseeheide": 90.5,
+    "SPD": 9.5
+   }
+  },
+  "12069270": {
+   "name": "Havelsee, Stadt",
+   "beteiligung": 68.8,
+   "parteien": {
+    "Bürgerinitiative für ein besseres Havelsee": 32.2,
+    "CDU": 20.1,
+    "AfD": 19.5,
+    "Bürgerbewegung": 16.1,
+    "WG Marzahne": 4.9,
+    "FDP": 4.7,
+    "EB Heinrich": 2.5
+   }
+  },
+  "12069460": {
+   "name": "Päwesin",
+   "beteiligung": 73.4,
+   "parteien": {
+    "UWP": 100.0
+   }
+  },
+  "12069541": {
+   "name": "Roskow",
+   "beteiligung": 71.8,
+   "parteien": {
+    "Wir für Roskow": 40.1,
+    "FBB": 39.4,
+    "Zusammen Stark": 16.0,
+    "CDU": 4.5
+   }
+  },
+  "12069052": {
+   "name": "Borkheide",
+   "beteiligung": 71.7,
+   "parteien": {
+    "Bürgerliste-Borkheide": 43.2,
+    "SPD": 36.1,
+    "CDU": 14.0,
+    "Sozial für Borkheide": 6.7
+   }
+  },
+  "12069056": {
+   "name": "Borkwalde",
+   "beteiligung": 67.6,
+   "parteien": {
+    "WiB": 32.0,
+    "AfD": 21.2,
+    "GRÜNE/B 90": 14.6,
+    "SPD": 10.1,
+    "CDU": 8.6,
+    "BVB / Freie Wähler Borkwalde": 7.1,
+    "Borkwalde sozial": 6.4
+   }
+  },
+  "12069076": {
+   "name": "Brück, Stadt",
+   "beteiligung": 68.3,
+   "parteien": {
+    "ProBrück": 50.7,
+    "EBFB": 16.5,
+    "AfD": 14.2,
+    "CDU": 11.0,
+    "UWG": 7.7
+   }
+  },
+  "12069216": {
+   "name": "Golzow",
+   "beteiligung": 69.4,
+   "parteien": {
+    "Freiwillige Feuerwehr": 51.8,
+    "Unser Golzow": 48.2
+   }
+  },
+  "12069345": {
+   "name": "Linthe",
+   "beteiligung": 72.1,
+   "parteien": {
+    "CDU": 28.8,
+    "Freiwilliger Feuerwehrverein Linthe": 26.8,
+    "FBB": 17.3,
+    "AfD": 16.5,
+    "EW Baumgarten": 6.2,
+    "EW Kremser": 4.3
+   }
+  },
+  "12069470": {
+   "name": "Planebruch",
+   "beteiligung": 78.3,
+   "parteien": {
+    "Bürgerliste Planebruch": 39.9,
+    "Freizeitinitiative Planebruch": 36.5,
+    "FBB": 14.8,
+    "GRÜNE/B 90": 8.8
+   }
+  },
+  "12069402": {
+   "name": "Mühlenfließ",
+   "beteiligung": 78.3,
+   "parteien": {
+    "WG GfM": 60.9,
+    "FBB": 24.9,
+    "EWV Tietz": 6.3,
+    "EWV Hennig": 5.9,
+    "EWV Röder": 2.1
+   }
+  },
+  "12069448": {
+   "name": "Niemegk, Stadt",
+   "beteiligung": 84.0,
+   "parteien": {
+    "WG Zukunft Niemegk": 51.4,
+    "CDU": 27.1,
+    "SPD": 13.9,
+    "BVB/FW Niemegk": 7.6
+   }
+  },
+  "12069474": {
+   "name": "Planetal",
+   "beteiligung": 77.8,
+   "parteien": {
+    "WG LP": 30.3,
+    "WG WiP": 26.4,
+    "FBB": 18.3,
+    "WG VM": 17.6,
+    "GRÜNE/B 90": 3.9,
+    "CDU": 3.5
+   }
+  },
+  "12069485": {
+   "name": "Rabenstein/Fläming",
+   "beteiligung": 78.1,
+   "parteien": {
+    "WG Rabenstein": 74.7,
+    "FBB": 25.3
+   }
+  },
+  "12069028": {
+   "name": "Bensdorf",
+   "beteiligung": 71.3,
+   "parteien": {
+    "Für Bensdorf": 66.0,
+    "FBB": 34.0
+   }
+  },
+  "12069537": {
+   "name": "Rosenau",
+   "beteiligung": 71.3,
+   "parteien": {
+    "FWR": 51.3,
+    "BI WBR": 39.6,
+    "FBB": 9.1
+   }
+  },
+  "12069688": {
+   "name": "Wusterwitz",
+   "beteiligung": 71.2,
+   "parteien": {
+    "BI WBR": 34.9,
+    "Team Wusterwitz": 34.6,
+    "CDU": 30.5
+   }
+  },
+  "12069089": {
+   "name": "Buckautal",
+   "beteiligung": 73.0,
+   "parteien": {
+    "Heimatverein Buckau e.V.": 55.2,
+    "Feuerwehrverein Steinberg": 35.9,
+    "EB Vieweg": 8.9
+   }
+  },
+  "12069224": {
+   "name": "Görzke",
+   "beteiligung": 68.8,
+   "parteien": {
+    "WfG": 75.0,
+    "BfG": 13.6,
+    "CDU": 7.3,
+    "EB Hoffmann": 4.1
+   }
+  },
+  "12069232": {
+   "name": "Gräben",
+   "beteiligung": 61.5,
+   "parteien": {
+    "EB Hafenberg": 22.7,
+    "EB Böttche": 15.3,
+    "EB Golz-Steffen": 14.7,
+    "EB Herzog": 12.4,
+    "EB Takke": 11.9,
+    "EB Bewer": 11.8,
+    "EB Nippold": 11.1
+   }
+  },
+  "12069648": {
+   "name": "Wenzlow",
+   "beteiligung": 77.3,
+   "parteien": {
+    "BIW": 29.6,
+    "EB Matthies": 25.3,
+    "WG TraGe": 23.3,
+    "EB Linsorf": 15.5,
+    "EB Kraatz": 6.3
+   }
+  },
+  "12069680": {
+   "name": "Wollin",
+   "beteiligung": 74.1,
+   "parteien": {
+    "EB Sehl": 17.5,
+    "FBB": 14.0,
+    "EB Tornow": 13.2,
+    "EB Brieseck": 10.6,
+    "EB Hartmann": 9.7,
+    "EB Haase": 9.0,
+    "EB Genth": 8.9,
+    "EB Baier": 7.1,
+    "EB Hübscher": 5.3,
+    "EB Schulz": 4.6
+   }
+  },
+  "12069696": {
+   "name": "Ziesar, Stadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 36.2,
+    "SPD": 23.8,
+    "AfD": 21.0,
+    "FBB": 8.5,
+    "IG der kleinen Ortsteile": 8.1,
+    "EB Gobel": 2.5
+   }
+  },
+  "12070125": {
+   "name": "Groß Pankow (Prignitz)",
+   "beteiligung": 68.6,
+   "parteien": {
+    "BLR": 16.9,
+    "WG Gemeinde Groß Pankow (Prignitz)": 12.6,
+    "WFW": 8.4,
+    "DIE LINKE": 8.1,
+    "GPL": 7.9,
+    "WBS": 6.6,
+    "CDU": 6.4,
+    "WG – FV": 6.2,
+    "LiBü": 5.8,
+    "WG – WO": 4.9,
+    "WK": 4.4,
+    "Moh": 3.7,
+    "WGR": 3.3,
+    "WTH": 2.6,
+    "WG Woltersdorfer Gemeinschaft": 2.1
+   }
+  },
+  "12070149": {
+   "name": "Gumtow",
+   "beteiligung": 73.9,
+   "parteien": {
+    "WG WG": 51.3,
+    "WG Starke Dörfer": 15.8,
+    "WG FW": 13.7,
+    "CDU": 6.4,
+    "SPD": 5.6,
+    "EB Michalski": 4.3,
+    "DIE LINKE": 2.9
+   }
+  },
+  "12070173": {
+   "name": "Karstädt",
+   "beteiligung": 66.5,
+   "parteien": {
+    "CDU": 22.3,
+    "UWGK": 19.4,
+    "AfD": 18.0,
+    "BBK": 16.1,
+    "SPD": 9.8,
+    "FW Karstädt": 6.7,
+    "DIE LINKE": 3.8,
+    "BLR": 1.8,
+    "GRÜNE/B 90": 1.2,
+    "EB Trautmann": 0.8
+   }
+  },
+  "12070296": {
+   "name": "Perleberg, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "AfD": 22.8,
+    "CDU": 18.8,
+    "DIE LINKE": 18.3,
+    "SPD": 12.9,
+    "WGPS": 7.2,
+    "FW Perleberg": 7.0,
+    "FDP": 5.7,
+    "BLR": 3.6,
+    "EB Petrick": 2.1,
+    "GRÜNE/B 90": 1.7
+   }
+  },
+  "12070302": {
+   "name": "Plattenburg",
+   "beteiligung": 65.5,
+   "parteien": {
+    "FW Plattenburg": 19.8,
+    "WG Kleinow/Uenze": 17.0,
+    "WG Freiwillige Feuerwehr und Dorfverein Plattenburg": 16.6,
+    "DIE LINKE": 10.0,
+    "WG Krampfer/Groß Gottschow": 9.1,
+    "WGH": 7.4,
+    "BLR": 6.9,
+    "WG Bauernverband Kletzke": 5.8,
+    "WG VGR": 4.7,
+    "EB Nagel": 1.8,
+    "EB Schabaz": 1.0
+   }
+  },
+  "12070316": {
+   "name": "Pritzwalk, Stadt",
+   "beteiligung": 59.5,
+   "parteien": {
+    "AfD": 22.0,
+    "SPD": 20.1,
+    "BLR": 17.1,
+    "FW PP": 12.7,
+    "CDU": 12.1,
+    "BüP": 9.0,
+    "FDP": 6.9
+   }
+  },
+  "12070424": {
+   "name": "Wittenberge, Stadt",
+   "beteiligung": 53.6,
+   "parteien": {
+    "SPD": 27.0,
+    "CDU": 26.7,
+    "AfD": 24.5,
+    "DIE LINKE": 7.4,
+    "FWW": 6.6,
+    "GRÜNE/B 90": 3.0,
+    "FDP": 1.8,
+    "BfdP": 1.8,
+    "EB Heinke": 1.0
+   }
+  },
+  "12070008": {
+   "name": "Bad Wilsnack, Stadt",
+   "beteiligung": 68.7,
+   "parteien": {
+    "WWL": 41.4,
+    "UWG": 28.8,
+    "CDU": 15.8,
+    "SPD": 8.6,
+    "EB Gapinski": 5.3
+   }
+  },
+  "12070052": {
+   "name": "Breese",
+   "beteiligung": 74.3,
+   "parteien": {
+    "CDU": 39.8,
+    "WG BGK": 39.8,
+    "SPD": 16.1,
+    "DIE LINKE": 4.3
+   }
+  },
+  "12070241": {
+   "name": "Legde/Quitzöbel",
+   "beteiligung": 78.9,
+   "parteien": {
+    "EB Muxfeldt": 13.8,
+    "EB Will": 13.8,
+    "AfD": 13.6,
+    "EB Brennauer": 13.3,
+    "CDU": 12.9,
+    "EB Theis": 10.2,
+    "EB Frank": 9.3,
+    "EB Weger": 7.7,
+    "EB Zippel": 5.6
+   }
+  },
+  "12070348": {
+   "name": "Rühstädt",
+   "beteiligung": 76.9,
+   "parteien": {
+    "CDU": 48.9,
+    "DIE LINKE": 16.5,
+    "EB Oestreicher": 14.6,
+    "EB Weger": 12.6,
+    "SPD": 7.5
+   }
+  },
+  "12070416": {
+   "name": "Weisen",
+   "beteiligung": 82.9,
+   "parteien": {
+    "WG W&S": 48.3,
+    "UWG": 46.0,
+    "EB Pietryzk": 5.8
+   }
+  },
+  "12070060": {
+   "name": "Cumlosen",
+   "beteiligung": 81.1,
+   "parteien": {
+    "UBC": 69.0,
+    "FWC": 31.0
+   }
+  },
+  "12070236": {
+   "name": "Lanz",
+   "beteiligung": 78.2,
+   "parteien": {
+    "CDU": 51.0,
+    "WIR VON HIER": 35.9,
+    "EB Fechter": 6.7,
+    "FDP": 3.3,
+    "EB Seiffert": 3.1
+   }
+  },
+  "12070244": {
+   "name": "Lenzen (Elbe), Stadt",
+   "beteiligung": 63.9,
+   "parteien": {
+    "BfB": 29.2,
+    "CDU": 26.1,
+    "SPD": 25.6,
+    "Horizonte": 7.1,
+    "EB Popal": 7.0,
+    "BVB / FWNL": 5.0
+   }
+  },
+  "12070246": {
+   "name": "Lenzerwische",
+   "beteiligung": 73.1,
+   "parteien": {
+    "WGL": 100.0
+   }
+  },
+  "12070096": {
+   "name": "Gerdshagen",
+   "beteiligung": 65.8,
+   "parteien": {
+    "fWG": 57.9,
+    "JUG": 22.9,
+    "WGfG": 11.5,
+    "EB Friedrich": 7.7
+   }
+  },
+  "12070153": {
+   "name": "Halenbeck-Rohlsdorf",
+   "beteiligung": 69.9,
+   "parteien": {
+    "Wir für unsere Dörfer": 44.5,
+    "EHRlich": 23.5,
+    "MIT": 16.8,
+    "NP": 15.1
+   }
+  },
+  "12070222": {
+   "name": "Kümmernitztal",
+   "beteiligung": 75.2,
+   "parteien": {
+    "BVB / Freie Wähler Kümmernitztal": 50.9,
+    "Pro Kümmernitztal": 49.1
+   }
+  },
+  "12070266": {
+   "name": "Marienfließ",
+   "beteiligung": 77.8,
+   "parteien": {
+    "Pro Marienfließ": 33.0,
+    "Zukunft Marienfließ": 16.7,
+    "Pro Jännersdorf": 13.9,
+    "FO": 13.3,
+    "NF": 11.6,
+    "SPD": 8.2,
+    "EB Schmalenbach": 3.3
+   }
+  },
+  "12070280": {
+   "name": "Meyenburg, Stadt",
+   "beteiligung": 59.5,
+   "parteien": {
+    "MWG": 59.1,
+    "UWG BfM": 32.0,
+    "EB Kreibich": 4.8,
+    "SPD": 4.1
+   }
+  },
+  "12070028": {
+   "name": "Berge",
+   "beteiligung": 72.5,
+   "parteien": {
+    "WG ABGB": 100.0
+   }
+  },
+  "12070145": {
+   "name": "Gülitz-Reetz",
+   "beteiligung": 73.9,
+   "parteien": {
+    "WR": 35.4,
+    "WG Alle für alle": 28.0,
+    "GR1": 24.9,
+    "EB Groh": 6.9,
+    "EB Muhs": 4.9
+   }
+  },
+  "12070300": {
+   "name": "Pirow",
+   "beteiligung": 73.1,
+   "parteien": {
+    "Ortsbauerngruppe": 57.2,
+    "EB Boeck": 13.4,
+    "EB Blankenburg": 12.9,
+    "EB Zedow": 12.0,
+    "EB Schumacher": 4.5
+   }
+  },
+  "12070325": {
+   "name": "Putlitz, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "BSL": 51.8,
+    "FW Putlitz": 20.7,
+    "WfP": 10.8,
+    "CDU": 8.4,
+    "DIE LINKE": 5.8,
+    "EB Friese": 2.6
+   }
+  },
+  "12070393": {
+   "name": "Triglitz",
+   "beteiligung": 75.3,
+   "parteien": {
+    "WT": 33.2,
+    "WGM": 29.5,
+    "AGS": 27.9,
+    "EB Prause": 5.5,
+    "EB Rose": 3.8
+   }
+  },
+  "12071057": {
+   "name": "Drebkau, Stadt",
+   "beteiligung": 69.9,
+   "parteien": {
+    "OTB": 30.5,
+    "AfD": 29.1,
+    "CDU": 25.6,
+    "SPD": 10.9,
+    "EB Buchholz": 3.8
+   }
+  },
+  "12071076": {
+   "name": "Forst (Lausitz), Stadt",
+   "beteiligung": 60.6,
+   "parteien": {
+    "AfD": 38.0,
+    "CDU": 17.8,
+    "SPD": 14.3,
+    "WG Gemeinsam für Forst": 9.5,
+    "DIE LINKE": 6.2,
+    "uL-FW": 5.1,
+    "FDP": 4.4,
+    "GRÜNE/B 90": 1.8,
+    "EWV Auerswald": 1.7,
+    "UWG-SPN": 0.7,
+    "EWV Ernst": 0.5
+   }
+  },
+  "12071160": {
+   "name": "Guben, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "AfD": 36.3,
+    "CDU": 20.4,
+    "GUB-SPN": 10.7,
+    "WGB": 10.0,
+    "DIE LINKE": 7.3,
+    "SPD": 4.0,
+    "GfG": 3.9,
+    "FDP": 1.6,
+    "EB Schneider": 1.6,
+    "FG": 1.6,
+    "GRÜNE/B 90": 1.4,
+    "EB Rosenkranz": 1.0
+   }
+  },
+  "12071244": {
+   "name": "Kolkwitz",
+   "beteiligung": 76.5,
+   "parteien": {
+    "AfD": 24.6,
+    "UWK": 22.3,
+    "CDU": 20.3,
+    "SPD": 15.9,
+    "GfK": 10.5,
+    "DIE LINKE": 4.6,
+    "EB Noack": 1.8
+   }
+  },
+  "12071301": {
+   "name": "Neuhausen/Spree",
+   "beteiligung": 78.5,
+   "parteien": {
+    "AfD": 22.2,
+    "CDU": 9.7,
+    "OT Groß Döbbern": 9.5,
+    "WG für Gesundheit, Kultur und Sport": 9.1,
+    "WFK": 8.9,
+    "Freunde des Brandschutzes": 6.7,
+    "Freie Wählergemeinschaft": 6.2,
+    "OT Groß Oßnig": 5.6,
+    "L u. U": 5.5,
+    "FdFW": 4.9,
+    "GRÜNE/B 90": 4.6,
+    "Bürgerkraft JUNG bis ALT Neuhausen/Spree": 3.8,
+    "WG für Jugend und Sport": 2.5,
+    "Lutz Senkel": 0.9
+   }
+  },
+  "12071337": {
+   "name": "Schenkendöbern",
+   "beteiligung": 75.7,
+   "parteien": {
+    "CDU": 19.0,
+    "WG Feuerwehr": 18.9,
+    "SPD": 10.0,
+    "WG Groß Drewitz": 8.2,
+    "DIE LINKE": 8.1,
+    "WG Senioren": 7.9,
+    "EWV G. Märksch": 7.7,
+    "WGL": 6.7,
+    "EWV Bähr, Melanie": 5.8,
+    "WG Bärenklauer Sportverein": 5.3,
+    "EWV Christian Huschga": 2.4
+   }
+  },
+  "12071372": {
+   "name": "Spremberg, Stadt",
+   "beteiligung": 68.0,
+   "parteien": {
+    "AfD": 39.1,
+    "CDU": 21.7,
+    "SPD": 10.7,
+    "DIE LINKE": 6.9,
+    "NATURA": 6.9,
+    "UWG-SPN": 4.9,
+    "WG BS": 4.3,
+    "Die Spremberger - Wählergruppe": 3.9,
+    "FDP": 1.5
+   }
+  },
+  "12071408": {
+   "name": "Welzow, Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "BiZW": 30.4,
+    "FDP": 22.2,
+    "SPD": 17.1,
+    "CDU": 14.5,
+    "BFSW - FW": 14.2,
+    "GRÜNE/B 90": 1.5
+   }
+  },
+  "12071028": {
+   "name": "Briesen",
+   "beteiligung": 78.1,
+   "parteien": {
+    "WG \"\"SG Frischauf\"\" Briesen": 49.5,
+    "WG FFW Briesen": 26.3,
+    "WG Domowina OG Briesen": 14.9,
+    "WG für Kinder und Familie": 9.3
+   }
+  },
+  "12071032": {
+   "name": "Burg (Spreewald)",
+   "beteiligung": 72.1,
+   "parteien": {
+    "GfB": 46.2,
+    "BfB": 27.0,
+    "L u. U": 12.2,
+    "CDU": 9.1,
+    "SPD": 5.5
+   }
+  },
+  "12071041": {
+   "name": "Dissen-Striesow",
+   "beteiligung": 80.4,
+   "parteien": {
+    "BfDuS": 62.1,
+    "WG \"\"Aktiv für Dissen und Striesow\"\"": 37.9
+   }
+  },
+  "12071164": {
+   "name": "Guhrow",
+   "beteiligung": 75.5,
+   "parteien": {
+    "WG \"Aktiv für Guhrow\"": 100.0
+   }
+  },
+  "12071341": {
+   "name": "Schmogrow-Fehrow",
+   "beteiligung": 81.6,
+   "parteien": {
+    "WSF": 50.9,
+    "WG \"\"Vorspreewald\"\" Fehrow-Schmogrow": 35.6,
+    "CDU": 13.5
+   }
+  },
+  "12071412": {
+   "name": "Werben",
+   "beteiligung": 76.7,
+   "parteien": {
+    "Bündnis Werben/CDU": 87.0,
+    "WG Bürgerbewegung Ruben": 13.0
+   }
+  },
+  "12071044": {
+   "name": "Döbern, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "SPD, WG Freunde des Sports, WG St. Florian": 49.8,
+    "HWESV": 27.1,
+    "EB Krumpa": 14.2,
+    "EB Hoffmann": 8.9
+   }
+  },
+  "12071074": {
+   "name": "Felixsee",
+   "beteiligung": 74.8,
+   "parteien": {
+    "AfD": 29.0,
+    "SPD": 21.4,
+    "WG L u. U": 13.8,
+    "WG Freunde des Sports Friedrichshain": 8.9,
+    "DIE LINKE": 6.6,
+    "UWG-SPN": 6.5,
+    "EB Bastisch": 6.5,
+    "EB Saenger": 3.4,
+    "EB Helbig": 2.1,
+    "EB Damköhler": 1.9
+   }
+  },
+  "12071153": {
+   "name": "Groß Schacksdorf-Simmersdorf",
+   "beteiligung": 74.2,
+   "parteien": {
+    "UWG-SPN": 33.3,
+    "AfD": 17.2,
+    "WG Traditionsfreunde": 13.3,
+    "WG Brandschutzfreunde": 12.8,
+    "EB Chollee": 7.3,
+    "WG Aktive Schlepperfreunde Groß Schacksdorf": 5.2,
+    "WG Sg": 5.2,
+    "WG Aktive Sportfreunde TSV Groß Schackdorf": 5.1,
+    "EB Czerwinski": 0.6
+   }
+  },
+  "12071189": {
+   "name": "Jämlitz-Klein Düben",
+   "beteiligung": 73.1,
+   "parteien": {
+    "WG Feuerwehr Jämlitz": 57.1,
+    "WG Dorfgemeinschaft Klein Düben": 21.6,
+    "EB Britze": 9.8,
+    "WG Heimatverien": 7.0,
+    "EB Nicko": 4.5
+   }
+  },
+  "12071294": {
+   "name": "Neiße-Malxetal",
+   "beteiligung": 72.5,
+   "parteien": {
+    "WG Wir sind Heimat": 55.1,
+    "AfD": 22.9,
+    "WG Heimat Neiße-Malxetal": 22.0
+   }
+  },
+  "12071392": {
+   "name": "Tschernitz",
+   "beteiligung": 72.2,
+   "parteien": {
+    "WG Bündnis 93": 100.0
+   }
+  },
+  "12071414": {
+   "name": "Wiesengrund",
+   "beteiligung": 79.2,
+   "parteien": {
+    "WG FWW": 35.1,
+    "WG FWZW": 24.4,
+    "WG Wählergruppe Trebendorf": 24.0,
+    "WG Wir für Jethe/Smarso": 9.6,
+    "EB Woidtow": 6.9
+   }
+  },
+  "12071052": {
+   "name": "Drachhausen",
+   "beteiligung": 70.7,
+   "parteien": {
+    "UWD": 31.2,
+    "BGD": 30.5,
+    "FFWD": 26.1,
+    "EB Duhra": 12.2
+   }
+  },
+  "12071060": {
+   "name": "Drehnow",
+   "beteiligung": 76.8,
+   "parteien": {
+    "UBB": 100.0
+   }
+  },
+  "12071176": {
+   "name": "Heinersbrück",
+   "beteiligung": 71.1,
+   "parteien": {
+    "WGFFH": 64.3,
+    "WGR": 25.2,
+    "EB Mortak": 10.5
+   }
+  },
+  "12071193": {
+   "name": "Jänschwalde",
+   "beteiligung": 75.8,
+   "parteien": {
+    "WG JW": 18.5,
+    "AfD": 16.9,
+    "EB Dabo": 15.2,
+    "EB Orbke": 8.2,
+    "EB Neumann": 8.1,
+    "EB Fobow": 8.0,
+    "EB Wundke": 6.8,
+    "DIE LINKE": 5.5,
+    "EB D. Zoellner": 4.7,
+    "EB Kindschuh": 4.5,
+    "EB S. Zoellner": 3.5
+   }
+  },
+  "12071304": {
+   "name": "Peitz, Stadt",
+   "beteiligung": 67.7,
+   "parteien": {
+    "MiB": 29.1,
+    "AfD": 23.2,
+    "CDU": 16.7,
+    "FDP": 11.0,
+    "WFP": 9.5,
+    "UWP": 5.0,
+    "EB R. Hirthe": 3.2,
+    "EB B. Hirthe": 2.4
+   }
+  },
+  "12071384": {
+   "name": "Tauer",
+   "beteiligung": 77.2,
+   "parteien": {
+    "SV 1920 Tauer e.V.": 25.3,
+    "WfT": 20.4,
+    "GSG Tauer": 20.0,
+    "BG Tauer/Schönhöhe": 13.7,
+    "DOGT": 7.8,
+    "FF Tauer": 5.5,
+    "HDS Tauer e.V.": 5.0,
+    "FDP": 2.3
+   }
+  },
+  "12071386": {
+   "name": "Teichland",
+   "beteiligung": 82.5,
+   "parteien": {
+    "IM 93": 39.2,
+    "IN 93": 37.5,
+    "WGB": 23.2
+   }
+  },
+  "12071401": {
+   "name": "Turnow-Preilack",
+   "beteiligung": 77.1,
+   "parteien": {
+    "WGTP": 53.9,
+    "AfD": 22.4,
+    "CDU": 22.2,
+    "FDP": 1.5
+   }
+  },
+  "12072002": {
+   "name": "Am Mellensee",
+   "beteiligung": 71.5,
+   "parteien": {
+    "UWG": 23.7,
+    "AfD": 21.5,
+    "CDU": 21.1,
+    "3punkt0": 16.6,
+    "SPD": 8.9,
+    "DIE LINKE": 5.3,
+    "GRÜNE/B 90": 2.9
+   }
+  },
+  "12072014": {
+   "name": "Baruth/Mark, Stadt",
+   "beteiligung": 69.5,
+   "parteien": {
+    "LOB": 21.0,
+    "SPD": 20.6,
+    "CDU": 19.8,
+    "DIE LINKE": 16.3,
+    "EB Härtel": 9.6,
+    "WFN": 7.3,
+    "EB Schröter": 2.8,
+    "GRÜNE/B 90": 2.5
+   }
+  },
+  "12072017": {
+   "name": "Blankenfelde-Mahlow",
+   "beteiligung": 65.5,
+   "parteien": {
+    "AfD": 22.6,
+    "SPD": 19.3,
+    "CDU": 18.1,
+    "FreieWG": 12.8,
+    "BVB / FREIE WÄHLER Blankenfelde-Mahlow": 11.4,
+    "GRÜNE/B 90": 6.5,
+    "DIE LINKE": 4.8,
+    "FDP": 4.4
+   }
+  },
+  "12072120": {
+   "name": "Großbeeren",
+   "beteiligung": 67.3,
+   "parteien": {
+    "CDU": 32.8,
+    "UGDS": 15.5,
+    "SPD": 12.6,
+    "WfG": 12.1,
+    "GRÜNE/B 90": 9.6,
+    "FDP": 7.3,
+    "EB Gatzky": 5.9,
+    "DIE LINKE": 2.8,
+    "EB Siegmann": 1.3
+   }
+  },
+  "12072169": {
+   "name": "Jüterbog, Stadt",
+   "beteiligung": 64.4,
+   "parteien": {
+    "SPD": 16.2,
+    "AfD": 13.2,
+    "JuO": 12.8,
+    "BV": 12.2,
+    "BBJ": 11.7,
+    "WSJ": 10.7,
+    "FJB": 10.2,
+    "DIE LINKE": 7.2,
+    "CDU": 5.8
+   }
+  },
+  "12072232": {
+   "name": "Luckenwalde, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "GfL": 24.4,
+    "SPD": 21.7,
+    "CDU": 18.7,
+    "DIE LINKE": 13.3,
+    "BV": 4.5,
+    "LÖS": 4.1,
+    "EB Teichert": 3.5,
+    "FDP": 3.0,
+    "GRÜNE/B 90": 2.9,
+    "Die PARTEI - Die PDS": 2.6,
+    "EB Recknagel": 1.3
+   }
+  },
+  "12072240": {
+   "name": "Ludwigsfelde, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "SPD": 25.0,
+    "AfD": 17.8,
+    "CDU": 16.2,
+    "Familie und Sport": 10.1,
+    "DIE LINKE": 8.2,
+    "Freie Wähler Ludwigsfelde": 7.1,
+    "GRÜNE/B 90 - VEREINTE.WfLU": 5.4,
+    "OPTION+": 3.0,
+    "FiLu": 2.6,
+    "FDP": 2.4,
+    "WG 11+1 für LU": 1.6,
+    "EB John": 0.6
+   }
+  },
+  "12072297": {
+   "name": "Niedergörsdorf",
+   "beteiligung": 65.2,
+   "parteien": {
+    "AfD": 20.0,
+    "Bürgergemeinschaft Niedergörsdorf": 18.4,
+    "BV": 17.9,
+    "SPD": 12.2,
+    "ALFA": 10.3,
+    "DIE LINKE": 9.0,
+    "CDU": 6.7,
+    "GRÜNE/B 90": 3.1,
+    "EWV Tampe": 2.3
+   }
+  },
+  "12072312": {
+   "name": "Nuthe-Urstromtal",
+   "beteiligung": 72.6,
+   "parteien": {
+    "WG GNU": 26.0,
+    "AfD": 22.3,
+    "WG GUW": 16.2,
+    "SPD": 7.8,
+    "CDU": 6.7,
+    "WG NANU": 5.4,
+    "FDP": 4.9,
+    "DIE LINKE": 4.4,
+    "EWV Zabel": 3.2,
+    "GRÜNE/B 90": 2.9
+   }
+  },
+  "12072340": {
+   "name": "Rangsdorf",
+   "beteiligung": 72.8,
+   "parteien": {
+    "SPD": 19.6,
+    "CDU": 19.1,
+    "DIE RANGSDORFER": 15.9,
+    "FDP": 15.1,
+    "AfD": 13.8,
+    "GRÜNE/B 90": 7.4,
+    "DIE LINKE": 4.7,
+    "EB Schwarz": 4.5
+   }
+  },
+  "12072426": {
+   "name": "Trebbin, Stadt",
+   "beteiligung": 69.4,
+   "parteien": {
+    "AfD": 22.2,
+    "CDU": 22.1,
+    "WG Frischer Wind": 16.0,
+    "SPD": 11.4,
+    "UFW": 10.3,
+    "N L": 9.0,
+    "GRÜNE/B 90": 4.2,
+    "DIE LINKE": 2.8,
+    "Die PARTEI - Die PDS": 2.0
+   }
+  },
+  "12072477": {
+   "name": "Zossen, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "AfD": 22.9,
+    "CDU": 15.8,
+    "Plan B": 15.7,
+    "VUB": 10.7,
+    "SPD": 9.1,
+    "DIE LINKE": 5.6,
+    "GRÜNE/B 90": 5.3,
+    "AfZ": 4.4,
+    "WFZ & TF": 3.7,
+    "Pro Zossen": 2.7,
+    "WG Kallinchen": 2.5,
+    "EW Ramin": 0.7,
+    "EW Liepert": 0.5,
+    "EW Teichmann": 0.5
+   }
+  },
+  "12072053": {
+   "name": "Dahme/Mark, Stadt",
+   "beteiligung": 65.4,
+   "parteien": {
+    "FWG/CDU": 43.2,
+    "WGDU": 16.5,
+    "SPD": 13.8,
+    "WLL": 10.4,
+    "DIE LINKE": 9.5,
+    "EB Oppitz": 3.2,
+    "Die PARTEI - Die PDS": 2.0,
+    "EB Hilscher": 1.4
+   }
+  },
+  "12072055": {
+   "name": "Dahmetal",
+   "beteiligung": 78.9,
+   "parteien": {
+    "FWD": 72.9,
+    "CDU": 27.1
+   }
+  },
+  "12072157": {
+   "name": "Ihlow",
+   "beteiligung": 80.7,
+   "parteien": {
+    "EB Elsner": 16.8,
+    "EB Krause": 13.5,
+    "EB Schulze": 12.7,
+    "EB Knuppe": 11.4,
+    "EB Krüger": 11.4,
+    "EB Schirrmeister": 10.1,
+    "CDU": 9.1,
+    "EB Hertel": 8.0,
+    "EB Herzog": 5.6,
+    "FDP": 1.3
+   }
+  },
+  "12072298": {
+   "name": "Niederer Fläming",
+   "beteiligung": 73.5,
+   "parteien": {
+    "GNF": 49.1,
+    "AfD": 15.6,
+    "EB Gottwald": 11.1,
+    "EB Grahl": 8.2,
+    "EB Wilke": 6.5,
+    "DIE LINKE": 6.0,
+    "EB Noßmann": 3.5
+   }
+  },
+  "12073008": {
+   "name": "Angermünde, Stadt",
+   "beteiligung": 68.9,
+   "parteien": {
+    "AfD": 25.5,
+    "SPD": 15.6,
+    "CDU": 12.6,
+    "DIE LINKE": 11.7,
+    "FWG": 11.5,
+    "LBG Angermünde": 10.1,
+    "EB Sommerschuh": 4.8,
+    "GRÜNE/B 90": 4.3,
+    "BfVG": 2.1,
+    "FDP": 1.8
+   }
+  },
+  "12073069": {
+   "name": "Boitzenburger Land",
+   "beteiligung": 69.5,
+   "parteien": {
+    "FWBL": 22.7,
+    "AfD": 19.7,
+    "WGLRBL": 17.4,
+    "EB Hoppe": 10.8,
+    "SPD": 9.0,
+    "GRÜNE/B 90": 8.0,
+    "CDU": 6.0,
+    "BlBL": 5.1,
+    "EB Hass": 1.4
+   }
+  },
+  "12073384": {
+   "name": "Lychen, Stadt",
+   "beteiligung": 74.2,
+   "parteien": {
+    "Wir für Lychen": 29.3,
+    "LTG": 27.7,
+    "AfD": 19.0,
+    "CDU": 12.2,
+    "SPD": 11.9
+   }
+  },
+  "12073429": {
+   "name": "Nordwestuckermark",
+   "beteiligung": 75.5,
+   "parteien": {
+    "AfD": 28.3,
+    "LADL": 16.1,
+    "Zukunft NWU": 13.2,
+    "SPD": 12.4,
+    "CDU": 11.6,
+    "Frischer Wind": 8.1,
+    "FFW NWU": 6.0,
+    "BVB / FREIE WÄHLER": 2.7,
+    "EB Winkler": 1.6
+   }
+  },
+  "12073452": {
+   "name": "Prenzlau, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "AfD": 36.3,
+    "CDU": 23.3,
+    "SPD": 15.3,
+    "DIE LINKE": 8.3,
+    "Wir Prenzlauer": 6.5,
+    "BF": 5.3,
+    "BfVG": 2.4,
+    "FDP": 2.0,
+    "EB Scheffel": 0.7
+   }
+  },
+  "12073572": {
+   "name": "Templin, Stadt",
+   "beteiligung": 67.9,
+   "parteien": {
+    "AfD": 25.0,
+    "CDU": 21.7,
+    "SPD": 13.4,
+    "Uckermärker Heide": 9.9,
+    "BfVG": 8.6,
+    "DIE LINKE": 8.5,
+    "GRÜNE/B 90": 5.2,
+    "WBv": 3.2,
+    "FDP": 1.8,
+    "Die PARTEI": 1.8,
+    "EB Hinz": 0.8
+   }
+  },
+  "12073579": {
+   "name": "Uckerland",
+   "beteiligung": 78.2,
+   "parteien": {
+    "CDU": 27.6,
+    "AfD": 20.2,
+    "Uckerländer": 14.8,
+    "EB Glasow": 12.6,
+    "Die Hetzdorfer": 8.5,
+    "SPD": 5.4,
+    "DIE LINKE": 4.2,
+    "EB Krieser": 2.5,
+    "EB Barz": 1.8,
+    "GRÜNE/B 90": 1.4,
+    "EB Westphal": 1.0
+   }
+  },
+  "12073440": {
+   "name": "Pinnow",
+   "beteiligung": 76.2,
+   "parteien": {
+    "WfP": 53.0,
+    "Liste für Pinnow": 41.6,
+    "Christin Beder": 5.4
+   }
+  },
+  "12073532": {
+   "name": "Schwedt/Oder, Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "AfD": 29.1,
+    "SPD": 25.0,
+    "CDU": 15.0,
+    "BVB / FREIE WÄHLER": 10.4,
+    "BfVG": 4.2,
+    "DIE LINKE": 3.8,
+    "FDP": 3.2,
+    "Die PARTEI": 1.9,
+    "Allianz für Schwedt": 1.9,
+    "GRÜNE/B 90": 1.7,
+    "miteinander füreinander": 1.4,
+    "UBG": 1.3,
+    "BuLi": 0.6,
+    "HEIMAT": 0.4
+   }
+  },
+  "12073085": {
+   "name": "Brüssow, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "CDU": 37.0,
+    "AfD": 21.9,
+    "EB Glowe": 9.7,
+    "Demokratie und Vielfalt": 7.9,
+    "EB Matz": 6.6,
+    "BLR": 5.8,
+    "SPD": 4.5,
+    "EB Naeth": 4.0,
+    "EB Hube": 2.6
+   }
+  },
+  "12073093": {
+   "name": "Carmzow-Wallmow",
+   "beteiligung": 78.5,
+   "parteien": {
+    "Zukunft für Wallmow": 39.0,
+    "EB Muranko": 22.3,
+    "Wir für Carmzow-Wallmow": 11.4,
+    "EB Parpat": 9.1,
+    "EB von Zitzewitz": 9.0,
+    "EB Hempel": 6.1,
+    "EB Hofmann": 3.2
+   }
+  },
+  "12073216": {
+   "name": "Göritz",
+   "beteiligung": 72.4,
+   "parteien": {
+    "WG Feuerwehr Göritz": 17.3,
+    "EB Manke": 16.7,
+    "EB Grundmann": 16.2,
+    "EB Pohl": 9.4,
+    "EB Runge": 8.8,
+    "EB Herholz": 6.7,
+    "EB Koch": 5.9,
+    "EB Ninnemann": 5.2,
+    "EB Sonnenberg": 4.7,
+    "DIE LINKE": 4.1,
+    "EB Lehmann": 3.9,
+    "EB Bertram": 1.0
+   }
+  },
+  "12073490": {
+   "name": "Schenkenberg",
+   "beteiligung": 69.7,
+   "parteien": {
+    "Initi Sch": 24.7,
+    "EB Runge": 21.5,
+    "EB Hübner": 12.5,
+    "EB Dobbert": 12.4,
+    "EB Müller": 11.7,
+    "EB Berg": 8.8,
+    "EB Tiebach": 8.4
+   }
+  },
+  "12073520": {
+   "name": "Schönfeld",
+   "beteiligung": 70.4,
+   "parteien": {
+    "WG Klockow - Schönfeld": 88.5,
+    "EB Mertens": 11.5
+   }
+  },
+  "12073097": {
+   "name": "Casekow",
+   "beteiligung": 67.1,
+   "parteien": {
+    "ABZ": 45.5,
+    "Starke Dorfgemeinschaft": 25.5,
+    "AfD": 10.3,
+    "EB Kisicki": 7.6,
+    "EB von der Osten": 7.4,
+    "EB Gerlach": 3.8
+   }
+  },
+  "12073189": {
+   "name": "Gartz (Oder), Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "AfD": 24.3,
+    "EB Piwodda": 16.4,
+    "EB Kohlheim": 8.4,
+    "Alle für Gartz": 8.2,
+    "EB Gundermann": 6.2,
+    "EB Kolbe": 6.1,
+    "SPD": 5.6,
+    "CDU": 5.2,
+    "DIE LINKE": 5.1,
+    "Freie Bürger": 4.8,
+    "WG Geesow": 4.6,
+    "EB Wegner": 2.0,
+    "EB Meiselbach": 1.9,
+    "EB Grade": 1.2
+   }
+  },
+  "12073309": {
+   "name": "Hohenselchow-Groß Pinnow",
+   "beteiligung": 66.5,
+   "parteien": {
+    "BPHG": 58.4,
+    "WG Hohenselchow-Groß Pinnow": 41.6
+   }
+  },
+  "12073393": {
+   "name": "Mescherin",
+   "beteiligung": 68.4,
+   "parteien": {
+    "Dorfverein am Oderstrom e.V.": 42.0,
+    "Starke Gemeinschaft": 37.9,
+    "Gemeinsames Mescherin": 20.1
+   }
+  },
+  "12073565": {
+   "name": "Tantow",
+   "beteiligung": 57.0,
+   "parteien": {
+    "Tantower Wählergruppe": 59.0,
+    "Freiwillige Feuerwehr Schönfeld": 24.7,
+    "CDU": 9.9,
+    "Alle für Tantow": 6.4
+   }
+  },
+  "12073157": {
+   "name": "Flieth-Stegelitz",
+   "beteiligung": 78.3,
+   "parteien": {
+    "WG Flieth-Stegelitz": 37.2,
+    "Gemeinsam solidarisch gestalten": 19.8,
+    "EB Huth": 14.8,
+    "EB Krüger": 12.5,
+    "EB Böge": 11.4,
+    "EB Vollrath": 4.3
+   }
+  },
+  "12073201": {
+   "name": "Gerswalde",
+   "beteiligung": 75.4,
+   "parteien": {
+    "IGG": 22.1,
+    "CDU": 16.3,
+    "Respekt und Toleranz": 15.7,
+    "WfGG": 12.0,
+    "AfD": 9.8,
+    "DIE LINKE": 8.8,
+    "BVB / FREIE WÄHLER": 4.1,
+    "GRÜNE/B 90": 3.1,
+    "FDP": 2.7,
+    "EB Klaffki": 2.4,
+    "EB Collin": 1.9,
+    "EB Kunz": 1.2
+   }
+  },
+  "12073396": {
+   "name": "Milmersdorf",
+   "beteiligung": 59.7,
+   "parteien": {
+    "Wir für hier": 49.4,
+    "EB Arndt": 20.8,
+    "AfD": 7.9,
+    "EB Winter": 7.6,
+    "EB Tabbert": 7.6,
+    "EB Schindler": 3.7,
+    "EB Kirsch": 3.0
+   }
+  },
+  "12073404": {
+   "name": "Mittenwalde",
+   "beteiligung": 69.3,
+   "parteien": {
+    "Liste für Mittenwalde und Blankensee": 39.0,
+    "Wahlinitiative Mittenwalde/Blankensee": 31.4,
+    "Förderverein der FFw Mittenwalde e.V.": 25.9,
+    "DIE LINKE": 3.7
+   }
+  },
+  "12073569": {
+   "name": "Temmen-Ringenwalde",
+   "beteiligung": 80.3,
+   "parteien": {
+    "Freie Wählergemeinschaft": 34.4,
+    "Liste 1 Ringenwalde": 27.1,
+    "Liste 1 Temmen-Poratz": 16.9,
+    "BLR": 8.8,
+    "EB Schlender": 7.4,
+    "EB Krüger": 5.4
+   }
+  },
+  "12073225": {
+   "name": "Gramzow",
+   "beteiligung": 74.7,
+   "parteien": {
+    "WGZ": 44.4,
+    "CDU": 19.1,
+    "AfD": 19.0,
+    "WG BK": 9.8,
+    "EB Merres": 2.7,
+    "EB Verwiebe": 2.6,
+    "EB Gundlach": 2.5
+   }
+  },
+  "12073261": {
+   "name": "Grünow",
+   "beteiligung": 77.8,
+   "parteien": {
+    "WfG": 23.8,
+    "AfD": 18.0,
+    "FFW Grünow": 10.6,
+    "EB Cunow": 10.5,
+    "EB Wege": 8.6,
+    "EB Seligmann": 6.6,
+    "Einzelwahlvorschlag Kaßner": 5.7,
+    "Einzelwahlvorschlag Steinberg": 5.1,
+    "Einzelwahlvorschlag Stöckel": 4.6,
+    "DIE LINKE": 4.4,
+    "EB Britt": 2.2
+   }
+  },
+  "12073430": {
+   "name": "Oberuckersee",
+   "beteiligung": 77.8,
+   "parteien": {
+    "AfD": 19.3,
+    "MdU": 17.7,
+    "EB Ruff": 17.5,
+    "ZOS": 11.4,
+    "WVO": 11.3,
+    "Warnitz verbindet": 9.3,
+    "WfO": 5.9,
+    "EB Berkholz": 4.6,
+    "EB Schmidt": 3.0
+   }
+  },
+  "12073458": {
+   "name": "Randowtal",
+   "beteiligung": 78.3,
+   "parteien": {
+    "Zukunft für Randowtal": 39.5,
+    "Zusammen für Randowtal": 23.1,
+    "AfD": 22.8,
+    "Wir sind Randowtal": 9.2,
+    "Eickstedt": 5.4
+   }
+  },
+  "12073578": {
+   "name": "Uckerfelde",
+   "beteiligung": 74.1,
+   "parteien": {
+    "Uckerfelde-Bietikow-Bertikow": 31.8,
+    "Hohengüstow": 25.9,
+    "Wir für die Bürger": 16.3,
+    "AfD": 15.9,
+    "WfU": 10.1
+   }
+  },
+  "12073645": {
+   "name": "Zichow",
+   "beteiligung": 79.5,
+   "parteien": {
+    "CDU": 34.6,
+    "WG Zichow": 33.5,
+    "DGG": 18.3,
+    "AfD": 13.6
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

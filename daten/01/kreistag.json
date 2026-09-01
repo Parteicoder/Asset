@@ -1,0 +1,183 @@
+{
+ "land": "01",
+ "name": "Schleswig-Holstein",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Schleswig-Holstein 2023",
+ "jahr": 2023,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "01051": {
+   "name": "Dithmarschen",
+   "beteiligung": 52.3,
+   "parteien": {
+    "CDU": 38.5,
+    "SPD": 17.2,
+    "FDP": 11.4,
+    "Sonstige": 11.0,
+    "AfD": 10.7,
+    "GRÜNE": 8.7,
+    "DIE LINKE": 2.4
+   }
+  },
+  "01053": {
+   "name": "Herzogtum Lauenburg",
+   "beteiligung": 50.2,
+   "parteien": {
+    "CDU": 35.5,
+    "SPD": 20.6,
+    "GRÜNE": 17.1,
+    "AfD": 9.7,
+    "FDP": 6.8,
+    "FREIE WÄHLER": 4.9,
+    "Sonstige": 2.8,
+    "DIE LINKE": 2.3,
+    "Tierschutzpartei": 0.2,
+    "Die PARTEI": 0.1
+   }
+  },
+  "01054": {
+   "name": "Nordfriesland",
+   "beteiligung": 53.3,
+   "parteien": {
+    "CDU": 33.6,
+    "SPD": 16.5,
+    "SSW": 14.7,
+    "GRÜNE": 12.7,
+    "Sonstige": 10.4,
+    "AfD": 6.3,
+    "FDP": 4.6,
+    "DIE LINKE": 1.2
+   }
+  },
+  "01055": {
+   "name": "Ostholstein",
+   "beteiligung": 48.8,
+   "parteien": {
+    "CDU": 38.2,
+    "SPD": 20.6,
+    "GRÜNE": 16.3,
+    "AfD": 8.7,
+    "FREIE WÄHLER": 7.5,
+    "FDP": 7.4,
+    "Sonstige": 0.9,
+    "Einzelbewerber": 0.4
+   }
+  },
+  "01056": {
+   "name": "Pinneberg",
+   "beteiligung": 48.5,
+   "parteien": {
+    "CDU": 35.7,
+    "SPD": 20.9,
+    "GRÜNE": 20.8,
+    "AfD": 9.0,
+    "FDP": 8.8,
+    "DIE LINKE": 2.7,
+    "Sonstige": 1.9,
+    "SSW": 0.1
+   }
+  },
+  "01057": {
+   "name": "Plön",
+   "beteiligung": 56.1,
+   "parteien": {
+    "CDU": 33.2,
+    "SPD": 19.8,
+    "GRÜNE": 18.7,
+    "Sonstige": 12.2,
+    "AfD": 7.8,
+    "FDP": 5.7,
+    "DIE LINKE": 2.0,
+    "Die PARTEI": 0.5,
+    "Einzelbewerber": 0.1
+   }
+  },
+  "01058": {
+   "name": "Rendsburg-Eckernförde",
+   "beteiligung": 54.5,
+   "parteien": {
+    "CDU": 36.5,
+    "SPD": 18.7,
+    "GRÜNE": 16.1,
+    "SSW": 9.2,
+    "AfD": 7.4,
+    "FDP": 5.5,
+    "Sonstige": 4.3,
+    "DIE LINKE": 1.4,
+    "Die PARTEI": 0.8,
+    "PIRATEN": 0.1
+   }
+  },
+  "01059": {
+   "name": "Schleswig-Flensburg",
+   "beteiligung": 54.0,
+   "parteien": {
+    "CDU": 34.6,
+    "SSW": 16.5,
+    "SPD": 16.2,
+    "GRÜNE": 14.5,
+    "AfD": 7.0,
+    "FDP": 4.8,
+    "FREIE WÄHLER": 3.1,
+    "DIE LINKE": 1.5,
+    "Sonstige": 1.4,
+    "Volt": 0.2
+   }
+  },
+  "01060": {
+   "name": "Segeberg",
+   "beteiligung": 47.8,
+   "parteien": {
+    "CDU": 36.9,
+    "SPD": 18.3,
+    "GRÜNE": 16.8,
+    "AfD": 10.3,
+    "FDP": 8.5,
+    "FREIE WÄHLER": 4.4,
+    "DIE LINKE": 2.1,
+    "Die PARTEI": 1.5,
+    "Sonstige": 1.4
+   }
+  },
+  "01061": {
+   "name": "Steinburg",
+   "beteiligung": 51.9,
+   "parteien": {
+    "CDU": 40.5,
+    "SPD": 18.4,
+    "GRÜNE": 14.2,
+    "AfD": 10.6,
+    "Sonstige": 6.0,
+    "FDP": 5.9,
+    "FREIE WÄHLER": 4.3
+   }
+  },
+  "01062": {
+   "name": "Stormarn",
+   "beteiligung": 50.4,
+   "parteien": {
+    "CDU": 35.1,
+    "GRÜNE": 20.0,
+    "SPD": 19.8,
+    "FDP": 8.7,
+    "AfD": 8.3,
+    "Sonstige": 3.6,
+    "FREIE WÄHLER": 2.4,
+    "DIE LINKE": 2.1,
+    "Die PARTEI": 0.1
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

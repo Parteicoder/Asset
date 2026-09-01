@@ -1,0 +1,40 @@
+{
+ "land": "02",
+ "name": "Hamburg",
+ "titel": "Bürgerschaftswahl Hamburg 2025",
+ "jahr": 2025,
+ "wahl_datum": "2025-03-02",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Wahl je Land, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/state_elections/final/state_harm_25.csv?download=",
+ "dataset": "state_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "02000000": {
+   "name": "Hamburg, Freie und Hansestadt",
+   "beteiligung": 67.6,
+   "parteien": {
+    "SPD": 33.5,
+    "CDU": 19.8,
+    "GRÜNE": 18.5,
+    "DIE LINKE": 11.2,
+    "AfD": 7.5,
+    "Volt": 3.2,
+    "FDP": 2.3,
+    "BSW": 1.8,
+    "Dava Hamburg": 0.6,
+    "Tierschutzpartei": 0.6,
+    "Die PARTEI": 0.4,
+    "FREIE WÄHLER": 0.3,
+    "DieWahl": 0.2,
+    "ÖDP": 0.2,
+    "BÜNDNIS DEUTSCHLAND": 0.1
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

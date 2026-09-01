@@ -1,0 +1,245 @@
+{
+ "land": "16",
+ "name": "Thüringen",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Thüringen 2024",
+ "jahr": 2024,
+ "wahl_datum": "",
+ "schluesselart": "kreis-ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Kreistagswahl je Land, nur Landkreise, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_elec_harm_21_cty.csv?download=",
+ "dataset": "county_elec_harm_21_cty",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "kreisverzeichnis_dataset": "county_council_seats",
+ "kreisverzeichnis_url": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/county_elections/final/county_council_seats.csv?download=",
+ "gebiete": {
+  "16061": {
+   "name": "Eichsfeld",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 45.0,
+    "Sonstige": 22.3,
+    "AfD": 20.6,
+    "DIE LINKE": 3.2,
+    "SPD": 3.2,
+    "FDP": 3.0,
+    "GRÜNE": 2.6
+   }
+  },
+  "16062": {
+   "name": "Nordhausen",
+   "beteiligung": 58.6,
+   "parteien": {
+    "AfD": 33.3,
+    "CDU": 23.4,
+    "SPD": 12.8,
+    "Sonstige": 11.7,
+    "DIE LINKE": 11.0,
+    "FDP": 4.1,
+    "GRÜNE": 3.7
+   }
+  },
+  "16063": {
+   "name": "Wartburgkreis",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 31.3,
+    "AfD": 26.7,
+    "Sonstige": 11.0,
+    "BSW": 10.4,
+    "SPD": 10.1,
+    "DIE LINKE": 5.9,
+    "GRÜNE": 3.1,
+    "FDP": 1.6
+   }
+  },
+  "16064": {
+   "name": "Unstrut-Hainich-Kreis",
+   "beteiligung": 62.7,
+   "parteien": {
+    "AfD": 23.6,
+    "SPD": 22.0,
+    "CDU": 21.8,
+    "Sonstige": 21.3,
+    "DIE LINKE": 6.4,
+    "GRÜNE": 2.7,
+    "FDP": 2.1
+   }
+  },
+  "16065": {
+   "name": "Kyffhäuserkreis",
+   "beteiligung": 61.7,
+   "parteien": {
+    "AfD": 31.2,
+    "SPD": 24.3,
+    "CDU": 23.8,
+    "DIE LINKE": 9.9,
+    "Sonstige": 8.5,
+    "GRÜNE": 1.2,
+    "FDP": 1.1
+   }
+  },
+  "16066": {
+   "name": "Schmalkalden-Meiningen",
+   "beteiligung": 63.4,
+   "parteien": {
+    "AfD": 27.7,
+    "CDU": 24.5,
+    "SPD": 23.9,
+    "FREIE WÄHLER": 8.4,
+    "DIE LINKE": 6.0,
+    "Sonstige": 3.6,
+    "FDP": 3.2,
+    "GRÜNE": 2.6
+   }
+  },
+  "16067": {
+   "name": "Gotha",
+   "beteiligung": 61.7,
+   "parteien": {
+    "AfD": 27.2,
+    "CDU": 23.0,
+    "SPD": 23.0,
+    "BSW": 12.4,
+    "Sonstige": 6.0,
+    "DIE LINKE": 4.0,
+    "GRÜNE": 2.8,
+    "FDP": 1.6
+   }
+  },
+  "16068": {
+   "name": "Sömmerda",
+   "beteiligung": 64.7,
+   "parteien": {
+    "CDU": 34.3,
+    "AfD": 32.3,
+    "DIE LINKE": 13.8,
+    "SPD": 5.4,
+    "Sonstige": 5.4,
+    "FREIE WÄHLER": 5.1,
+    "GRÜNE": 2.0,
+    "FDP": 1.6
+   }
+  },
+  "16069": {
+   "name": "Hildburghausen",
+   "beteiligung": 67.4,
+   "parteien": {
+    "Sonstige": 47.1,
+    "CDU": 23.3,
+    "AfD": 18.1,
+    "DIE LINKE": 6.7,
+    "SPD": 4.8
+   }
+  },
+  "16070": {
+   "name": "Ilm-Kreis",
+   "beteiligung": 65.5,
+   "parteien": {
+    "AfD": 30.9,
+    "CDU": 23.9,
+    "Sonstige": 17.3,
+    "DIE LINKE": 11.5,
+    "SPD": 8.5,
+    "GRÜNE": 5.5,
+    "FDP": 2.5
+   }
+  },
+  "16071": {
+   "name": "Weimarer Land",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CDU": 33.9,
+    "AfD": 26.4,
+    "Sonstige": 18.3,
+    "DIE LINKE": 7.4,
+    "SPD": 7.2,
+    "GRÜNE": 3.7,
+    "FDP": 3.1
+   }
+  },
+  "16072": {
+   "name": "Sonneberg",
+   "beteiligung": 60.4,
+   "parteien": {
+    "AfD": 34.7,
+    "CDU": 24.0,
+    "Sonstige": 18.6,
+    "DIE LINKE": 8.5,
+    "BSW": 7.6,
+    "SPD": 3.8,
+    "FDP": 1.5,
+    "GRÜNE": 1.2
+   }
+  },
+  "16073": {
+   "name": "Saalfeld-Rudolstadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "Sonstige": 27.4,
+    "CDU": 26.5,
+    "AfD": 18.9,
+    "SPD": 14.2,
+    "DIE LINKE": 7.3,
+    "FDP": 3.2,
+    "GRÜNE": 2.4
+   }
+  },
+  "16074": {
+   "name": "Saale-Holzland-Kreis",
+   "beteiligung": 68.9,
+   "parteien": {
+    "Sonstige": 29.1,
+    "CDU": 27.1,
+    "AfD": 27.0,
+    "DIE LINKE": 11.1,
+    "GRÜNE": 3.3,
+    "FDP": 2.4
+   }
+  },
+  "16075": {
+   "name": "Saale-Orla-Kreis",
+   "beteiligung": 63.6,
+   "parteien": {
+    "CDU": 36.3,
+    "AfD": 33.5,
+    "Sonstige": 16.4,
+    "DIE LINKE": 8.3,
+    "FDP": 3.6,
+    "GRÜNE": 1.9
+   }
+  },
+  "16076": {
+   "name": "Greiz",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 36.3,
+    "AfD": 26.8,
+    "Sonstige": 12.2,
+    "BSW": 11.1,
+    "SPD": 5.6,
+    "DIE LINKE": 4.6,
+    "GRÜNE": 2.0,
+    "FDP": 1.4
+   }
+  },
+  "16077": {
+   "name": "Altenburger Land",
+   "beteiligung": 58.7,
+   "parteien": {
+    "AfD": 31.3,
+    "CDU": 27.3,
+    "Sonstige": 15.3,
+    "SPD": 11.6,
+    "DIE LINKE": 10.5,
+    "FDP": 2.0,
+    "GRÜNE": 1.9
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

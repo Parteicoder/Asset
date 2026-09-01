@@ -1,0 +1,54 @@
+{
+ "land": "04",
+ "name": "Bremen",
+ "titel": "Bürgerschaftswahl Bremen 2023",
+ "jahr": 2023,
+ "wahl_datum": "2023-05-14",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Wahl je Land, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/state_elections/final/state_harm_25.csv?download=",
+ "dataset": "state_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "04011000": {
+   "name": "Bremen, Stadt",
+   "beteiligung": 59.6,
+   "parteien": {
+    "SPD": 29.9,
+    "CDU": 26.9,
+    "GRÜNE": 11.7,
+    "DIE LINKE": 11.6,
+    "BIW": 7.4,
+    "FDP": 5.1,
+    "Volt": 2.3,
+    "Tierschutzpartei": 1.3,
+    "Die PARTEI": 1.1,
+    "dieBasis": 0.9,
+    "Mera25": 0.7,
+    "GFA": 0.5,
+    "ÖDP": 0.3,
+    "MLPD": 0.2,
+    "Verjuengungsforschung": 0.1
+   }
+  },
+  "04012000": {
+   "name": "Bremerhaven, Stadt",
+   "beteiligung": 44.0,
+   "parteien": {
+    "SPD": 29.0,
+    "BIW": 22.7,
+    "CDU": 21.3,
+    "GRÜNE": 13.2,
+    "DIE LINKE": 6.1,
+    "FDP": 5.2,
+    "PIRATEN": 1.3,
+    "ÖDP": 1.1
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

@@ -1,0 +1,1099 @@
+{
+ "land": "09",
+ "name": "Bayern",
+ "wahlart": "kreistag",
+ "titel": "Kreistagswahl Bayern 2026",
+ "jahr": 2026,
+ "wahl_datum": "2026-03-08",
+ "schluesselart": "kreis-ags",
+ "quelle": "Bayerisches Landesamt für Statistik",
+ "quellenvermerk": "Datenquelle: Bayerisches Landesamt für Statistik, endgültiges Ergebnis der Kreistagswahlen vom 8. März 2026; eigene Aufbereitung (gewichtete Stimmenanteile gemäß Kumulieren/Panaschieren)",
+ "lizenz": "Vervielfältigung und Weiterverbreitung mit Quellenangabe gestattet (§ 9 AGB des Bayerischen Landesamts für Statistik)",
+ "lizenz_url": "https://www.statistik.bayern.de/meta/agb/index.html",
+ "quellendatei": "https://kommunalwahl2026.bayern.de/downloads/gremienwahl/Kommunalwahl_Gremien_Landkreise.xml",
+ "quellenseite": "https://www.statistik.bayern.de/wahlen/kommunalwahlen/index.html",
+ "gebiete": {
+  "09171": {
+   "name": "Altötting",
+   "beteiligung": 58.5,
+   "parteien": {
+    "CSU": 38.7,
+    "AfD": 14.5,
+    "SPD": 13.1,
+    "Freie Wähler": 12.1,
+    "GRÜNE": 8.9,
+    "Junge Liste im Landkreis Altötting e.V.": 6.3,
+    "ÖDP": 3.0,
+    "FDP": 1.7,
+    "Die Linke": 1.6
+   }
+  },
+  "09172": {
+   "name": "Berchtesgadener Land",
+   "beteiligung": 58.6,
+   "parteien": {
+    "CSU": 31.6,
+    "FREIE WÄHLER/Freie Wähler Berchtesgadener Land": 22.2,
+    "GRÜNE": 14.1,
+    "AfD": 10.6,
+    "SPD": 6.4,
+    "Junge Union": 3.8,
+    "Gemeinde und Kreis": 3.5,
+    "Die Linke": 2.4,
+    "Bürgerliste Reichenhall": 2.3,
+    "ÖDP": 1.9,
+    "FDP": 1.2
+   }
+  },
+  "09173": {
+   "name": "Bad Tölz-Wolfratshausen",
+   "beteiligung": 62.8,
+   "parteien": {
+    "CSU": 34.5,
+    "FREIE WÄHLER/Fr.Wähler Kreisverband Bad Tölz-Wolfratshausen": 24.1,
+    "GRÜNE": 17.7,
+    "AfD": 11.0,
+    "SPD": 7.3,
+    "Die Linke": 3.1,
+    "ÖDP": 2.4
+   }
+  },
+  "09174": {
+   "name": "Dachau",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CSU": 36.5,
+    "GRÜNE": 12.5,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Dachau e.V.": 11.8,
+    "SPD": 11.7,
+    "AfD": 10.6,
+    "Bündnis für Dachau / Volt": 3.9,
+    "Freie Wähler Dachau e.V.": 3.5,
+    "ÖDP": 3.0,
+    "Die Linke": 2.5,
+    "Junge Liste im Landkreis Dachau e.V.": 1.9,
+    "FDP": 1.5,
+    "WIR - für Heimat, Werte und Zukunft e.V.": 0.6
+   }
+  },
+  "09175": {
+   "name": "Ebersberg",
+   "beteiligung": 66.8,
+   "parteien": {
+    "CSU": 41.0,
+    "GRÜNE": 19.2,
+    "SPD": 12.0,
+    "AfD": 10.5,
+    "FREIE WÄHLER": 7.6,
+    "FDP": 3.8,
+    "Die Linke": 3.6,
+    "ÖDP": 2.2
+   }
+  },
+  "09176": {
+   "name": "Eichstätt",
+   "beteiligung": 70.8,
+   "parteien": {
+    "CSU": 35.1,
+    "FREIE WÄHLER": 16.2,
+    "AfD": 13.9,
+    "SPD": 10.9,
+    "GRÜNE": 8.4,
+    "Junge Union": 5.7,
+    "Junge Freie Wähler Bayern": 4.9,
+    "Die Linke": 2.7,
+    "ÖDP": 2.2
+   }
+  },
+  "09177": {
+   "name": "Erding",
+   "beteiligung": 66.8,
+   "parteien": {
+    "CSU": 39.7,
+    "FREIE WÄHLER/Freie Wählerschaft d. Landkreises Erding e.V.": 18.1,
+    "AfD": 13.8,
+    "GRÜNE": 10.7,
+    "SPD": 8.3,
+    "ÖDP": 4.3,
+    "Die Linke": 3.3,
+    "FDP": 1.8
+   }
+  },
+  "09178": {
+   "name": "Freising",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CSU": 28.1,
+    "FREIE WÄHLER/Freie Wähler - Kreis Freising e.V.": 19.1,
+    "GRÜNE": 17.7,
+    "AfD": 10.6,
+    "Freisinger Mitte e.V.": 7.8,
+    "SPD": 7.3,
+    "Die Linke": 3.8,
+    "ÖDP": 3.1,
+    "FDP": 2.4
+   }
+  },
+  "09179": {
+   "name": "Fürstenfeldbruck",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CSU": 37.0,
+    "GRÜNE": 18.9,
+    "SPD": 11.7,
+    "FREIE WÄHLER": 9.4,
+    "AfD": 9.2,
+    "Unabhängige Bürgervereinigungen": 5.9,
+    "Die Linke": 3.3,
+    "FDP": 2.4,
+    "ÖDP/Parteifreie Bürger": 2.2
+   }
+  },
+  "09180": {
+   "name": "Garmisch-Partenkirchen",
+   "beteiligung": 65.0,
+   "parteien": {
+    "CSU": 31.2,
+    "Freie Wähler der Landkreisgemeinden": 19.6,
+    "FREIE WÄHLER": 11.2,
+    "GRÜNE": 11.0,
+    "SPD": 8.0,
+    "AfD": 7.9,
+    "ÖDP": 6.1,
+    "Die Linke": 2.9,
+    "BP": 1.4,
+    "FDP": 0.9
+   }
+  },
+  "09181": {
+   "name": "Landsberg am Lech",
+   "beteiligung": 68.6,
+   "parteien": {
+    "CSU": 34.4,
+    "GRÜNE": 21.7,
+    "SPD": 8.9,
+    "Freie Wähler Kreisverband Landsberg": 8.8,
+    "AfD": 6.8,
+    "Unabhängige Bürgervereinigung": 5.3,
+    "Die Linke": 4.1,
+    "BP": 3.8,
+    "ÖDP": 3.3,
+    "FDP": 2.1,
+    "Die PARTEI": 0.7
+   }
+  },
+  "09182": {
+   "name": "Miesbach",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CSU": 33.5,
+    "GRÜNE": 15.2,
+    "Freie Wählergemeinschaft Landkreis Miesbach": 15.2,
+    "FREIE WÄHLER": 9.6,
+    "AfD": 8.6,
+    "SPD": 8.3,
+    "Junge Union": 2.6,
+    "BP": 2.5,
+    "Die Linke": 2.3,
+    "FDP": 1.8,
+    "Martin´s KreisProjekt - Neue Perspektiven für den Lkr. MB": 0.3
+   }
+  },
+  "09183": {
+   "name": "Mühldorf a.Inn",
+   "beteiligung": 60.5,
+   "parteien": {
+    "CSU": 39.6,
+    "AfD": 15.5,
+    "Unabhängige Wählergemeinschaft im Landkreis Mühldorf a. Inn": 10.4,
+    "GRÜNE": 10.0,
+    "SPD": 8.3,
+    "Wählergemeinschaft Landkreis Mühldorf-West e.V.": 6.4,
+    "Junge Liste im Landkreis Mühldorf a.Inn e. V.": 3.7,
+    "ÖDP": 3.1,
+    "FDP": 1.6,
+    "Die Linke": 1.5
+   }
+  },
+  "09184": {
+   "name": "München",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CSU": 38.1,
+    "GRÜNE": 20.7,
+    "SPD": 13.0,
+    "AfD": 8.4,
+    "FREIE WÄHLER": 5.6,
+    "FDP": 3.9,
+    "Die Linke": 3.5,
+    "Unabhängige Bürgergemeinschaft München-Land": 3.1,
+    "Junge Union": 1.9,
+    "ÖDP": 1.7
+   }
+  },
+  "09185": {
+   "name": "Neuburg-Schrobenhausen",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CSU": 31.8,
+    "FREIE WÄHLER/Fr.Wähler Kreisverband Neuburg-Schrobenhausen": 22.2,
+    "AfD": 12.5,
+    "GRÜNE": 9.7,
+    "SPD": 7.3,
+    "Junge Union": 5.9,
+    "Die Unabhängigen Schrobenhausener": 3.8,
+    "Schrobenhausener Wählergemeinschaft e.V.": 3.3,
+    "FDP": 2.2,
+    "ÖDP": 1.3
+   }
+  },
+  "09186": {
+   "name": "Pfaffenhofen a.d.Ilm",
+   "beteiligung": 65.9,
+   "parteien": {
+    "CSU": 29.3,
+    "FREIE WÄHLER/Fr.Wähler Kreisverb.Pfaffenhofen a.d.Ilm e.V.": 19.0,
+    "AfD": 13.8,
+    "SPD": 12.1,
+    "GRÜNE": 9.3,
+    "Bürgerliste Landkreis Pfaffenhofen a.d.Ilm e.V.": 6.0,
+    "ÖDP": 3.6,
+    "Junge- und Familienliste Lkr. Pfaffenhofen/Jg. Union Bayern": 2.7,
+    "Die Linke": 2.4,
+    "FDP": 1.8
+   }
+  },
+  "09187": {
+   "name": "Rosenheim",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CSU": 35.2,
+    "AfD": 14.1,
+    "GRÜNE": 13.6,
+    "FREIE WÄHLER": 13.2,
+    "Parteifreie/Überparteiliche Wählergemeinschaften": 7.1,
+    "SPD": 7.1,
+    "Die Linke": 3.5,
+    "ÖDP/Parteifreie Umweltschützer": 2.6,
+    "BP": 2.3,
+    "FDP": 1.3
+   }
+  },
+  "09188": {
+   "name": "Starnberg",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CSU": 39.1,
+    "GRÜNE": 22.0,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Starnberg e.V.": 10.2,
+    "SPD": 8.7,
+    "AfD": 8.1,
+    "FDP": 6.3,
+    "Die Linke": 3.2,
+    "ÖDP": 2.4
+   }
+  },
+  "09189": {
+   "name": "Traunstein",
+   "beteiligung": 61.2,
+   "parteien": {
+    "CSU": 33.8,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Traunstein e.V.": 20.5,
+    "GRÜNE": 13.4,
+    "AfD": 10.7,
+    "SPD": 8.5,
+    "Junge Liste im Landkreis Traunstein e.V.": 4.5,
+    "ÖDP": 3.0,
+    "Die Linke": 2.8,
+    "BP/Chiemgau-Ruperti-Liste e.V.": 2.8
+   }
+  },
+  "09190": {
+   "name": "Weilheim-Schongau",
+   "beteiligung": 68.8,
+   "parteien": {
+    "CSU": 33.9,
+    "Bürger für den Landkreis Weilheim-Schongau": 13.0,
+    "GRÜNE": 13.0,
+    "AfD": 11.1,
+    "SPD": 10.8,
+    "FREIE WÄHLER": 6.8,
+    "ÖDP": 3.6,
+    "Die Linke": 3.4,
+    "Bürger für Penzberg": 2.0,
+    "FDP": 1.8,
+    "BP": 0.6
+   }
+  },
+  "09271": {
+   "name": "Deggendorf",
+   "beteiligung": 62.8,
+   "parteien": {
+    "CSU": 36.3,
+    "AfD": 18.4,
+    "FREIE WÄHLER": 17.3,
+    "SPD": 7.7,
+    "Junge Liste im Landkreis Deggendorf e.V.": 6.7,
+    "GRÜNE": 6.4,
+    "BP": 2.7,
+    "Die Linke": 1.8,
+    "ÖDP": 1.7,
+    "FDP": 1.1
+   }
+  },
+  "09272": {
+   "name": "Freyung-Grafenau",
+   "beteiligung": 69.6,
+   "parteien": {
+    "CSU": 32.8,
+    "AfD": 15.8,
+    "FREIE WÄHLER": 11.2,
+    "Christliche Wählergemeinschaft - Freie Wähler": 9.8,
+    "SPD": 7.5,
+    "Junge Wähler Union Freyung-Grafenau": 7.4,
+    "GRÜNE": 5.8,
+    "BP": 4.7,
+    "ÖDP/Familienbündnis Freyung-Grafenau": 2.9,
+    "FDP": 2.1
+   }
+  },
+  "09273": {
+   "name": "Kelheim",
+   "beteiligung": 65.4,
+   "parteien": {
+    "CSU": 26.7,
+    "FREIE WÄHLER/Freie Wähler Landkreis Kelheim": 18.0,
+    "AfD": 14.1,
+    "Stadt-Land-Union": 9.3,
+    "SPD": 8.8,
+    "GRÜNE": 8.5,
+    "ÖDP": 5.7,
+    "Junge Liste": 4.3,
+    "FDP": 3.3,
+    "BP": 1.2
+   }
+  },
+  "09274": {
+   "name": "Landshut",
+   "beteiligung": 65.7,
+   "parteien": {
+    "CSU": 26.5,
+    "FREIE WÄHLER": 24.8,
+    "AfD": 14.1,
+    "SPD": 8.4,
+    "GRÜNE": 7.9,
+    "Junge Liste im Landkreis Landshut": 4.5,
+    "ÖDP": 4.1,
+    "Frauen für den Landkreis Landshut": 2.7,
+    "Die Linke": 2.5,
+    "FDP": 2.3,
+    "Junge Wähler": 2.2
+   }
+  },
+  "09275": {
+   "name": "Passau",
+   "beteiligung": 65.4,
+   "parteien": {
+    "CSU": 33.2,
+    "AfD": 18.0,
+    "FREIE WÄHLER/Freie Wählergemeinschaft": 12.6,
+    "SPD": 8.8,
+    "Überparteiliche Wählergemeinschaft im Landkreis Passau": 5.7,
+    "GRÜNE": 5.3,
+    "ÖDP/Parteifreie Umweltschützer": 4.9,
+    "Bürgerunion im Landkreis Passau": 4.6,
+    "Junge Union": 4.1,
+    "Die Linke": 1.8,
+    "FDP": 1.1
+   }
+  },
+  "09276": {
+   "name": "Regen",
+   "beteiligung": 65.5,
+   "parteien": {
+    "CSU": 30.9,
+    "AfD": 18.2,
+    "FREIE WÄHLER Bayern/Unabhängige und Freie Wähler": 12.5,
+    "SPD": 11.8,
+    "Gemeinschaft Freie Wähler": 7.1,
+    "GRÜNE": 5.7,
+    "Junge Union": 5.1,
+    "IG-Frauen Landkreis Regen": 3.3,
+    "ÖDP": 3.0,
+    "Die Linke": 1.4,
+    "FDP": 0.9
+   }
+  },
+  "09277": {
+   "name": "Rottal-Inn",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CSU": 32.1,
+    "Freie Wähler Rottal-Inn e.V.": 17.9,
+    "AfD": 14.8,
+    "GRÜNE": 8.1,
+    "SPD": 7.6,
+    "Ökologisch-Demokratische Partei / Parteifreie Bürger": 7.3,
+    "Unabhängige Wähler e.V. im Landkreis Rottal-Inn": 6.1,
+    "Junge Union": 3.8,
+    "Die Linke": 1.3,
+    "FDP": 1.0
+   }
+  },
+  "09278": {
+   "name": "Straubing-Bogen",
+   "beteiligung": 70.4,
+   "parteien": {
+    "CSU": 39.9,
+    "FREIE WÄHLER/FW - Freie Wähler Kreisverband Straubing-Bogen": 23.4,
+    "AfD": 16.0,
+    "ÖDP/Parteifreie Umweltschützerinnen und Umweltschützer": 7.3,
+    "SPD": 6.8,
+    "GRÜNE": 4.6,
+    "Die Linke": 2.0
+   }
+  },
+  "09279": {
+   "name": "Dingolfing-Landau",
+   "beteiligung": 62.4,
+   "parteien": {
+    "CSU": 28.3,
+    "AfD": 16.2,
+    "FREIE WÄHLER": 13.4,
+    "PRO Dingolfing-Landau": 9.8,
+    "SPD": 8.2,
+    "Liste \"Junge Bürger\"": 6.3,
+    "Freie Junge Wähler": 5.9,
+    "ÖDP/Aktive Bürger": 5.4,
+    "GRÜNE": 4.8,
+    "FDP": 1.6
+   }
+  },
+  "09371": {
+   "name": "Amberg-Sulzbach",
+   "beteiligung": 70.7,
+   "parteien": {
+    "CSU": 38.0,
+    "FREIE WÄHLER": 17.1,
+    "SPD": 14.5,
+    "Junge Union": 7.8,
+    "GRÜNE": 7.4,
+    "AfD": 4.6,
+    "Freie Demokratische Partei/Freie Wählerschaft": 4.5,
+    "ÖDP": 3.5,
+    "Die Linke": 2.5
+   }
+  },
+  "09372": {
+   "name": "Cham",
+   "beteiligung": 70.9,
+   "parteien": {
+    "CSU": 25.9,
+    "AfD": 13.9,
+    "FREIE WÄHLER Chamer Land": 9.6,
+    "FREIE WÄHLER Rodinger Land": 8.3,
+    "FREIE WÄHLER Kötztinger Land": 8.2,
+    "Gemeinsame Liste des ehem. Landkreises Waldmünchen": 8.1,
+    "Hohenbogenliste": 6.5,
+    "Grenzfahne": 5.1,
+    "SPD": 4.8,
+    "GRÜNE": 4.1,
+    "Junge Union": 3.0,
+    "Die Linke": 1.6,
+    "FDP": 1.0
+   }
+  },
+  "09373": {
+   "name": "Neumarkt i.d.OPf.",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CSU": 38.6,
+    "FREIE WÄHLER": 21.4,
+    "GRÜNE": 9.3,
+    "SPD": 9.2,
+    "AfD": 6.8,
+    "Junge Union": 6.5,
+    "ÖDP": 3.5,
+    "Die Linke": 3.0,
+    "FDP": 1.7
+   }
+  },
+  "09374": {
+   "name": "Neustadt a.d.Waldnaab",
+   "beteiligung": 73.8,
+   "parteien": {
+    "CSU": 38.8,
+    "AfD": 16.5,
+    "SPD": 14.1,
+    "FREIE WÄHLER/FW Kreisverband Neustadt a.d.Waldnaab": 12.8,
+    "Junge Union": 7.5,
+    "GRÜNE": 5.0,
+    "ÖDP": 3.0,
+    "Die Linke": 2.3
+   }
+  },
+  "09375": {
+   "name": "Regensburg",
+   "beteiligung": 70.0,
+   "parteien": {
+    "CSU": 31.6,
+    "FREIE WÄHLER": 24.4,
+    "AfD": 15.1,
+    "GRÜNE": 9.8,
+    "SPD": 8.7,
+    "Junge Union": 3.7,
+    "ÖDP/Parteifreie Umweltschützer": 2.9,
+    "Die Linke": 2.0,
+    "FDP": 1.8
+   }
+  },
+  "09376": {
+   "name": "Schwandorf",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CSU": 33.8,
+    "AfD": 18.3,
+    "FREIE WÄHLER": 14.4,
+    "SPD": 13.5,
+    "GRÜNE": 5.0,
+    "ÖDP": 3.5,
+    "Christl. Wählergemeinschaft Schwandorf/Unabhängige Wähler": 3.2,
+    "Junge Union": 3.2,
+    "Die Linke": 2.4,
+    "Junge Wähler": 2.1,
+    "FDP": 0.6
+   }
+  },
+  "09377": {
+   "name": "Tirschenreuth",
+   "beteiligung": 74.8,
+   "parteien": {
+    "CSU": 35.1,
+    "FREIE WÄHLER/FREIE WÄHLER Kreisverband Tirschenreuth": 20.0,
+    "AfD": 13.6,
+    "SPD": 11.6,
+    "Zukunft Landkreis Tirschenreuth": 10.7,
+    "GRÜNE": 5.9,
+    "Die Linke": 2.4,
+    "FDP": 0.8
+   }
+  },
+  "09471": {
+   "name": "Bamberg",
+   "beteiligung": 73.1,
+   "parteien": {
+    "CSU": 37.2,
+    "AfD": 18.1,
+    "FREIE WÄHLER/Überparteiliche Wählergemeinschaft": 10.6,
+    "SPD": 10.3,
+    "GRÜNE/Alternative Liste": 10.1,
+    "Bürgerblock": 8.0,
+    "ÖDP/Parteifreie": 2.0,
+    "FDP": 1.9,
+    "Die Linke": 1.7
+   }
+  },
+  "09472": {
+   "name": "Bayreuth",
+   "beteiligung": 73.4,
+   "parteien": {
+    "CSU": 27.5,
+    "Freie Wählergemeinschaft Landkreis Bayreuth": 18.5,
+    "AfD": 14.0,
+    "SPD": 11.1,
+    "Wahlgemeinschaft Landkreis Bayreuth": 9.6,
+    "GRÜNE": 9.1,
+    "Junge Liste": 7.1,
+    "FDP": 1.8,
+    "Die Linke": 1.2
+   }
+  },
+  "09473": {
+   "name": "Coburg",
+   "beteiligung": 67.0,
+   "parteien": {
+    "CSU/Landvolk": 32.0,
+    "SPD": 16.1,
+    "Freie Wähler - Coburger Land e.V.": 15.5,
+    "AfD": 14.7,
+    "GRÜNE": 7.8,
+    "Unabhängige Landkreis Bürger e.V.": 6.3,
+    "Junge Union": 2.7,
+    "ÖDP": 2.5,
+    "Die Linke": 2.3
+   }
+  },
+  "09474": {
+   "name": "Forchheim",
+   "beteiligung": 71.8,
+   "parteien": {
+    "CSU": 32.6,
+    "FREIE WÄHLER": 18.5,
+    "GRÜNE": 13.4,
+    "AfD": 11.7,
+    "SPD": 10.2,
+    "Junge Bürger": 8.3,
+    "Die Linke": 2.7,
+    "FDP": 2.5
+   }
+  },
+  "09475": {
+   "name": "Hof",
+   "beteiligung": 70.5,
+   "parteien": {
+    "CSU": 40.5,
+    "SPD": 17.3,
+    "AfD": 14.7,
+    "FREIE WÄHLER/Freie Wähler e.V. Kreisverband Hof": 10.2,
+    "GRÜNE": 6.1,
+    "Junge Union": 6.1,
+    "Aktive Landkreisbürger": 2.6,
+    "Die Linke": 1.6,
+    "FDP": 0.9
+   }
+  },
+  "09476": {
+   "name": "Kronach",
+   "beteiligung": 70.8,
+   "parteien": {
+    "CSU": 35.3,
+    "SPD": 16.3,
+    "FREIE WÄHLER": 15.6,
+    "AfD": 15.4,
+    "Junge Union": 9.0,
+    "GRÜNE": 5.9,
+    "Die Linke": 2.5
+   }
+  },
+  "09477": {
+   "name": "Kulmbach",
+   "beteiligung": 71.7,
+   "parteien": {
+    "CSU": 31.8,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Kulmbach e.V.": 16.9,
+    "AfD": 12.7,
+    "SPD": 12.4,
+    "Wählergemeinschaft Kulmbach e.V.": 8.9,
+    "GRÜNE": 6.7,
+    "Junge Union": 6.3,
+    "Die Linke": 2.6,
+    "FDP": 1.6
+   }
+  },
+  "09478": {
+   "name": "Lichtenfels",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CSU": 35.3,
+    "FREIE WÄHLER": 16.1,
+    "AfD": 15.8,
+    "SPD": 12.0,
+    "GRÜNE": 8.7,
+    "Junge Union": 5.8,
+    "Soziale Bürger": 4.0,
+    "Die Linke": 2.4
+   }
+  },
+  "09479": {
+   "name": "Wunsiedel i.Fichtelgebirge",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CSU": 39.9,
+    "SPD": 19.3,
+    "FREIE WÄHLER": 16.2,
+    "AfD": 15.8,
+    "GRÜNE": 5.9,
+    "Die Linke": 2.8
+   }
+  },
+  "09571": {
+   "name": "Ansbach",
+   "beteiligung": 67.7,
+   "parteien": {
+    "CSU": 32.3,
+    "FREIE WÄHLER/FREIE WÄHLER Kreisverband Ansbach e.V.": 22.1,
+    "AfD": 14.1,
+    "GRÜNE": 12.1,
+    "SPD": 10.4,
+    "ÖDP": 3.6,
+    "Die Linke": 3.1,
+    "FDP": 2.3
+   }
+  },
+  "09572": {
+   "name": "Erlangen-Höchstadt",
+   "beteiligung": 71.0,
+   "parteien": {
+    "CSU": 33.0,
+    "GRÜNE": 16.4,
+    "FREIE WÄHLER/FREIE WÄHLER Erlangen-Höchstadt": 15.6,
+    "SPD": 13.8,
+    "AfD": 11.1,
+    "Junge Union": 4.1,
+    "Die Linke": 4.0,
+    "FDP": 2.0
+   }
+  },
+  "09573": {
+   "name": "Fürth",
+   "beteiligung": 66.4,
+   "parteien": {
+    "CSU": 36.4,
+    "SPD": 15.9,
+    "GRÜNE": 14.3,
+    "AfD": 14.0,
+    "FREIE WÄHLER": 10.5,
+    "Die Linke": 4.5,
+    "FDP": 2.7,
+    "ÖDP": 1.7
+   }
+  },
+  "09574": {
+   "name": "Nürnberger Land",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CSU": 28.5,
+    "FREIE WÄHLER/FREIE WÄHLER Nürnberger Land": 21.4,
+    "GRÜNE": 14.9,
+    "SPD": 13.8,
+    "AfD": 11.9,
+    "Die Linke": 4.8,
+    "FDP": 2.2,
+    "Bunte Liste Bürgerdemokratie": 1.3,
+    "ÖDP": 1.2
+   }
+  },
+  "09575": {
+   "name": "Neustadt a.d.Aisch-Bad Windsheim",
+   "beteiligung": 68.1,
+   "parteien": {
+    "CSU": 33.4,
+    "Freie Wählergemeinschaft": 15.2,
+    "AfD": 13.3,
+    "SPD": 11.2,
+    "GRÜNE": 10.3,
+    "Unabhängige Wählergemeinschaft": 7.2,
+    "Die Linke": 3.3,
+    "ÖDP": 2.2,
+    "Windsheimer und Ortsteilbürger ins Rathaus": 2.2,
+    "FDP": 1.7
+   }
+  },
+  "09576": {
+   "name": "Roth",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CSU": 32.7,
+    "FREIE WÄHLER/FREIE WÄHLER Kreisverband Roth": 17.2,
+    "SPD": 16.4,
+    "AfD": 13.1,
+    "GRÜNE": 12.1,
+    "Die Linke": 3.4,
+    "FDP": 3.1,
+    "Christliche Wählergemeinschaft Landkreis Roth e. V.": 1.9
+   }
+  },
+  "09577": {
+   "name": "Weißenburg-Gunzenhausen",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CSU": 37.7,
+    "FREIE WÄHLER/FREIE WÄHLER Weißenburg-Gunzenhausen": 15.8,
+    "SPD": 14.3,
+    "AfD": 13.7,
+    "GRÜNE": 10.9,
+    "ÖDP": 3.0,
+    "Die Linke": 2.9,
+    "FDP": 1.7
+   }
+  },
+  "09671": {
+   "name": "Aschaffenburg",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CSU": 39.4,
+    "AfD": 14.5,
+    "GRÜNE": 12.9,
+    "SPD": 12.5,
+    "FREIE WÄHLER/Freie Wähler Aschaffenburg e.V.": 11.4,
+    "Die Linke": 3.9,
+    "FDP": 3.2,
+    "Neue Mitte": 2.3
+   }
+  },
+  "09672": {
+   "name": "Bad Kissingen",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CSU": 39.1,
+    "AfD": 14.6,
+    "FREIE WÄHLER/FREIE WÄHLER Landkreis Bad Kissingen": 10.5,
+    "GRÜNE": 10.4,
+    "SPD": 10.3,
+    "Parteilose Wählergruppe - FW Freie Wähler e.V.": 6.5,
+    "Unabhängige Wählergemeinschaft/Christlicher Bürgerblock": 5.1,
+    "ÖDP/Bündnis Klima": 1.9,
+    "FDP/Freie Bürger": 1.6
+   }
+  },
+  "09673": {
+   "name": "Rhön-Grabfeld",
+   "beteiligung": 71.3,
+   "parteien": {
+    "CSU": 34.6,
+    "FREIE WÄHLER/Freie Wähler Rhön-Grabfeld e.V.": 24.8,
+    "AfD": 10.7,
+    "GRÜNE": 8.6,
+    "Junge Union": 7.2,
+    "SPD": 6.4,
+    "Wählerinitiative Altlandkreis Königshofen": 4.1,
+    "FDP": 1.8,
+    "Die Linke": 1.8
+   }
+  },
+  "09674": {
+   "name": "Haßberge",
+   "beteiligung": 72.0,
+   "parteien": {
+    "CSU": 33.9,
+    "FREIE WÄHLER/Wählergemeinschaft Haßberge-Freie Wähler": 15.5,
+    "AfD": 13.4,
+    "SPD": 11.9,
+    "GRÜNE": 8.2,
+    "Junge Liste Haßberge": 7.7,
+    "FDP/Freie Bürger": 3.6,
+    "Linkes Bündnis Haßberge": 3.0,
+    "ÖDP": 2.9
+   }
+  },
+  "09675": {
+   "name": "Kitzingen",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CSU": 28.4,
+    "FREIE WÄHLER/FREIE WÄHLER-Kreisverband Kitzingen": 25.7,
+    "AfD": 11.6,
+    "GRÜNE": 10.6,
+    "SPD": 7.9,
+    "Freie Wähler - FBW Kitzingen e.V.": 6.7,
+    "Junge Union": 4.1,
+    "Die Linke": 2.3,
+    "ÖDP": 2.0,
+    "FDP": 0.7
+   }
+  },
+  "09676": {
+   "name": "Miltenberg",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CSU": 33.2,
+    "FREIE WÄHLER/FREIE WÄHLER im Landkreis Miltenberg e.V.": 17.2,
+    "AfD": 13.9,
+    "SPD": 10.3,
+    "GRÜNE": 9.7,
+    "NeueMITTE Landkreis Miltenberg e.V.": 8.4,
+    "Die Linke": 3.0,
+    "ÖDP/Bürgerliste Untermain": 2.1,
+    "FDP": 2.0
+   }
+  },
+  "09677": {
+   "name": "Main-Spessart",
+   "beteiligung": 70.1,
+   "parteien": {
+    "CSU": 32.5,
+    "FREIE WÄHLER/Freie Wähler Main-Spessart": 17.9,
+    "SPD": 12.4,
+    "GRÜNE": 11.8,
+    "AfD": 11.0,
+    "Unabhängig-Gemeinsam für Main-Spessart/Freie Bürger MSP": 9.7,
+    "Die Linke": 2.6,
+    "FDP": 1.8,
+    "ÖDP": 0.3
+   }
+  },
+  "09678": {
+   "name": "Schweinfurt",
+   "beteiligung": 69.9,
+   "parteien": {
+    "CSU": 38.2,
+    "SPD": 16.3,
+    "AfD": 15.3,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Schweinfurt e.V.": 12.3,
+    "GRÜNE": 10.2,
+    "Neue Mitte - Landkreis Schweinfurt e.V.": 3.5,
+    "Die Linke": 2.9,
+    "FDP": 1.4
+   }
+  },
+  "09679": {
+   "name": "Würzburg",
+   "beteiligung": 72.0,
+   "parteien": {
+    "CSU": 36.6,
+    "GRÜNE": 17.8,
+    "FREIE WÄHLER/Unabhängige Wählergem. - Freie Wähler e.V.": 14.2,
+    "SPD": 13.3,
+    "AfD": 10.5,
+    "Die Linke": 3.5,
+    "FDP": 2.1,
+    "Aktive Bürgerschaft/ÖDP": 2.0
+   }
+  },
+  "09771": {
+   "name": "Aichach-Friedberg",
+   "beteiligung": 69.6,
+   "parteien": {
+    "CSU": 36.8,
+    "FREIE WÄHLER/FREIE WÄHLER KV Aichach-Friedberg": 15.9,
+    "AfD": 14.9,
+    "GRÜNE": 12.3,
+    "SPD": 11.1,
+    "UNABHÄNGIGE Wählergemeinschaft Kreis Aichach-Friedberg e.V.": 3.8,
+    "ÖDP": 3.1,
+    "FDP": 2.2
+   }
+  },
+  "09772": {
+   "name": "Augsburg",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CSU": 39.0,
+    "AfD": 14.9,
+    "FREIE WÄHLER/Freie Wähler Kreisverband Augsburg": 14.2,
+    "GRÜNE": 11.7,
+    "SPD": 9.3,
+    "Die Linke": 3.4,
+    "Junge Union": 3.1,
+    "FDP": 1.9,
+    "ÖDP": 1.6,
+    "V-Partei³": 0.9
+   }
+  },
+  "09773": {
+   "name": "Dillingen a.d.Donau",
+   "beteiligung": 63.2,
+   "parteien": {
+    "CSU": 29.5,
+    "FREIE WÄHLER/Freie Wähler KV Dillingen": 16.5,
+    "AfD": 14.8,
+    "SPD": 9.1,
+    "GRÜNE": 8.0,
+    "ZUKUNFT": 6.1,
+    "Junge Union": 4.9,
+    "Bürgerliste im Landkreis Dillingen a.d.Donau": 4.2,
+    "Junge Aktive Wähler": 3.3,
+    "FDP": 1.8,
+    "REP": 1.1,
+    "Die Linke": 0.5
+   }
+  },
+  "09774": {
+   "name": "Günzburg",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CSU": 34.6,
+    "AfD": 19.7,
+    "FREIE WÄHLER": 14.0,
+    "SPD": 9.1,
+    "GRÜNE": 8.5,
+    "Junge Union": 6.1,
+    "FDP": 3.9,
+    "Die Linke": 2.1,
+    "ÖDP": 1.9
+   }
+  },
+  "09775": {
+   "name": "Neu-Ulm",
+   "beteiligung": 55.3,
+   "parteien": {
+    "CSU": 36.8,
+    "AfD": 14.6,
+    "GRÜNE": 13.9,
+    "FREIE WÄHLER/Freie Wähler für den Landkreis Neu-Ulm": 12.6,
+    "SPD": 10.0,
+    "Die Linke": 4.1,
+    "Junge Union": 3.1,
+    "ÖDP": 2.8,
+    "FDP": 2.2
+   }
+  },
+  "09776": {
+   "name": "Lindau (Bodensee)",
+   "beteiligung": 62.7,
+   "parteien": {
+    "CSU": 30.9,
+    "Freie Wähler/FW Kreisverband LI/Freie Bürgerschaft LI": 16.5,
+    "GRÜNE": 15.4,
+    "AfD": 12.7,
+    "SPD": 8.2,
+    "FDP/Lindau Initiative e.V.": 4.7,
+    "Junge Union": 4.5,
+    "Die Linke": 4.2,
+    "ÖDP": 2.9
+   }
+  },
+  "09777": {
+   "name": "Ostallgäu",
+   "beteiligung": 68.2,
+   "parteien": {
+    "CSU": 37.3,
+    "FREIE WÄHLER/Freie Wählergemeinschaft Ostallgäu e.V.": 21.3,
+    "AfD": 13.3,
+    "GRÜNE": 12.9,
+    "SPD": 6.2,
+    "Junges Ostallgäu": 4.5,
+    "Die Linke": 1.8,
+    "ÖDP": 1.8,
+    "BP": 0.8
+   }
+  },
+  "09778": {
+   "name": "Unterallgäu",
+   "beteiligung": 67.0,
+   "parteien": {
+    "CSU": 30.2,
+    "Freie Wähler/Freie Wähler Unterallgäu e.V.": 25.6,
+    "AfD": 17.4,
+    "GRÜNE": 9.0,
+    "Junge Wähler Union": 6.4,
+    "SPD": 6.0,
+    "Die Linke": 2.8,
+    "ÖDP/Bürger für die Umwelt": 2.7
+   }
+  },
+  "09779": {
+   "name": "Donau-Ries",
+   "beteiligung": 69.5,
+   "parteien": {
+    "CSU": 30.2,
+    "AfD": 12.9,
+    "FREIE WÄHLER": 12.6,
+    "Parteifreie Wählergruppe Donau-Ries e.V.": 12.6,
+    "SPD": 9.8,
+    "GRÜNE": 8.1,
+    "Aktive Liste / Junge Bürger Donau-Ries e.V.": 5.9,
+    "Donau-Rieser Frauenliste e.V.": 2.9,
+    "Die Linke": 2.0,
+    "ÖDP": 2.0,
+    "FDP": 0.9
+   }
+  },
+  "09780": {
+   "name": "Oberallgäu",
+   "beteiligung": 68.0,
+   "parteien": {
+    "CSU": 31.0,
+    "FREIE WÄHLER/Freie Wähler Oberallgäu e.V.": 23.9,
+    "GRÜNE": 14.7,
+    "AfD": 11.4,
+    "Liste Junges Oberallgäu": 8.5,
+    "SPD": 4.6,
+    "FDP": 2.1,
+    "Die Linke": 2.0,
+    "ÖDP/Unabhängige Bürger": 1.6
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}

@@ -1,0 +1,4764 @@
+{
+ "land": "05",
+ "name": "Nordrhein-Westfalen",
+ "wahlart": "kommunal",
+ "titel": "Gemeinde- und Stadtratswahl Nordrhein-Westfalen 2025",
+ "jahr": 2025,
+ "wahl_datum": "2025-09-14",
+ "schluesselart": "ags",
+ "quelle": "GERDA – German Election Database",
+ "quellenvermerk": "Datenquelle: GERDA – German Election Database (Heddesheimer, Hilbig, Sichart & Wiedemann, 2025); eigene Aufbereitung (jüngste Gemeinde-/Stadtratswahl je Land auf AGS-Stand 2025, Anteile auf 100 Prozent normiert)",
+ "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+ "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+ "quellendatei": "https://github.com/awiedem/german_election_data/raw/refs/heads/main/data/municipal_elections/final/municipal_harm_25.csv?download=",
+ "dataset": "municipal_harm_25",
+ "zitation": "Heddesheimer, V.; Hilbig, H.; Sichart, F.; Wiedemann, A. (2025): GERDA: The German Election Database. Scientific Data 12, 618. https://doi.org/10.1038/s41597-025-04811-5",
+ "quellenseite": "https://www.german-elections.com/election-data/",
+ "gebiete": {
+  "05111000": {
+   "name": "Krfr. Stadt Düsseldorf",
+   "beteiligung": 53.1,
+   "parteien": {
+    "CDU": 33.5,
+    "GRÜNE": 21.9,
+    "SPD": 14.9,
+    "AfD": 10.6,
+    "DIE LINKE": 6.4,
+    "Sonstige": 6.1,
+    "FDP": 4.9,
+    "BSW": 1.6
+   }
+  },
+  "05112000": {
+   "name": "Krfr. Stadt Duisburg",
+   "beteiligung": 48.3,
+   "parteien": {
+    "SPD": 32.6,
+    "AfD": 21.2,
+    "CDU": 17.4,
+    "Sonstige": 10.1,
+    "GRÜNE": 9.1,
+    "DIE LINKE": 6.0,
+    "BSW": 2.1,
+    "FDP": 1.5
+   }
+  },
+  "05113000": {
+   "name": "Krfr. Stadt Essen",
+   "beteiligung": 55.5,
+   "parteien": {
+    "CDU": 30.2,
+    "SPD": 22.6,
+    "AfD": 16.9,
+    "GRÜNE": 12.3,
+    "Sonstige": 8.6,
+    "DIE LINKE": 5.8,
+    "FDP": 1.9,
+    "BSW": 1.5
+   }
+  },
+  "05114000": {
+   "name": "Krfr. Stadt Krefeld",
+   "beteiligung": 51.4,
+   "parteien": {
+    "CDU": 30.6,
+    "SPD": 26.0,
+    "AfD": 15.5,
+    "GRÜNE": 11.2,
+    "DIE LINKE": 5.5,
+    "Sonstige": 4.5,
+    "FDP": 3.5,
+    "FREIE WÄHLER": 3.3
+   }
+  },
+  "05116000": {
+   "name": "Krfr. Stadt Mönchengladbach",
+   "beteiligung": 47.4,
+   "parteien": {
+    "CDU": 33.2,
+    "SPD": 28.4,
+    "AfD": 15.7,
+    "GRÜNE": 8.6,
+    "DIE LINKE": 5.6,
+    "Sonstige": 3.5,
+    "FDP": 2.8,
+    "BSW": 2.1,
+    "FREIE WÄHLER": 0.2
+   }
+  },
+  "05117000": {
+   "name": "Krfr. Stadt Mülheim an der Ruhr",
+   "beteiligung": 57.2,
+   "parteien": {
+    "CDU": 30.1,
+    "SPD": 25.5,
+    "AfD": 15.1,
+    "GRÜNE": 14.2,
+    "Sonstige": 6.8,
+    "DIE LINKE": 4.7,
+    "FDP": 3.2,
+    "FREIE WÄHLER": 0.3
+   }
+  },
+  "05119000": {
+   "name": "Krfr. Stadt Oberhausen",
+   "beteiligung": 51.7,
+   "parteien": {
+    "CDU": 26.8,
+    "SPD": 26.1,
+    "AfD": 21.5,
+    "GRÜNE": 8.2,
+    "Sonstige": 7.3,
+    "DIE LINKE": 5.7,
+    "BSW": 2.3,
+    "FDP": 2.1
+   }
+  },
+  "05120000": {
+   "name": "Krfr. Stadt Remscheid",
+   "beteiligung": 47.2,
+   "parteien": {
+    "SPD": 31.7,
+    "CDU": 26.9,
+    "AfD": 16.1,
+    "GRÜNE": 8.3,
+    "Sonstige": 6.6,
+    "DIE LINKE": 6.3,
+    "FDP": 4.1
+   }
+  },
+  "05122000": {
+   "name": "Krfr. Stadt Solingen",
+   "beteiligung": 51.8,
+   "parteien": {
+    "CDU": 29.9,
+    "Sonstige": 18.9,
+    "SPD": 17.7,
+    "AfD": 15.0,
+    "GRÜNE": 11.3,
+    "DIE LINKE": 5.2,
+    "FDP": 2.0
+   }
+  },
+  "05124000": {
+   "name": "Krfr. Stadt Wuppertal",
+   "beteiligung": 49.4,
+   "parteien": {
+    "SPD": 28.8,
+    "CDU": 22.2,
+    "AfD": 17.1,
+    "GRÜNE": 11.4,
+    "DIE LINKE": 8.4,
+    "Sonstige": 5.3,
+    "FDP": 4.2,
+    "BSW": 2.5
+   }
+  },
+  "05154004": {
+   "name": "Bedburg-Hau",
+   "beteiligung": 57.4,
+   "parteien": {
+    "CDU": 53.6,
+    "SPD": 22.1,
+    "GRÜNE": 13.5,
+    "FDP": 10.9
+   }
+  },
+  "05154008": {
+   "name": "Emmerich am Rhein, Stadt",
+   "beteiligung": 45.0,
+   "parteien": {
+    "CDU": 36.3,
+    "SPD": 22.2,
+    "AfD": 12.7,
+    "FREIE WÄHLER": 8.8,
+    "GRÜNE": 7.5,
+    "Sonstige": 6.0,
+    "FDP": 3.4,
+    "DIE LINKE": 3.2
+   }
+  },
+  "05154012": {
+   "name": "Geldern, Stadt",
+   "beteiligung": 52.6,
+   "parteien": {
+    "CDU": 44.5,
+    "SPD": 20.6,
+    "AfD": 12.3,
+    "GRÜNE": 9.6,
+    "FDP": 7.5,
+    "DIE LINKE": 3.9,
+    "Sonstige": 1.5
+   }
+  },
+  "05154016": {
+   "name": "Goch, Stadt",
+   "beteiligung": 49.7,
+   "parteien": {
+    "CDU": 38.0,
+    "Sonstige": 25.2,
+    "AfD": 13.4,
+    "SPD": 10.4,
+    "GRÜNE": 6.9,
+    "DIE LINKE": 3.7,
+    "FDP": 2.4
+   }
+  },
+  "05154020": {
+   "name": "Issum",
+   "beteiligung": 60.8,
+   "parteien": {
+    "CDU": 49.2,
+    "SPD": 21.7,
+    "GRÜNE": 15.2,
+    "FDP": 5.4,
+    "Sonstige": 5.3,
+    "AfD": 3.2
+   }
+  },
+  "05154024": {
+   "name": "Kalkar, Stadt",
+   "beteiligung": 60.7,
+   "parteien": {
+    "CDU": 37.8,
+    "Sonstige": 33.4,
+    "AfD": 8.1,
+    "GRÜNE": 7.8,
+    "SPD": 6.1,
+    "DIE LINKE": 5.0,
+    "FDP": 1.9
+   }
+  },
+  "05154028": {
+   "name": "Kerken",
+   "beteiligung": 63.7,
+   "parteien": {
+    "CDU": 41.8,
+    "Sonstige": 15.5,
+    "GRÜNE": 12.2,
+    "SPD": 11.9,
+    "AfD": 11.5,
+    "DIE LINKE": 4.0,
+    "FDP": 3.0
+   }
+  },
+  "05154032": {
+   "name": "Kevelaer, Stadt",
+   "beteiligung": 57.1,
+   "parteien": {
+    "CDU": 38.2,
+    "SPD": 14.3,
+    "Sonstige": 12.9,
+    "GRÜNE": 12.7,
+    "AfD": 10.0,
+    "FDP": 7.4,
+    "DIE LINKE": 4.5
+   }
+  },
+  "05154036": {
+   "name": "Kleve, Stadt",
+   "beteiligung": 43.6,
+   "parteien": {
+    "CDU": 37.3,
+    "SPD": 17.3,
+    "AfD": 13.7,
+    "GRÜNE": 13.1,
+    "Sonstige": 9.3,
+    "DIE LINKE": 5.3,
+    "FDP": 4.0
+   }
+  },
+  "05154040": {
+   "name": "Kranenburg",
+   "beteiligung": 47.6,
+   "parteien": {
+    "CDU": 36.7,
+    "Sonstige": 20.9,
+    "SPD": 14.7,
+    "GRÜNE": 13.9,
+    "AfD": 8.8,
+    "FDP": 4.9
+   }
+  },
+  "05154044": {
+   "name": "Rees, Stadt",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 45.8,
+    "SPD": 19.4,
+    "GRÜNE": 15.7,
+    "AfD": 12.0,
+    "Sonstige": 5.0,
+    "FDP": 2.0
+   }
+  },
+  "05154048": {
+   "name": "Rheurdt",
+   "beteiligung": 68.5,
+   "parteien": {
+    "CDU": 41.1,
+    "SPD": 18.3,
+    "GRÜNE": 17.5,
+    "FDP": 8.9,
+    "AfD": 7.9,
+    "Sonstige": 6.4
+   }
+  },
+  "05154052": {
+   "name": "Straelen, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "CDU": 45.6,
+    "Sonstige": 13.9,
+    "GRÜNE": 13.7,
+    "SPD": 11.3,
+    "FDP": 6.5,
+    "AfD": 5.8,
+    "DIE LINKE": 3.1
+   }
+  },
+  "05154056": {
+   "name": "Uedem",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CDU": 43.3,
+    "SPD": 17.0,
+    "FDP": 12.1,
+    "AfD": 11.4,
+    "GRÜNE": 11.4,
+    "DIE LINKE": 4.8
+   }
+  },
+  "05154060": {
+   "name": "Wachtendonk",
+   "beteiligung": 66.4,
+   "parteien": {
+    "CDU": 38.5,
+    "Sonstige": 33.6,
+    "GRÜNE": 11.7,
+    "AfD": 8.6,
+    "SPD": 7.6
+   }
+  },
+  "05154064": {
+   "name": "Weeze",
+   "beteiligung": 45.9,
+   "parteien": {
+    "CDU": 52.0,
+    "SPD": 16.2,
+    "GRÜNE": 14.4,
+    "AfD": 13.0,
+    "FDP": 4.4
+   }
+  },
+  "05158004": {
+   "name": "Erkrath, Stadt",
+   "beteiligung": 55.8,
+   "parteien": {
+    "CDU": 36.9,
+    "SPD": 14.3,
+    "AfD": 14.2,
+    "GRÜNE": 14.0,
+    "Sonstige": 11.8,
+    "DIE LINKE": 4.9,
+    "FDP": 3.9
+   }
+  },
+  "05158008": {
+   "name": "Haan, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "CDU": 34.9,
+    "Sonstige": 25.5,
+    "SPD": 19.0,
+    "AfD": 10.8,
+    "DIE LINKE": 5.1,
+    "FDP": 4.7
+   }
+  },
+  "05158012": {
+   "name": "Heiligenhaus, Stadt",
+   "beteiligung": 55.0,
+   "parteien": {
+    "CDU": 39.8,
+    "AfD": 15.5,
+    "SPD": 14.6,
+    "GRÜNE": 12.3,
+    "Sonstige": 11.6,
+    "FDP": 6.1
+   }
+  },
+  "05158016": {
+   "name": "Hilden, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "CDU": 35.2,
+    "SPD": 19.9,
+    "AfD": 14.2,
+    "GRÜNE": 12.5,
+    "FDP": 6.0,
+    "Sonstige": 5.3,
+    "DIE LINKE": 4.8,
+    "PIRATEN": 2.2
+   }
+  },
+  "05158020": {
+   "name": "Langenfeld (Rhld.), Stadt",
+   "beteiligung": 61.2,
+   "parteien": {
+    "Sonstige": 31.4,
+    "CDU": 30.3,
+    "GRÜNE": 10.9,
+    "AfD": 10.6,
+    "SPD": 10.0,
+    "FDP": 3.8,
+    "DIE LINKE": 3.1
+   }
+  },
+  "05158024": {
+   "name": "Mettmann, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 24.6,
+    "Sonstige": 21.1,
+    "FDP": 15.1,
+    "GRÜNE": 13.7,
+    "SPD": 13.2,
+    "AfD": 12.3
+   }
+  },
+  "05158026": {
+   "name": "Monheim am Rhein, Stadt",
+   "beteiligung": 64.6,
+   "parteien": {
+    "Sonstige": 36.6,
+    "CDU": 28.5,
+    "SPD": 14.6,
+    "AfD": 7.7,
+    "GRÜNE": 7.0,
+    "DIE LINKE": 3.3,
+    "FDP": 2.4
+   }
+  },
+  "05158028": {
+   "name": "Ratingen, Stadt",
+   "beteiligung": 56.5,
+   "parteien": {
+    "CDU": 35.3,
+    "Sonstige": 16.4,
+    "GRÜNE": 15.8,
+    "SPD": 12.9,
+    "AfD": 11.4,
+    "FDP": 4.5,
+    "DIE LINKE": 3.7
+   }
+  },
+  "05158032": {
+   "name": "Velbert, Stadt",
+   "beteiligung": 53.6,
+   "parteien": {
+    "CDU": 30.4,
+    "AfD": 18.0,
+    "SPD": 15.3,
+    "GRÜNE": 14.4,
+    "Sonstige": 14.0,
+    "DIE LINKE": 4.2,
+    "FDP": 3.2,
+    "PIRATEN": 0.6
+   }
+  },
+  "05158036": {
+   "name": "Wülfrath, Stadt",
+   "beteiligung": 57.4,
+   "parteien": {
+    "CDU": 34.2,
+    "SPD": 24.7,
+    "AfD": 15.7,
+    "Sonstige": 11.6,
+    "GRÜNE": 10.4,
+    "FDP": 3.5
+   }
+  },
+  "05162004": {
+   "name": "Dormagen, Stadt",
+   "beteiligung": 59.1,
+   "parteien": {
+    "SPD": 33.5,
+    "CDU": 30.1,
+    "AfD": 13.7,
+    "GRÜNE": 9.8,
+    "Sonstige": 6.6,
+    "FDP": 4.2,
+    "DIE LINKE": 2.1
+   }
+  },
+  "05162008": {
+   "name": "Grevenbroich, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "CDU": 30.0,
+    "SPD": 29.9,
+    "AfD": 14.2,
+    "Sonstige": 8.3,
+    "FDP": 7.5,
+    "GRÜNE": 6.8,
+    "DIE LINKE": 3.3
+   }
+  },
+  "05162012": {
+   "name": "Jüchen, Stadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 44.6,
+    "SPD": 24.5,
+    "Sonstige": 11.6,
+    "GRÜNE": 10.3,
+    "FDP": 9.1
+   }
+  },
+  "05162016": {
+   "name": "Kaarst, Stadt",
+   "beteiligung": 60.8,
+   "parteien": {
+    "CDU": 40.1,
+    "GRÜNE": 16.7,
+    "SPD": 12.0,
+    "AfD": 9.9,
+    "Sonstige": 9.4,
+    "FDP": 8.3,
+    "DIE LINKE": 3.6
+   }
+  },
+  "05162020": {
+   "name": "Korschenbroich, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "CDU": 48.0,
+    "GRÜNE": 17.5,
+    "SPD": 16.8,
+    "Sonstige": 8.5,
+    "FDP": 6.0,
+    "DIE LINKE": 3.3
+   }
+  },
+  "05162022": {
+   "name": "Meerbusch, Stadt",
+   "beteiligung": 60.2,
+   "parteien": {
+    "CDU": 48.2,
+    "GRÜNE": 16.7,
+    "SPD": 13.2,
+    "FDP": 6.9,
+    "AfD": 6.4,
+    "Sonstige": 6.3,
+    "DIE LINKE": 2.2
+   }
+  },
+  "05162024": {
+   "name": "Neuss, Stadt",
+   "beteiligung": 52.3,
+   "parteien": {
+    "CDU": 34.9,
+    "SPD": 28.1,
+    "AfD": 12.1,
+    "GRÜNE": 10.2,
+    "Sonstige": 5.5,
+    "DIE LINKE": 4.3,
+    "FDP": 3.3,
+    "BSW": 1.7
+   }
+  },
+  "05162028": {
+   "name": "Rommerskirchen",
+   "beteiligung": 69.7,
+   "parteien": {
+    "SPD": 42.7,
+    "CDU": 35.4,
+    "AfD": 11.4,
+    "GRÜNE": 8.0,
+    "FDP": 2.5
+   }
+  },
+  "05166004": {
+   "name": "Brüggen",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 36.5,
+    "Sonstige": 33.6,
+    "SPD": 10.5,
+    "GRÜNE": 10.4,
+    "AfD": 6.3,
+    "FDP": 2.6
+   }
+  },
+  "05166008": {
+   "name": "Grefrath",
+   "beteiligung": 61.1,
+   "parteien": {
+    "CDU": 42.3,
+    "SPD": 15.8,
+    "AfD": 13.8,
+    "Sonstige": 12.7,
+    "GRÜNE": 11.0,
+    "FDP": 4.3
+   }
+  },
+  "05166012": {
+   "name": "Kempen, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 38.0,
+    "SPD": 17.4,
+    "GRÜNE": 16.2,
+    "AfD": 9.7,
+    "Sonstige": 8.9,
+    "FDP": 5.8,
+    "DIE LINKE": 4.0
+   }
+  },
+  "05166016": {
+   "name": "Nettetal, Stadt",
+   "beteiligung": 53.4,
+   "parteien": {
+    "CDU": 38.3,
+    "GRÜNE": 19.7,
+    "SPD": 15.3,
+    "AfD": 12.9,
+    "Sonstige": 7.8,
+    "FDP": 6.1
+   }
+  },
+  "05166020": {
+   "name": "Niederkrüchten",
+   "beteiligung": 59.5,
+   "parteien": {
+    "CDU": 37.4,
+    "GRÜNE": 21.6,
+    "SPD": 16.2,
+    "Sonstige": 9.3,
+    "AfD": 8.7,
+    "FDP": 6.8
+   }
+  },
+  "05166024": {
+   "name": "Schwalmtal",
+   "beteiligung": 59.6,
+   "parteien": {
+    "CDU": 54.5,
+    "GRÜNE": 24.0,
+    "SPD": 12.8,
+    "FDP": 7.1,
+    "AfD": 1.6
+   }
+  },
+  "05166028": {
+   "name": "Tönisvorst, Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CDU": 38.2,
+    "Sonstige": 18.0,
+    "SPD": 16.2,
+    "GRÜNE": 14.1,
+    "AfD": 7.9,
+    "FDP": 5.7
+   }
+  },
+  "05166032": {
+   "name": "Viersen, Stadt",
+   "beteiligung": 49.1,
+   "parteien": {
+    "CDU": 38.2,
+    "SPD": 22.1,
+    "GRÜNE": 14.2,
+    "AfD": 13.4,
+    "DIE LINKE": 5.6,
+    "FDP": 3.7,
+    "Sonstige": 2.7
+   }
+  },
+  "05166036": {
+   "name": "Willich, Stadt",
+   "beteiligung": 62.5,
+   "parteien": {
+    "CDU": 49.4,
+    "GRÜNE": 15.7,
+    "SPD": 12.3,
+    "AfD": 9.2,
+    "Sonstige": 6.0,
+    "DIE LINKE": 3.8,
+    "FDP": 3.6
+   }
+  },
+  "05170004": {
+   "name": "Alpen",
+   "beteiligung": 68.8,
+   "parteien": {
+    "CDU": 48.5,
+    "Sonstige": 17.2,
+    "GRÜNE": 12.3,
+    "SPD": 11.3,
+    "AfD": 6.7,
+    "DIE LINKE": 4.0
+   }
+  },
+  "05170008": {
+   "name": "Dinslaken, Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "SPD": 33.4,
+    "CDU": 22.8,
+    "AfD": 15.4,
+    "GRÜNE": 11.0,
+    "Sonstige": 9.3,
+    "DIE LINKE": 5.4,
+    "FDP": 2.6
+   }
+  },
+  "05170012": {
+   "name": "Hamminkeln, Stadt",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 37.8,
+    "Sonstige": 21.8,
+    "SPD": 17.7,
+    "AfD": 10.0,
+    "GRÜNE": 8.9,
+    "FDP": 3.8
+   }
+  },
+  "05170016": {
+   "name": "Hünxe",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CDU": 34.6,
+    "SPD": 31.8,
+    "Sonstige": 15.0,
+    "GRÜNE": 10.4,
+    "FDP": 8.2
+   }
+  },
+  "05170020": {
+   "name": "Kamp-Lintfort, Stadt",
+   "beteiligung": 52.2,
+   "parteien": {
+    "SPD": 52.1,
+    "CDU": 20.0,
+    "GRÜNE": 6.1,
+    "Sonstige": 5.9,
+    "DIE LINKE": 5.6,
+    "AfD": 5.3,
+    "FDP": 4.9
+   }
+  },
+  "05170024": {
+   "name": "Moers, Stadt",
+   "beteiligung": 52.8,
+   "parteien": {
+    "CDU": 32.9,
+    "SPD": 26.0,
+    "AfD": 14.6,
+    "GRÜNE": 9.4,
+    "Sonstige": 7.4,
+    "DIE LINKE": 4.8,
+    "FDP": 3.9,
+    "FREIE WÄHLER": 1.1
+   }
+  },
+  "05170028": {
+   "name": "Neukirchen-Vluyn, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 41.4,
+    "SPD": 28.8,
+    "GRÜNE": 12.2,
+    "Sonstige": 7.9,
+    "DIE LINKE": 6.2,
+    "FDP": 3.5
+   }
+  },
+  "05170032": {
+   "name": "Rheinberg, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "CDU": 35.7,
+    "SPD": 24.5,
+    "AfD": 15.7,
+    "GRÜNE": 13.2,
+    "FDP": 5.6,
+    "DIE LINKE": 5.4
+   }
+  },
+  "05170036": {
+   "name": "Schermbeck",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 48.4,
+    "Sonstige": 20.3,
+    "GRÜNE": 13.6,
+    "SPD": 13.4,
+    "FDP": 4.4
+   }
+  },
+  "05170040": {
+   "name": "Sonsbeck",
+   "beteiligung": 60.1,
+   "parteien": {
+    "CDU": 54.6,
+    "Sonstige": 45.4
+   }
+  },
+  "05170044": {
+   "name": "Voerde (Niederrhein), Stadt",
+   "beteiligung": 58.4,
+   "parteien": {
+    "SPD": 40.7,
+    "CDU": 27.6,
+    "Sonstige": 10.6,
+    "GRÜNE": 8.9,
+    "AfD": 7.6,
+    "FDP": 4.6
+   }
+  },
+  "05170048": {
+   "name": "Wesel, Stadt",
+   "beteiligung": 55.5,
+   "parteien": {
+    "CDU": 32.1,
+    "SPD": 30.3,
+    "AfD": 14.4,
+    "GRÜNE": 9.0,
+    "Sonstige": 6.6,
+    "DIE LINKE": 4.6,
+    "FDP": 3.1
+   }
+  },
+  "05170052": {
+   "name": "Xanten, Stadt",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CDU": 30.1,
+    "Sonstige": 25.3,
+    "SPD": 18.1,
+    "AfD": 11.2,
+    "GRÜNE": 8.6,
+    "DIE LINKE": 3.9,
+    "FDP": 2.8
+   }
+  },
+  "05314000": {
+   "name": "Krfr. Stadt Bonn",
+   "beteiligung": 64.9,
+   "parteien": {
+    "CDU": 31.9,
+    "GRÜNE": 26.3,
+    "SPD": 11.8,
+    "Sonstige": 11.2,
+    "DIE LINKE": 8.7,
+    "AfD": 6.0,
+    "FDP": 2.9,
+    "BSW": 1.1
+   }
+  },
+  "05315000": {
+   "name": "Krfr. Stadt Köln",
+   "beteiligung": 57.0,
+   "parteien": {
+    "GRÜNE": 25.0,
+    "CDU": 19.9,
+    "SPD": 19.9,
+    "DIE LINKE": 10.8,
+    "Sonstige": 9.4,
+    "AfD": 9.1,
+    "FDP": 3.9,
+    "BSW": 1.9
+   }
+  },
+  "05316000": {
+   "name": "Krfr. Stadt Leverkusen",
+   "beteiligung": 54.0,
+   "parteien": {
+    "CDU": 31.0,
+    "SPD": 21.5,
+    "AfD": 15.4,
+    "Sonstige": 12.4,
+    "GRÜNE": 10.9,
+    "DIE LINKE": 5.1,
+    "FDP": 3.3,
+    "FREIE WÄHLER": 0.4
+   }
+  },
+  "05334002": {
+   "name": "Krfr. Stadt Aachen",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 32.8,
+    "GRÜNE": 27.8,
+    "SPD": 13.4,
+    "AfD": 7.7,
+    "DIE LINKE": 7.7,
+    "Sonstige": 6.1,
+    "FDP": 2.7,
+    "BSW": 1.7
+   }
+  },
+  "05334004": {
+   "name": "Alsdorf, Stadt",
+   "beteiligung": 53.5,
+   "parteien": {
+    "SPD": 31.4,
+    "CDU": 26.5,
+    "AfD": 19.6,
+    "Sonstige": 11.5,
+    "GRÜNE": 5.1,
+    "DIE LINKE": 3.7,
+    "FDP": 2.1
+   }
+  },
+  "05334008": {
+   "name": "Baesweiler, Stadt",
+   "beteiligung": 56.0,
+   "parteien": {
+    "CDU": 60.2,
+    "SPD": 13.4,
+    "AfD": 13.4,
+    "GRÜNE": 7.4,
+    "DIE LINKE": 3.1,
+    "FDP": 2.4,
+    "Sonstige": 0.2
+   }
+  },
+  "05334012": {
+   "name": "Eschweiler, Stadt",
+   "beteiligung": 58.2,
+   "parteien": {
+    "CDU": 31.9,
+    "SPD": 28.4,
+    "AfD": 18.8,
+    "Sonstige": 6.0,
+    "GRÜNE": 4.7,
+    "FREIE WÄHLER": 4.1,
+    "DIE LINKE": 3.2,
+    "FDP": 2.9
+   }
+  },
+  "05334016": {
+   "name": "Herzogenrath, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "SPD": 38.4,
+    "CDU": 24.1,
+    "AfD": 13.3,
+    "GRÜNE": 10.6,
+    "FDP": 5.1,
+    "DIE LINKE": 4.5,
+    "Sonstige": 4.0
+   }
+  },
+  "05334020": {
+   "name": "Monschau, Stadt",
+   "beteiligung": 73.2,
+   "parteien": {
+    "CDU": 48.1,
+    "GRÜNE": 21.5,
+    "SPD": 11.3,
+    "AfD": 10.6,
+    "FDP": 5.4,
+    "DIE LINKE": 3.0
+   }
+  },
+  "05334024": {
+   "name": "Roetgen",
+   "beteiligung": 75.9,
+   "parteien": {
+    "CDU": 24.6,
+    "SPD": 22.0,
+    "Sonstige": 19.5,
+    "GRÜNE": 19.5,
+    "AfD": 7.1,
+    "DIE LINKE": 5.2,
+    "FDP": 2.2
+   }
+  },
+  "05334028": {
+   "name": "Simmerath",
+   "beteiligung": 70.4,
+   "parteien": {
+    "CDU": 55.4,
+    "SPD": 15.1,
+    "AfD": 12.0,
+    "GRÜNE": 7.5,
+    "Sonstige": 4.7,
+    "FDP": 3.1,
+    "DIE LINKE": 2.1
+   }
+  },
+  "05334032": {
+   "name": "Stolberg (Rhld.), Stadt",
+   "beteiligung": 58.4,
+   "parteien": {
+    "SPD": 36.8,
+    "CDU": 32.9,
+    "AfD": 14.9,
+    "GRÜNE": 6.0,
+    "Sonstige": 5.8,
+    "DIE LINKE": 1.8,
+    "FDP": 1.7
+   }
+  },
+  "05334036": {
+   "name": "Würselen, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 38.6,
+    "SPD": 25.7,
+    "AfD": 13.7,
+    "GRÜNE": 9.5,
+    "Sonstige": 4.9,
+    "FDP": 4.5,
+    "DIE LINKE": 3.2
+   }
+  },
+  "05358004": {
+   "name": "Aldenhoven",
+   "beteiligung": 62.8,
+   "parteien": {
+    "CDU": 40.7,
+    "AfD": 20.8,
+    "SPD": 19.3,
+    "Sonstige": 9.3,
+    "GRÜNE": 4.5,
+    "DIE LINKE": 3.7,
+    "FDP": 1.7
+   }
+  },
+  "05358008": {
+   "name": "Düren, Stadt",
+   "beteiligung": 48.4,
+   "parteien": {
+    "CDU": 32.7,
+    "SPD": 26.9,
+    "AfD": 19.0,
+    "GRÜNE": 8.3,
+    "Sonstige": 5.7,
+    "DIE LINKE": 4.8,
+    "FDP": 1.6,
+    "PIRATEN": 0.9
+   }
+  },
+  "05358012": {
+   "name": "Heimbach, Stadt",
+   "beteiligung": 69.6,
+   "parteien": {
+    "CDU": 44.1,
+    "SPD": 19.3,
+    "AfD": 13.9,
+    "Sonstige": 9.5,
+    "GRÜNE": 7.4,
+    "FDP": 5.8
+   }
+  },
+  "05358016": {
+   "name": "Hürtgenwald",
+   "beteiligung": 69.5,
+   "parteien": {
+    "CDU": 46.3,
+    "Sonstige": 22.1,
+    "SPD": 17.2,
+    "GRÜNE": 10.5,
+    "FDP": 4.0
+   }
+  },
+  "05358020": {
+   "name": "Inden",
+   "beteiligung": 68.6,
+   "parteien": {
+    "Sonstige": 36.6,
+    "CDU": 30.8,
+    "SPD": 13.6,
+    "AfD": 10.2,
+    "GRÜNE": 8.7
+   }
+  },
+  "05358024": {
+   "name": "Jülich, Stadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 32.2,
+    "Sonstige": 21.6,
+    "SPD": 19.0,
+    "AfD": 12.8,
+    "GRÜNE": 10.9,
+    "FDP": 2.1,
+    "DIE LINKE": 1.4
+   }
+  },
+  "05358028": {
+   "name": "Kreuzau",
+   "beteiligung": 65.5,
+   "parteien": {
+    "CDU": 46.7,
+    "SPD": 19.2,
+    "AfD": 13.8,
+    "GRÜNE": 12.4,
+    "FDP": 5.2,
+    "DIE LINKE": 1.8,
+    "Sonstige": 0.9
+   }
+  },
+  "05358032": {
+   "name": "Langerwehe",
+   "beteiligung": 67.7,
+   "parteien": {
+    "CDU": 33.0,
+    "SPD": 24.1,
+    "Sonstige": 22.8,
+    "GRÜNE": 9.8,
+    "AfD": 7.5,
+    "FDP": 2.7
+   }
+  },
+  "05358036": {
+   "name": "Linnich, Stadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "CDU": 28.8,
+    "Sonstige": 25.7,
+    "SPD": 19.2,
+    "AfD": 13.5,
+    "FDP": 6.8,
+    "GRÜNE": 6.0
+   }
+  },
+  "05358040": {
+   "name": "Merzenich",
+   "beteiligung": 64.5,
+   "parteien": {
+    "CDU": 49.2,
+    "SPD": 27.1,
+    "FDP": 9.7,
+    "GRÜNE": 8.0,
+    "AfD": 5.9
+   }
+  },
+  "05358044": {
+   "name": "Nideggen, Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 41.6,
+    "Sonstige": 21.0,
+    "GRÜNE": 12.7,
+    "FDP": 12.5,
+    "SPD": 12.3
+   }
+  },
+  "05358048": {
+   "name": "Niederzier",
+   "beteiligung": 66.5,
+   "parteien": {
+    "CDU": 49.1,
+    "SPD": 39.8,
+    "GRÜNE": 7.0,
+    "FDP": 4.0
+   }
+  },
+  "05358052": {
+   "name": "Nörvenich",
+   "beteiligung": 63.0,
+   "parteien": {
+    "CDU": 55.1,
+    "AfD": 17.6,
+    "SPD": 15.0,
+    "GRÜNE": 6.4,
+    "DIE LINKE": 3.3,
+    "FDP": 2.7
+   }
+  },
+  "05358056": {
+   "name": "Titz",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CDU": 50.0,
+    "SPD": 18.4,
+    "Sonstige": 12.2,
+    "GRÜNE": 11.0,
+    "AfD": 8.4
+   }
+  },
+  "05358060": {
+   "name": "Vettweiß",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 52.2,
+    "Sonstige": 21.1,
+    "SPD": 18.5,
+    "GRÜNE": 8.2
+   }
+  },
+  "05362004": {
+   "name": "Bedburg, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "SPD": 39.2,
+    "CDU": 30.2,
+    "AfD": 14.0,
+    "Sonstige": 7.8,
+    "GRÜNE": 4.0,
+    "DIE LINKE": 2.4,
+    "FDP": 2.4
+   }
+  },
+  "05362008": {
+   "name": "Bergheim, Stadt",
+   "beteiligung": 51.7,
+   "parteien": {
+    "CDU": 44.7,
+    "AfD": 18.5,
+    "SPD": 15.6,
+    "GRÜNE": 9.0,
+    "FDP": 6.7,
+    "DIE LINKE": 3.6,
+    "Sonstige": 2.0
+   }
+  },
+  "05362012": {
+   "name": "Brühl, Stadt",
+   "beteiligung": 62.2,
+   "parteien": {
+    "CDU": 36.5,
+    "GRÜNE": 21.4,
+    "SPD": 20.2,
+    "AfD": 10.3,
+    "DIE LINKE": 5.7,
+    "FDP": 3.6,
+    "Sonstige": 2.3
+   }
+  },
+  "05362016": {
+   "name": "Elsdorf, Stadt",
+   "beteiligung": 60.8,
+   "parteien": {
+    "CDU": 44.6,
+    "SPD": 25.8,
+    "AfD": 22.5,
+    "GRÜNE": 7.1
+   }
+  },
+  "05362020": {
+   "name": "Erftstadt, Stadt",
+   "beteiligung": 62.0,
+   "parteien": {
+    "CDU": 39.4,
+    "SPD": 18.7,
+    "GRÜNE": 14.6,
+    "AfD": 13.6,
+    "DIE LINKE": 4.9,
+    "FDP": 4.6,
+    "Sonstige": 4.3
+   }
+  },
+  "05362024": {
+   "name": "Frechen, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "CDU": 29.8,
+    "SPD": 23.6,
+    "GRÜNE": 12.5,
+    "AfD": 12.3,
+    "Sonstige": 10.7,
+    "FDP": 4.3,
+    "DIE LINKE": 4.1,
+    "BSW": 2.7
+   }
+  },
+  "05362028": {
+   "name": "Hürth, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 42.2,
+    "SPD": 21.3,
+    "GRÜNE": 14.8,
+    "AfD": 11.2,
+    "DIE LINKE": 4.8,
+    "FDP": 2.8,
+    "BSW": 1.6,
+    "Sonstige": 1.3
+   }
+  },
+  "05362032": {
+   "name": "Kerpen, Stadt",
+   "beteiligung": 55.6,
+   "parteien": {
+    "CDU": 31.7,
+    "SPD": 22.4,
+    "AfD": 15.9,
+    "GRÜNE": 12.5,
+    "Sonstige": 6.7,
+    "DIE LINKE": 4.5,
+    "FDP": 3.6,
+    "PIRATEN": 2.7
+   }
+  },
+  "05362036": {
+   "name": "Pulheim, Stadt",
+   "beteiligung": 64.3,
+   "parteien": {
+    "CDU": 37.6,
+    "SPD": 18.0,
+    "GRÜNE": 16.1,
+    "Sonstige": 10.8,
+    "AfD": 10.1,
+    "FDP": 3.7,
+    "DIE LINKE": 3.7
+   }
+  },
+  "05362040": {
+   "name": "Wesseling, Stadt",
+   "beteiligung": 48.5,
+   "parteien": {
+    "CDU": 38.7,
+    "SPD": 21.7,
+    "AfD": 19.2,
+    "GRÜNE": 10.2,
+    "DIE LINKE": 6.8,
+    "FDP": 3.5
+   }
+  },
+  "05366004": {
+   "name": "Bad Münstereifel, Stadt",
+   "beteiligung": 68.0,
+   "parteien": {
+    "CDU": 34.2,
+    "SPD": 25.2,
+    "AfD": 14.8,
+    "Sonstige": 9.8,
+    "GRÜNE": 8.8,
+    "FDP": 5.8,
+    "DIE LINKE": 1.3
+   }
+  },
+  "05366008": {
+   "name": "Blankenheim",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 44.5,
+    "SPD": 27.8,
+    "Sonstige": 10.8,
+    "FDP": 10.1,
+    "GRÜNE": 6.8
+   }
+  },
+  "05366012": {
+   "name": "Dahlem",
+   "beteiligung": 74.1,
+   "parteien": {
+    "CDU": 50.3,
+    "SPD": 24.1,
+    "Sonstige": 12.9,
+    "GRÜNE": 7.5,
+    "FDP": 5.2
+   }
+  },
+  "05366016": {
+   "name": "Euskirchen, Stadt",
+   "beteiligung": 53.2,
+   "parteien": {
+    "CDU": 37.0,
+    "SPD": 19.2,
+    "AfD": 18.1,
+    "GRÜNE": 9.5,
+    "FDP": 7.4,
+    "DIE LINKE": 5.0,
+    "Sonstige": 3.7
+   }
+  },
+  "05366020": {
+   "name": "Hellenthal",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CDU": 45.6,
+    "SPD": 24.1,
+    "Sonstige": 15.7,
+    "FDP": 8.3,
+    "GRÜNE": 6.4
+   }
+  },
+  "05366024": {
+   "name": "Kall",
+   "beteiligung": 69.2,
+   "parteien": {
+    "SPD": 34.0,
+    "CDU": 23.6,
+    "FDP": 21.1,
+    "AfD": 13.5,
+    "GRÜNE": 4.3,
+    "DIE LINKE": 3.5
+   }
+  },
+  "05366028": {
+   "name": "Mechernich, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 17.7,
+    "AfD": 13.5,
+    "Sonstige": 13.5,
+    "GRÜNE": 8.2,
+    "FDP": 4.0,
+    "DIE LINKE": 3.5
+   }
+  },
+  "05366032": {
+   "name": "Nettersheim",
+   "beteiligung": 75.0,
+   "parteien": {
+    "Sonstige": 39.6,
+    "CDU": 37.7,
+    "SPD": 11.9,
+    "AfD": 9.1,
+    "FDP": 1.7
+   }
+  },
+  "05366036": {
+   "name": "Schleiden, Stadt",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 40.5,
+    "AfD": 14.2,
+    "SPD": 14.0,
+    "FDP": 12.6,
+    "GRÜNE": 10.7,
+    "Sonstige": 8.0
+   }
+  },
+  "05366040": {
+   "name": "Weilerswist",
+   "beteiligung": 60.1,
+   "parteien": {
+    "CDU": 36.0,
+    "SPD": 20.3,
+    "AfD": 16.1,
+    "GRÜNE": 12.2,
+    "Sonstige": 7.9,
+    "FDP": 5.3,
+    "BSW": 2.2
+   }
+  },
+  "05366044": {
+   "name": "Zülpich, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 45.1,
+    "SPD": 20.2,
+    "Sonstige": 12.2,
+    "GRÜNE": 10.0,
+    "FDP": 8.7,
+    "DIE LINKE": 3.9
+   }
+  },
+  "05370004": {
+   "name": "Erkelenz, Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 40.3,
+    "GRÜNE": 18.2,
+    "AfD": 14.7,
+    "SPD": 10.6,
+    "Sonstige": 8.1,
+    "FDP": 4.8,
+    "DIE LINKE": 3.2
+   }
+  },
+  "05370008": {
+   "name": "Gangelt",
+   "beteiligung": 58.7,
+   "parteien": {
+    "CDU": 64.8,
+    "Sonstige": 13.2,
+    "SPD": 10.4,
+    "GRÜNE": 9.1,
+    "DIE LINKE": 2.5
+   }
+  },
+  "05370012": {
+   "name": "Geilenkirchen, Stadt",
+   "beteiligung": 58.1,
+   "parteien": {
+    "CDU": 41.2,
+    "Sonstige": 17.6,
+    "GRÜNE": 12.3,
+    "SPD": 11.9,
+    "AfD": 10.0,
+    "DIE LINKE": 3.9,
+    "FDP": 3.0
+   }
+  },
+  "05370016": {
+   "name": "Heinsberg, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "CDU": 54.7,
+    "AfD": 15.5,
+    "SPD": 11.3,
+    "GRÜNE": 8.7,
+    "DIE LINKE": 3.8,
+    "Sonstige": 3.3,
+    "FDP": 2.7
+   }
+  },
+  "05370020": {
+   "name": "Hückelhoven, Stadt",
+   "beteiligung": 53.8,
+   "parteien": {
+    "CDU": 54.4,
+    "AfD": 16.8,
+    "SPD": 11.3,
+    "GRÜNE": 9.0,
+    "DIE LINKE": 3.5,
+    "Sonstige": 2.8,
+    "FDP": 2.1
+   }
+  },
+  "05370024": {
+   "name": "Selfkant",
+   "beteiligung": 52.4,
+   "parteien": {
+    "CDU": 40.6,
+    "FDP": 29.2,
+    "SPD": 15.4,
+    "Sonstige": 7.3,
+    "GRÜNE": 6.9,
+    "DIE LINKE": 0.6
+   }
+  },
+  "05370028": {
+   "name": "Übach-Palenberg, Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "CDU": 35.1,
+    "SPD": 29.6,
+    "AfD": 20.2,
+    "GRÜNE": 6.9,
+    "DIE LINKE": 4.4,
+    "Sonstige": 3.9
+   }
+  },
+  "05370032": {
+   "name": "Waldfeucht",
+   "beteiligung": 66.0,
+   "parteien": {
+    "CDU": 61.2,
+    "SPD": 22.1,
+    "GRÜNE": 13.1,
+    "DIE LINKE": 3.6
+   }
+  },
+  "05370036": {
+   "name": "Wassenberg, Stadt",
+   "beteiligung": 56.5,
+   "parteien": {
+    "CDU": 48.2,
+    "AfD": 14.3,
+    "GRÜNE": 13.7,
+    "SPD": 11.8,
+    "Sonstige": 7.5,
+    "FDP": 4.5
+   }
+  },
+  "05370040": {
+   "name": "Wegberg, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "CDU": 40.5,
+    "Sonstige": 18.1,
+    "SPD": 15.5,
+    "GRÜNE": 11.5,
+    "AfD": 6.2,
+    "FDP": 5.2,
+    "DIE LINKE": 3.0
+   }
+  },
+  "05374004": {
+   "name": "Bergneustadt, Stadt",
+   "beteiligung": 56.9,
+   "parteien": {
+    "CDU": 37.2,
+    "SPD": 26.4,
+    "AfD": 18.7,
+    "Sonstige": 10.6,
+    "GRÜNE": 4.9,
+    "FDP": 2.3
+   }
+  },
+  "05374008": {
+   "name": "Engelskirchen",
+   "beteiligung": 62.5,
+   "parteien": {
+    "SPD": 41.7,
+    "CDU": 41.0,
+    "GRÜNE": 10.5,
+    "FDP": 6.8
+   }
+  },
+  "05374012": {
+   "name": "Gummersbach, Stadt",
+   "beteiligung": 52.4,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 20.5,
+    "AfD": 20.1,
+    "GRÜNE": 8.4,
+    "DIE LINKE": 4.5,
+    "FDP": 4.1,
+    "BSW": 2.9
+   }
+  },
+  "05374016": {
+   "name": "Hückeswagen, Stadt",
+   "beteiligung": 61.3,
+   "parteien": {
+    "CDU": 34.7,
+    "AfD": 16.3,
+    "SPD": 15.9,
+    "GRÜNE": 15.4,
+    "Sonstige": 9.7,
+    "FDP": 7.9
+   }
+  },
+  "05374020": {
+   "name": "Lindlar",
+   "beteiligung": 65.5,
+   "parteien": {
+    "CDU": 45.8,
+    "SPD": 26.5,
+    "GRÜNE": 11.9,
+    "BSW": 5.8,
+    "DIE LINKE": 5.0,
+    "FDP": 4.3,
+    "Sonstige": 0.7
+   }
+  },
+  "05374024": {
+   "name": "Marienheide",
+   "beteiligung": 59.8,
+   "parteien": {
+    "CDU": 44.1,
+    "AfD": 18.8,
+    "SPD": 16.6,
+    "GRÜNE": 9.0,
+    "Sonstige": 4.7,
+    "DIE LINKE": 3.4,
+    "FDP": 3.4
+   }
+  },
+  "05374028": {
+   "name": "Morsbach",
+   "beteiligung": 61.8,
+   "parteien": {
+    "Sonstige": 31.7,
+    "CDU": 30.6,
+    "AfD": 16.0,
+    "SPD": 12.5,
+    "GRÜNE": 6.8,
+    "FDP": 2.5
+   }
+  },
+  "05374032": {
+   "name": "Nümbrecht",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 43.3,
+    "AfD": 16.2,
+    "SPD": 14.0,
+    "GRÜNE": 10.3,
+    "Sonstige": 8.1,
+    "DIE LINKE": 5.2,
+    "FDP": 2.9
+   }
+  },
+  "05374036": {
+   "name": "Radevormwald, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 42.7,
+    "AfD": 18.5,
+    "SPD": 16.3,
+    "GRÜNE": 9.6,
+    "Sonstige": 9.0,
+    "FDP": 4.0
+   }
+  },
+  "05374040": {
+   "name": "Reichshof",
+   "beteiligung": 60.7,
+   "parteien": {
+    "CDU": 35.4,
+    "AfD": 20.7,
+    "Sonstige": 16.2,
+    "SPD": 12.7,
+    "GRÜNE": 6.9,
+    "FDP": 4.5,
+    "DIE LINKE": 3.6
+   }
+  },
+  "05374044": {
+   "name": "Waldbröl, Stadt",
+   "beteiligung": 50.7,
+   "parteien": {
+    "CDU": 29.0,
+    "AfD": 22.6,
+    "SPD": 17.9,
+    "Sonstige": 13.9,
+    "GRÜNE": 9.0,
+    "FDP": 7.5
+   }
+  },
+  "05374048": {
+   "name": "Wiehl, Stadt",
+   "beteiligung": 61.0,
+   "parteien": {
+    "CDU": 32.6,
+    "SPD": 25.1,
+    "AfD": 18.3,
+    "GRÜNE": 10.1,
+    "FDP": 4.6,
+    "DIE LINKE": 4.6,
+    "Sonstige": 4.6
+   }
+  },
+  "05374052": {
+   "name": "Wipperfürth, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CDU": 39.9,
+    "SPD": 18.2,
+    "AfD": 12.4,
+    "Sonstige": 12.3,
+    "GRÜNE": 11.7,
+    "BSW": 3.5,
+    "FDP": 2.1
+   }
+  },
+  "05378004": {
+   "name": "Bergisch Gladbach, Stadt",
+   "beteiligung": 59.3,
+   "parteien": {
+    "CDU": 36.5,
+    "SPD": 19.1,
+    "GRÜNE": 18.1,
+    "AfD": 10.3,
+    "Sonstige": 7.9,
+    "DIE LINKE": 4.7,
+    "FDP": 3.4
+   }
+  },
+  "05378008": {
+   "name": "Burscheid, Stadt",
+   "beteiligung": 56.9,
+   "parteien": {
+    "CDU": 31.9,
+    "Sonstige": 23.4,
+    "SPD": 15.3,
+    "GRÜNE": 14.8,
+    "AfD": 10.5,
+    "FDP": 4.0
+   }
+  },
+  "05378012": {
+   "name": "Kürten",
+   "beteiligung": 65.6,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 16.8,
+    "GRÜNE": 13.4,
+    "AfD": 12.2,
+    "Sonstige": 11.9,
+    "FDP": 6.2
+   }
+  },
+  "05378016": {
+   "name": "Leichlingen (Rhld.), Stadt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "CDU": 32.0,
+    "SPD": 23.0,
+    "Sonstige": 14.0,
+    "GRÜNE": 13.2,
+    "AfD": 11.9,
+    "DIE LINKE": 3.1,
+    "FDP": 2.9
+   }
+  },
+  "05378020": {
+   "name": "Odenthal",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 47.8,
+    "GRÜNE": 20.2,
+    "SPD": 18.4,
+    "FDP": 10.1,
+    "AfD": 3.5
+   }
+  },
+  "05378024": {
+   "name": "Overath, Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 21.5,
+    "GRÜNE": 17.5,
+    "AfD": 12.9,
+    "FDP": 5.6,
+    "DIE LINKE": 3.1
+   }
+  },
+  "05378028": {
+   "name": "Rösrath, Stadt",
+   "beteiligung": 65.1,
+   "parteien": {
+    "CDU": 27.4,
+    "Sonstige": 22.9,
+    "GRÜNE": 15.7,
+    "SPD": 14.3,
+    "AfD": 9.5,
+    "FDP": 6.2,
+    "DIE LINKE": 3.9
+   }
+  },
+  "05378032": {
+   "name": "Wermelskirchen, Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 35.5,
+    "SPD": 15.8,
+    "Sonstige": 15.0,
+    "AfD": 11.9,
+    "GRÜNE": 11.4,
+    "DIE LINKE": 5.7,
+    "FDP": 4.7
+   }
+  },
+  "05382004": {
+   "name": "Alfter",
+   "beteiligung": 63.2,
+   "parteien": {
+    "CDU": 33.9,
+    "GRÜNE": 20.1,
+    "SPD": 16.5,
+    "Sonstige": 16.1,
+    "FDP": 8.0,
+    "DIE LINKE": 5.4
+   }
+  },
+  "05382008": {
+   "name": "Bad Honnef, Stadt",
+   "beteiligung": 63.5,
+   "parteien": {
+    "CDU": 42.1,
+    "GRÜNE": 20.8,
+    "Sonstige": 15.3,
+    "SPD": 13.2,
+    "AfD": 4.3,
+    "FDP": 4.3
+   }
+  },
+  "05382012": {
+   "name": "Bornheim, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "CDU": 36.3,
+    "SPD": 17.5,
+    "GRÜNE": 15.1,
+    "Sonstige": 13.5,
+    "AfD": 8.9,
+    "FDP": 5.0,
+    "DIE LINKE": 3.8
+   }
+  },
+  "05382016": {
+   "name": "Eitorf",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 38.5,
+    "SPD": 27.0,
+    "Sonstige": 13.2,
+    "GRÜNE": 11.4,
+    "FDP": 10.0
+   }
+  },
+  "05382020": {
+   "name": "Hennef (Sieg), Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 34.9,
+    "SPD": 33.1,
+    "AfD": 13.1,
+    "GRÜNE": 8.7,
+    "Sonstige": 4.3,
+    "DIE LINKE": 3.2,
+    "FDP": 2.8
+   }
+  },
+  "05382024": {
+   "name": "Königswinter, Stadt",
+   "beteiligung": 65.8,
+   "parteien": {
+    "CDU": 41.2,
+    "Sonstige": 17.0,
+    "SPD": 13.8,
+    "GRÜNE": 11.4,
+    "AfD": 10.1,
+    "DIE LINKE": 3.8,
+    "FDP": 2.7
+   }
+  },
+  "05382028": {
+   "name": "Lohmar, Stadt",
+   "beteiligung": 66.4,
+   "parteien": {
+    "CDU": 40.2,
+    "GRÜNE": 26.9,
+    "AfD": 14.1,
+    "SPD": 12.1,
+    "Sonstige": 4.0,
+    "FDP": 2.8
+   }
+  },
+  "05382032": {
+   "name": "Meckenheim, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 42.5,
+    "SPD": 22.0,
+    "Sonstige": 19.2,
+    "GRÜNE": 12.8,
+    "FDP": 3.4
+   }
+  },
+  "05382036": {
+   "name": "Much",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CDU": 38.6,
+    "SPD": 19.8,
+    "AfD": 19.0,
+    "GRÜNE": 15.8,
+    "FDP": 5.0,
+    "Sonstige": 1.9
+   }
+  },
+  "05382040": {
+   "name": "Neunkirchen-Seelscheid",
+   "beteiligung": 67.8,
+   "parteien": {
+    "CDU": 39.9,
+    "SPD": 28.5,
+    "AfD": 15.4,
+    "GRÜNE": 10.9,
+    "FDP": 5.2
+   }
+  },
+  "05382044": {
+   "name": "Niederkassel, Stadt",
+   "beteiligung": 56.9,
+   "parteien": {
+    "CDU": 34.1,
+    "SPD": 20.8,
+    "Sonstige": 19.8,
+    "GRÜNE": 10.2,
+    "AfD": 6.9,
+    "FDP": 4.5,
+    "DIE LINKE": 3.7
+   }
+  },
+  "05382048": {
+   "name": "Rheinbach, Stadt",
+   "beteiligung": 62.7,
+   "parteien": {
+    "CDU": 38.6,
+    "Sonstige": 26.4,
+    "SPD": 20.4,
+    "GRÜNE": 10.1,
+    "FDP": 4.5
+   }
+  },
+  "05382052": {
+   "name": "Ruppichteroth",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 53.9,
+    "SPD": 15.5,
+    "AfD": 13.3,
+    "GRÜNE": 8.1,
+    "DIE LINKE": 4.9,
+    "FDP": 4.4
+   }
+  },
+  "05382056": {
+   "name": "Sankt Augustin, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 43.0,
+    "SPD": 21.1,
+    "GRÜNE": 15.6,
+    "AfD": 12.8,
+    "Sonstige": 4.0,
+    "FDP": 3.4
+   }
+  },
+  "05382060": {
+   "name": "Siegburg, Stadt",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 33.5,
+    "SPD": 32.9,
+    "GRÜNE": 11.3,
+    "AfD": 10.6,
+    "DIE LINKE": 4.8,
+    "Sonstige": 4.0,
+    "FDP": 2.8
+   }
+  },
+  "05382064": {
+   "name": "Swisttal",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 37.8,
+    "SPD": 29.8,
+    "Sonstige": 16.4,
+    "GRÜNE": 9.6,
+    "FDP": 3.5,
+    "AfD": 2.9
+   }
+  },
+  "05382068": {
+   "name": "Troisdorf, Stadt",
+   "beteiligung": 53.8,
+   "parteien": {
+    "CDU": 37.2,
+    "SPD": 25.8,
+    "AfD": 13.0,
+    "GRÜNE": 11.7,
+    "DIE LINKE": 4.0,
+    "FDP": 3.3,
+    "Sonstige": 2.7,
+    "BSW": 2.3
+   }
+  },
+  "05382072": {
+   "name": "Wachtberg",
+   "beteiligung": 65.7,
+   "parteien": {
+    "CDU": 46.1,
+    "Sonstige": 23.7,
+    "GRÜNE": 14.1,
+    "SPD": 11.7,
+    "FDP": 4.3
+   }
+  },
+  "05382076": {
+   "name": "Windeck",
+   "beteiligung": 60.4,
+   "parteien": {
+    "CDU": 33.6,
+    "SPD": 29.2,
+    "AfD": 16.5,
+    "GRÜNE": 11.0,
+    "DIE LINKE": 4.0,
+    "FDP": 3.1,
+    "PIRATEN": 1.5,
+    "Sonstige": 1.1
+   }
+  },
+  "05512000": {
+   "name": "Krfr. Stadt Bottrop",
+   "beteiligung": 55.8,
+   "parteien": {
+    "SPD": 31.6,
+    "CDU": 26.8,
+    "AfD": 21.8,
+    "GRÜNE": 6.7,
+    "Sonstige": 6.0,
+    "DIE LINKE": 4.7,
+    "FDP": 2.4
+   }
+  },
+  "05513000": {
+   "name": "Krfr. Stadt Gelsenkirchen",
+   "beteiligung": 49.6,
+   "parteien": {
+    "SPD": 30.4,
+    "AfD": 29.9,
+    "CDU": 19.2,
+    "Sonstige": 7.4,
+    "GRÜNE": 4.6,
+    "DIE LINKE": 4.3,
+    "FDP": 2.7,
+    "BSW": 1.6
+   }
+  },
+  "05515000": {
+   "name": "Krfr. Stadt Münster",
+   "beteiligung": 64.8,
+   "parteien": {
+    "GRÜNE": 31.6,
+    "CDU": 31.3,
+    "SPD": 14.1,
+    "DIE LINKE": 8.4,
+    "Sonstige": 7.0,
+    "AfD": 4.5,
+    "FDP": 2.9
+   }
+  },
+  "05554004": {
+   "name": "Ahaus, Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 51.1,
+    "Sonstige": 23.9,
+    "GRÜNE": 8.8,
+    "SPD": 8.6,
+    "FDP": 4.2,
+    "DIE LINKE": 3.5
+   }
+  },
+  "05554008": {
+   "name": "Bocholt, Stadt",
+   "beteiligung": 59.9,
+   "parteien": {
+    "CDU": 42.9,
+    "SPD": 20.4,
+    "AfD": 11.5,
+    "GRÜNE": 9.3,
+    "Sonstige": 7.5,
+    "DIE LINKE": 3.9,
+    "FDP": 3.0,
+    "BSW": 1.7
+   }
+  },
+  "05554012": {
+   "name": "Borken, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 45.9,
+    "Sonstige": 14.2,
+    "SPD": 12.7,
+    "GRÜNE": 11.0,
+    "AfD": 8.4,
+    "FDP": 4.3,
+    "DIE LINKE": 3.4
+   }
+  },
+  "05554016": {
+   "name": "Gescher, Stadt",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 38.2,
+    "Sonstige": 24.9,
+    "SPD": 16.2,
+    "GRÜNE": 15.6,
+    "FDP": 5.2
+   }
+  },
+  "05554020": {
+   "name": "Gronau (Westf.), Stadt",
+   "beteiligung": 44.8,
+   "parteien": {
+    "Sonstige": 33.6,
+    "CDU": 32.5,
+    "SPD": 17.3,
+    "FDP": 7.7,
+    "GRÜNE": 4.9,
+    "DIE LINKE": 4.0
+   }
+  },
+  "05554024": {
+   "name": "Heek",
+   "beteiligung": 73.5,
+   "parteien": {
+    "CDU": 53.0,
+    "Sonstige": 21.6,
+    "SPD": 19.1,
+    "FDP": 6.3
+   }
+  },
+  "05554028": {
+   "name": "Heiden",
+   "beteiligung": 68.2,
+   "parteien": {
+    "CDU": 64.2,
+    "SPD": 14.2,
+    "Sonstige": 11.0,
+    "GRÜNE": 10.5
+   }
+  },
+  "05554032": {
+   "name": "Isselburg, Stadt",
+   "beteiligung": 59.0,
+   "parteien": {
+    "CDU": 49.5,
+    "SPD": 21.6,
+    "FDP": 15.1,
+    "GRÜNE": 13.9
+   }
+  },
+  "05554036": {
+   "name": "Legden",
+   "beteiligung": 68.1,
+   "parteien": {
+    "CDU": 64.2,
+    "SPD": 35.8
+   }
+  },
+  "05554040": {
+   "name": "Raesfeld",
+   "beteiligung": 73.0,
+   "parteien": {
+    "CDU": 51.7,
+    "Sonstige": 22.3,
+    "GRÜNE": 8.9,
+    "SPD": 8.3,
+    "FDP": 6.3,
+    "DIE LINKE": 2.6
+   }
+  },
+  "05554044": {
+   "name": "Reken",
+   "beteiligung": 68.9,
+   "parteien": {
+    "CDU": 63.2,
+    "AfD": 10.5,
+    "GRÜNE": 10.1,
+    "SPD": 7.2,
+    "Sonstige": 4.5,
+    "FDP": 4.4
+   }
+  },
+  "05554048": {
+   "name": "Rhede, Stadt",
+   "beteiligung": 67.5,
+   "parteien": {
+    "CDU": 49.6,
+    "SPD": 18.2,
+    "GRÜNE": 18.1,
+    "FDP": 11.6,
+    "Sonstige": 1.7,
+    "DIE LINKE": 0.8
+   }
+  },
+  "05554052": {
+   "name": "Schöppingen",
+   "beteiligung": 67.4,
+   "parteien": {
+    "CDU": 43.1,
+    "Sonstige": 35.4,
+    "SPD": 9.1,
+    "GRÜNE": 7.7,
+    "FDP": 4.6
+   }
+  },
+  "05554056": {
+   "name": "Stadtlohn, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 40.5,
+    "Sonstige": 33.3,
+    "SPD": 11.3,
+    "FDP": 9.9,
+    "GRÜNE": 5.1
+   }
+  },
+  "05554060": {
+   "name": "Südlohn",
+   "beteiligung": 65.4,
+   "parteien": {
+    "Sonstige": 46.1,
+    "CDU": 35.4,
+    "SPD": 11.9,
+    "FDP": 6.5
+   }
+  },
+  "05554064": {
+   "name": "Velen, Stadt",
+   "beteiligung": 68.2,
+   "parteien": {
+    "CDU": 50.8,
+    "Sonstige": 24.1,
+    "SPD": 12.9,
+    "GRÜNE": 10.6,
+    "FDP": 1.7
+   }
+  },
+  "05554068": {
+   "name": "Vreden, Stadt",
+   "beteiligung": 65.1,
+   "parteien": {
+    "CDU": 60.9,
+    "SPD": 11.6,
+    "GRÜNE": 9.0,
+    "FDP": 5.7,
+    "Sonstige": 4.7,
+    "DIE LINKE": 4.5,
+    "BSW": 3.7
+   }
+  },
+  "05558004": {
+   "name": "Ascheberg",
+   "beteiligung": 65.0,
+   "parteien": {
+    "CDU": 53.3,
+    "SPD": 16.6,
+    "GRÜNE": 12.2,
+    "Sonstige": 12.2,
+    "FDP": 5.8
+   }
+  },
+  "05558008": {
+   "name": "Billerbeck, Stadt",
+   "beteiligung": 74.3,
+   "parteien": {
+    "CDU": 52.4,
+    "SPD": 18.7,
+    "GRÜNE": 18.5,
+    "Sonstige": 5.9,
+    "FDP": 4.5
+   }
+  },
+  "05558012": {
+   "name": "Coesfeld, Stadt",
+   "beteiligung": 65.7,
+   "parteien": {
+    "CDU": 45.0,
+    "Sonstige": 21.1,
+    "GRÜNE": 16.8,
+    "SPD": 14.0,
+    "FDP": 3.1
+   }
+  },
+  "05558016": {
+   "name": "Dülmen, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "CDU": 55.8,
+    "SPD": 18.7,
+    "GRÜNE": 14.0,
+    "FDP": 6.4,
+    "DIE LINKE": 5.2
+   }
+  },
+  "05558020": {
+   "name": "Havixbeck",
+   "beteiligung": 72.5,
+   "parteien": {
+    "CDU": 45.6,
+    "GRÜNE": 28.3,
+    "SPD": 17.2,
+    "FDP": 7.8,
+    "Sonstige": 1.2
+   }
+  },
+  "05558024": {
+   "name": "Lüdinghausen, Stadt",
+   "beteiligung": 65.3,
+   "parteien": {
+    "CDU": 52.9,
+    "SPD": 17.5,
+    "GRÜNE": 16.6,
+    "FDP": 7.8,
+    "DIE LINKE": 5.3
+   }
+  },
+  "05558028": {
+   "name": "Nordkirchen",
+   "beteiligung": 67.5,
+   "parteien": {
+    "CDU": 50.2,
+    "SPD": 24.2,
+    "GRÜNE": 15.4,
+    "Sonstige": 10.2
+   }
+  },
+  "05558032": {
+   "name": "Nottuln",
+   "beteiligung": 63.8,
+   "parteien": {
+    "CDU": 47.0,
+    "GRÜNE": 17.1,
+    "SPD": 16.9,
+    "Sonstige": 12.5,
+    "FDP": 6.6
+   }
+  },
+  "05558036": {
+   "name": "Olfen, Stadt",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 63.8,
+    "GRÜNE": 15.0,
+    "SPD": 12.4,
+    "Sonstige": 8.8
+   }
+  },
+  "05558040": {
+   "name": "Rosendahl",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CDU": 51.3,
+    "Sonstige": 23.9,
+    "SPD": 14.8,
+    "GRÜNE": 10.0
+   }
+  },
+  "05558044": {
+   "name": "Senden",
+   "beteiligung": 64.5,
+   "parteien": {
+    "CDU": 47.5,
+    "SPD": 17.7,
+    "GRÜNE": 16.0,
+    "Sonstige": 11.1,
+    "FDP": 4.8,
+    "DIE LINKE": 2.7
+   }
+  },
+  "05562004": {
+   "name": "Castrop-Rauxel, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "SPD": 33.8,
+    "CDU": 24.0,
+    "AfD": 21.8,
+    "GRÜNE": 8.7,
+    "DIE LINKE": 4.0,
+    "BSW": 2.9,
+    "Sonstige": 2.6,
+    "FDP": 2.1
+   }
+  },
+  "05562008": {
+   "name": "Datteln, Stadt",
+   "beteiligung": 55.1,
+   "parteien": {
+    "CDU": 33.8,
+    "SPD": 31.1,
+    "AfD": 18.2,
+    "GRÜNE": 7.2,
+    "DIE LINKE": 4.7,
+    "BSW": 2.7,
+    "FDP": 2.4
+   }
+  },
+  "05562012": {
+   "name": "Dorsten, Stadt",
+   "beteiligung": 60.6,
+   "parteien": {
+    "CDU": 51.5,
+    "AfD": 16.4,
+    "SPD": 16.0,
+    "GRÜNE": 8.3,
+    "DIE LINKE": 4.0,
+    "FDP": 2.0,
+    "Sonstige": 1.8
+   }
+  },
+  "05562014": {
+   "name": "Gladbeck, Stadt",
+   "beteiligung": 54.4,
+   "parteien": {
+    "SPD": 33.7,
+    "CDU": 26.2,
+    "AfD": 21.4,
+    "Sonstige": 7.2,
+    "GRÜNE": 5.6,
+    "DIE LINKE": 4.0,
+    "FDP": 1.9
+   }
+  },
+  "05562016": {
+   "name": "Haltern am See, Stadt",
+   "beteiligung": 69.9,
+   "parteien": {
+    "CDU": 43.7,
+    "GRÜNE": 19.5,
+    "SPD": 16.1,
+    "AfD": 11.3,
+    "Sonstige": 5.3,
+    "FDP": 4.2
+   }
+  },
+  "05562020": {
+   "name": "Herten, Stadt",
+   "beteiligung": 55.3,
+   "parteien": {
+    "SPD": 26.6,
+    "Sonstige": 25.7,
+    "CDU": 21.0,
+    "AfD": 18.0,
+    "GRÜNE": 6.6,
+    "FDP": 2.1
+   }
+  },
+  "05562024": {
+   "name": "Marl, Stadt",
+   "beteiligung": 53.9,
+   "parteien": {
+    "CDU": 33.9,
+    "SPD": 27.8,
+    "AfD": 21.7,
+    "GRÜNE": 6.7,
+    "DIE LINKE": 3.7,
+    "BSW": 2.6,
+    "FDP": 2.4,
+    "Sonstige": 1.2
+   }
+  },
+  "05562028": {
+   "name": "Oer-Erkenschwick, Stadt",
+   "beteiligung": 53.2,
+   "parteien": {
+    "SPD": 31.6,
+    "CDU": 29.8,
+    "AfD": 19.3,
+    "Sonstige": 6.9,
+    "GRÜNE": 6.9,
+    "DIE LINKE": 3.7,
+    "FDP": 1.8
+   }
+  },
+  "05562032": {
+   "name": "Recklinghausen, Stadt",
+   "beteiligung": 52.9,
+   "parteien": {
+    "SPD": 31.7,
+    "CDU": 28.7,
+    "AfD": 18.5,
+    "GRÜNE": 10.7,
+    "DIE LINKE": 4.8,
+    "Sonstige": 3.2,
+    "FDP": 2.4
+   }
+  },
+  "05562036": {
+   "name": "Waltrop, Stadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "SPD": 48.1,
+    "CDU": 20.7,
+    "AfD": 15.3,
+    "GRÜNE": 9.1,
+    "DIE LINKE": 3.5,
+    "FDP": 3.3,
+    "Sonstige": 0.1
+   }
+  },
+  "05566004": {
+   "name": "Altenberge",
+   "beteiligung": 74.1,
+   "parteien": {
+    "CDU": 50.7,
+    "GRÜNE": 26.1,
+    "SPD": 14.8,
+    "FDP": 8.4
+   }
+  },
+  "05566008": {
+   "name": "Emsdetten, Stadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "CDU": 34.8,
+    "GRÜNE": 24.2,
+    "SPD": 20.7,
+    "Sonstige": 12.7,
+    "DIE LINKE": 4.8,
+    "FDP": 2.8
+   }
+  },
+  "05566012": {
+   "name": "Greven, Stadt",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 39.9,
+    "SPD": 24.0,
+    "GRÜNE": 14.7,
+    "Sonstige": 12.6,
+    "DIE LINKE": 5.0,
+    "FDP": 3.9
+   }
+  },
+  "05566016": {
+   "name": "Hörstel, Stadt",
+   "beteiligung": 65.9,
+   "parteien": {
+    "CDU": 48.0,
+    "SPD": 27.2,
+    "GRÜNE": 9.5,
+    "Sonstige": 8.0,
+    "DIE LINKE": 4.4,
+    "FDP": 3.0
+   }
+  },
+  "05566020": {
+   "name": "Hopsten",
+   "beteiligung": 71.4,
+   "parteien": {
+    "CDU": 43.7,
+    "Sonstige": 21.2,
+    "SPD": 14.2,
+    "FDP": 14.1,
+    "GRÜNE": 6.7
+   }
+  },
+  "05566024": {
+   "name": "Horstmar, Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "CDU": 56.7,
+    "SPD": 27.7,
+    "GRÜNE": 15.6
+   }
+  },
+  "05566028": {
+   "name": "Ibbenbüren, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 32.6,
+    "GRÜNE": 10.0,
+    "DIE LINKE": 7.0,
+    "Sonstige": 6.6,
+    "FDP": 4.3
+   }
+  },
+  "05566032": {
+   "name": "Ladbergen",
+   "beteiligung": 66.0,
+   "parteien": {
+    "CDU": 34.9,
+    "SPD": 30.6,
+    "FDP": 19.3,
+    "GRÜNE": 15.1
+   }
+  },
+  "05566036": {
+   "name": "Laer",
+   "beteiligung": 68.8,
+   "parteien": {
+    "CDU": 53.5,
+    "SPD": 19.9,
+    "GRÜNE": 19.6,
+    "FDP": 7.0
+   }
+  },
+  "05566040": {
+   "name": "Lengerich, Stadt",
+   "beteiligung": 51.7,
+   "parteien": {
+    "SPD": 34.3,
+    "CDU": 29.8,
+    "GRÜNE": 16.3,
+    "AfD": 14.7,
+    "FDP": 4.8
+   }
+  },
+  "05566044": {
+   "name": "Lienen",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 49.6,
+    "SPD": 30.4,
+    "GRÜNE": 19.9
+   }
+  },
+  "05566048": {
+   "name": "Lotte",
+   "beteiligung": 47.5,
+   "parteien": {
+    "SPD": 47.8,
+    "CDU": 37.1,
+    "GRÜNE": 15.1
+   }
+  },
+  "05566052": {
+   "name": "Metelen",
+   "beteiligung": 67.6,
+   "parteien": {
+    "CDU": 47.7,
+    "Sonstige": 37.5,
+    "GRÜNE": 14.8
+   }
+  },
+  "05566056": {
+   "name": "Mettingen",
+   "beteiligung": 68.5,
+   "parteien": {
+    "CDU": 42.7,
+    "SPD": 34.8,
+    "GRÜNE": 10.3,
+    "Sonstige": 9.7,
+    "FDP": 2.5
+   }
+  },
+  "05566060": {
+   "name": "Neuenkirchen",
+   "beteiligung": 70.9,
+   "parteien": {
+    "CDU": 49.8,
+    "SPD": 19.5,
+    "GRÜNE": 13.5,
+    "FDP": 11.5,
+    "DIE LINKE": 5.7
+   }
+  },
+  "05566064": {
+   "name": "Nordwalde",
+   "beteiligung": 68.0,
+   "parteien": {
+    "CDU": 54.1,
+    "GRÜNE": 15.6,
+    "SPD": 14.5,
+    "Sonstige": 9.6,
+    "FDP": 6.2
+   }
+  },
+  "05566068": {
+   "name": "Ochtrup, Stadt",
+   "beteiligung": 63.8,
+   "parteien": {
+    "CDU": 39.0,
+    "Sonstige": 29.1,
+    "SPD": 22.1,
+    "GRÜNE": 9.7
+   }
+  },
+  "05566072": {
+   "name": "Recke",
+   "beteiligung": 71.5,
+   "parteien": {
+    "CDU": 40.7,
+    "Sonstige": 31.7,
+    "SPD": 17.0,
+    "DIE LINKE": 6.7,
+    "FDP": 3.9
+   }
+  },
+  "05566076": {
+   "name": "Rheine, Stadt",
+   "beteiligung": 53.8,
+   "parteien": {
+    "CDU": 40.6,
+    "SPD": 18.6,
+    "AfD": 14.1,
+    "GRÜNE": 11.5,
+    "Sonstige": 6.7,
+    "DIE LINKE": 5.2,
+    "FDP": 3.2
+   }
+  },
+  "05566080": {
+   "name": "Saerbeck",
+   "beteiligung": 68.3,
+   "parteien": {
+    "CDU": 45.0,
+    "SPD": 22.2,
+    "Sonstige": 19.9,
+    "GRÜNE": 12.9
+   }
+  },
+  "05566084": {
+   "name": "Steinfurt, Stadt",
+   "beteiligung": 58.3,
+   "parteien": {
+    "CDU": 33.2,
+    "Sonstige": 18.0,
+    "SPD": 17.0,
+    "GRÜNE": 16.8,
+    "AfD": 9.2,
+    "FDP": 5.9
+   }
+  },
+  "05566088": {
+   "name": "Tecklenburg, Stadt",
+   "beteiligung": 68.9,
+   "parteien": {
+    "CDU": 37.8,
+    "SPD": 33.8,
+    "GRÜNE": 14.2,
+    "FDP": 7.4,
+    "Sonstige": 6.7
+   }
+  },
+  "05566092": {
+   "name": "Westerkappeln",
+   "beteiligung": 61.4,
+   "parteien": {
+    "SPD": 44.2,
+    "CDU": 28.6,
+    "Sonstige": 12.4,
+    "GRÜNE": 8.9,
+    "FDP": 5.8
+   }
+  },
+  "05566096": {
+   "name": "Wettringen",
+   "beteiligung": 71.4,
+   "parteien": {
+    "CDU": 48.2,
+    "Sonstige": 19.3,
+    "GRÜNE": 12.9,
+    "SPD": 11.0,
+    "FDP": 8.5
+   }
+  },
+  "05570004": {
+   "name": "Ahlen, Stadt",
+   "beteiligung": 49.4,
+   "parteien": {
+    "CDU": 35.0,
+    "SPD": 22.5,
+    "FREIE WÄHLER": 13.5,
+    "Sonstige": 10.0,
+    "GRÜNE": 7.1,
+    "DIE LINKE": 6.1,
+    "FDP": 5.7
+   }
+  },
+  "05570008": {
+   "name": "Beckum, Stadt",
+   "beteiligung": 52.7,
+   "parteien": {
+    "CDU": 41.9,
+    "SPD": 26.4,
+    "GRÜNE": 10.0,
+    "Sonstige": 8.8,
+    "FDP": 6.7,
+    "DIE LINKE": 6.2
+   }
+  },
+  "05570012": {
+   "name": "Beelen",
+   "beteiligung": 63.7,
+   "parteien": {
+    "Sonstige": 45.8,
+    "CDU": 25.7,
+    "GRÜNE": 9.7,
+    "SPD": 6.5,
+    "FDP": 6.4,
+    "DIE LINKE": 5.8
+   }
+  },
+  "05570016": {
+   "name": "Drensteinfurt, Stadt",
+   "beteiligung": 69.5,
+   "parteien": {
+    "CDU": 51.7,
+    "SPD": 16.2,
+    "GRÜNE": 15.8,
+    "FDP": 8.6,
+    "DIE LINKE": 6.3,
+    "Sonstige": 1.4
+   }
+  },
+  "05570020": {
+   "name": "Ennigerloh, Stadt",
+   "beteiligung": 57.3,
+   "parteien": {
+    "CDU": 45.4,
+    "SPD": 22.8,
+    "Sonstige": 22.6,
+    "DIE LINKE": 9.1
+   }
+  },
+  "05570024": {
+   "name": "Everswinkel",
+   "beteiligung": 70.2,
+   "parteien": {
+    "CDU": 49.7,
+    "GRÜNE": 20.5,
+    "SPD": 15.3,
+    "FDP": 14.5
+   }
+  },
+  "05570028": {
+   "name": "Oelde, Stadt",
+   "beteiligung": 59.3,
+   "parteien": {
+    "CDU": 38.9,
+    "SPD": 14.9,
+    "GRÜNE": 14.7,
+    "Sonstige": 13.9,
+    "AfD": 9.3,
+    "FDP": 4.2,
+    "DIE LINKE": 4.1
+   }
+  },
+  "05570032": {
+   "name": "Ostbevern",
+   "beteiligung": 68.1,
+   "parteien": {
+    "CDU": 53.5,
+    "GRÜNE": 20.9,
+    "SPD": 13.5,
+    "FDP": 12.1
+   }
+  },
+  "05570036": {
+   "name": "Sassenberg, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 43.2,
+    "Sonstige": 27.3,
+    "SPD": 12.3,
+    "GRÜNE": 9.3,
+    "FDP": 7.8
+   }
+  },
+  "05570040": {
+   "name": "Sendenhorst, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 44.7,
+    "SPD": 33.4,
+    "Sonstige": 13.6,
+    "FDP": 8.4
+   }
+  },
+  "05570044": {
+   "name": "Telgte, Stadt",
+   "beteiligung": 70.3,
+   "parteien": {
+    "CDU": 39.8,
+    "GRÜNE": 38.7,
+    "FDP": 11.1,
+    "SPD": 10.4
+   }
+  },
+  "05570048": {
+   "name": "Wadersloh",
+   "beteiligung": 63.9,
+   "parteien": {
+    "CDU": 48.7,
+    "Sonstige": 15.4,
+    "AfD": 11.6,
+    "SPD": 11.2,
+    "GRÜNE": 9.7,
+    "FDP": 3.4
+   }
+  },
+  "05570052": {
+   "name": "Warendorf, Stadt",
+   "beteiligung": 64.3,
+   "parteien": {
+    "CDU": 44.2,
+    "SPD": 18.2,
+    "Sonstige": 13.2,
+    "GRÜNE": 12.7,
+    "DIE LINKE": 6.5,
+    "FDP": 5.1
+   }
+  },
+  "05711000": {
+   "name": "Krfr. Stadt Bielefeld",
+   "beteiligung": 57.4,
+   "parteien": {
+    "CDU": 29.4,
+    "SPD": 21.7,
+    "GRÜNE": 15.0,
+    "AfD": 12.2,
+    "DIE LINKE": 10.5,
+    "Sonstige": 5.2,
+    "FDP": 4.8,
+    "BSW": 1.2
+   }
+  },
+  "05754004": {
+   "name": "Borgholzhausen, Stadt",
+   "beteiligung": 58.0,
+   "parteien": {
+    "SPD": 34.3,
+    "CDU": 29.5,
+    "Sonstige": 24.0,
+    "GRÜNE": 12.2
+   }
+  },
+  "05754008": {
+   "name": "Gütersloh, Stadt",
+   "beteiligung": 47.1,
+   "parteien": {
+    "CDU": 32.9,
+    "SPD": 22.3,
+    "GRÜNE": 15.4,
+    "AfD": 13.8,
+    "Sonstige": 7.0,
+    "DIE LINKE": 5.8,
+    "FDP": 2.9
+   }
+  },
+  "05754012": {
+   "name": "Halle (Westf.), Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 43.3,
+    "SPD": 22.3,
+    "GRÜNE": 20.6,
+    "Sonstige": 10.1,
+    "FDP": 3.6
+   }
+  },
+  "05754016": {
+   "name": "Harsewinkel, Stadt",
+   "beteiligung": 56.2,
+   "parteien": {
+    "CDU": 44.2,
+    "SPD": 25.3,
+    "AfD": 15.7,
+    "GRÜNE": 9.1,
+    "FDP": 5.7
+   }
+  },
+  "05754020": {
+   "name": "Herzebrock-Clarholz",
+   "beteiligung": 57.7,
+   "parteien": {
+    "CDU": 44.9,
+    "Sonstige": 24.1,
+    "GRÜNE": 17.0,
+    "SPD": 9.4,
+    "FDP": 4.6
+   }
+  },
+  "05754024": {
+   "name": "Langenberg",
+   "beteiligung": 62.5,
+   "parteien": {
+    "CDU": 48.5,
+    "Sonstige": 26.6,
+    "SPD": 13.2,
+    "GRÜNE": 11.7
+   }
+  },
+  "05754028": {
+   "name": "Rheda-Wiedenbrück, Stadt",
+   "beteiligung": 50.4,
+   "parteien": {
+    "CDU": 41.6,
+    "Sonstige": 20.7,
+    "GRÜNE": 12.8,
+    "SPD": 10.4,
+    "FDP": 5.1,
+    "AfD": 4.9,
+    "DIE LINKE": 4.6
+   }
+  },
+  "05754032": {
+   "name": "Rietberg, Stadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 46.0,
+    "Sonstige": 28.0,
+    "GRÜNE": 8.0,
+    "SPD": 7.5,
+    "DIE LINKE": 4.3,
+    "FDP": 3.4,
+    "AfD": 2.8
+   }
+  },
+  "05754036": {
+   "name": "Schloß Holte-Stukenbrock, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 48.3,
+    "GRÜNE": 13.2,
+    "SPD": 13.0,
+    "Sonstige": 8.3,
+    "AfD": 7.4,
+    "FDP": 6.9,
+    "DIE LINKE": 2.9
+   }
+  },
+  "05754040": {
+   "name": "Steinhagen",
+   "beteiligung": 63.6,
+   "parteien": {
+    "CDU": 39.7,
+    "SPD": 38.8,
+    "GRÜNE": 11.9,
+    "Sonstige": 5.0,
+    "FDP": 4.7
+   }
+  },
+  "05754044": {
+   "name": "Verl, Stadt",
+   "beteiligung": 56.1,
+   "parteien": {
+    "CDU": 56.3,
+    "SPD": 13.4,
+    "GRÜNE": 13.3,
+    "Sonstige": 11.5,
+    "FDP": 5.5
+   }
+  },
+  "05754048": {
+   "name": "Versmold, Stadt",
+   "beteiligung": 51.1,
+   "parteien": {
+    "CDU": 49.8,
+    "SPD": 22.6,
+    "GRÜNE": 13.1,
+    "Sonstige": 7.8,
+    "FDP": 6.6
+   }
+  },
+  "05754052": {
+   "name": "Werther (Westf.), Stadt",
+   "beteiligung": 65.7,
+   "parteien": {
+    "SPD": 36.3,
+    "CDU": 22.8,
+    "Sonstige": 19.1,
+    "GRÜNE": 16.0,
+    "FDP": 5.9
+   }
+  },
+  "05758004": {
+   "name": "Bünde, Stadt",
+   "beteiligung": 56.1,
+   "parteien": {
+    "CDU": 29.8,
+    "SPD": 28.5,
+    "AfD": 18.6,
+    "GRÜNE": 9.8,
+    "DIE LINKE": 5.5,
+    "Sonstige": 5.2,
+    "FDP": 2.5
+   }
+  },
+  "05758008": {
+   "name": "Enger, Stadt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "CDU": 44.5,
+    "SPD": 28.6,
+    "GRÜNE": 14.0,
+    "FDP": 10.0,
+    "Sonstige": 2.9
+   }
+  },
+  "05758012": {
+   "name": "Herford, Stadt",
+   "beteiligung": 52.4,
+   "parteien": {
+    "CDU": 29.7,
+    "SPD": 24.7,
+    "AfD": 13.6,
+    "Sonstige": 12.8,
+    "GRÜNE": 9.4,
+    "DIE LINKE": 5.7,
+    "FDP": 4.0
+   }
+  },
+  "05758016": {
+   "name": "Hiddenhausen",
+   "beteiligung": 61.3,
+   "parteien": {
+    "SPD": 44.1,
+    "CDU": 35.7,
+    "GRÜNE": 10.7,
+    "Sonstige": 9.6
+   }
+  },
+  "05758020": {
+   "name": "Kirchlengern",
+   "beteiligung": 63.2,
+   "parteien": {
+    "CDU": 36.3,
+    "SPD": 32.6,
+    "AfD": 16.3,
+    "GRÜNE": 9.7,
+    "Sonstige": 2.7,
+    "FDP": 2.4
+   }
+  },
+  "05758024": {
+   "name": "Löhne, Stadt",
+   "beteiligung": 54.9,
+   "parteien": {
+    "SPD": 33.5,
+    "CDU": 26.2,
+    "AfD": 19.7,
+    "GRÜNE": 7.8,
+    "DIE LINKE": 5.5,
+    "Sonstige": 5.5,
+    "FDP": 1.8
+   }
+  },
+  "05758028": {
+   "name": "Rödinghausen",
+   "beteiligung": 65.0,
+   "parteien": {
+    "SPD": 34.2,
+    "CDU": 27.0,
+    "AfD": 13.3,
+    "GRÜNE": 11.7,
+    "Sonstige": 9.7,
+    "FDP": 4.1
+   }
+  },
+  "05758032": {
+   "name": "Spenge, Stadt",
+   "beteiligung": 63.4,
+   "parteien": {
+    "SPD": 35.3,
+    "CDU": 30.0,
+    "Sonstige": 21.1,
+    "GRÜNE": 10.0,
+    "FDP": 3.6
+   }
+  },
+  "05758036": {
+   "name": "Vlotho, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "SPD": 36.0,
+    "CDU": 30.1,
+    "Sonstige": 11.5,
+    "AfD": 8.7,
+    "FDP": 7.5,
+    "DIE LINKE": 6.3
+   }
+  },
+  "05762004": {
+   "name": "Bad Driburg, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 40.8,
+    "AfD": 18.9,
+    "SPD": 15.5,
+    "Sonstige": 10.8,
+    "GRÜNE": 9.7,
+    "FDP": 4.3
+   }
+  },
+  "05762008": {
+   "name": "Beverungen, Stadt",
+   "beteiligung": 61.4,
+   "parteien": {
+    "CDU": 55.2,
+    "SPD": 16.6,
+    "AfD": 14.6,
+    "GRÜNE": 8.5,
+    "FDP": 3.9,
+    "Sonstige": 1.1
+   }
+  },
+  "05762012": {
+   "name": "Borgentreich, Stadt",
+   "beteiligung": 72.4,
+   "parteien": {
+    "CDU": 45.9,
+    "SPD": 18.8,
+    "Sonstige": 15.3,
+    "AfD": 10.1,
+    "GRÜNE": 6.1,
+    "FDP": 3.8
+   }
+  },
+  "05762016": {
+   "name": "Brakel, Stadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 47.8,
+    "Sonstige": 14.6,
+    "AfD": 14.2,
+    "SPD": 12.5,
+    "GRÜNE": 10.9
+   }
+  },
+  "05762020": {
+   "name": "Höxter, Stadt",
+   "beteiligung": 63.1,
+   "parteien": {
+    "CDU": 36.1,
+    "Sonstige": 23.2,
+    "SPD": 18.0,
+    "AfD": 11.3,
+    "GRÜNE": 8.6,
+    "FDP": 2.8
+   }
+  },
+  "05762024": {
+   "name": "Marienmünster, Stadt",
+   "beteiligung": 73.5,
+   "parteien": {
+    "CDU": 46.1,
+    "Sonstige": 33.8,
+    "GRÜNE": 10.3,
+    "SPD": 9.8
+   }
+  },
+  "05762028": {
+   "name": "Nieheim, Stadt",
+   "beteiligung": 73.5,
+   "parteien": {
+    "CDU": 36.9,
+    "SPD": 27.7,
+    "Sonstige": 19.6,
+    "FDP": 9.4,
+    "GRÜNE": 6.3
+   }
+  },
+  "05762032": {
+   "name": "Steinheim, Stadt",
+   "beteiligung": 61.6,
+   "parteien": {
+    "CDU": 40.6,
+    "Sonstige": 27.9,
+    "SPD": 23.2,
+    "GRÜNE": 8.2
+   }
+  },
+  "05762036": {
+   "name": "Warburg, Stadt",
+   "beteiligung": 63.3,
+   "parteien": {
+    "CDU": 46.4,
+    "SPD": 18.7,
+    "AfD": 13.0,
+    "GRÜNE": 11.9,
+    "Sonstige": 6.8,
+    "FDP": 3.1
+   }
+  },
+  "05762040": {
+   "name": "Willebadessen, Stadt",
+   "beteiligung": 67.9,
+   "parteien": {
+    "CDU": 38.8,
+    "Sonstige": 25.0,
+    "SPD": 20.9,
+    "AfD": 10.4,
+    "GRÜNE": 3.5,
+    "FDP": 1.4
+   }
+  },
+  "05766004": {
+   "name": "Augustdorf",
+   "beteiligung": 62.4,
+   "parteien": {
+    "CDU": 34.2,
+    "SPD": 25.6,
+    "AfD": 17.5,
+    "Sonstige": 15.8,
+    "GRÜNE": 4.4,
+    "FDP": 2.5
+   }
+  },
+  "05766008": {
+   "name": "Bad Salzuflen, Stadt",
+   "beteiligung": 53.0,
+   "parteien": {
+    "CDU": 31.1,
+    "SPD": 22.1,
+    "AfD": 19.0,
+    "GRÜNE": 10.8,
+    "Sonstige": 7.8,
+    "DIE LINKE": 5.4,
+    "FDP": 3.9
+   }
+  },
+  "05766012": {
+   "name": "Barntrup, Stadt",
+   "beteiligung": 64.5,
+   "parteien": {
+    "CDU": 48.4,
+    "SPD": 23.6,
+    "GRÜNE": 10.2,
+    "Sonstige": 6.8,
+    "FDP": 6.1,
+    "AfD": 4.9
+   }
+  },
+  "05766016": {
+   "name": "Blomberg, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "SPD": 46.7,
+    "CDU": 25.7,
+    "AfD": 16.3,
+    "GRÜNE": 11.3
+   }
+  },
+  "05766020": {
+   "name": "Detmold, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "SPD": 31.7,
+    "CDU": 24.9,
+    "AfD": 15.2,
+    "GRÜNE": 12.6,
+    "Sonstige": 7.5,
+    "DIE LINKE": 4.9,
+    "FDP": 3.2
+   }
+  },
+  "05766024": {
+   "name": "Dörentrup",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CDU": 52.7,
+    "SPD": 22.5,
+    "GRÜNE": 12.6,
+    "FDP": 7.1,
+    "AfD": 5.1
+   }
+  },
+  "05766028": {
+   "name": "Extertal",
+   "beteiligung": 61.6,
+   "parteien": {
+    "Sonstige": 39.9,
+    "FDP": 16.8,
+    "CDU": 16.1,
+    "AfD": 11.1,
+    "SPD": 10.9,
+    "GRÜNE": 5.2
+   }
+  },
+  "05766032": {
+   "name": "Horn-Bad Meinberg, Stadt",
+   "beteiligung": 60.9,
+   "parteien": {
+    "CDU": 36.7,
+    "SPD": 27.3,
+    "AfD": 14.1,
+    "GRÜNE": 9.3,
+    "Sonstige": 5.2,
+    "DIE LINKE": 4.8,
+    "FDP": 2.6
+   }
+  },
+  "05766036": {
+   "name": "Kalletal",
+   "beteiligung": 63.9,
+   "parteien": {
+    "SPD": 36.0,
+    "CDU": 34.6,
+    "Sonstige": 21.4,
+    "GRÜNE": 8.0
+   }
+  },
+  "05766040": {
+   "name": "Lage, Stadt",
+   "beteiligung": 58.2,
+   "parteien": {
+    "SPD": 26.6,
+    "CDU": 26.2,
+    "AfD": 17.8,
+    "GRÜNE": 10.7,
+    "Sonstige": 10.5,
+    "FDP": 4.6,
+    "DIE LINKE": 3.7
+   }
+  },
+  "05766044": {
+   "name": "Lemgo, Stadt",
+   "beteiligung": 61.5,
+   "parteien": {
+    "CDU": 30.3,
+    "SPD": 24.5,
+    "GRÜNE": 14.3,
+    "AfD": 13.8,
+    "Sonstige": 8.6,
+    "DIE LINKE": 4.9,
+    "FDP": 3.5
+   }
+  },
+  "05766048": {
+   "name": "Leopoldshöhe",
+   "beteiligung": 67.8,
+   "parteien": {
+    "SPD": 27.7,
+    "Sonstige": 22.6,
+    "CDU": 21.6,
+    "AfD": 15.4,
+    "GRÜNE": 9.6,
+    "FDP": 3.0
+   }
+  },
+  "05766052": {
+   "name": "Lügde, Stadt",
+   "beteiligung": 62.5,
+   "parteien": {
+    "SPD": 39.4,
+    "CDU": 31.1,
+    "Sonstige": 23.4,
+    "GRÜNE": 6.1
+   }
+  },
+  "05766056": {
+   "name": "Oerlinghausen, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "SPD": 31.0,
+    "CDU": 27.0,
+    "Sonstige": 13.9,
+    "GRÜNE": 12.3,
+    "FDP": 7.4,
+    "AfD": 6.2,
+    "DIE LINKE": 2.2
+   }
+  },
+  "05766060": {
+   "name": "Schieder-Schwalenberg, Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "SPD": 29.6,
+    "CDU": 27.9,
+    "Sonstige": 17.1,
+    "FDP": 15.7,
+    "GRÜNE": 9.8
+   }
+  },
+  "05766064": {
+   "name": "Schlangen",
+   "beteiligung": 62.1,
+   "parteien": {
+    "CDU": 39.1,
+    "SPD": 24.1,
+    "Sonstige": 19.7,
+    "GRÜNE": 10.4,
+    "AfD": 6.8
+   }
+  },
+  "05770004": {
+   "name": "Bad Oeynhausen, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "CDU": 36.9,
+    "SPD": 21.7,
+    "AfD": 17.8,
+    "GRÜNE": 10.0,
+    "Sonstige": 6.0,
+    "DIE LINKE": 4.6,
+    "FDP": 2.8
+   }
+  },
+  "05770008": {
+   "name": "Espelkamp, Stadt",
+   "beteiligung": 57.8,
+   "parteien": {
+    "CDU": 51.8,
+    "AfD": 18.6,
+    "SPD": 16.3,
+    "Sonstige": 6.6,
+    "GRÜNE": 4.5,
+    "FDP": 2.1
+   }
+  },
+  "05770012": {
+   "name": "Hille",
+   "beteiligung": 69.9,
+   "parteien": {
+    "CDU": 38.7,
+    "SPD": 26.8,
+    "AfD": 13.4,
+    "GRÜNE": 9.1,
+    "Sonstige": 7.6,
+    "FDP": 4.5
+   }
+  },
+  "05770016": {
+   "name": "Hüllhorst",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 42.4,
+    "SPD": 23.8,
+    "AfD": 17.7,
+    "GRÜNE": 8.6,
+    "Sonstige": 5.2,
+    "FDP": 2.3
+   }
+  },
+  "05770020": {
+   "name": "Lübbecke, Stadt",
+   "beteiligung": 59.7,
+   "parteien": {
+    "SPD": 35.4,
+    "CDU": 30.9,
+    "AfD": 13.9,
+    "Sonstige": 7.7,
+    "GRÜNE": 6.4,
+    "DIE LINKE": 4.0,
+    "FDP": 1.7
+   }
+  },
+  "05770024": {
+   "name": "Minden, Stadt",
+   "beteiligung": 52.1,
+   "parteien": {
+    "SPD": 35.3,
+    "CDU": 24.6,
+    "AfD": 17.2,
+    "GRÜNE": 9.5,
+    "DIE LINKE": 5.5,
+    "Sonstige": 5.0,
+    "FDP": 3.1
+   }
+  },
+  "05770028": {
+   "name": "Petershagen, Stadt",
+   "beteiligung": 60.6,
+   "parteien": {
+    "CDU": 38.9,
+    "SPD": 29.3,
+    "AfD": 15.5,
+    "GRÜNE": 9.9,
+    "FDP": 5.5,
+    "Sonstige": 0.9
+   }
+  },
+  "05770032": {
+   "name": "Porta Westfalica, Stadt",
+   "beteiligung": 59.1,
+   "parteien": {
+    "CDU": 27.5,
+    "SPD": 25.6,
+    "AfD": 20.3,
+    "GRÜNE": 11.1,
+    "Sonstige": 6.1,
+    "DIE LINKE": 4.8,
+    "FDP": 4.6
+   }
+  },
+  "05770036": {
+   "name": "Preußisch Oldendorf, Stadt",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CDU": 32.8,
+    "SPD": 21.3,
+    "Sonstige": 19.7,
+    "AfD": 18.9,
+    "GRÜNE": 7.4
+   }
+  },
+  "05770040": {
+   "name": "Rahden, Stadt",
+   "beteiligung": 63.6,
+   "parteien": {
+    "CDU": 41.1,
+    "FDP": 16.7,
+    "SPD": 15.7,
+    "AfD": 14.4,
+    "GRÜNE": 8.0,
+    "Sonstige": 4.1
+   }
+  },
+  "05770044": {
+   "name": "Stemwede",
+   "beteiligung": 60.0,
+   "parteien": {
+    "CDU": 37.1,
+    "FDP": 21.3,
+    "SPD": 19.2,
+    "AfD": 12.0,
+    "GRÜNE": 9.5,
+    "Sonstige": 1.0
+   }
+  },
+  "05774004": {
+   "name": "Altenbeken",
+   "beteiligung": 64.4,
+   "parteien": {
+    "CDU": 60.5,
+    "SPD": 26.7,
+    "GRÜNE": 12.8
+   }
+  },
+  "05774008": {
+   "name": "Bad Lippspringe, Stadt",
+   "beteiligung": 52.2,
+   "parteien": {
+    "CDU": 42.2,
+    "Sonstige": 20.1,
+    "AfD": 14.3,
+    "SPD": 10.1,
+    "GRÜNE": 9.7,
+    "FDP": 3.6
+   }
+  },
+  "05774012": {
+   "name": "Borchen",
+   "beteiligung": 68.3,
+   "parteien": {
+    "CDU": 40.2,
+    "SPD": 18.8,
+    "GRÜNE": 13.1,
+    "AfD": 12.5,
+    "Sonstige": 10.5,
+    "FDP": 4.8
+   }
+  },
+  "05774016": {
+   "name": "Büren, Stadt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "CDU": 54.7,
+    "SPD": 17.3,
+    "AfD": 12.4,
+    "GRÜNE": 6.6,
+    "Sonstige": 5.7,
+    "FDP": 3.4
+   }
+  },
+  "05774020": {
+   "name": "Delbrück, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 58.6,
+    "Sonstige": 14.2,
+    "GRÜNE": 9.7,
+    "AfD": 8.4,
+    "SPD": 6.2,
+    "FDP": 2.9
+   }
+  },
+  "05774024": {
+   "name": "Hövelhof",
+   "beteiligung": 64.0,
+   "parteien": {
+    "CDU": 59.2,
+    "GRÜNE": 10.5,
+    "SPD": 9.0,
+    "AfD": 7.4,
+    "DIE LINKE": 7.1,
+    "FDP": 6.8
+   }
+  },
+  "05774028": {
+   "name": "Lichtenau, Stadt",
+   "beteiligung": 69.5,
+   "parteien": {
+    "CDU": 47.9,
+    "SPD": 23.2,
+    "Sonstige": 10.2,
+    "FDP": 9.6,
+    "GRÜNE": 9.2
+   }
+  },
+  "05774032": {
+   "name": "Paderborn, Stadt",
+   "beteiligung": 54.3,
+   "parteien": {
+    "CDU": 35.8,
+    "GRÜNE": 19.7,
+    "AfD": 15.4,
+    "SPD": 10.3,
+    "Sonstige": 7.7,
+    "DIE LINKE": 7.6,
+    "FDP": 3.4
+   }
+  },
+  "05774036": {
+   "name": "Salzkotten, Stadt",
+   "beteiligung": 66.7,
+   "parteien": {
+    "CDU": 55.5,
+    "SPD": 16.6,
+    "GRÜNE": 13.0,
+    "AfD": 10.2,
+    "FDP": 4.7
+   }
+  },
+  "05774040": {
+   "name": "Bad Wünnenberg, Stadt",
+   "beteiligung": 66.0,
+   "parteien": {
+    "CDU": 52.2,
+    "SPD": 32.3,
+    "GRÜNE": 8.8,
+    "FDP": 6.7
+   }
+  },
+  "05911000": {
+   "name": "Krfr. Stadt Bochum",
+   "beteiligung": 55.0,
+   "parteien": {
+    "SPD": 28.1,
+    "CDU": 20.0,
+    "AfD": 14.9,
+    "GRÜNE": 14.4,
+    "DIE LINKE": 9.5,
+    "Sonstige": 9.5,
+    "FDP": 1.9,
+    "BSW": 1.7
+   }
+  },
+  "05913000": {
+   "name": "Krfr. Stadt Dortmund",
+   "beteiligung": 53.0,
+   "parteien": {
+    "SPD": 24.9,
+    "CDU": 22.1,
+    "AfD": 16.6,
+    "GRÜNE": 16.5,
+    "DIE LINKE": 8.0,
+    "Sonstige": 7.9,
+    "FDP": 2.1,
+    "BSW": 2.0
+   }
+  },
+  "05914000": {
+   "name": "Krfr. Stadt Hagen",
+   "beteiligung": 47.9,
+   "parteien": {
+    "CDU": 26.4,
+    "AfD": 22.4,
+    "SPD": 19.9,
+    "Sonstige": 13.9,
+    "GRÜNE": 7.4,
+    "DIE LINKE": 3.9,
+    "BSW": 3.1,
+    "FDP": 3.0
+   }
+  },
+  "05915000": {
+   "name": "Krfr. Stadt Hamm",
+   "beteiligung": 53.7,
+   "parteien": {
+    "SPD": 46.2,
+    "CDU": 22.9,
+    "AfD": 16.3,
+    "GRÜNE": 4.7,
+    "Sonstige": 3.4,
+    "DIE LINKE": 2.7,
+    "FDP": 2.0,
+    "BSW": 1.8
+   }
+  },
+  "05916000": {
+   "name": "Krfr. Stadt Herne",
+   "beteiligung": 48.3,
+   "parteien": {
+    "SPD": 37.0,
+    "AfD": 22.4,
+    "CDU": 17.8,
+    "GRÜNE": 8.5,
+    "DIE LINKE": 5.6,
+    "Sonstige": 3.5,
+    "BSW": 2.2,
+    "FDP": 1.8,
+    "PIRATEN": 1.2
+   }
+  },
+  "05954004": {
+   "name": "Breckerfeld, Stadt",
+   "beteiligung": 64.2,
+   "parteien": {
+    "CDU": 57.0,
+    "SPD": 20.6,
+    "GRÜNE": 13.8,
+    "FDP": 8.6
+   }
+  },
+  "05954008": {
+   "name": "Ennepetal, Stadt",
+   "beteiligung": 54.8,
+   "parteien": {
+    "CDU": 26.5,
+    "SPD": 24.6,
+    "AfD": 19.7,
+    "GRÜNE": 10.5,
+    "FDP": 9.3,
+    "DIE LINKE": 5.1,
+    "Sonstige": 4.4
+   }
+  },
+  "05954012": {
+   "name": "Gevelsberg, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "SPD": 53.6,
+    "CDU": 16.4,
+    "AfD": 14.2,
+    "GRÜNE": 7.4,
+    "DIE LINKE": 4.4,
+    "FDP": 4.0
+   }
+  },
+  "05954016": {
+   "name": "Hattingen, Stadt",
+   "beteiligung": 57.6,
+   "parteien": {
+    "SPD": 30.2,
+    "CDU": 29.1,
+    "AfD": 16.3,
+    "GRÜNE": 13.0,
+    "DIE LINKE": 4.9,
+    "FDP": 3.4,
+    "Sonstige": 3.0
+   }
+  },
+  "05954020": {
+   "name": "Herdecke, Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "SPD": 30.7,
+    "CDU": 29.5,
+    "AfD": 13.5,
+    "GRÜNE": 13.4,
+    "FDP": 5.9,
+    "DIE LINKE": 3.8,
+    "Sonstige": 3.2
+   }
+  },
+  "05954024": {
+   "name": "Schwelm, Stadt",
+   "beteiligung": 54.2,
+   "parteien": {
+    "CDU": 24.6,
+    "SPD": 22.7,
+    "AfD": 17.2,
+    "GRÜNE": 11.2,
+    "FDP": 10.1,
+    "Sonstige": 8.0,
+    "DIE LINKE": 6.1
+   }
+  },
+  "05954028": {
+   "name": "Sprockhövel, Stadt",
+   "beteiligung": 66.6,
+   "parteien": {
+    "CDU": 37.6,
+    "SPD": 25.1,
+    "GRÜNE": 15.3,
+    "Sonstige": 8.1,
+    "FDP": 8.1,
+    "DIE LINKE": 5.8
+   }
+  },
+  "05954032": {
+   "name": "Wetter (Ruhr), Stadt",
+   "beteiligung": 61.7,
+   "parteien": {
+    "SPD": 32.1,
+    "CDU": 21.1,
+    "GRÜNE": 15.2,
+    "AfD": 14.4,
+    "DIE LINKE": 5.3,
+    "Sonstige": 4.7,
+    "FDP": 4.4,
+    "FREIE WÄHLER": 2.8
+   }
+  },
+  "05954036": {
+   "name": "Witten, Stadt",
+   "beteiligung": 56.4,
+   "parteien": {
+    "SPD": 28.8,
+    "CDU": 22.8,
+    "AfD": 15.9,
+    "GRÜNE": 13.8,
+    "Sonstige": 8.7,
+    "DIE LINKE": 7.5,
+    "FDP": 2.5
+   }
+  },
+  "05958004": {
+   "name": "Arnsberg, Stadt",
+   "beteiligung": 56.6,
+   "parteien": {
+    "CDU": 36.6,
+    "SPD": 34.8,
+    "AfD": 12.4,
+    "GRÜNE": 8.2,
+    "Sonstige": 3.6,
+    "FDP": 2.5,
+    "DIE LINKE": 1.9
+   }
+  },
+  "05958008": {
+   "name": "Bestwig",
+   "beteiligung": 60.2,
+   "parteien": {
+    "CDU": 61.3,
+    "SPD": 34.5,
+    "GRÜNE": 4.2
+   }
+  },
+  "05958012": {
+   "name": "Brilon, Stadt",
+   "beteiligung": 61.9,
+   "parteien": {
+    "CDU": 48.6,
+    "SPD": 33.0,
+    "Sonstige": 6.8,
+    "FDP": 4.3,
+    "GRÜNE": 3.9,
+    "DIE LINKE": 3.4
+   }
+  },
+  "05958016": {
+   "name": "Eslohe (Sauerland)",
+   "beteiligung": 69.2,
+   "parteien": {
+    "CDU": 71.1,
+    "SPD": 20.5,
+    "GRÜNE": 8.5
+   }
+  },
+  "05958020": {
+   "name": "Hallenberg, Stadt",
+   "beteiligung": 72.6,
+   "parteien": {
+    "FDP": 62.7,
+    "CDU": 37.3
+   }
+  },
+  "05958024": {
+   "name": "Marsberg, Stadt",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 37.6,
+    "SPD": 37.3,
+    "Sonstige": 17.2,
+    "GRÜNE": 7.8
+   }
+  },
+  "05958028": {
+   "name": "Medebach, Stadt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "CDU": 63.2,
+    "SPD": 18.5,
+    "Sonstige": 11.2,
+    "FDP": 7.1
+   }
+  },
+  "05958032": {
+   "name": "Meschede, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "CDU": 51.4,
+    "SPD": 23.1,
+    "Sonstige": 13.3,
+    "GRÜNE": 7.0,
+    "FDP": 5.2
+   }
+  },
+  "05958036": {
+   "name": "Olsberg, Stadt",
+   "beteiligung": 66.8,
+   "parteien": {
+    "CDU": 48.9,
+    "SPD": 21.8,
+    "AfD": 11.1,
+    "FDP": 7.6,
+    "GRÜNE": 7.4,
+    "DIE LINKE": 3.2
+   }
+  },
+  "05958040": {
+   "name": "Schmallenberg, Stadt",
+   "beteiligung": 67.2,
+   "parteien": {
+    "CDU": 58.3,
+    "Sonstige": 27.5,
+    "SPD": 7.6,
+    "GRÜNE": 6.6
+   }
+  },
+  "05958044": {
+   "name": "Sundern (Sauerland), Stadt",
+   "beteiligung": 62.9,
+   "parteien": {
+    "CDU": 40.8,
+    "SPD": 19.1,
+    "AfD": 14.5,
+    "Sonstige": 10.0,
+    "GRÜNE": 8.8,
+    "FDP": 6.8
+   }
+  },
+  "05958048": {
+   "name": "Winterberg, Stadt",
+   "beteiligung": 63.0,
+   "parteien": {
+    "CDU": 62.7,
+    "SPD": 23.7,
+    "Sonstige": 9.0,
+    "FDP": 4.6
+   }
+  },
+  "05962004": {
+   "name": "Altena, Stadt",
+   "beteiligung": 48.7,
+   "parteien": {
+    "CDU": 50.5,
+    "SPD": 24.5,
+    "GRÜNE": 11.3,
+    "Sonstige": 8.9,
+    "DIE LINKE": 4.9
+   }
+  },
+  "05962008": {
+   "name": "Balve, Stadt",
+   "beteiligung": 62.6,
+   "parteien": {
+    "CDU": 61.7,
+    "Sonstige": 30.3,
+    "SPD": 8.0
+   }
+  },
+  "05962012": {
+   "name": "Halver, Stadt",
+   "beteiligung": 57.2,
+   "parteien": {
+    "CDU": 29.8,
+    "SPD": 28.8,
+    "Sonstige": 15.2,
+    "AfD": 14.4,
+    "GRÜNE": 11.8
+   }
+  },
+  "05962016": {
+   "name": "Hemer, Stadt",
+   "beteiligung": 52.0,
+   "parteien": {
+    "CDU": 43.0,
+    "AfD": 19.0,
+    "SPD": 16.2,
+    "Sonstige": 11.6,
+    "DIE LINKE": 6.1,
+    "FDP": 4.3
+   }
+  },
+  "05962020": {
+   "name": "Herscheid",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 41.1,
+    "SPD": 25.3,
+    "Sonstige": 16.7,
+    "GRÜNE": 9.0,
+    "FDP": 7.9
+   }
+  },
+  "05962024": {
+   "name": "Iserlohn, Stadt",
+   "beteiligung": 51.0,
+   "parteien": {
+    "CDU": 31.9,
+    "AfD": 18.9,
+    "Sonstige": 16.0,
+    "SPD": 14.8,
+    "DIE LINKE": 10.1,
+    "GRÜNE": 5.6,
+    "FDP": 2.7
+   }
+  },
+  "05962028": {
+   "name": "Kierspe, Stadt",
+   "beteiligung": 48.7,
+   "parteien": {
+    "Sonstige": 40.4,
+    "CDU": 28.3,
+    "SPD": 18.0,
+    "GRÜNE": 8.0,
+    "FDP": 5.4
+   }
+  },
+  "05962032": {
+   "name": "Lüdenscheid, Stadt",
+   "beteiligung": 47.9,
+   "parteien": {
+    "CDU": 32.8,
+    "SPD": 30.2,
+    "AfD": 18.3,
+    "GRÜNE": 6.7,
+    "DIE LINKE": 5.5,
+    "FDP": 4.5,
+    "Sonstige": 1.9
+   }
+  },
+  "05962036": {
+   "name": "Meinerzhagen, Stadt",
+   "beteiligung": 50.7,
+   "parteien": {
+    "CDU": 39.5,
+    "SPD": 15.5,
+    "Sonstige": 12.8,
+    "AfD": 11.3,
+    "GRÜNE": 8.5,
+    "FDP": 7.5,
+    "DIE LINKE": 4.9
+   }
+  },
+  "05962040": {
+   "name": "Menden (Sauerland), Stadt",
+   "beteiligung": 54.4,
+   "parteien": {
+    "CDU": 34.8,
+    "AfD": 16.7,
+    "SPD": 15.6,
+    "GRÜNE": 13.8,
+    "Sonstige": 11.1,
+    "DIE LINKE": 4.4,
+    "FDP": 3.6
+   }
+  },
+  "05962044": {
+   "name": "Nachrodt-Wiblingwerde",
+   "beteiligung": 61.3,
+   "parteien": {
+    "Sonstige": 41.7,
+    "CDU": 28.8,
+    "SPD": 22.8,
+    "FDP": 6.7
+   }
+  },
+  "05962048": {
+   "name": "Neuenrade, Stadt",
+   "beteiligung": 59.3,
+   "parteien": {
+    "CDU": 57.5,
+    "SPD": 14.7,
+    "Sonstige": 11.0,
+    "FDP": 8.9,
+    "GRÜNE": 8.0
+   }
+  },
+  "05962052": {
+   "name": "Plettenberg, Stadt",
+   "beteiligung": 49.5,
+   "parteien": {
+    "CDU": 40.9,
+    "SPD": 24.7,
+    "Sonstige": 17.8,
+    "FDP": 9.3,
+    "GRÜNE": 7.2
+   }
+  },
+  "05962056": {
+   "name": "Schalksmühle",
+   "beteiligung": 64.1,
+   "parteien": {
+    "Sonstige": 42.9,
+    "CDU": 24.0,
+    "SPD": 17.1,
+    "FDP": 9.0,
+    "GRÜNE": 7.0
+   }
+  },
+  "05962060": {
+   "name": "Werdohl, Stadt",
+   "beteiligung": 43.8,
+   "parteien": {
+    "CDU": 45.2,
+    "Sonstige": 27.5,
+    "SPD": 27.3
+   }
+  },
+  "05966004": {
+   "name": "Attendorn, Stadt",
+   "beteiligung": 60.1,
+   "parteien": {
+    "SPD": 41.6,
+    "CDU": 35.6,
+    "AfD": 10.2,
+    "GRÜNE": 5.9,
+    "Sonstige": 3.8,
+    "FDP": 2.8
+   }
+  },
+  "05966008": {
+   "name": "Drolshagen, Stadt",
+   "beteiligung": 68.4,
+   "parteien": {
+    "CDU": 56.6,
+    "AfD": 15.9,
+    "Sonstige": 15.4,
+    "SPD": 12.0
+   }
+  },
+  "05966012": {
+   "name": "Finnentrop",
+   "beteiligung": 57.0,
+   "parteien": {
+    "CDU": 58.8,
+    "AfD": 14.6,
+    "SPD": 11.8,
+    "Sonstige": 8.6,
+    "GRÜNE": 6.1
+   }
+  },
+  "05966016": {
+   "name": "Kirchhundem",
+   "beteiligung": 61.8,
+   "parteien": {
+    "CDU": 57.5,
+    "Sonstige": 18.3,
+    "SPD": 15.6,
+    "GRÜNE": 8.6
+   }
+  },
+  "05966020": {
+   "name": "Lennestadt, Stadt",
+   "beteiligung": 58.9,
+   "parteien": {
+    "CDU": 57.6,
+    "SPD": 29.9,
+    "GRÜNE": 12.4
+   }
+  },
+  "05966024": {
+   "name": "Olpe, Stadt",
+   "beteiligung": 60.3,
+   "parteien": {
+    "CDU": 46.1,
+    "Sonstige": 21.7,
+    "GRÜNE": 13.5,
+    "SPD": 12.5,
+    "FDP": 6.2
+   }
+  },
+  "05966028": {
+   "name": "Wenden",
+   "beteiligung": 63.8,
+   "parteien": {
+    "CDU": 53.7,
+    "Sonstige": 21.6,
+    "SPD": 15.9,
+    "GRÜNE": 8.7
+   }
+  },
+  "05970004": {
+   "name": "Bad Berleburg, Stadt",
+   "beteiligung": 65.2,
+   "parteien": {
+    "CDU": 55.6,
+    "SPD": 23.4,
+    "AfD": 15.2,
+    "GRÜNE": 5.8
+   }
+  },
+  "05970008": {
+   "name": "Burbach",
+   "beteiligung": 56.9,
+   "parteien": {
+    "CDU": 48.7,
+    "SPD": 22.5,
+    "Sonstige": 17.9,
+    "GRÜNE": 8.0,
+    "FDP": 2.9
+   }
+  },
+  "05970012": {
+   "name": "Erndtebrück",
+   "beteiligung": 71.1,
+   "parteien": {
+    "SPD": 44.7,
+    "CDU": 32.5,
+    "Sonstige": 11.2,
+    "GRÜNE": 7.9,
+    "FDP": 3.7
+   }
+  },
+  "05970016": {
+   "name": "Freudenberg, Stadt",
+   "beteiligung": 65.0,
+   "parteien": {
+    "SPD": 39.2,
+    "CDU": 38.8,
+    "FDP": 11.1,
+    "GRÜNE": 10.8
+   }
+  },
+  "05970020": {
+   "name": "Hilchenbach, Stadt",
+   "beteiligung": 66.9,
+   "parteien": {
+    "SPD": 33.1,
+    "CDU": 29.1,
+    "Sonstige": 15.4,
+    "GRÜNE": 6.1,
+    "FREIE WÄHLER": 5.8,
+    "DIE LINKE": 5.3,
+    "FDP": 5.3
+   }
+  },
+  "05970024": {
+   "name": "Kreuztal, Stadt",
+   "beteiligung": 58.6,
+   "parteien": {
+    "SPD": 35.1,
+    "CDU": 25.2,
+    "AfD": 18.4,
+    "GRÜNE": 7.5,
+    "Sonstige": 5.5,
+    "DIE LINKE": 3.9,
+    "FDP": 2.7,
+    "FREIE WÄHLER": 1.5
+   }
+  },
+  "05970028": {
+   "name": "Bad Laasphe, Stadt",
+   "beteiligung": 66.3,
+   "parteien": {
+    "SPD": 33.4,
+    "CDU": 23.9,
+    "FDP": 17.8,
+    "AfD": 12.7,
+    "Sonstige": 8.1,
+    "GRÜNE": 4.1
+   }
+  },
+  "05970032": {
+   "name": "Netphen, Stadt",
+   "beteiligung": 64.1,
+   "parteien": {
+    "CDU": 39.7,
+    "SPD": 22.6,
+    "Sonstige": 16.9,
+    "GRÜNE": 8.2,
+    "FDP": 6.5,
+    "DIE LINKE": 4.0,
+    "FREIE WÄHLER": 2.2
+   }
+  },
+  "05970036": {
+   "name": "Neunkirchen",
+   "beteiligung": 50.2,
+   "parteien": {
+    "CDU": 40.2,
+    "SPD": 29.1,
+    "FDP": 17.5,
+    "GRÜNE": 13.2
+   }
+  },
+  "05970040": {
+   "name": "Siegen, Stadt",
+   "beteiligung": 53.3,
+   "parteien": {
+    "CDU": 28.2,
+    "SPD": 23.9,
+    "AfD": 17.1,
+    "GRÜNE": 9.8,
+    "Sonstige": 7.7,
+    "DIE LINKE": 7.0,
+    "FDP": 4.7,
+    "FREIE WÄHLER": 1.6
+   }
+  },
+  "05970044": {
+   "name": "Wilnsdorf",
+   "beteiligung": 69.0,
+   "parteien": {
+    "CDU": 42.1,
+    "SPD": 26.4,
+    "Sonstige": 14.7,
+    "AfD": 9.9,
+    "GRÜNE": 6.9
+   }
+  },
+  "05974004": {
+   "name": "Anröchte",
+   "beteiligung": 65.7,
+   "parteien": {
+    "CDU": 40.7,
+    "SPD": 25.6,
+    "AfD": 15.8,
+    "GRÜNE": 9.7,
+    "FDP": 8.2
+   }
+  },
+  "05974008": {
+   "name": "Bad Sassendorf",
+   "beteiligung": 61.7,
+   "parteien": {
+    "CDU": 41.4,
+    "SPD": 20.1,
+    "AfD": 12.6,
+    "FDP": 9.1,
+    "GRÜNE": 8.6,
+    "Sonstige": 8.3
+   }
+  },
+  "05974012": {
+   "name": "Ense",
+   "beteiligung": 63.9,
+   "parteien": {
+    "CDU": 47.5,
+    "SPD": 19.1,
+    "AfD": 12.5,
+    "GRÜNE": 7.5,
+    "Sonstige": 7.3,
+    "FDP": 3.8,
+    "DIE LINKE": 2.3
+   }
+  },
+  "05974016": {
+   "name": "Erwitte, Stadt",
+   "beteiligung": 63.2,
+   "parteien": {
+    "CDU": 46.7,
+    "SPD": 18.3,
+    "AfD": 13.3,
+    "FDP": 7.7,
+    "GRÜNE": 7.1,
+    "Sonstige": 4.8,
+    "DIE LINKE": 2.1
+   }
+  },
+  "05974020": {
+   "name": "Geseke, Stadt",
+   "beteiligung": 56.8,
+   "parteien": {
+    "CDU": 48.3,
+    "SPD": 15.4,
+    "Sonstige": 10.2,
+    "AfD": 9.1,
+    "GRÜNE": 7.6,
+    "FDP": 5.3,
+    "DIE LINKE": 4.0
+   }
+  },
+  "05974024": {
+   "name": "Lippetal",
+   "beteiligung": 69.3,
+   "parteien": {
+    "CDU": 47.3,
+    "SPD": 18.0,
+    "AfD": 10.0,
+    "GRÜNE": 9.7,
+    "Sonstige": 6.1,
+    "FDP": 4.6,
+    "DIE LINKE": 4.3
+   }
+  },
+  "05974028": {
+   "name": "Lippstadt, Stadt",
+   "beteiligung": 52.3,
+   "parteien": {
+    "CDU": 34.4,
+    "SPD": 22.5,
+    "AfD": 14.4,
+    "GRÜNE": 10.3,
+    "Sonstige": 8.0,
+    "DIE LINKE": 4.2,
+    "FDP": 4.2,
+    "BSW": 2.0
+   }
+  },
+  "05974032": {
+   "name": "Möhnesee",
+   "beteiligung": 66.2,
+   "parteien": {
+    "CDU": 40.7,
+    "Sonstige": 20.1,
+    "SPD": 16.0,
+    "GRÜNE": 11.7,
+    "FDP": 6.2,
+    "AfD": 5.3
+   }
+  },
+  "05974036": {
+   "name": "Rüthen, Stadt",
+   "beteiligung": 66.3,
+   "parteien": {
+    "CDU": 49.0,
+    "Sonstige": 20.5,
+    "SPD": 17.4,
+    "FDP": 9.0,
+    "DIE LINKE": 4.1
+   }
+  },
+  "05974040": {
+   "name": "Soest, Stadt",
+   "beteiligung": 57.5,
+   "parteien": {
+    "CDU": 33.9,
+    "SPD": 22.5,
+    "GRÜNE": 17.2,
+    "AfD": 11.6,
+    "Sonstige": 7.1,
+    "DIE LINKE": 4.6,
+    "FDP": 3.1
+   }
+  },
+  "05974044": {
+   "name": "Warstein, Stadt",
+   "beteiligung": 59.8,
+   "parteien": {
+    "CDU": 45.0,
+    "SPD": 26.7,
+    "AfD": 12.5,
+    "GRÜNE": 8.3,
+    "DIE LINKE": 4.9,
+    "FDP": 2.7
+   }
+  },
+  "05974048": {
+   "name": "Welver",
+   "beteiligung": 67.5,
+   "parteien": {
+    "CDU": 36.0,
+    "Sonstige": 25.9,
+    "SPD": 19.8,
+    "GRÜNE": 8.9,
+    "FDP": 4.8,
+    "AfD": 4.5
+   }
+  },
+  "05974052": {
+   "name": "Werl, Stadt",
+   "beteiligung": 53.7,
+   "parteien": {
+    "CDU": 42.7,
+    "SPD": 21.5,
+    "AfD": 14.2,
+    "GRÜNE": 9.8,
+    "Sonstige": 4.6,
+    "FDP": 3.5,
+    "DIE LINKE": 2.6,
+    "BSW": 1.0
+   }
+  },
+  "05974056": {
+   "name": "Wickede (Ruhr)",
+   "beteiligung": 56.0,
+   "parteien": {
+    "CDU": 45.7,
+    "SPD": 21.8,
+    "FDP": 9.2,
+    "Sonstige": 8.7,
+    "AfD": 8.0,
+    "GRÜNE": 6.7
+   }
+  },
+  "05978004": {
+   "name": "Bergkamen, Stadt",
+   "beteiligung": 51.7,
+   "parteien": {
+    "SPD": 34.2,
+    "CDU": 27.3,
+    "AfD": 21.9,
+    "GRÜNE": 6.3,
+    "DIE LINKE": 5.4,
+    "Sonstige": 3.1,
+    "FDP": 1.8
+   }
+  },
+  "05978008": {
+   "name": "Bönen",
+   "beteiligung": 57.8,
+   "parteien": {
+    "SPD": 37.4,
+    "CDU": 36.3,
+    "Sonstige": 14.7,
+    "GRÜNE": 9.5,
+    "FDP": 2.1
+   }
+  },
+  "05978012": {
+   "name": "Fröndenberg / Ruhr, Stadt",
+   "beteiligung": 60.8,
+   "parteien": {
+    "CDU": 37.1,
+    "SPD": 26.7,
+    "Sonstige": 17.6,
+    "GRÜNE": 13.0,
+    "DIE LINKE": 3.4,
+    "FDP": 2.1
+   }
+  },
+  "05978016": {
+   "name": "Holzwickede",
+   "beteiligung": 62.2,
+   "parteien": {
+    "SPD": 31.5,
+    "CDU": 24.8,
+    "Sonstige": 16.6,
+    "AfD": 13.1,
+    "GRÜNE": 8.2,
+    "FDP": 3.7,
+    "DIE LINKE": 2.2
+   }
+  },
+  "05978020": {
+   "name": "Kamen, Stadt",
+   "beteiligung": 57.4,
+   "parteien": {
+    "SPD": 35.5,
+    "CDU": 25.2,
+    "AfD": 16.7,
+    "GRÜNE": 8.4,
+    "Sonstige": 7.6,
+    "DIE LINKE": 4.5,
+    "FDP": 2.3
+   }
+  },
+  "05978024": {
+   "name": "Lünen, Stadt",
+   "beteiligung": 51.5,
+   "parteien": {
+    "CDU": 27.1,
+    "SPD": 25.0,
+    "AfD": 17.7,
+    "Sonstige": 15.4,
+    "GRÜNE": 6.5,
+    "DIE LINKE": 4.2,
+    "FDP": 2.1,
+    "BSW": 2.1
+   }
+  },
+  "05978028": {
+   "name": "Schwerte, Stadt",
+   "beteiligung": 58.8,
+   "parteien": {
+    "SPD": 38.9,
+    "CDU": 23.8,
+    "GRÜNE": 13.8,
+    "AfD": 12.8,
+    "DIE LINKE": 4.1,
+    "Sonstige": 3.7,
+    "FDP": 2.9
+   }
+  },
+  "05978032": {
+   "name": "Selm, Stadt",
+   "beteiligung": 59.2,
+   "parteien": {
+    "CDU": 34.1,
+    "SPD": 27.0,
+    "Sonstige": 14.1,
+    "AfD": 13.2,
+    "GRÜNE": 8.1,
+    "FDP": 3.5
+   }
+  },
+  "05978036": {
+   "name": "Unna, Stadt",
+   "beteiligung": 59.3,
+   "parteien": {
+    "SPD": 30.3,
+    "CDU": 27.0,
+    "AfD": 14.5,
+    "GRÜNE": 14.3,
+    "Sonstige": 7.7,
+    "DIE LINKE": 4.0,
+    "FDP": 2.3
+   }
+  },
+  "05978040": {
+   "name": "Werne, Stadt",
+   "beteiligung": 59.4,
+   "parteien": {
+    "CDU": 32.8,
+    "SPD": 29.8,
+    "FDP": 11.7,
+    "GRÜNE": 11.5,
+    "Sonstige": 8.5,
+    "DIE LINKE": 5.7
+   }
+  }
+ },
+ "stand": "2026-09-01"
+}
