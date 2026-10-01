@@ -105,11 +105,11 @@
     "Tierschutzpartei": 1.8,
     "Die PARTEI": 1.3,
     "dieBasis": 1.3,
-    "PIRATEN": 1.2,
+    "PIRATEN": 1.0,
     "FREIE WÄHLER": 0.5,
     "Volt": 0.3,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.2
+    "Sonstige": 0.3,
+    "Die Humanisten": 0.2
    }
   },
   "03151003": {
@@ -118,7 +118,7 @@
    "parteien": {
     "SPD": 32.8,
     "CDU": 31.0,
-    "AfD": 14.1,
+    "AfD": 14.3,
     "GRÜNE": 9.3,
     "FDP": 2.8,
     "Die PARTEI": 2.6,
@@ -126,18 +126,18 @@
     "Tierschutzpartei": 1.7,
     "dieBasis": 1.3,
     "FREIE WÄHLER": 0.7,
-    "Sonstige": 0.4,
     "Volt": 0.4,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03151004": {
    "name": "Bokensdorf",
    "beteiligung": 63.9,
    "parteien": {
-    "SPD": 35.7,
+    "SPD": 35.9,
     "CDU": 23.7,
     "AfD": 17.1,
     "GRÜNE": 11.6,
@@ -146,9 +146,9 @@
     "DIE LINKE": 1.9,
     "Die PARTEI": 1.3,
     "dieBasis": 1.0,
-    "Sonstige": 0.5,
     "PIRATEN": 0.3,
     "Volt": 0.3,
+    "Sonstige": 0.3,
     "Die Humanisten": 0.2
    }
   },
@@ -168,9 +168,8 @@
     "FREIE WÄHLER": 0.5,
     "Volt": 0.3,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.1,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.2,
+    "Gesundheitsforschung": 0.1
    }
   },
   "03151006": {
@@ -200,16 +199,15 @@
     "CDU": 42.5,
     "SPD": 25.5,
     "AfD": 11.4,
-    "GRÜNE": 8.9,
+    "GRÜNE": 9.0,
     "FDP": 3.9,
     "DIE LINKE": 2.1,
     "FREIE WÄHLER": 1.4,
-    "Tierschutzpartei": 1.1,
+    "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.9,
     "Die Humanisten": 0.8,
     "dieBasis": 0.8,
     "PIRATEN": 0.3,
-    "Sonstige": 0.3,
     "Gesundheitsforschung": 0.2,
     "Volt": 0.2
    }
@@ -226,10 +224,10 @@
     "dieBasis": 2.6,
     "DIE LINKE": 2.2,
     "Tierschutzpartei": 2.0,
-    "Die PARTEI": 1.3,
+    "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.5,
-    "Sonstige": 0.1
+    "Sonstige": 0.2
    }
   },
   "03151009": {
@@ -261,11 +259,11 @@
     "AfD": 15.4,
     "GRÜNE": 8.5,
     "FDP": 3.8,
-    "DIE LINKE": 1.9,
+    "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.8,
-    "Sonstige": 0.2,
+    "Sonstige": 0.3,
     "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.2,
     "Volt": 0.2
@@ -288,7 +286,6 @@
     "PIRATEN": 0.4,
     "Die Humanisten": 0.3,
     "Gesundheitsforschung": 0.3,
-    "Sonstige": 0.1,
     "Volt": 0.1
    }
   },
@@ -326,7 +323,7 @@
     "Tierschutzpartei": 1.3,
     "Die PARTEI": 0.8,
     "Volt": 0.7,
-    "FREIE WÄHLER": 0.6,
+    "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
     "Die Humanisten": 0.2
@@ -339,17 +336,16 @@
     "SPD": 37.9,
     "CDU": 23.7,
     "AfD": 15.0,
-    "GRÜNE": 10.9,
+    "GRÜNE": 10.7,
     "FDP": 4.5,
     "DIE LINKE": 2.0,
-    "Tierschutzpartei": 1.6,
+    "Tierschutzpartei": 1.8,
     "Die PARTEI": 1.3,
     "dieBasis": 1.2,
     "FREIE WÄHLER": 0.9,
+    "Die Humanisten": 0.3,
     "PIRATEN": 0.3,
-    "Volt": 0.3,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.1
+    "Volt": 0.3
    }
   },
   "03151015": {
@@ -434,7 +430,7 @@
   },
   "03151019": {
    "name": "Obernholz",
-   "beteiligung": 65.5,
+   "beteiligung": 65.3,
    "parteien": {
     "CDU": 47.9,
     "SPD": 25.6,
@@ -450,7 +446,7 @@
   },
   "03151020": {
    "name": "Osloß",
-   "beteiligung": 68.4,
+   "beteiligung": 68.5,
    "parteien": {
     "SPD": 40.8,
     "CDU": 23.7,
@@ -478,7 +474,7 @@
     "GRÜNE": 8.0,
     "FDP": 4.0,
     "DIE LINKE": 1.7,
-    "Tierschutzpartei": 1.5,
+    "Tierschutzpartei": 1.4,
     "dieBasis": 1.1,
     "Die PARTEI": 0.9,
     "PIRATEN": 0.8,
@@ -491,19 +487,20 @@
    "name": "Ribbesbüttel",
    "beteiligung": 71.3,
    "parteien": {
-    "SPD": 34.3,
+    "SPD": 34.2,
     "CDU": 23.0,
     "GRÜNE": 15.8,
     "AfD": 13.9,
     "FDP": 3.9,
-    "DIE LINKE": 2.5,
+    "DIE LINKE": 2.4,
     "dieBasis": 2.3,
     "Tierschutzpartei": 1.6,
     "Die PARTEI": 0.9,
     "PIRATEN": 0.6,
     "Gesundheitsforschung": 0.5,
-    "Volt": 0.4,
-    "FREIE WÄHLER": 0.3
+    "Volt": 0.5,
+    "FREIE WÄHLER": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03151023": {
@@ -542,8 +539,8 @@
     "Die PARTEI": 1.3,
     "FREIE WÄHLER": 0.9,
     "Gesundheitsforschung": 0.6,
+    "Volt": 0.4,
     "PIRATEN": 0.3,
-    "Volt": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -574,13 +571,13 @@
     "SPD": 38.0,
     "CDU": 27.3,
     "AfD": 19.2,
-    "GRÜNE": 7.3,
+    "GRÜNE": 7.1,
     "dieBasis": 1.9,
     "DIE LINKE": 1.9,
     "FDP": 1.3,
-    "Tierschutzpartei": 1.3,
+    "Tierschutzpartei": 1.0,
+    "Sonstige": 0.8,
     "FREIE WÄHLER": 0.8,
-    "Sonstige": 0.4,
     "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.2
    }
@@ -599,7 +596,7 @@
     "dieBasis": 1.3,
     "Die PARTEI": 0.8,
     "Volt": 0.8,
-    "FREIE WÄHLER": 0.7,
+    "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.3,
     "Die Humanisten": 0.2
@@ -618,27 +615,27 @@
     "DIE LINKE": 1.2,
     "dieBasis": 0.7,
     "Die PARTEI": 0.5,
+    "Sonstige": 0.3,
     "FREIE WÄHLER": 0.3,
-    "PIRATEN": 0.3,
-    "Sonstige": 0.2
+    "PIRATEN": 0.2
    }
   },
   "03151029": {
    "name": "Steinhorst",
    "beteiligung": 60.1,
    "parteien": {
-    "CDU": 33.1,
+    "CDU": 32.8,
     "SPD": 27.5,
-    "AfD": 19.2,
+    "AfD": 19.1,
     "GRÜNE": 7.8,
     "FDP": 5.0,
-    "DIE LINKE": 2.2,
+    "DIE LINKE": 2.3,
     "Tierschutzpartei": 1.5,
-    "Die PARTEI": 1.2,
+    "Die PARTEI": 1.3,
     "dieBasis": 0.8,
     "PIRATEN": 0.8,
     "FREIE WÄHLER": 0.5,
-    "Gesundheitsforschung": 0.3
+    "Gesundheitsforschung": 0.5
    }
   },
   "03151030": {
@@ -665,10 +662,10 @@
    "name": "Tiddische",
    "beteiligung": 70.6,
    "parteien": {
-    "SPD": 39.0,
-    "CDU": 27.2,
+    "SPD": 39.1,
+    "CDU": 27.3,
     "AfD": 12.1,
-    "GRÜNE": 7.9,
+    "GRÜNE": 8.0,
     "FDP": 2.6,
     "Tierschutzpartei": 2.6,
     "Die PARTEI": 2.4,
@@ -677,20 +674,19 @@
     "PIRATEN": 0.9,
     "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.4,
-    "Volt": 0.4,
-    "Sonstige": 0.1
+    "Volt": 0.4
    }
   },
   "03151032": {
    "name": "Tülau",
-   "beteiligung": 69.2,
+   "beteiligung": 69.3,
    "parteien": {
     "SPD": 37.5,
-    "CDU": 27.5,
-    "AfD": 15.9,
+    "CDU": 27.4,
+    "AfD": 15.8,
     "GRÜNE": 8.3,
     "FDP": 3.1,
-    "DIE LINKE": 2.5,
+    "DIE LINKE": 2.6,
     "Die PARTEI": 1.8,
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.9,
@@ -725,23 +721,23 @@
    "parteien": {
     "SPD": 38.8,
     "CDU": 23.4,
-    "GRÜNE": 16.1,
+    "GRÜNE": 16.2,
     "AfD": 9.6,
     "FDP": 4.9,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 1.7,
     "DIE LINKE": 1.7,
     "dieBasis": 1.1,
     "FREIE WÄHLER": 0.8,
     "Volt": 0.6,
-    "Die PARTEI": 0.5,
+    "Die PARTEI": 0.6,
     "PIRATEN": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.2,
+    "Gesundheitsforschung": 0.2
    }
   },
   "03151035": {
    "name": "Wagenhoff",
-   "beteiligung": 63.4,
+   "beteiligung": 63.3,
    "parteien": {
     "SPD": 32.9,
     "AfD": 26.8,
@@ -749,8 +745,8 @@
     "GRÜNE": 5.8,
     "FDP": 3.6,
     "DIE LINKE": 2.6,
-    "dieBasis": 1.7,
-    "FREIE WÄHLER": 1.5,
+    "FREIE WÄHLER": 1.7,
+    "dieBasis": 1.5,
     "Tierschutzpartei": 1.4,
     "Gesundheitsforschung": 0.7,
     "Die PARTEI": 0.5,
@@ -796,14 +792,15 @@
     "Die Humanisten": 0.4,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
-    "PIRATEN": 0.3
+    "PIRATEN": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03151038": {
    "name": "Wesendorf",
    "beteiligung": 53.3,
    "parteien": {
-    "SPD": 30.2,
+    "SPD": 30.3,
     "AfD": 27.9,
     "CDU": 25.2,
     "GRÜNE": 6.5,
@@ -822,8 +819,8 @@
    "name": "Weyhausen",
    "beteiligung": 59.7,
    "parteien": {
-    "SPD": 38.8,
-    "CDU": 25.2,
+    "SPD": 38.7,
+    "CDU": 25.3,
     "AfD": 14.6,
     "GRÜNE": 9.8,
     "FDP": 4.2,
@@ -1044,10 +1041,9 @@
     "CDU": 33.0,
     "AfD": 14.3,
     "GRÜNE": 7.1,
+    "FDP": 2.7,
+    "Tierschutzpartei": 2.7,
     "Die PARTEI": 2.2,
-    "FDP": 2.2,
-    "Tierschutzpartei": 2.2,
-    "Sonstige": 1.1,
     "dieBasis": 1.1,
     "Die Humanisten": 0.5
    }
@@ -1100,11 +1096,12 @@
     "AfD": 11.8,
     "GRÜNE": 8.0,
     "FDP": 3.8,
-    "DIE LINKE": 1.9,
+    "DIE LINKE": 1.6,
     "FREIE WÄHLER": 1.3,
     "Tierschutzpartei": 1.3,
     "dieBasis": 1.0,
     "Die PARTEI": 0.6,
+    "Sonstige": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.3
    }
@@ -1113,16 +1110,16 @@
    "name": "Grafhorst",
    "beteiligung": 65.6,
    "parteien": {
-    "SPD": 35.8,
-    "CDU": 31.2,
-    "AfD": 13.0,
+    "SPD": 35.7,
+    "CDU": 31.3,
+    "AfD": 13.2,
     "GRÜNE": 9.1,
     "FDP": 3.6,
     "Tierschutzpartei": 2.2,
     "DIE LINKE": 1.9,
     "dieBasis": 1.0,
     "Die PARTEI": 0.7,
-    "FREIE WÄHLER": 0.7,
+    "FREIE WÄHLER": 0.5,
     "Volt": 0.5,
     "PIRATEN": 0.3
    }
@@ -1162,7 +1159,7 @@
     "FREIE WÄHLER": 0.9,
     "Die PARTEI": 0.8,
     "Volt": 0.7,
-    "PIRATEN": 0.3,
+    "PIRATEN": 0.4,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.1
    }
@@ -1171,9 +1168,9 @@
    "name": "Jerxheim",
    "beteiligung": 56.1,
    "parteien": {
-    "SPD": 34.4,
+    "SPD": 34.2,
     "CDU": 31.5,
-    "AfD": 15.6,
+    "AfD": 15.4,
     "GRÜNE": 8.0,
     "FDP": 3.3,
     "DIE LINKE": 2.3,
@@ -1181,8 +1178,8 @@
     "PIRATEN": 1.0,
     "Die PARTEI": 0.8,
     "dieBasis": 0.8,
-    "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.2
+    "Sonstige": 0.6,
+    "Gesundheitsforschung": 0.4
    }
   },
   "03154013": {
@@ -1229,18 +1226,18 @@
    "name": "Mariental",
    "beteiligung": 56.4,
    "parteien": {
-    "CDU": 29.7,
+    "CDU": 29.8,
     "SPD": 28.3,
     "AfD": 14.7,
-    "GRÜNE": 9.2,
+    "GRÜNE": 9.1,
     "FDP": 6.5,
     "dieBasis": 2.9,
     "FREIE WÄHLER": 2.2,
-    "DIE LINKE": 2.2,
     "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
     "Die PARTEI": 1.3,
     "Volt": 0.4,
-    "Sonstige": 0.2
+    "Sonstige": 0.4
    }
   },
   "03154016": {
@@ -1269,11 +1266,12 @@
     "GRÜNE": 11.4,
     "AfD": 11.1,
     "FDP": 6.5,
-    "Tierschutzpartei": 4.4,
+    "Tierschutzpartei": 4.2,
     "DIE LINKE": 3.0,
-    "dieBasis": 1.2,
+    "dieBasis": 0.9,
     "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.7,
+    "Sonstige": 0.5,
     "Die PARTEI": 0.5,
     "Die Humanisten": 0.2
    }
@@ -1286,13 +1284,14 @@
     "SPD": 28.3,
     "AfD": 12.5,
     "GRÜNE": 7.7,
-    "FDP": 5.8,
+    "FDP": 5.6,
     "DIE LINKE": 2.8,
     "Tierschutzpartei": 1.9,
     "dieBasis": 0.9,
     "Die PARTEI": 0.7,
     "Gesundheitsforschung": 0.5,
     "Volt": 0.5,
+    "Sonstige": 0.2,
     "FREIE WÄHLER": 0.2
    }
   },
@@ -1330,28 +1329,29 @@
     "Die PARTEI": 1.3,
     "dieBasis": 1.3,
     "FREIE WÄHLER": 0.5,
-    "PIRATEN": 0.5,
+    "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.3,
-    "Volt": 0.3
+    "Volt": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03154022": {
    "name": "Süpplingenburg",
    "beteiligung": 71.9,
    "parteien": {
-    "SPD": 37.5,
+    "SPD": 37.7,
     "CDU": 28.2,
     "AfD": 12.4,
     "FDP": 7.7,
     "GRÜNE": 6.9,
     "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.6,
-    "Die PARTEI": 0.8,
     "dieBasis": 0.8,
     "Gesundheitsforschung": 0.8,
-    "FREIE WÄHLER": 0.5,
-    "PIRATEN": 0.5,
-    "Sonstige": 0.3,
+    "Sonstige": 0.8,
+    "Die PARTEI": 0.5,
+    "FREIE WÄHLER": 0.3,
+    "PIRATEN": 0.3,
     "Volt": 0.3
    }
   },
@@ -1359,20 +1359,20 @@
    "name": "Velpke",
    "beteiligung": 59.4,
    "parteien": {
-    "SPD": 36.9,
+    "SPD": 36.8,
     "CDU": 28.5,
     "AfD": 13.7,
     "GRÜNE": 9.0,
     "FDP": 3.9,
     "Tierschutzpartei": 2.1,
     "DIE LINKE": 2.0,
-    "dieBasis": 1.4,
+    "dieBasis": 1.3,
     "FREIE WÄHLER": 0.9,
     "Die PARTEI": 0.6,
-    "Volt": 0.5,
+    "Volt": 0.4,
     "PIRATEN": 0.4,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.2
    }
   },
   "03154025": {
@@ -1387,8 +1387,8 @@
     "Tierschutzpartei": 1.4,
     "DIE LINKE": 1.1,
     "dieBasis": 0.9,
+    "Gesundheitsforschung": 0.9,
     "FREIE WÄHLER": 0.7,
-    "Gesundheitsforschung": 0.7,
     "Die PARTEI": 0.5,
     "Volt": 0.2
    }
@@ -1397,20 +1397,19 @@
    "name": "Wolsdorf",
    "beteiligung": 64.1,
    "parteien": {
-    "SPD": 35.2,
+    "SPD": 35.1,
     "CDU": 26.0,
     "AfD": 20.0,
     "GRÜNE": 7.9,
-    "FDP": 3.8,
+    "FDP": 3.7,
     "dieBasis": 1.7,
     "Tierschutzpartei": 1.7,
     "DIE LINKE": 1.2,
     "Die PARTEI": 0.8,
     "PIRATEN": 0.6,
     "FREIE WÄHLER": 0.4,
-    "Gesundheitsforschung": 0.2,
-    "Volt": 0.2,
-    "Sonstige": 0.2
+    "Gesundheitsforschung": 0.4,
+    "Volt": 0.4
    }
   },
   "03154027": {
@@ -1428,7 +1427,7 @@
     "FREIE WÄHLER": 0.9,
     "Die PARTEI": 0.7,
     "PIRATEN": 0.5,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.3
    }
   },
   "03154028": {
@@ -1816,19 +1815,18 @@
    "beteiligung": 63.8,
    "parteien": {
     "SPD": 39.5,
-    "CDU": 26.9,
+    "CDU": 26.8,
     "AfD": 14.4,
     "GRÜNE": 6.5,
     "FDP": 4.8,
     "DIE LINKE": 2.1,
-    "Tierschutzpartei": 1.7,
+    "Tierschutzpartei": 1.8,
     "Die PARTEI": 1.0,
-    "FREIE WÄHLER": 0.9,
+    "FREIE WÄHLER": 1.0,
     "dieBasis": 0.8,
     "Gesundheitsforschung": 0.6,
     "PIRATEN": 0.3,
     "Volt": 0.3,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -1867,9 +1865,9 @@
     "Tierschutzpartei": 1.5,
     "dieBasis": 1.1,
     "Die PARTEI": 0.9,
-    "Sonstige": 0.7,
-    "Die Humanisten": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.4,
+    "Sonstige": 0.4,
+    "Die Humanisten": 0.2
    }
   },
   "03158006": {
@@ -1920,7 +1918,7 @@
     "GRÜNE": 13.2,
     "AfD": 10.2,
     "FDP": 5.4,
-    "DIE LINKE": 2.8,
+    "DIE LINKE": 2.9,
     "Tierschutzpartei": 1.8,
     "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.7,
@@ -1936,7 +1934,7 @@
    "parteien": {
     "SPD": 39.0,
     "CDU": 26.2,
-    "GRÜNE": 14.7,
+    "GRÜNE": 14.8,
     "AfD": 7.8,
     "FDP": 4.0,
     "DIE LINKE": 2.0,
@@ -1945,19 +1943,18 @@
     "dieBasis": 1.3,
     "PIRATEN": 0.9,
     "FREIE WÄHLER": 0.6,
-    "Sonstige": 0.3,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.3
    }
   },
   "03158010": {
    "name": "Dorstadt",
    "beteiligung": 64.3,
    "parteien": {
-    "SPD": 36.4,
-    "CDU": 27.2,
+    "SPD": 36.3,
+    "CDU": 27.1,
     "AfD": 12.1,
-    "GRÜNE": 11.3,
-    "FDP": 4.6,
+    "GRÜNE": 11.2,
+    "FDP": 4.9,
     "dieBasis": 3.5,
     "DIE LINKE": 2.0,
     "Tierschutzpartei": 0.9,
@@ -1999,10 +1996,10 @@
     "dieBasis": 1.8,
     "Tierschutzpartei": 1.2,
     "FREIE WÄHLER": 0.8,
+    "Sonstige": 0.6,
     "Die PARTEI": 0.6,
-    "Sonstige": 0.4,
-    "Volt": 0.4,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "Volt": 0.2
    }
   },
   "03158013": {
@@ -2018,8 +2015,8 @@
     "dieBasis": 2.2,
     "Tierschutzpartei": 1.3,
     "Die PARTEI": 0.8,
+    "Sonstige": 0.5,
     "Volt": 0.4,
-    "Sonstige": 0.4,
     "PIRATEN": 0.3
    }
   },
@@ -2027,20 +2024,20 @@
    "name": "Flöthe",
    "beteiligung": 72.3,
    "parteien": {
-    "SPD": 42.4,
-    "CDU": 22.9,
-    "AfD": 13.4,
+    "SPD": 42.3,
+    "CDU": 22.8,
+    "AfD": 13.3,
     "GRÜNE": 9.6,
-    "FDP": 3.8,
+    "FDP": 3.7,
     "DIE LINKE": 2.7,
     "Tierschutzpartei": 1.5,
-    "Die PARTEI": 0.8,
-    "dieBasis": 0.8,
+    "Die PARTEI": 0.7,
+    "dieBasis": 0.7,
+    "Volt": 0.7,
     "FREIE WÄHLER": 0.6,
-    "Volt": 0.6,
-    "Gesundheitsforschung": 0.5,
-    "PIRATEN": 0.5,
-    "Die Humanisten": 0.2
+    "Gesundheitsforschung": 0.4,
+    "PIRATEN": 0.4,
+    "Die Humanisten": 0.3
    }
   },
   "03158016": {
@@ -2057,9 +2054,10 @@
     "dieBasis": 1.1,
     "FREIE WÄHLER": 0.9,
     "Die PARTEI": 0.7,
-    "Gesundheitsforschung": 0.6,
+    "Gesundheitsforschung": 0.5,
     "Volt": 0.3,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03158017": {
@@ -2106,18 +2104,18 @@
    "name": "Heiningen",
    "beteiligung": 59.0,
    "parteien": {
-    "SPD": 41.1,
-    "CDU": 20.2,
-    "AfD": 13.0,
-    "GRÜNE": 13.0,
+    "SPD": 41.4,
+    "CDU": 20.3,
+    "AfD": 13.1,
+    "GRÜNE": 13.1,
     "DIE LINKE": 3.4,
     "FDP": 2.4,
     "Tierschutzpartei": 2.1,
-    "dieBasis": 1.7,
+    "dieBasis": 1.4,
     "Die PARTEI": 1.0,
     "FREIE WÄHLER": 0.7,
-    "Gesundheitsforschung": 0.7,
-    "PIRATEN": 0.7
+    "PIRATEN": 0.7,
+    "Gesundheitsforschung": 0.3
    }
   },
   "03158021": {
@@ -2159,7 +2157,7 @@
   },
   "03158023": {
    "name": "Ohrum",
-   "beteiligung": 66.0,
+   "beteiligung": 66.2,
    "parteien": {
     "SPD": 35.5,
     "CDU": 26.7,
@@ -2186,10 +2184,10 @@
     "DIE LINKE": 4.0,
     "FDP": 3.2,
     "Tierschutzpartei": 1.2,
+    "Sonstige": 0.8,
     "Die PARTEI": 0.8,
-    "dieBasis": 0.8,
     "FREIE WÄHLER": 0.8,
-    "Sonstige": 0.4
+    "dieBasis": 0.4
    }
   },
   "03158027": {
@@ -2202,14 +2200,14 @@
     "GRÜNE": 10.6,
     "FDP": 3.7,
     "DIE LINKE": 2.2,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 1.9,
     "Die PARTEI": 1.1,
     "dieBasis": 1.0,
     "FREIE WÄHLER": 0.5,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.3,
     "Volt": 0.3,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.2
    }
   },
   "03158028": {
@@ -2220,15 +2218,14 @@
     "CDU": 23.5,
     "AfD": 15.7,
     "GRÜNE": 7.2,
-    "FDP": 3.4,
-    "Tierschutzpartei": 2.1,
-    "DIE LINKE": 1.9,
+    "FDP": 3.6,
+    "Tierschutzpartei": 2.3,
+    "DIE LINKE": 1.7,
     "Die PARTEI": 1.3,
     "dieBasis": 0.8,
     "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.6,
     "Volt": 0.4,
-    "Sonstige": 0.2,
     "Die Humanisten": 0.2
    }
   },
@@ -2294,8 +2291,8 @@
    "beteiligung": 67.7,
    "parteien": {
     "SPD": 31.3,
-    "CDU": 27.8,
-    "GRÜNE": 18.7,
+    "CDU": 27.7,
+    "GRÜNE": 18.8,
     "AfD": 8.8,
     "FDP": 5.0,
     "DIE LINKE": 2.8,
@@ -2316,7 +2313,7 @@
     "CDU": 24.6,
     "AfD": 16.9,
     "GRÜNE": 9.2,
-    "FDP": 5.4,
+    "FDP": 5.7,
     "DIE LINKE": 2.9,
     "Die PARTEI": 1.7,
     "PIRATEN": 1.4,
@@ -2325,7 +2322,7 @@
     "FREIE WÄHLER": 0.9,
     "Volt": 0.9,
     "Gesundheitsforschung": 0.6,
-    "Sonstige": 0.6
+    "Sonstige": 0.3
    }
   },
   "03158036": {
@@ -2373,17 +2370,18 @@
    "parteien": {
     "SPD": 42.0,
     "CDU": 26.2,
-    "AfD": 11.5,
+    "AfD": 11.4,
     "GRÜNE": 8.8,
     "FDP": 3.1,
-    "DIE LINKE": 2.5,
-    "Tierschutzpartei": 1.8,
+    "DIE LINKE": 2.4,
+    "Tierschutzpartei": 1.7,
     "dieBasis": 1.2,
     "Die PARTEI": 1.1,
     "FREIE WÄHLER": 0.5,
     "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.3,
+    "Sonstige": 0.2,
     "Volt": 0.1
    }
   },
@@ -2415,7 +2413,7 @@
     "CDU": 25.5,
     "AfD": 14.1,
     "GRÜNE": 8.7,
-    "FDP": 5.4,
+    "FDP": 5.5,
     "DIE LINKE": 2.2,
     "Tierschutzpartei": 1.8,
     "Die PARTEI": 1.2,
@@ -2535,13 +2533,13 @@
     "GRÜNE": 12.1,
     "AfD": 9.6,
     "FDP": 5.8,
-    "DIE LINKE": 2.2,
+    "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.3,
     "Die PARTEI": 0.9,
     "dieBasis": 0.7,
+    "Sonstige": 0.4,
     "Gesundheitsforschung": 0.2,
-    "Volt": 0.2,
-    "Sonstige": 0.2
+    "Volt": 0.2
    }
   },
   "03159007": {
@@ -2626,8 +2624,8 @@
    "name": "Ebergötzen",
    "beteiligung": 67.7,
    "parteien": {
-    "SPD": 41.1,
-    "CDU": 24.2,
+    "SPD": 41.0,
+    "CDU": 24.1,
     "GRÜNE": 16.4,
     "AfD": 7.3,
     "FDP": 3.6,
@@ -2637,28 +2635,26 @@
     "Die PARTEI": 0.8,
     "dieBasis": 0.8,
     "Gesundheitsforschung": 0.5,
-    "Volt": 0.3,
-    "PIRATEN": 0.2,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Volt": 0.4,
+    "PIRATEN": 0.3,
+    "Die Humanisten": 0.2
    }
   },
   "03159012": {
    "name": "Elbingerode",
    "beteiligung": 68.1,
    "parteien": {
-    "CDU": 41.7,
-    "SPD": 34.0,
-    "GRÜNE": 7.7,
+    "CDU": 41.5,
+    "SPD": 33.9,
+    "GRÜNE": 7.6,
     "AfD": 6.4,
-    "DIE LINKE": 2.6,
+    "DIE LINKE": 2.5,
     "FDP": 2.1,
-    "FREIE WÄHLER": 1.7,
+    "FREIE WÄHLER": 2.1,
+    "Die PARTEI": 1.3,
     "dieBasis": 1.3,
-    "Die PARTEI": 0.9,
-    "Tierschutzpartei": 0.9,
-    "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.4
+    "Tierschutzpartei": 0.8,
+    "Gesundheitsforschung": 0.4
    }
   },
   "03159013": {
@@ -2687,18 +2683,18 @@
    "parteien": {
     "CDU": 37.6,
     "SPD": 26.2,
-    "AfD": 13.8,
+    "AfD": 13.7,
     "GRÜNE": 8.1,
     "FDP": 6.0,
     "FREIE WÄHLER": 2.9,
     "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.2,
-    "Die PARTEI": 0.8,
+    "Die PARTEI": 0.7,
     "dieBasis": 0.7,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Sonstige": 0.1,
+    "Die Humanisten": 0.1
    }
   },
   "03159015": {
@@ -2804,17 +2800,17 @@
    "name": "Hörden am Harz",
    "beteiligung": 73.5,
    "parteien": {
-    "SPD": 38.0,
-    "CDU": 35.2,
+    "SPD": 37.9,
+    "CDU": 35.1,
     "AfD": 9.8,
     "GRÜNE": 8.4,
-    "FDP": 3.2,
+    "FDP": 3.1,
     "DIE LINKE": 2.6,
-    "Die PARTEI": 1.1,
+    "Die PARTEI": 1.0,
     "dieBasis": 0.9,
-    "FREIE WÄHLER": 0.4,
-    "Tierschutzpartei": 0.4,
-    "Sonstige": 0.2
+    "FREIE WÄHLER": 0.3,
+    "Tierschutzpartei": 0.3,
+    "Sonstige": 0.3
    }
   },
   "03159021": {
@@ -2823,7 +2819,7 @@
    "parteien": {
     "SPD": 35.7,
     "CDU": 30.3,
-    "GRÜNE": 11.5,
+    "GRÜNE": 11.3,
     "AfD": 11.1,
     "FDP": 4.1,
     "FREIE WÄHLER": 2.6,
@@ -2831,7 +2827,8 @@
     "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.3,
     "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03159022": {
@@ -2845,10 +2842,10 @@
     "FDP": 5.0,
     "FREIE WÄHLER": 2.2,
     "DIE LINKE": 1.6,
-    "Tierschutzpartei": 0.9,
+    "Tierschutzpartei": 1.1,
     "Die PARTEI": 0.5,
     "dieBasis": 0.5,
-    "Sonstige": 0.3,
+    "Sonstige": 0.2,
     "Volt": 0.2
    }
   },
@@ -2860,14 +2857,14 @@
     "CDU": 28.7,
     "GRÜNE": 17.5,
     "AfD": 4.3,
-    "FDP": 3.7,
+    "FDP": 3.9,
     "DIE LINKE": 2.3,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 1.1,
     "dieBasis": 0.6,
     "Volt": 0.5,
     "FREIE WÄHLER": 0.3,
-    "Sonstige": 0.3
+    "Sonstige": 0.2
    }
   },
   "03159024": {
@@ -2877,18 +2874,17 @@
     "SPD": 34.0,
     "CDU": 32.3,
     "GRÜNE": 10.3,
-    "AfD": 9.9,
-    "FDP": 4.6,
+    "AfD": 9.8,
+    "FDP": 4.7,
     "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.7,
     "FREIE WÄHLER": 1.4,
     "Die PARTEI": 1.0,
     "dieBasis": 1.0,
     "PIRATEN": 0.7,
+    "Volt": 0.5,
     "Gesundheitsforschung": 0.4,
-    "Volt": 0.4,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.2
    }
   },
   "03159025": {
@@ -2952,7 +2948,7 @@
    "name": "Rollshausen",
    "beteiligung": 62.5,
    "parteien": {
-    "CDU": 45.9,
+    "CDU": 45.8,
     "SPD": 25.5,
     "AfD": 9.7,
     "GRÜNE": 9.7,
@@ -2961,7 +2957,7 @@
     "DIE LINKE": 1.2,
     "FREIE WÄHLER": 0.9,
     "Tierschutzpartei": 0.7,
-    "Gesundheitsforschung": 0.2
+    "Gesundheitsforschung": 0.5
    }
   },
   "03159029": {
@@ -3005,10 +3001,10 @@
    "name": "Scheden",
    "beteiligung": 59.6,
    "parteien": {
-    "SPD": 37.8,
-    "CDU": 26.4,
+    "SPD": 37.9,
+    "CDU": 26.3,
     "AfD": 11.8,
-    "GRÜNE": 8.8,
+    "GRÜNE": 8.9,
     "FDP": 5.0,
     "FREIE WÄHLER": 3.0,
     "DIE LINKE": 2.0,
@@ -3023,10 +3019,10 @@
   },
   "03159032": {
    "name": "Seeburg",
-   "beteiligung": 67.3,
+   "beteiligung": 67.2,
    "parteien": {
     "CDU": 36.4,
-    "SPD": 30.6,
+    "SPD": 30.5,
     "GRÜNE": 14.5,
     "AfD": 7.9,
     "FDP": 3.4,
@@ -3036,8 +3032,8 @@
     "Die PARTEI": 0.7,
     "dieBasis": 0.6,
     "Volt": 0.5,
+    "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.1
    }
   },
@@ -3125,12 +3121,12 @@
    "name": "Wollbrandshausen",
    "beteiligung": 69.6,
    "parteien": {
-    "CDU": 45.3,
+    "CDU": 45.0,
     "SPD": 26.8,
     "AfD": 10.3,
     "GRÜNE": 10.0,
     "FDP": 2.6,
-    "Sonstige": 1.4,
+    "Sonstige": 1.7,
     "DIE LINKE": 1.1,
     "PIRATEN": 1.1,
     "Tierschutzpartei": 0.9,
@@ -3140,7 +3136,7 @@
   },
   "03159038": {
    "name": "Wollershausen",
-   "beteiligung": 66.8,
+   "beteiligung": 66.5,
    "parteien": {
     "CDU": 34.9,
     "SPD": 34.0,
@@ -3601,17 +3597,16 @@
    "name": "Affinghausen",
    "beteiligung": 60.1,
    "parteien": {
-    "SPD": 32.5,
-    "CDU": 31.0,
+    "SPD": 32.6,
+    "CDU": 31.1,
     "AfD": 9.8,
     "GRÜNE": 9.3,
     "FDP": 7.6,
-    "DIE LINKE": 2.3,
+    "DIE LINKE": 2.5,
     "FREIE WÄHLER": 2.0,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 2.0,
     "Die PARTEI": 1.5,
     "dieBasis": 1.0,
-    "Sonstige": 0.8,
     "Gesundheitsforschung": 0.5
    }
   },
@@ -3621,18 +3616,17 @@
    "parteien": {
     "CDU": 30.3,
     "SPD": 30.0,
-    "GRÜNE": 16.3,
-    "AfD": 10.0,
+    "GRÜNE": 16.4,
+    "AfD": 9.9,
     "FDP": 6.2,
     "DIE LINKE": 2.5,
     "dieBasis": 1.6,
-    "Tierschutzpartei": 1.5,
+    "Tierschutzpartei": 1.6,
     "Die PARTEI": 0.5,
     "FREIE WÄHLER": 0.5,
+    "Gesundheitsforschung": 0.2,
     "Volt": 0.2,
     "Die Humanisten": 0.1,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1,
     "PIRATEN": 0.1
    }
   },
@@ -3682,8 +3676,8 @@
     "SPD": 34.6,
     "CDU": 26.9,
     "AfD": 16.1,
-    "GRÜNE": 8.6,
-    "FDP": 6.7,
+    "GRÜNE": 8.7,
+    "FDP": 6.6,
     "DIE LINKE": 2.3,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 1.2,
@@ -3737,7 +3731,7 @@
    "name": "Borstel",
    "beteiligung": 69.4,
    "parteien": {
-    "CDU": 37.6,
+    "CDU": 37.5,
     "SPD": 32.4,
     "GRÜNE": 11.1,
     "FDP": 6.6,
@@ -3749,7 +3743,7 @@
     "Die PARTEI": 0.5,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.3,
-    "Sonstige": 0.2
+    "Sonstige": 0.3
    }
   },
   "03251009": {
@@ -3812,7 +3806,7 @@
     "SPD": 32.5,
     "AfD": 10.9,
     "GRÜNE": 10.2,
-    "FDP": 6.3,
+    "FDP": 6.2,
     "DIE LINKE": 2.1,
     "Tierschutzpartei": 1.5,
     "FREIE WÄHLER": 0.9,
@@ -3821,14 +3815,15 @@
     "PIRATEN": 0.6,
     "Gesundheitsforschung": 0.5,
     "Volt": 0.3,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03251014": {
    "name": "Drentwede",
    "beteiligung": 60.7,
    "parteien": {
-    "CDU": 36.6,
+    "CDU": 36.8,
     "SPD": 32.0,
     "AfD": 12.6,
     "FDP": 6.3,
@@ -3837,10 +3832,10 @@
     "Die PARTEI": 1.1,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
-    "PIRATEN": 0.4,
     "Tierschutzpartei": 0.4,
     "Sonstige": 0.2,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "PIRATEN": 0.2
    }
   },
   "03251015": {
@@ -3848,18 +3843,17 @@
    "beteiligung": 61.3,
    "parteien": {
     "SPD": 30.2,
-    "CDU": 29.0,
-    "AfD": 14.2,
+    "CDU": 28.9,
+    "AfD": 14.3,
     "GRÜNE": 12.4,
-    "FDP": 8.7,
+    "FDP": 8.9,
     "DIE LINKE": 2.0,
-    "Tierschutzpartei": 1.1,
-    "Sonstige": 0.5,
-    "Die PARTEI": 0.4,
+    "Tierschutzpartei": 1.2,
+    "Die PARTEI": 0.5,
     "FREIE WÄHLER": 0.4,
+    "PIRATEN": 0.4,
     "Volt": 0.4,
-    "Die Humanisten": 0.3,
-    "PIRATEN": 0.3
+    "Die Humanisten": 0.3
    }
   },
   "03251017": {
@@ -3934,7 +3928,7 @@
   },
   "03251021": {
    "name": "Kirchdorf",
-   "beteiligung": 57.9,
+   "beteiligung": 58.0,
    "parteien": {
     "CDU": 36.2,
     "SPD": 29.2,
@@ -3985,9 +3979,8 @@
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.2,
-    "Volt": 0.1,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Volt": 0.2,
+    "Die Humanisten": 0.1
    }
   },
   "03251024": {
@@ -3997,9 +3990,9 @@
     "CDU": 38.5,
     "SPD": 30.8,
     "GRÜNE": 11.3,
-    "FDP": 7.2,
+    "FDP": 6.7,
     "AfD": 4.6,
-    "Die PARTEI": 2.6,
+    "Die PARTEI": 3.1,
     "FREIE WÄHLER": 2.6,
     "Sonstige": 1.5,
     "dieBasis": 1.0
@@ -4067,7 +4060,7 @@
    "beteiligung": 63.3,
    "parteien": {
     "SPD": 34.1,
-    "CDU": 26.8,
+    "CDU": 27.0,
     "AfD": 15.8,
     "GRÜNE": 9.9,
     "FDP": 6.0,
@@ -4075,9 +4068,9 @@
     "DIE LINKE": 1.8,
     "dieBasis": 1.1,
     "Die PARTEI": 0.7,
-    "Sonstige": 0.7,
-    "FREIE WÄHLER": 0.5,
-    "PIRATEN": 0.5
+    "FREIE WÄHLER": 0.7,
+    "PIRATEN": 0.5,
+    "Sonstige": 0.4
    }
   },
   "03251029": {
@@ -4089,9 +4082,9 @@
     "GRÜNE": 12.7,
     "FDP": 10.4,
     "AfD": 6.9,
-    "DIE LINKE": 1.5,
-    "Sonstige": 1.2,
+    "DIE LINKE": 1.9,
     "Die PARTEI": 1.2,
+    "Sonstige": 0.8,
     "Tierschutzpartei": 0.8,
     "dieBasis": 0.4,
     "FREIE WÄHLER": 0.4,
@@ -4103,19 +4096,18 @@
    "beteiligung": 61.0,
    "parteien": {
     "CDU": 38.1,
-    "SPD": 30.9,
+    "SPD": 30.8,
     "AfD": 10.8,
     "GRÜNE": 8.7,
     "FDP": 5.6,
     "DIE LINKE": 1.6,
     "FREIE WÄHLER": 1.5,
-    "Tierschutzpartei": 1.0,
+    "Tierschutzpartei": 0.9,
     "dieBasis": 0.6,
-    "Die PARTEI": 0.4,
-    "PIRATEN": 0.3,
-    "Gesundheitsforschung": 0.2,
-    "Volt": 0.2,
-    "Sonstige": 0.1
+    "Die PARTEI": 0.5,
+    "PIRATEN": 0.4,
+    "Gesundheitsforschung": 0.3,
+    "Volt": 0.3
    }
   },
   "03251031": {
@@ -4129,9 +4121,9 @@
     "GRÜNE": 7.4,
     "DIE LINKE": 3.7,
     "Tierschutzpartei": 1.6,
-    "dieBasis": 1.4,
+    "dieBasis": 1.1,
+    "Sonstige": 0.7,
     "FREIE WÄHLER": 0.7,
-    "Sonstige": 0.5,
     "Die PARTEI": 0.5,
     "PIRATEN": 0.5
    }
@@ -4140,7 +4132,7 @@
    "name": "Schwaförden",
    "beteiligung": 61.5,
    "parteien": {
-    "SPD": 37.6,
+    "SPD": 37.5,
     "CDU": 27.1,
     "GRÜNE": 10.8,
     "AfD": 10.7,
@@ -4150,10 +4142,9 @@
     "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.8,
     "dieBasis": 0.7,
-    "PIRATEN": 0.3,
-    "Volt": 0.3,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1
+    "PIRATEN": 0.4,
+    "Gesundheitsforschung": 0.3,
+    "Volt": 0.3
    }
   },
   "03251033": {
@@ -4188,12 +4179,12 @@
     "dieBasis": 1.2,
     "DIE LINKE": 1.2,
     "FREIE WÄHLER": 1.0,
-    "Sonstige": 0.5,
+    "PIRATEN": 0.7,
     "Die PARTEI": 0.5,
     "Gesundheitsforschung": 0.5,
-    "PIRATEN": 0.5,
     "Die Humanisten": 0.3,
-    "Volt": 0.2
+    "Volt": 0.3,
+    "Sonstige": 0.2
    }
   },
   "03251035": {
@@ -4204,13 +4195,12 @@
     "SPD": 26.0,
     "GRÜNE": 14.0,
     "FDP": 7.0,
-    "DIE LINKE": 5.1,
+    "DIE LINKE": 5.4,
     "AfD": 2.5,
     "dieBasis": 1.6,
     "Tierschutzpartei": 1.6,
     "FREIE WÄHLER": 1.3,
     "Gesundheitsforschung": 0.6,
-    "Sonstige": 0.3,
     "PIRATEN": 0.3
    }
   },
@@ -4224,10 +4214,11 @@
     "FDP": 12.0,
     "AfD": 7.1,
     "DIE LINKE": 1.2,
-    "Die PARTEI": 0.6,
     "dieBasis": 0.6,
-    "FREIE WÄHLER": 0.6,
     "Tierschutzpartei": 0.6,
+    "Sonstige": 0.6,
+    "Die PARTEI": 0.3,
+    "FREIE WÄHLER": 0.3,
     "Volt": 0.3
    }
   },
@@ -4375,7 +4366,7 @@
    "beteiligung": 66.3,
    "parteien": {
     "CDU": 35.0,
-    "SPD": 34.0,
+    "SPD": 33.7,
     "FDP": 9.6,
     "AfD": 8.4,
     "GRÜNE": 8.4,
@@ -4385,6 +4376,7 @@
     "FREIE WÄHLER": 0.5,
     "DIE LINKE": 0.5,
     "PIRATEN": 0.5,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2
    }
   },
@@ -4442,8 +4434,8 @@
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.4,
-    "Die Humanisten": 0.2,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Die Humanisten": 0.2
    }
   },
   "03252001": {
@@ -5046,9 +5038,9 @@
    "name": "Bodenwerder, Münchhausenstadt",
    "beteiligung": 55.9,
    "parteien": {
-    "SPD": 38.1,
-    "CDU": 25.6,
-    "AfD": 14.0,
+    "SPD": 38.0,
+    "CDU": 25.5,
+    "AfD": 13.9,
     "GRÜNE": 9.5,
     "FDP": 5.1,
     "DIE LINKE": 2.6,
@@ -5067,7 +5059,7 @@
    "beteiligung": 51.9,
    "parteien": {
     "SPD": 43.2,
-    "CDU": 24.0,
+    "CDU": 23.9,
     "GRÜNE": 12.2,
     "AfD": 8.6,
     "FDP": 3.9,
@@ -5078,7 +5070,7 @@
     "dieBasis": 1.0,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.3
    }
   },
   "03255005": {
@@ -5094,15 +5086,15 @@
     "Die PARTEI": 1.4,
     "dieBasis": 1.4,
     "Tierschutzpartei": 1.4,
+    "FREIE WÄHLER": 0.6,
     "PIRATEN": 0.6,
     "Volt": 0.6,
-    "Sonstige": 0.6,
-    "FREIE WÄHLER": 0.3
+    "Sonstige": 0.3
    }
   },
   "03255007": {
    "name": "Deensen",
-   "beteiligung": 63.3,
+   "beteiligung": 63.2,
    "parteien": {
     "SPD": 37.2,
     "CDU": 25.3,
@@ -5113,10 +5105,10 @@
     "dieBasis": 1.5,
     "Tierschutzpartei": 1.1,
     "Die PARTEI": 0.7,
-    "FREIE WÄHLER": 0.7,
+    "FREIE WÄHLER": 0.6,
+    "Die Humanisten": 0.3,
     "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.3,
-    "Die Humanisten": 0.1
+    "PIRATEN": 0.3
    }
   },
   "03255008": {
@@ -5162,15 +5154,16 @@
    "name": "Dielmissen",
    "beteiligung": 64.8,
    "parteien": {
-    "SPD": 32.6,
+    "SPD": 32.5,
     "CDU": 23.7,
     "AfD": 18.9,
     "FDP": 10.6,
     "GRÜNE": 7.1,
     "DIE LINKE": 2.0,
-    "dieBasis": 1.8,
+    "dieBasis": 1.5,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 1.0,
+    "Sonstige": 0.5,
     "PIRATEN": 0.5,
     "Volt": 0.5
    }
@@ -5186,9 +5179,9 @@
     "GRÜNE": 8.7,
     "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.1,
-    "Sonstige": 0.8,
+    "Sonstige": 0.6,
+    "PIRATEN": 0.6,
     "Die PARTEI": 0.4,
-    "PIRATEN": 0.4,
     "Volt": 0.4,
     "Die Humanisten": 0.2
    }
@@ -5236,18 +5229,18 @@
    "beteiligung": 71.3,
    "parteien": {
     "SPD": 41.8,
-    "CDU": 17.1,
+    "CDU": 17.0,
     "FDP": 12.5,
     "AfD": 11.5,
     "GRÜNE": 10.9,
     "DIE LINKE": 1.7,
-    "Tierschutzpartei": 1.2,
+    "Tierschutzpartei": 1.1,
     "dieBasis": 1.0,
+    "Gesundheitsforschung": 0.6,
     "PIRATEN": 0.6,
     "Volt": 0.6,
     "Die PARTEI": 0.4,
-    "FREIE WÄHLER": 0.4,
-    "Gesundheitsforschung": 0.4
+    "FREIE WÄHLER": 0.4
    }
   },
   "03255016": {
@@ -5284,9 +5277,8 @@
     "Die PARTEI": 0.9,
     "PIRATEN": 0.3,
     "Volt": 0.3,
-    "Die Humanisten": 0.1,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1
+    "Gesundheitsforschung": 0.2,
+    "Die Humanisten": 0.1
    }
   },
   "03255018": {
@@ -5302,10 +5294,10 @@
     "Tierschutzpartei": 1.8,
     "dieBasis": 1.1,
     "Die PARTEI": 0.7,
+    "PIRATEN": 0.7,
     "FREIE WÄHLER": 0.5,
-    "PIRATEN": 0.5,
-    "Sonstige": 0.5,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03255019": {
@@ -5313,13 +5305,13 @@
    "beteiligung": 61.0,
    "parteien": {
     "SPD": 42.1,
-    "CDU": 26.6,
+    "CDU": 26.4,
     "FDP": 11.1,
     "GRÜNE": 9.2,
     "AfD": 5.2,
     "DIE LINKE": 3.0,
+    "Sonstige": 1.1,
     "Tierschutzpartei": 0.8,
-    "Sonstige": 0.8,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.5
    }
@@ -5348,11 +5340,11 @@
     "CDU": 22.3,
     "GRÜNE": 13.5,
     "AfD": 10.5,
-    "FDP": 6.6,
-    "DIE LINKE": 1.3,
+    "FDP": 7.0,
     "Sonstige": 1.3,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
+    "DIE LINKE": 0.9,
     "Gesundheitsforschung": 0.4
    }
   },
@@ -5365,12 +5357,12 @@
     "AfD": 12.7,
     "FDP": 11.2,
     "GRÜNE": 10.5,
+    "Tierschutzpartei": 1.8,
     "FREIE WÄHLER": 1.4,
-    "Tierschutzpartei": 1.4,
     "dieBasis": 1.1,
     "DIE LINKE": 1.1,
-    "Sonstige": 0.7,
-    "Volt": 0.4
+    "Volt": 0.4,
+    "Sonstige": 0.4
    }
   },
   "03255023": {
@@ -5457,11 +5449,12 @@
     "SPD": 36.7,
     "CDU": 27.1,
     "AfD": 16.4,
-    "FDP": 7.7,
+    "FDP": 7.2,
     "GRÜNE": 5.8,
     "DIE LINKE": 4.3,
     "dieBasis": 1.0,
-    "Tierschutzpartei": 1.0
+    "Tierschutzpartei": 1.0,
+    "Sonstige": 0.5
    }
   },
   "03255030": {
@@ -5469,7 +5462,7 @@
    "beteiligung": 72.9,
    "parteien": {
     "SPD": 39.7,
-    "CDU": 21.1,
+    "CDU": 21.4,
     "AfD": 13.7,
     "GRÜNE": 9.0,
     "FDP": 8.8,
@@ -5479,7 +5472,6 @@
     "dieBasis": 0.8,
     "Die PARTEI": 0.5,
     "Volt": 0.5,
-    "Sonstige": 0.3,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3
    }
@@ -5512,13 +5504,12 @@
     "GRÜNE": 11.9,
     "AfD": 11.5,
     "FDP": 9.1,
-    "DIE LINKE": 3.3,
+    "DIE LINKE": 3.7,
     "Tierschutzpartei": 2.5,
     "dieBasis": 1.6,
     "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.8,
-    "PIRATEN": 0.8,
-    "Sonstige": 0.4
+    "PIRATEN": 0.8
    }
   },
   "03255033": {
@@ -5531,11 +5522,11 @@
     "GRÜNE": 9.3,
     "FDP": 5.4,
     "DIE LINKE": 1.8,
-    "Tierschutzpartei": 1.3,
+    "Tierschutzpartei": 1.4,
     "dieBasis": 1.1,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.7,
-    "Sonstige": 0.4,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2
    }
@@ -5556,8 +5547,8 @@
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.2,
-    "Die Humanisten": 0.1,
-    "Volt": 0.1
+    "Volt": 0.1,
+    "Die Humanisten": 0.1
    }
   },
   "03255035": {
@@ -5604,7 +5595,7 @@
     "CDU": 30.4,
     "GRÜNE": 12.2,
     "AfD": 8.8,
-    "FDP": 4.8,
+    "FDP": 4.7,
     "DIE LINKE": 2.2,
     "Tierschutzpartei": 1.4,
     "dieBasis": 1.1,
@@ -5612,6 +5603,7 @@
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
+    "Sonstige": 0.1,
     "Die Humanisten": 0.1,
     "Volt": 0.1
    }
@@ -5623,12 +5615,13 @@
     "CDU": 32.6,
     "SPD": 32.5,
     "GRÜNE": 13.8,
-    "AfD": 10.9,
+    "AfD": 10.7,
     "FDP": 4.5,
     "Tierschutzpartei": 2.2,
     "DIE LINKE": 1.4,
     "FREIE WÄHLER": 1.2,
-    "dieBasis": 0.5,
+    "dieBasis": 0.3,
+    "Sonstige": 0.3,
     "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.2
    }
@@ -5637,7 +5630,7 @@
    "name": "Bücken, Flecken",
    "beteiligung": 63.6,
    "parteien": {
-    "SPD": 32.8,
+    "SPD": 32.7,
     "CDU": 29.7,
     "GRÜNE": 13.2,
     "AfD": 9.3,
@@ -5646,7 +5639,7 @@
     "Tierschutzpartei": 2.0,
     "dieBasis": 1.3,
     "Die PARTEI": 1.2,
-    "FREIE WÄHLER": 0.6,
+    "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.3,
     "Volt": 0.3
@@ -5656,14 +5649,14 @@
    "name": "Diepenau, Flecken",
    "beteiligung": 57.3,
    "parteien": {
-    "CDU": 38.7,
+    "CDU": 38.6,
     "SPD": 30.3,
     "AfD": 10.8,
     "GRÜNE": 9.1,
     "FDP": 4.4,
     "DIE LINKE": 1.6,
     "Tierschutzpartei": 1.5,
-    "dieBasis": 1.1,
+    "dieBasis": 1.2,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.4,
     "Gesundheitsforschung": 0.3,
@@ -5680,12 +5673,12 @@
     "SPD": 35.4,
     "CDU": 28.5,
     "AfD": 15.1,
-    "GRÜNE": 10.6,
+    "GRÜNE": 10.5,
     "FDP": 3.5,
     "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.9,
+    "Die PARTEI": 0.8,
     "dieBasis": 0.8,
-    "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.3,
     "Volt": 0.3,
@@ -5728,14 +5721,14 @@
     "FREIE WÄHLER": 0.6,
     "Volt": 0.5,
     "Gesundheitsforschung": 0.3,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.2
    }
   },
   "03256008": {
    "name": "Gandesbergen",
    "beteiligung": 61.6,
    "parteien": {
-    "SPD": 39.6,
+    "SPD": 39.2,
     "CDU": 25.5,
     "AfD": 12.2,
     "GRÜNE": 11.0,
@@ -5745,10 +5738,10 @@
     "dieBasis": 1.2,
     "FREIE WÄHLER": 1.2,
     "Gesundheitsforschung": 0.8,
+    "Sonstige": 0.8,
     "Die Humanisten": 0.4,
     "Die PARTEI": 0.4,
-    "PIRATEN": 0.4,
-    "Sonstige": 0.4
+    "PIRATEN": 0.4
    }
   },
   "03256009": {
@@ -5759,11 +5752,11 @@
     "SPD": 34.7,
     "AfD": 11.6,
     "GRÜNE": 7.6,
-    "FDP": 6.1,
+    "FDP": 6.5,
     "DIE LINKE": 1.4,
     "Tierschutzpartei": 1.4,
     "dieBasis": 1.1,
-    "Sonstige": 0.7,
+    "Sonstige": 0.4,
     "PIRATEN": 0.4
    }
   },
@@ -5791,10 +5784,10 @@
    "name": "Haßbergen",
    "beteiligung": 60.4,
    "parteien": {
-    "SPD": 34.2,
+    "SPD": 34.3,
     "CDU": 28.2,
     "AfD": 16.3,
-    "GRÜNE": 9.0,
+    "GRÜNE": 8.9,
     "FDP": 2.7,
     "DIE LINKE": 2.7,
     "Tierschutzpartei": 2.3,
@@ -5802,8 +5795,9 @@
     "FREIE WÄHLER": 0.8,
     "dieBasis": 0.7,
     "Gesundheitsforschung": 0.7,
-    "Die Humanisten": 0.4,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.4,
+    "Die Humanisten": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03256012": {
@@ -5838,11 +5832,12 @@
     "dieBasis": 1.8,
     "Die PARTEI": 1.6,
     "FREIE WÄHLER": 1.2,
-    "Tierschutzpartei": 1.2,
+    "Tierschutzpartei": 1.1,
     "Die Humanisten": 0.5,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
-    "PIRATEN": 0.3
+    "PIRATEN": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03256014": {
@@ -5889,9 +5884,9 @@
    "beteiligung": 63.5,
    "parteien": {
     "CDU": 34.5,
-    "SPD": 27.6,
+    "SPD": 27.5,
     "AfD": 12.9,
-    "GRÜNE": 12.0,
+    "GRÜNE": 11.9,
     "FDP": 5.2,
     "DIE LINKE": 2.1,
     "Tierschutzpartei": 1.9,
@@ -5910,7 +5905,7 @@
    "parteien": {
     "SPD": 37.0,
     "CDU": 30.9,
-    "AfD": 11.3,
+    "AfD": 11.2,
     "GRÜNE": 10.5,
     "FDP": 3.1,
     "DIE LINKE": 2.6,
@@ -5922,7 +5917,7 @@
     "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.2,
     "PIRATEN": 0.2,
-    "Sonstige": 0.1
+    "Sonstige": 0.2
    }
   },
   "03256018": {
@@ -5939,8 +5934,9 @@
     "Tierschutzpartei": 1.6,
     "FREIE WÄHLER": 0.8,
     "Gesundheitsforschung": 0.8,
-    "Die PARTEI": 0.7,
-    "PIRATEN": 0.7
+    "PIRATEN": 0.7,
+    "Die PARTEI": 0.6,
+    "Sonstige": 0.1
    }
   },
   "03256019": {
@@ -5953,14 +5949,14 @@
     "GRÜNE": 9.9,
     "FDP": 4.0,
     "DIE LINKE": 2.3,
-    "Die PARTEI": 1.3,
+    "Die PARTEI": 1.2,
     "dieBasis": 1.2,
     "Tierschutzpartei": 1.0,
     "FREIE WÄHLER": 0.9,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.2,
+    "Volt": 0.2,
     "Sonstige": 0.1,
-    "Volt": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -5968,11 +5964,11 @@
    "name": "Linsburg",
    "beteiligung": 65.9,
    "parteien": {
-    "CDU": 31.9,
+    "CDU": 31.8,
     "SPD": 27.3,
     "AfD": 14.4,
-    "GRÜNE": 11.8,
-    "FDP": 6.3,
+    "GRÜNE": 11.9,
+    "FDP": 6.2,
     "FREIE WÄHLER": 1.9,
     "DIE LINKE": 1.9,
     "Die PARTEI": 1.5,
@@ -6025,12 +6021,12 @@
   },
   "03256023": {
    "name": "Pennigsehl",
-   "beteiligung": 67.0,
+   "beteiligung": 67.1,
    "parteien": {
     "SPD": 35.7,
-    "CDU": 35.5,
+    "CDU": 35.6,
     "AfD": 10.0,
-    "GRÜNE": 9.3,
+    "GRÜNE": 9.4,
     "FDP": 4.3,
     "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.1,
@@ -6039,13 +6035,12 @@
     "dieBasis": 0.3,
     "FREIE WÄHLER": 0.3,
     "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.2
+    "PIRATEN": 0.2
    }
   },
   "03256024": {
    "name": "Raddestorf",
-   "beteiligung": 64.8,
+   "beteiligung": 64.9,
    "parteien": {
     "CDU": 42.9,
     "SPD": 30.0,
@@ -6096,7 +6091,7 @@
     "dieBasis": 0.7,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.6,
-    "Volt": 0.3,
+    "Volt": 0.4,
     "Gesundheitsforschung": 0.2,
     "Die Humanisten": 0.1
    }
@@ -6105,18 +6100,19 @@
    "name": "Rohrsen",
    "beteiligung": 61.1,
    "parteien": {
-    "CDU": 31.1,
-    "SPD": 28.5,
+    "CDU": 31.2,
+    "SPD": 28.6,
     "AfD": 20.4,
     "GRÜNE": 8.8,
     "FDP": 3.6,
     "DIE LINKE": 2.2,
     "Tierschutzpartei": 2.0,
-    "FREIE WÄHLER": 1.2,
+    "FREIE WÄHLER": 1.0,
     "dieBasis": 0.8,
     "Die PARTEI": 0.6,
-    "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.4
+    "Sonstige": 0.4,
+    "Gesundheitsforschung": 0.2,
+    "PIRATEN": 0.2
    }
   },
   "03256028": {
@@ -6125,10 +6121,10 @@
    "parteien": {
     "SPD": 36.6,
     "CDU": 27.9,
-    "GRÜNE": 11.6,
+    "GRÜNE": 11.4,
     "AfD": 9.1,
     "FDP": 6.6,
-    "dieBasis": 2.5,
+    "dieBasis": 2.7,
     "Die PARTEI": 1.7,
     "DIE LINKE": 1.5,
     "FREIE WÄHLER": 1.1,
@@ -6138,7 +6134,7 @@
   },
   "03256029": {
    "name": "Steimbke",
-   "beteiligung": 61.2,
+   "beteiligung": 61.3,
    "parteien": {
     "SPD": 33.3,
     "CDU": 32.8,
@@ -6149,9 +6145,9 @@
     "Die PARTEI": 1.5,
     "Tierschutzpartei": 1.1,
     "dieBasis": 0.4,
+    "Sonstige": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.3,
-    "Sonstige": 0.3,
     "FREIE WÄHLER": 0.2
    }
   },
@@ -6178,7 +6174,7 @@
    "beteiligung": 68.5,
    "parteien": {
     "CDU": 34.7,
-    "SPD": 30.3,
+    "SPD": 30.1,
     "GRÜNE": 13.2,
     "AfD": 10.5,
     "FDP": 5.4,
@@ -6188,7 +6184,7 @@
     "FREIE WÄHLER": 0.7,
     "dieBasis": 0.6,
     "PIRATEN": 0.3,
-    "Sonstige": 0.1
+    "Sonstige": 0.3
    }
   },
   "03256032": {
@@ -6216,7 +6212,7 @@
    "beteiligung": 56.8,
    "parteien": {
     "CDU": 35.9,
-    "SPD": 31.3,
+    "SPD": 31.4,
     "GRÜNE": 11.3,
     "AfD": 10.8,
     "FDP": 4.5,
@@ -6263,9 +6259,9 @@
     "DIE LINKE": 2.2,
     "Tierschutzpartei": 1.7,
     "Die PARTEI": 1.5,
+    "FREIE WÄHLER": 1.2,
     "dieBasis": 1.0,
-    "FREIE WÄHLER": 1.0,
-    "Sonstige": 0.5,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.2
@@ -6277,10 +6273,10 @@
    "parteien": {
     "CDU": 36.8,
     "SPD": 29.7,
-    "GRÜNE": 11.6,
+    "GRÜNE": 11.7,
     "AfD": 10.6,
     "FDP": 4.9,
-    "DIE LINKE": 1.7,
+    "DIE LINKE": 1.8,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 1.0,
     "dieBasis": 0.9,
@@ -6295,18 +6291,18 @@
    "name": "Ahnsen",
    "beteiligung": 53.9,
    "parteien": {
-    "SPD": 38.6,
+    "SPD": 38.5,
     "CDU": 23.6,
     "AfD": 15.6,
     "GRÜNE": 9.3,
     "FDP": 3.0,
     "Die PARTEI": 2.8,
     "DIE LINKE": 2.4,
-    "FREIE WÄHLER": 2.0,
+    "FREIE WÄHLER": 1.9,
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.9,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.2
+    "Sonstige": 0.4,
+    "Die Humanisten": 0.2
    }
   },
   "03257002": {
@@ -6357,13 +6353,13 @@
     "CDU": 26.3,
     "GRÜNE": 12.5,
     "AfD": 11.5,
-    "FDP": 4.3,
+    "FDP": 4.5,
     "dieBasis": 1.9,
     "Tierschutzpartei": 1.8,
     "FREIE WÄHLER": 1.0,
     "DIE LINKE": 1.0,
-    "Die Humanisten": 0.6,
     "Die PARTEI": 0.6,
+    "Die Humanisten": 0.4,
     "PIRATEN": 0.4,
     "Sonstige": 0.1,
     "Gesundheitsforschung": 0.1
@@ -6379,7 +6375,7 @@
     "GRÜNE": 9.8,
     "FDP": 3.7,
     "DIE LINKE": 2.5,
-    "Tierschutzpartei": 2.0,
+    "Tierschutzpartei": 1.9,
     "FREIE WÄHLER": 1.8,
     "Die PARTEI": 1.3,
     "dieBasis": 0.9,
@@ -6412,19 +6408,19 @@
    "name": "Beckedorf",
    "beteiligung": 60.6,
    "parteien": {
-    "SPD": 34.4,
+    "SPD": 34.3,
     "CDU": 25.1,
-    "AfD": 15.3,
+    "AfD": 15.5,
     "GRÜNE": 12.9,
     "FDP": 3.4,
     "Tierschutzpartei": 2.7,
     "DIE LINKE": 2.0,
-    "dieBasis": 1.4,
+    "dieBasis": 1.3,
     "Die PARTEI": 1.1,
     "FREIE WÄHLER": 0.9,
+    "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
     "Die Humanisten": 0.1,
-    "Gesundheitsforschung": 0.1,
     "Volt": 0.1
    }
   },
@@ -6432,10 +6428,10 @@
    "name": "Buchholz",
    "beteiligung": 56.8,
    "parteien": {
-    "SPD": 32.0,
+    "SPD": 31.7,
     "CDU": 27.1,
-    "AfD": 13.7,
-    "GRÜNE": 11.6,
+    "AfD": 13.4,
+    "GRÜNE": 11.9,
     "FDP": 4.9,
     "Tierschutzpartei": 2.7,
     "DIE LINKE": 2.4,
@@ -6443,7 +6439,7 @@
     "dieBasis": 1.5,
     "Die PARTEI": 0.6,
     "Volt": 0.6,
-    "Sonstige": 0.3,
+    "Sonstige": 0.6,
     "Die Humanisten": 0.3,
     "PIRATEN": 0.3
    }
@@ -6490,12 +6486,12 @@
   },
   "03257011": {
    "name": "Haste",
-   "beteiligung": 66.6,
+   "beteiligung": 66.5,
    "parteien": {
     "SPD": 37.1,
     "CDU": 26.7,
     "GRÜNE": 14.2,
-    "AfD": 9.0,
+    "AfD": 8.9,
     "FDP": 4.2,
     "Tierschutzpartei": 2.1,
     "DIE LINKE": 1.9,
@@ -6504,7 +6500,7 @@
     "dieBasis": 0.9,
     "PIRATEN": 0.6,
     "Volt": 0.4,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.3
    }
   },
   "03257012": {
@@ -6521,11 +6517,10 @@
     "Tierschutzpartei": 1.6,
     "Die PARTEI": 1.3,
     "FREIE WÄHLER": 1.3,
+    "Die Humanisten": 0.8,
     "Gesundheitsforschung": 0.8,
-    "Die Humanisten": 0.7,
     "Volt": 0.7,
-    "Sonstige": 0.3,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.3
    }
   },
   "03257013": {
@@ -6533,15 +6528,15 @@
    "beteiligung": 64.4,
    "parteien": {
     "SPD": 38.7,
-    "CDU": 24.5,
+    "CDU": 24.6,
     "GRÜNE": 14.6,
     "AfD": 10.0,
     "FDP": 3.5,
     "FREIE WÄHLER": 2.4,
     "Tierschutzpartei": 2.2,
     "DIE LINKE": 1.8,
-    "Die PARTEI": 0.8,
     "dieBasis": 0.8,
+    "Die PARTEI": 0.7,
     "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.2,
     "PIRATEN": 0.2,
@@ -6612,13 +6607,12 @@
     "GRÜNE": 11.4,
     "AfD": 10.5,
     "FDP": 4.1,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 2.0,
     "Die PARTEI": 1.2,
     "DIE LINKE": 1.2,
     "FREIE WÄHLER": 1.1,
-    "Sonstige": 0.5,
-    "PIRATEN": 0.5,
-    "dieBasis": 0.4,
+    "PIRATEN": 0.7,
+    "dieBasis": 0.5,
     "Die Humanisten": 0.2
    }
   },
@@ -6646,15 +6640,15 @@
    "beteiligung": 66.7,
    "parteien": {
     "SPD": 38.4,
-    "CDU": 26.3,
+    "CDU": 26.2,
     "GRÜNE": 12.9,
     "AfD": 9.1,
     "FDP": 4.3,
     "DIE LINKE": 2.7,
     "dieBasis": 1.7,
+    "Die PARTEI": 1.3,
     "FREIE WÄHLER": 1.3,
     "Tierschutzpartei": 1.3,
-    "Die PARTEI": 1.2,
     "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.1,
     "PIRATEN": 0.1,
@@ -6672,13 +6666,14 @@
     "FDP": 3.5,
     "DIE LINKE": 2.4,
     "Tierschutzpartei": 2.4,
-    "Die PARTEI": 1.2,
+    "Die PARTEI": 1.1,
     "dieBasis": 1.1,
     "FREIE WÄHLER": 1.0,
     "PIRATEN": 0.3,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03257021": {
@@ -6704,20 +6699,19 @@
    "name": "Luhden",
    "beteiligung": 55.7,
    "parteien": {
-    "SPD": 30.8,
-    "CDU": 30.4,
-    "AfD": 14.5,
+    "SPD": 30.7,
+    "CDU": 30.3,
+    "AfD": 14.4,
     "GRÜNE": 9.1,
-    "FDP": 4.8,
+    "FDP": 4.7,
     "Tierschutzpartei": 2.9,
-    "FREIE WÄHLER": 2.5,
+    "FREIE WÄHLER": 2.7,
     "dieBasis": 1.4,
     "DIE LINKE": 1.2,
     "Gesundheitsforschung": 0.8,
     "Die PARTEI": 0.6,
-    "PIRATEN": 0.4,
-    "Volt": 0.4,
-    "Sonstige": 0.2
+    "Volt": 0.6,
+    "PIRATEN": 0.4
    }
   },
   "03257023": {
@@ -6742,11 +6736,11 @@
   },
   "03257024": {
    "name": "Messenkamp",
-   "beteiligung": 68.0,
+   "beteiligung": 68.1,
    "parteien": {
     "SPD": 35.3,
     "CDU": 25.7,
-    "GRÜNE": 15.4,
+    "GRÜNE": 15.6,
     "AfD": 11.1,
     "FDP": 3.8,
     "FREIE WÄHLER": 2.5,
@@ -6755,28 +6749,26 @@
     "Die PARTEI": 1.0,
     "PIRATEN": 0.8,
     "Die Humanisten": 0.3,
-    "Volt": 0.3,
-    "Sonstige": 0.3
+    "Volt": 0.3
    }
   },
   "03257025": {
    "name": "Niedernwöhren",
    "beteiligung": 63.9,
    "parteien": {
-    "SPD": 40.6,
-    "CDU": 26.5,
+    "SPD": 40.5,
+    "CDU": 26.4,
     "GRÜNE": 12.7,
     "AfD": 7.3,
     "FDP": 4.7,
     "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.7,
     "Die PARTEI": 1.6,
-    "dieBasis": 1.0,
+    "dieBasis": 1.1,
     "FREIE WÄHLER": 1.0,
     "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.3,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.1
+    "PIRATEN": 0.4,
+    "Die Humanisten": 0.2
    }
   },
   "03257026": {
@@ -6788,30 +6780,31 @@
     "GRÜNE": 15.1,
     "AfD": 11.2,
     "FDP": 3.8,
-    "FREIE WÄHLER": 2.3,
+    "FREIE WÄHLER": 2.2,
     "DIE LINKE": 1.6,
     "Tierschutzpartei": 1.6,
     "Die PARTEI": 1.4,
     "dieBasis": 1.1,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.1,
+    "Volt": 0.1
    }
   },
   "03257027": {
    "name": "Nordsehl",
    "beteiligung": 61.5,
    "parteien": {
-    "SPD": 32.4,
-    "CDU": 30.1,
+    "SPD": 32.5,
+    "CDU": 30.2,
     "AfD": 13.5,
     "GRÜNE": 13.5,
     "FDP": 3.7,
     "DIE LINKE": 2.3,
     "Tierschutzpartei": 1.1,
-    "FREIE WÄHLER": 0.9,
     "Gesundheitsforschung": 0.9,
     "dieBasis": 0.6,
+    "FREIE WÄHLER": 0.6,
     "PIRATEN": 0.6,
     "Die PARTEI": 0.3,
     "Volt": 0.3
@@ -6841,8 +6834,8 @@
    "name": "Pohle",
    "beteiligung": 69.3,
    "parteien": {
-    "CDU": 37.4,
-    "SPD": 30.4,
+    "CDU": 37.3,
+    "SPD": 30.1,
     "AfD": 11.2,
     "GRÜNE": 10.0,
     "FDP": 3.1,
@@ -6852,8 +6845,9 @@
     "Die PARTEI": 1.0,
     "Gesundheitsforschung": 0.8,
     "dieBasis": 0.6,
-    "PIRATEN": 0.2,
-    "Volt": 0.2
+    "Volt": 0.4,
+    "Sonstige": 0.2,
+    "PIRATEN": 0.2
    }
   },
   "03257030": {
@@ -6865,14 +6859,15 @@
     "GRÜNE": 10.4,
     "AfD": 10.1,
     "FDP": 3.1,
-    "DIE LINKE": 1.6,
+    "DIE LINKE": 1.5,
     "Tierschutzpartei": 1.1,
     "Die PARTEI": 0.7,
     "dieBasis": 0.5,
     "FREIE WÄHLER": 0.5,
     "Volt": 0.5,
     "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03257031": {
@@ -6921,7 +6916,7 @@
    "beteiligung": 68.9,
    "parteien": {
     "SPD": 38.8,
-    "CDU": 26.1,
+    "CDU": 26.0,
     "AfD": 11.6,
     "GRÜNE": 11.2,
     "FDP": 3.3,
@@ -6929,10 +6924,9 @@
     "Tierschutzpartei": 2.3,
     "dieBasis": 1.6,
     "FREIE WÄHLER": 1.0,
-    "Die PARTEI": 0.5,
+    "Die PARTEI": 0.6,
+    "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.5,
-    "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.1,
     "Volt": 0.1
    }
   },
@@ -6941,7 +6935,7 @@
    "beteiligung": 59.2,
    "parteien": {
     "SPD": 37.7,
-    "CDU": 23.3,
+    "CDU": 23.4,
     "GRÜNE": 17.2,
     "AfD": 11.3,
     "FDP": 3.3,
@@ -6951,8 +6945,7 @@
     "Die PARTEI": 0.9,
     "DIE LINKE": 0.9,
     "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.3,
-    "Sonstige": 0.1
+    "PIRATEN": 0.3
    }
   },
   "03257035": {
@@ -6979,7 +6972,7 @@
    "name": "Suthfeld",
    "beteiligung": 70.1,
    "parteien": {
-    "SPD": 35.3,
+    "SPD": 35.2,
     "CDU": 30.2,
     "GRÜNE": 14.4,
     "AfD": 9.4,
@@ -6990,8 +6983,8 @@
     "DIE LINKE": 1.3,
     "dieBasis": 0.6,
     "PIRATEN": 0.5,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1
+    "Sonstige": 0.2,
+    "Gesundheitsforschung": 0.2
    }
   },
   "03257037": {
@@ -7016,7 +7009,7 @@
   },
   "03257038": {
    "name": "Wölpinghausen",
-   "beteiligung": 66.3,
+   "beteiligung": 66.2,
    "parteien": {
     "SPD": 34.2,
     "CDU": 31.4,
@@ -7067,9 +7060,9 @@
     "Die PARTEI": 0.9,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
-    "Tierschutzpartei": 0.9,
+    "Tierschutzpartei": 0.8,
     "PIRATEN": 0.7,
-    "Sonstige": 0.3,
+    "Sonstige": 0.4,
     "Die Humanisten": 0.1,
     "Gesundheitsforschung": 0.1
    }
@@ -7115,7 +7108,7 @@
   },
   "03351005": {
    "name": "Bröckel",
-   "beteiligung": 56.5,
+   "beteiligung": 56.6,
    "parteien": {
     "CDU": 36.6,
     "SPD": 26.3,
@@ -7167,9 +7160,9 @@
     "Die PARTEI": 0.7,
     "Volt": 0.4,
     "PIRATEN": 0.3,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.2
+    "Gesundheitsforschung": 0.2
    }
   },
   "03351008": {
@@ -7187,8 +7180,7 @@
     "Tierschutzpartei": 2.1,
     "Die PARTEI": 0.8,
     "Volt": 0.7,
-    "Sonstige": 0.1,
-    "PIRATEN": 0.1
+    "PIRATEN": 0.2
    }
   },
   "03351010": {
@@ -7237,11 +7229,11 @@
    "parteien": {
     "CDU": 35.0,
     "SPD": 29.2,
-    "AfD": 14.1,
+    "AfD": 13.9,
     "GRÜNE": 8.9,
     "FDP": 6.6,
     "FREIE WÄHLER": 1.8,
-    "DIE LINKE": 1.3,
+    "DIE LINKE": 1.4,
     "Tierschutzpartei": 1.3,
     "dieBasis": 1.0,
     "Die PARTEI": 0.4,
@@ -7267,7 +7259,6 @@
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
     "PIRATEN": 0.3,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -7346,8 +7337,8 @@
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.7,
     "Volt": 0.4,
-    "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
+    "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -7434,15 +7425,15 @@
    "name": "Armstorf",
    "beteiligung": 74.6,
    "parteien": {
-    "CDU": 54.9,
+    "CDU": 54.7,
     "SPD": 19.8,
     "AfD": 12.0,
     "GRÜNE": 4.7,
     "FDP": 4.4,
+    "DIE LINKE": 1.0,
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.8,
     "dieBasis": 0.8,
-    "DIE LINKE": 0.8,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.3
@@ -7471,7 +7462,7 @@
    "beteiligung": 71.6,
    "parteien": {
     "CDU": 44.0,
-    "SPD": 26.7,
+    "SPD": 26.5,
     "AfD": 8.4,
     "GRÜNE": 7.8,
     "FDP": 6.6,
@@ -7480,10 +7471,10 @@
     "DIE LINKE": 1.2,
     "dieBasis": 0.8,
     "Die PARTEI": 0.4,
+    "Volt": 0.4,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2,
-    "PIRATEN": 0.2,
-    "Volt": 0.2
+    "PIRATEN": 0.2
    }
   },
   "03352011": {
@@ -7522,8 +7513,8 @@
     "FREIE WÄHLER": 0.7,
     "Volt": 0.5,
     "PIRATEN": 0.3,
-    "Sonstige": 0.1,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03352022": {
@@ -7550,35 +7541,35 @@
    "name": "Hollnseth",
    "beteiligung": 66.3,
    "parteien": {
-    "CDU": 48.9,
-    "SPD": 27.9,
-    "GRÜNE": 7.1,
-    "AfD": 6.9,
-    "FDP": 4.8,
+    "CDU": 48.7,
+    "SPD": 27.7,
+    "GRÜNE": 7.0,
+    "AfD": 6.8,
+    "FDP": 5.0,
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 1.0,
     "DIE LINKE": 1.0,
-    "dieBasis": 0.6,
-    "FREIE WÄHLER": 0.6
+    "FREIE WÄHLER": 0.8,
+    "dieBasis": 0.6
    }
   },
   "03352025": {
    "name": "Ihlienworth",
    "beteiligung": 60.0,
    "parteien": {
-    "CDU": 33.4,
-    "SPD": 33.3,
-    "AfD": 13.1,
+    "CDU": 33.3,
+    "SPD": 33.2,
+    "AfD": 13.0,
     "GRÜNE": 8.1,
     "FDP": 3.9,
     "Tierschutzpartei": 2.1,
     "DIE LINKE": 2.0,
-    "dieBasis": 1.7,
+    "dieBasis": 1.8,
     "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.6,
     "Die Humanisten": 0.4,
-    "Volt": 0.4,
-    "PIRATEN": 0.3
+    "PIRATEN": 0.4,
+    "Volt": 0.4
    }
   },
   "03352029": {
@@ -7623,16 +7614,17 @@
   },
   "03352036": {
    "name": "Mittelstenahe",
-   "beteiligung": 77.2,
+   "beteiligung": 77.0,
    "parteien": {
-    "CDU": 57.3,
-    "SPD": 21.7,
-    "AfD": 6.6,
+    "CDU": 57.4,
+    "SPD": 21.8,
+    "AfD": 6.7,
     "GRÜNE": 6.4,
     "FDP": 4.1,
-    "dieBasis": 1.3,
-    "Die PARTEI": 1.0,
+    "dieBasis": 1.0,
+    "Die PARTEI": 0.8,
     "Tierschutzpartei": 0.8,
+    "Sonstige": 0.3,
     "FREIE WÄHLER": 0.3,
     "DIE LINKE": 0.3,
     "PIRATEN": 0.3
@@ -7653,10 +7645,9 @@
     "Volt": 1.0,
     "Die PARTEI": 0.6,
     "FREIE WÄHLER": 0.4,
+    "PIRATEN": 0.4,
     "Die Humanisten": 0.3,
-    "PIRATEN": 0.3,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1
+    "Gesundheitsforschung": 0.1
    }
   },
   "03352039": {
@@ -7665,16 +7656,17 @@
    "parteien": {
     "SPD": 38.5,
     "CDU": 30.0,
-    "AfD": 10.3,
+    "AfD": 10.1,
     "GRÜNE": 9.7,
     "FDP": 2.7,
     "dieBasis": 2.4,
-    "DIE LINKE": 2.0,
+    "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.5,
     "PIRATEN": 1.3,
     "Volt": 0.9,
+    "FREIE WÄHLER": 0.5,
     "Die PARTEI": 0.4,
-    "FREIE WÄHLER": 0.4
+    "Sonstige": 0.2
    }
   },
   "03352041": {
@@ -7701,7 +7693,7 @@
    "parteien": {
     "SPD": 38.7,
     "CDU": 27.2,
-    "GRÜNE": 12.0,
+    "GRÜNE": 12.2,
     "AfD": 11.4,
     "FDP": 3.7,
     "dieBasis": 2.1,
@@ -7709,8 +7701,8 @@
     "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 0.5,
-    "Sonstige": 0.3,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03352043": {
@@ -7752,10 +7744,10 @@
    "name": "Osterbruch",
    "beteiligung": 66.0,
    "parteien": {
-    "SPD": 34.9,
-    "CDU": 31.8,
-    "GRÜNE": 11.9,
-    "AfD": 7.7,
+    "SPD": 34.7,
+    "CDU": 31.7,
+    "GRÜNE": 11.8,
+    "AfD": 7.6,
     "FDP": 4.2,
     "dieBasis": 3.8,
     "Tierschutzpartei": 1.9,
@@ -7763,7 +7755,8 @@
     "Die Humanisten": 0.8,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.4,
-    "Gesundheitsforschung": 0.4
+    "Gesundheitsforschung": 0.4,
+    "Sonstige": 0.4
    }
   },
   "03352046": {
@@ -7782,8 +7775,8 @@
     "FREIE WÄHLER": 0.4,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03352050": {
@@ -7819,8 +7812,8 @@
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
     "Gesundheitsforschung": 0.9,
-    "Die PARTEI": 0.6,
-    "Tierschutzpartei": 0.6,
+    "Tierschutzpartei": 0.9,
+    "Die PARTEI": 0.4,
     "Sonstige": 0.4
    }
   },
@@ -7847,8 +7840,8 @@
    "parteien": {
     "CDU": 35.8,
     "SPD": 33.7,
-    "AfD": 12.5,
-    "GRÜNE": 8.4,
+    "AfD": 12.4,
+    "GRÜNE": 8.5,
     "FDP": 3.5,
     "dieBasis": 1.7,
     "DIE LINKE": 1.3,
@@ -7965,7 +7958,7 @@
    "beteiligung": 55.1,
    "parteien": {
     "SPD": 40.3,
-    "CDU": 28.5,
+    "CDU": 28.6,
     "GRÜNE": 10.8,
     "AfD": 9.2,
     "FDP": 3.6,
@@ -7983,20 +7976,19 @@
    "name": "Appel",
    "beteiligung": 60.5,
    "parteien": {
-    "CDU": 36.0,
+    "CDU": 35.9,
     "SPD": 23.2,
     "GRÜNE": 13.8,
     "AfD": 13.7,
     "FDP": 5.4,
     "DIE LINKE": 1.9,
-    "dieBasis": 1.6,
-    "Tierschutzpartei": 1.4,
+    "dieBasis": 1.7,
+    "Tierschutzpartei": 1.5,
     "FREIE WÄHLER": 1.3,
     "Die PARTEI": 0.5,
     "PIRATEN": 0.5,
     "Volt": 0.5,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "03353002": {
@@ -8004,8 +7996,8 @@
    "beteiligung": 66.9,
    "parteien": {
     "CDU": 31.2,
-    "SPD": 24.5,
-    "GRÜNE": 20.2,
+    "SPD": 24.4,
+    "GRÜNE": 20.1,
     "AfD": 9.6,
     "FDP": 5.6,
     "dieBasis": 2.5,
@@ -8015,15 +8007,15 @@
     "Die PARTEI": 0.8,
     "PIRATEN": 0.7,
     "Gesundheitsforschung": 0.5,
-    "Volt": 0.3,
-    "Die Humanisten": 0.1
+    "Volt": 0.4,
+    "Die Humanisten": 0.2
    }
   },
   "03353003": {
    "name": "Bendestorf",
    "beteiligung": 66.5,
    "parteien": {
-    "CDU": 36.7,
+    "CDU": 36.8,
     "SPD": 22.2,
     "GRÜNE": 16.2,
     "AfD": 9.8,
@@ -8034,8 +8026,7 @@
     "Tierschutzpartei": 0.7,
     "Die PARTEI": 0.7,
     "Gesundheitsforschung": 0.2,
-    "Volt": 0.2,
-    "Sonstige": 0.1
+    "Volt": 0.2
    }
   },
   "03353004": {
@@ -8124,15 +8115,15 @@
     "CDU": 33.8,
     "SPD": 22.7,
     "AfD": 14.1,
-    "GRÜNE": 13.4,
+    "GRÜNE": 13.2,
     "FDP": 5.9,
-    "FREIE WÄHLER": 2.3,
+    "FREIE WÄHLER": 2.5,
     "dieBasis": 2.0,
     "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.8,
     "Die PARTEI": 0.9,
-    "PIRATEN": 0.7,
-    "Sonstige": 0.5,
+    "PIRATEN": 0.9,
+    "Sonstige": 0.2,
     "Gesundheitsforschung": 0.2
    }
   },
@@ -8168,12 +8159,11 @@
     "dieBasis": 4.0,
     "FREIE WÄHLER": 2.4,
     "DIE LINKE": 2.4,
-    "Tierschutzpartei": 1.9,
+    "Tierschutzpartei": 2.1,
     "Die PARTEI": 0.8,
     "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.3,
-    "Volt": 0.3,
-    "Sonstige": 0.2
+    "Volt": 0.3
    }
   },
   "03353011": {
@@ -8203,16 +8193,16 @@
    "parteien": {
     "CDU": 34.5,
     "SPD": 27.0,
-    "GRÜNE": 17.2,
+    "GRÜNE": 17.1,
     "AfD": 7.6,
     "FDP": 6.3,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 1.7,
     "dieBasis": 1.3,
     "DIE LINKE": 1.2,
     "Die PARTEI": 1.0,
     "FREIE WÄHLER": 1.0,
     "PIRATEN": 0.7,
-    "Die Humanisten": 0.4
+    "Die Humanisten": 0.6
    }
   },
   "03353013": {
@@ -8227,10 +8217,10 @@
     "dieBasis": 1.9,
     "DIE LINKE": 1.5,
     "Tierschutzpartei": 1.5,
-    "Die PARTEI": 1.0,
     "FREIE WÄHLER": 1.0,
+    "Die PARTEI": 0.8,
     "PIRATEN": 0.8,
-    "Sonstige": 0.2,
+    "Sonstige": 0.4,
     "Volt": 0.2
    }
   },
@@ -8239,7 +8229,7 @@
    "beteiligung": 74.9,
    "parteien": {
     "CDU": 44.2,
-    "SPD": 23.3,
+    "SPD": 23.1,
     "GRÜNE": 9.4,
     "AfD": 9.0,
     "FDP": 3.6,
@@ -8248,7 +8238,7 @@
     "Die PARTEI": 1.8,
     "dieBasis": 1.8,
     "FREIE WÄHLER": 1.6,
-    "Sonstige": 0.2,
+    "Sonstige": 0.4,
     "PIRATEN": 0.2
    }
   },
@@ -8258,15 +8248,15 @@
    "parteien": {
     "SPD": 29.0,
     "CDU": 25.1,
-    "GRÜNE": 21.7,
+    "GRÜNE": 21.6,
     "AfD": 8.9,
     "FDP": 4.0,
-    "dieBasis": 3.1,
+    "dieBasis": 3.0,
     "DIE LINKE": 2.9,
     "FREIE WÄHLER": 1.7,
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.9,
-    "Die Humanisten": 0.5,
+    "Die Humanisten": 0.6,
     "PIRATEN": 0.4,
     "Volt": 0.4,
     "Gesundheitsforschung": 0.2
@@ -8298,21 +8288,21 @@
    "parteien": {
     "CDU": 40.7,
     "SPD": 25.1,
-    "GRÜNE": 12.0,
+    "GRÜNE": 12.2,
     "AfD": 8.0,
     "FDP": 6.4,
     "FREIE WÄHLER": 2.7,
     "dieBasis": 2.0,
     "DIE LINKE": 1.3,
     "Tierschutzpartei": 0.7,
-    "Sonstige": 0.4,
     "Die PARTEI": 0.4,
+    "Sonstige": 0.2,
     "PIRATEN": 0.2
    }
   },
   "03353018": {
    "name": "Heidenau",
-   "beteiligung": 66.1,
+   "beteiligung": 66.0,
    "parteien": {
     "CDU": 36.3,
     "SPD": 26.2,
@@ -8336,7 +8326,7 @@
     "CDU": 33.6,
     "SPD": 27.2,
     "GRÜNE": 14.8,
-    "AfD": 10.7,
+    "AfD": 10.8,
     "FDP": 5.2,
     "dieBasis": 1.7,
     "FREIE WÄHLER": 1.7,
@@ -8359,8 +8349,8 @@
     "AfD": 8.3,
     "FDP": 6.1,
     "DIE LINKE": 2.1,
-    "Tierschutzpartei": 1.6,
     "dieBasis": 1.6,
+    "Tierschutzpartei": 1.6,
     "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.6,
     "Gesundheitsforschung": 0.2,
@@ -8377,7 +8367,7 @@
     "SPD": 23.2,
     "GRÜNE": 20.2,
     "AfD": 8.5,
-    "FDP": 4.6,
+    "FDP": 4.8,
     "DIE LINKE": 4.2,
     "dieBasis": 3.1,
     "Tierschutzpartei": 1.7,
@@ -8385,7 +8375,6 @@
     "PIRATEN": 0.7,
     "Die PARTEI": 0.6,
     "Volt": 0.3,
-    "Sonstige": 0.1,
     "Gesundheitsforschung": 0.1
    }
   },
@@ -8413,7 +8402,7 @@
    "beteiligung": 61.7,
    "parteien": {
     "SPD": 34.0,
-    "CDU": 26.4,
+    "CDU": 26.5,
     "GRÜNE": 13.4,
     "AfD": 12.9,
     "FDP": 4.2,
@@ -8425,8 +8414,7 @@
     "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.4,
     "Volt": 0.2,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "03353024": {
@@ -8452,7 +8440,7 @@
    "name": "Moisburg",
    "beteiligung": 69.4,
    "parteien": {
-    "CDU": 35.4,
+    "CDU": 35.3,
     "SPD": 25.1,
     "GRÜNE": 15.4,
     "AfD": 9.7,
@@ -8465,7 +8453,8 @@
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.2,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03353026": {
@@ -8502,10 +8491,9 @@
     "Tierschutzpartei": 2.0,
     "Die PARTEI": 1.4,
     "FREIE WÄHLER": 1.0,
+    "Gesundheitsforschung": 0.3,
     "Volt": 0.3,
-    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.2
    }
   },
@@ -8553,8 +8541,8 @@
    "name": "Salzhausen",
    "beteiligung": 62.6,
    "parteien": {
-    "CDU": 34.4,
-    "SPD": 24.4,
+    "CDU": 34.3,
+    "SPD": 24.3,
     "GRÜNE": 16.7,
     "AfD": 9.5,
     "FDP": 6.4,
@@ -8563,10 +8551,10 @@
     "Tierschutzpartei": 1.6,
     "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.9,
+    "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
-    "Gesundheitsforschung": 0.3,
-    "Die Humanisten": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.2,
+    "Die Humanisten": 0.2
    }
   },
   "03353031": {
@@ -8632,7 +8620,7 @@
    "name": "Toppenstedt",
    "beteiligung": 64.3,
    "parteien": {
-    "CDU": 33.1,
+    "CDU": 33.2,
     "SPD": 29.1,
     "GRÜNE": 13.4,
     "AfD": 10.8,
@@ -8644,9 +8632,8 @@
     "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.5,
-    "Sonstige": 0.2,
-    "Die Humanisten": 0.2,
-    "Volt": 0.2
+    "Volt": 0.3,
+    "Die Humanisten": 0.2
    }
   },
   "03353035": {
@@ -8660,7 +8647,7 @@
     "FDP": 4.7,
     "DIE LINKE": 3.0,
     "dieBasis": 1.8,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 1.7,
     "Die PARTEI": 1.0,
     "FREIE WÄHLER": 1.0,
     "PIRATEN": 0.4,
@@ -8693,8 +8680,8 @@
    "name": "Vierhöfen",
    "beteiligung": 66.6,
    "parteien": {
-    "CDU": 31.0,
-    "SPD": 22.3,
+    "CDU": 31.1,
+    "SPD": 22.2,
     "GRÜNE": 16.8,
     "AfD": 11.5,
     "FDP": 7.3,
@@ -8714,14 +8701,15 @@
     "CDU": 37.1,
     "SPD": 24.6,
     "GRÜNE": 15.5,
-    "AfD": 7.6,
     "FDP": 7.6,
+    "AfD": 7.5,
     "DIE LINKE": 2.2,
     "dieBasis": 1.5,
     "Tierschutzpartei": 1.5,
-    "FREIE WÄHLER": 1.2,
+    "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.7,
     "Gesundheitsforschung": 0.4,
+    "Sonstige": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -8769,18 +8757,17 @@
    "beteiligung": 62.0,
    "parteien": {
     "CDU": 27.0,
-    "SPD": 26.7,
+    "SPD": 26.6,
     "AfD": 15.5,
     "GRÜNE": 14.5,
-    "FDP": 4.6,
+    "FDP": 4.8,
     "dieBasis": 3.8,
-    "DIE LINKE": 2.8,
+    "DIE LINKE": 2.9,
     "Tierschutzpartei": 2.2,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 1.0,
-    "Sonstige": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.4,
+    "Gesundheitsforschung": 0.2
    }
   },
   "03353042": {
@@ -8791,16 +8778,16 @@
     "SPD": 29.6,
     "GRÜNE": 16.7,
     "AfD": 8.0,
-    "FDP": 4.4,
-    "DIE LINKE": 3.3,
+    "FDP": 4.5,
+    "DIE LINKE": 3.2,
     "Tierschutzpartei": 2.6,
     "dieBasis": 1.1,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 1.0,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
-    "Sonstige": 0.2,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03354001": {
@@ -8884,15 +8871,15 @@
     "SPD": 29.4,
     "GRÜNE": 19.2,
     "AfD": 9.1,
-    "FDP": 3.5,
+    "FDP": 3.7,
     "DIE LINKE": 3.4,
     "Tierschutzpartei": 2.0,
     "dieBasis": 1.4,
     "Die PARTEI": 0.9,
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.4,
     "PIRATEN": 0.3,
+    "Sonstige": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -8918,14 +8905,14 @@
    "name": "Gorleben",
    "beteiligung": 70.7,
    "parteien": {
-    "CDU": 32.1,
-    "SPD": 30.8,
+    "CDU": 32.2,
+    "SPD": 30.9,
     "GRÜNE": 15.0,
-    "AfD": 9.7,
+    "AfD": 9.8,
     "FDP": 2.4,
     "DIE LINKE": 2.4,
-    "dieBasis": 2.1,
     "Tierschutzpartei": 2.1,
+    "dieBasis": 1.8,
     "Die PARTEI": 1.3,
     "PIRATEN": 1.1,
     "FREIE WÄHLER": 0.5,
@@ -8941,14 +8928,14 @@
     "GRÜNE": 20.9,
     "AfD": 9.6,
     "FDP": 4.4,
-    "DIE LINKE": 4.2,
+    "DIE LINKE": 4.4,
     "Die PARTEI": 1.6,
     "Tierschutzpartei": 1.6,
     "dieBasis": 1.3,
     "FREIE WÄHLER": 0.8,
     "PIRATEN": 0.4,
-    "Sonstige": 0.3,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03354009": {
@@ -8956,7 +8943,7 @@
    "beteiligung": 57.1,
    "parteien": {
     "SPD": 26.9,
-    "GRÜNE": 23.3,
+    "GRÜNE": 23.2,
     "CDU": 22.9,
     "AfD": 10.6,
     "DIE LINKE": 5.0,
@@ -8973,7 +8960,7 @@
   },
   "03354010": {
    "name": "Höhbeck",
-   "beteiligung": 73.6,
+   "beteiligung": 73.8,
    "parteien": {
     "SPD": 28.8,
     "GRÜNE": 25.5,
@@ -8981,11 +8968,10 @@
     "AfD": 8.7,
     "FDP": 3.8,
     "DIE LINKE": 3.3,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 2.0,
     "Die PARTEI": 1.0,
     "dieBasis": 1.0,
-    "FREIE WÄHLER": 0.5,
-    "Sonstige": 0.3
+    "FREIE WÄHLER": 0.5
    }
   },
   "03354011": {
@@ -9011,16 +8997,16 @@
    "name": "Karwitz",
    "beteiligung": 65.6,
    "parteien": {
-    "SPD": 32.7,
+    "SPD": 32.4,
     "CDU": 26.4,
     "GRÜNE": 20.0,
     "AfD": 9.7,
     "FDP": 3.5,
     "DIE LINKE": 3.2,
     "Tierschutzpartei": 1.7,
+    "Sonstige": 1.0,
     "dieBasis": 1.0,
     "Die PARTEI": 0.7,
-    "Sonstige": 0.7,
     "PIRATEN": 0.2
    }
   },
@@ -9033,15 +9019,15 @@
     "CDU": 23.1,
     "AfD": 9.2,
     "DIE LINKE": 6.0,
-    "FDP": 3.8,
+    "FDP": 3.7,
     "dieBasis": 1.6,
+    "Tierschutzpartei": 1.5,
     "Die PARTEI": 1.4,
-    "Tierschutzpartei": 1.4,
     "FREIE WÄHLER": 1.0,
     "PIRATEN": 0.7,
     "Gesundheitsforschung": 0.3,
-    "Sonstige": 0.1,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03354014": {
@@ -9086,22 +9072,22 @@
    "parteien": {
     "GRÜNE": 30.6,
     "CDU": 25.1,
-    "SPD": 23.9,
+    "SPD": 24.2,
     "AfD": 7.3,
     "DIE LINKE": 5.8,
     "FDP": 3.1,
     "dieBasis": 1.2,
-    "Sonstige": 1.2,
     "Die PARTEI": 0.9,
+    "Sonstige": 0.9,
     "FREIE WÄHLER": 0.6,
     "PIRATEN": 0.3
    }
   },
   "03354017": {
    "name": "Lübbow",
-   "beteiligung": 59.7,
+   "beteiligung": 59.5,
    "parteien": {
-    "SPD": 28.5,
+    "SPD": 28.4,
     "CDU": 27.4,
     "AfD": 16.1,
     "GRÜNE": 14.5,
@@ -9110,8 +9096,8 @@
     "Tierschutzpartei": 2.1,
     "dieBasis": 1.1,
     "Volt": 1.1,
-    "Die PARTEI": 0.8,
-    "Sonstige": 0.3,
+    "Sonstige": 0.8,
+    "Die PARTEI": 0.5,
     "Die Humanisten": 0.3
    }
   },
@@ -9142,15 +9128,14 @@
     "SPD": 33.5,
     "CDU": 20.8,
     "GRÜNE": 17.9,
-    "AfD": 11.8,
-    "DIE LINKE": 3.8,
+    "AfD": 11.9,
+    "DIE LINKE": 3.9,
     "Die PARTEI": 3.1,
     "dieBasis": 2.9,
     "FDP": 2.9,
     "Tierschutzpartei": 1.7,
     "FREIE WÄHLER": 0.6,
     "PIRATEN": 0.6,
-    "Sonstige": 0.3,
     "Volt": 0.1
    }
   },
@@ -9158,18 +9143,18 @@
    "name": "Prezelle",
    "beteiligung": 70.1,
    "parteien": {
-    "CDU": 35.5,
-    "SPD": 26.0,
+    "CDU": 35.6,
+    "SPD": 26.1,
     "GRÜNE": 19.5,
     "AfD": 8.0,
     "DIE LINKE": 3.8,
     "FDP": 2.3,
     "dieBasis": 1.5,
     "Tierschutzpartei": 1.1,
-    "Die PARTEI": 0.8,
     "PIRATEN": 0.8,
     "Sonstige": 0.4,
-    "Die Humanisten": 0.4
+    "Die Humanisten": 0.4,
+    "Die PARTEI": 0.4
    }
   },
   "03354021": {
@@ -9204,8 +9189,8 @@
     "Tierschutzpartei": 1.3,
     "PIRATEN": 0.6,
     "FREIE WÄHLER": 0.4,
-    "Sonstige": 0.3,
-    "Volt": 0.1
+    "Volt": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03354023": {
@@ -9231,17 +9216,18 @@
    "beteiligung": 64.4,
    "parteien": {
     "CDU": 27.7,
-    "GRÜNE": 23.2,
+    "GRÜNE": 23.4,
     "SPD": 23.0,
-    "AfD": 9.2,
-    "DIE LINKE": 7.3,
+    "AfD": 9.0,
+    "DIE LINKE": 7.1,
     "FDP": 3.0,
     "dieBasis": 2.2,
     "Die PARTEI": 1.5,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.4,
-    "Volt": 0.4
+    "Volt": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03354025": {
@@ -9249,9 +9235,9 @@
    "beteiligung": 66.8,
    "parteien": {
     "SPD": 28.2,
-    "CDU": 27.0,
-    "AfD": 17.2,
+    "CDU": 27.2,
     "GRÜNE": 17.2,
+    "AfD": 17.0,
     "FDP": 4.1,
     "DIE LINKE": 2.3,
     "dieBasis": 1.2,
@@ -9295,8 +9281,8 @@
     "dieBasis": 1.1,
     "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.5,
-    "Sonstige": 0.4,
-    "Volt": 0.2
+    "Volt": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03355001": {
@@ -9343,19 +9329,19 @@
    "name": "Artlenburg, Flecken",
    "beteiligung": 61.2,
    "parteien": {
-    "SPD": 30.4,
-    "CDU": 28.7,
+    "SPD": 30.2,
+    "CDU": 28.6,
     "AfD": 15.0,
     "GRÜNE": 12.2,
     "FDP": 5.0,
     "DIE LINKE": 2.9,
-    "dieBasis": 2.0,
+    "dieBasis": 2.1,
     "Tierschutzpartei": 1.6,
     "Die PARTEI": 0.6,
     "Gesundheitsforschung": 0.6,
-    "FREIE WÄHLER": 0.5,
-    "Volt": 0.4,
-    "Sonstige": 0.1
+    "Sonstige": 0.4,
+    "FREIE WÄHLER": 0.4,
+    "Volt": 0.4
    }
   },
   "03355004": {
@@ -9382,7 +9368,7 @@
    "name": "Barendorf",
    "beteiligung": 69.5,
    "parteien": {
-    "SPD": 29.9,
+    "SPD": 30.0,
     "CDU": 22.1,
     "GRÜNE": 18.2,
     "AfD": 14.0,
@@ -9394,16 +9380,16 @@
     "FREIE WÄHLER": 0.9,
     "PIRATEN": 0.7,
     "Gesundheitsforschung": 0.4,
-    "Volt": 0.2,
-    "Die Humanisten": 0.1
+    "Die Humanisten": 0.2,
+    "Volt": 0.2
    }
   },
   "03355006": {
    "name": "Barnstedt",
-   "beteiligung": 76.9,
+   "beteiligung": 76.8,
    "parteien": {
     "SPD": 32.0,
-    "GRÜNE": 23.8,
+    "GRÜNE": 23.6,
     "CDU": 21.1,
     "AfD": 6.6,
     "DIE LINKE": 5.2,
@@ -9413,7 +9399,8 @@
     "Die PARTEI": 1.4,
     "FREIE WÄHLER": 0.8,
     "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03355007": {
@@ -9426,11 +9413,11 @@
     "AfD": 10.9,
     "FDP": 5.2,
     "dieBasis": 2.4,
-    "DIE LINKE": 2.0,
+    "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.5,
     "Die PARTEI": 1.0,
     "FREIE WÄHLER": 0.9,
-    "Sonstige": 0.4,
+    "Sonstige": 0.5,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.2
    }
@@ -9487,7 +9474,8 @@
     "PIRATEN": 1.7,
     "Tierschutzpartei": 1.7,
     "Die PARTEI": 1.2,
-    "FREIE WÄHLER": 1.2,
+    "Sonstige": 0.6,
+    "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.6
    }
   },
@@ -9498,35 +9486,36 @@
     "SPD": 32.0,
     "CDU": 24.0,
     "GRÜNE": 15.5,
-    "AfD": 13.1,
-    "FDP": 4.6,
+    "AfD": 13.0,
+    "FDP": 4.5,
     "DIE LINKE": 3.3,
     "dieBasis": 2.2,
     "Tierschutzpartei": 2.1,
     "FREIE WÄHLER": 1.3,
-    "Die PARTEI": 0.8,
+    "Die PARTEI": 0.9,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.4,
     "Die Humanisten": 0.2,
-    "Volt": 0.1
+    "Volt": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03355012": {
    "name": "Dahlem",
    "beteiligung": 67.3,
    "parteien": {
-    "CDU": 23.5,
-    "GRÜNE": 21.9,
-    "SPD": 21.1,
-    "AfD": 13.5,
-    "FDP": 6.0,
+    "CDU": 23.4,
+    "GRÜNE": 21.8,
+    "SPD": 21.0,
+    "AfD": 13.9,
+    "FDP": 5.6,
     "DIE LINKE": 3.6,
     "FREIE WÄHLER": 3.2,
     "Die PARTEI": 2.0,
     "dieBasis": 2.0,
     "Tierschutzpartei": 2.0,
-    "Volt": 0.8,
-    "Gesundheitsforschung": 0.4
+    "Gesundheitsforschung": 0.8,
+    "Volt": 0.8
    }
   },
   "03355013": {
@@ -9545,7 +9534,8 @@
     "FREIE WÄHLER": 1.0,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.2,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03355014": {
@@ -9558,34 +9548,32 @@
     "AfD": 8.3,
     "FDP": 5.5,
     "DIE LINKE": 2.8,
-    "dieBasis": 1.5,
+    "dieBasis": 1.6,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 1.2,
     "FREIE WÄHLER": 1.1,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.3,
     "Die Humanisten": 0.2,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.1
+    "PIRATEN": 0.2
    }
   },
   "03355015": {
    "name": "Echem",
    "beteiligung": 64.9,
    "parteien": {
-    "CDU": 31.7,
-    "SPD": 27.2,
+    "CDU": 31.6,
+    "SPD": 27.1,
     "GRÜNE": 17.7,
     "AfD": 9.2,
-    "FDP": 4.2,
+    "FDP": 4.1,
     "DIE LINKE": 2.6,
-    "Tierschutzpartei": 2.3,
+    "Tierschutzpartei": 2.4,
     "Die PARTEI": 1.7,
     "FREIE WÄHLER": 1.1,
     "dieBasis": 0.9,
     "Gesundheitsforschung": 0.9,
-    "Sonstige": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.4
    }
   },
   "03355016": {
@@ -9613,18 +9601,17 @@
    "beteiligung": 64.0,
    "parteien": {
     "SPD": 31.7,
-    "CDU": 27.1,
+    "CDU": 27.2,
     "GRÜNE": 15.7,
     "AfD": 12.7,
     "FDP": 4.0,
-    "Tierschutzpartei": 2.2,
+    "Tierschutzpartei": 2.3,
     "DIE LINKE": 1.9,
     "FREIE WÄHLER": 1.3,
     "dieBasis": 1.1,
     "Die PARTEI": 1.0,
     "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.2,
     "Volt": 0.2
    }
   },
@@ -9632,7 +9619,7 @@
    "name": "Hittbergen",
    "beteiligung": 61.0,
    "parteien": {
-    "CDU": 34.0,
+    "CDU": 33.9,
     "SPD": 27.8,
     "GRÜNE": 14.2,
     "AfD": 10.6,
@@ -9643,7 +9630,8 @@
     "FREIE WÄHLER": 1.3,
     "dieBasis": 1.1,
     "Gesundheitsforschung": 0.8,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03355019": {
@@ -9677,13 +9665,14 @@
     "FDP": 5.0,
     "DIE LINKE": 2.4,
     "dieBasis": 1.8,
-    "Tierschutzpartei": 1.6,
+    "Tierschutzpartei": 1.5,
     "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.3,
     "PIRATEN": 0.3,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03355021": {
@@ -9736,8 +9725,8 @@
     "Die PARTEI": 2.4,
     "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.1,
-    "Sonstige": 1.1,
-    "Volt": 0.3
+    "Sonstige": 0.8,
+    "Volt": 0.5
    }
   },
   "03355024": {
@@ -9754,10 +9743,10 @@
     "dieBasis": 1.7,
     "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.7,
-    "Gesundheitsforschung": 0.6,
+    "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.1
+    "Sonstige": 0.2,
+    "Die Humanisten": 0.2
    }
   },
   "03355025": {
@@ -9766,27 +9755,27 @@
    "parteien": {
     "CDU": 26.4,
     "SPD": 25.9,
-    "GRÜNE": 18.1,
+    "GRÜNE": 18.0,
     "AfD": 12.0,
-    "DIE LINKE": 5.3,
+    "DIE LINKE": 5.2,
     "FDP": 4.6,
     "dieBasis": 3.3,
     "Die PARTEI": 1.6,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.3,
+    "PIRATEN": 0.3,
     "Volt": 0.3,
-    "Die Humanisten": 0.2,
-    "PIRATEN": 0.2
+    "Die Humanisten": 0.2
    }
   },
   "03355026": {
    "name": "Neetze",
    "beteiligung": 62.7,
    "parteien": {
-    "SPD": 30.9,
+    "SPD": 31.0,
     "CDU": 24.2,
-    "GRÜNE": 17.4,
+    "GRÜNE": 17.3,
     "AfD": 12.1,
     "FDP": 5.1,
     "DIE LINKE": 3.4,
@@ -9810,12 +9799,12 @@
     "AfD": 11.9,
     "FDP": 4.1,
     "DIE LINKE": 2.7,
-    "Tierschutzpartei": 1.4,
     "dieBasis": 1.2,
+    "Tierschutzpartei": 1.2,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.7,
     "PIRATEN": 0.7,
-    "Sonstige": 0.5,
+    "Sonstige": 0.7,
     "Volt": 0.2
    }
   },
@@ -9824,19 +9813,18 @@
    "beteiligung": 67.4,
    "parteien": {
     "SPD": 31.9,
-    "CDU": 29.9,
-    "GRÜNE": 17.6,
+    "CDU": 30.0,
+    "GRÜNE": 17.7,
     "AfD": 8.2,
     "FDP": 4.4,
     "DIE LINKE": 1.9,
     "dieBasis": 1.7,
-    "Die PARTEI": 1.0,
-    "Tierschutzpartei": 1.0,
+    "Die PARTEI": 1.1,
+    "Tierschutzpartei": 1.1,
     "FREIE WÄHLER": 0.7,
     "Volt": 0.5,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.3,
-    "Sonstige": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -9858,7 +9846,7 @@
   },
   "03355030": {
    "name": "Reinstorf",
-   "beteiligung": 66.4,
+   "beteiligung": 66.5,
    "parteien": {
     "SPD": 29.6,
     "CDU": 25.9,
@@ -9868,12 +9856,12 @@
     "DIE LINKE": 3.3,
     "dieBasis": 2.1,
     "Tierschutzpartei": 1.6,
-    "Die PARTEI": 1.3,
+    "Die PARTEI": 1.2,
     "Gesundheitsforschung": 1.0,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.6,
+    "Sonstige": 0.3,
     "Die Humanisten": 0.3,
-    "Sonstige": 0.1,
     "Volt": 0.1
    }
   },
@@ -9921,9 +9909,9 @@
    "beteiligung": 63.8,
    "parteien": {
     "SPD": 32.0,
-    "CDU": 24.2,
+    "CDU": 24.1,
     "GRÜNE": 19.4,
-    "AfD": 12.5,
+    "AfD": 12.6,
     "FDP": 4.5,
     "DIE LINKE": 2.3,
     "dieBasis": 1.6,
@@ -9961,7 +9949,7 @@
    "beteiligung": 76.2,
    "parteien": {
     "SPD": 30.7,
-    "CDU": 28.0,
+    "CDU": 28.1,
     "GRÜNE": 18.6,
     "AfD": 8.0,
     "FDP": 4.1,
@@ -9970,8 +9958,8 @@
     "Tierschutzpartei": 2.1,
     "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.4,
-    "Volt": 0.4,
     "PIRATEN": 0.3,
+    "Volt": 0.3,
     "Gesundheitsforschung": 0.2,
     "Die Humanisten": 0.1
    }
@@ -10006,10 +9994,10 @@
     "FDP": 6.3,
     "DIE LINKE": 3.5,
     "Die PARTEI": 2.9,
-    "dieBasis": 1.6,
+    "dieBasis": 1.9,
     "FREIE WÄHLER": 1.6,
     "Tierschutzpartei": 1.3,
-    "Sonstige": 1.0,
+    "Sonstige": 0.6,
     "PIRATEN": 0.6,
     "Volt": 0.3
    }
@@ -10038,7 +10026,7 @@
    "beteiligung": 69.7,
    "parteien": {
     "SPD": 34.0,
-    "CDU": 23.4,
+    "CDU": 23.3,
     "GRÜNE": 20.5,
     "AfD": 8.4,
     "FDP": 5.0,
@@ -10047,9 +10035,9 @@
     "Tierschutzpartei": 1.2,
     "FREIE WÄHLER": 0.8,
     "Die PARTEI": 0.8,
+    "Volt": 0.5,
     "Gesundheitsforschung": 0.4,
-    "PIRATEN": 0.4,
-    "Volt": 0.4
+    "PIRATEN": 0.4
    }
   },
   "03355040": {
@@ -10100,7 +10088,7 @@
     "GRÜNE": 14.4,
     "AfD": 12.1,
     "FDP": 4.3,
-    "DIE LINKE": 2.2,
+    "DIE LINKE": 2.1,
     "dieBasis": 1.6,
     "Tierschutzpartei": 1.4,
     "Die PARTEI": 1.3,
@@ -10108,6 +10096,7 @@
     "PIRATEN": 0.4,
     "Volt": 0.4,
     "Gesundheitsforschung": 0.3,
+    "Sonstige": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -10183,16 +10172,16 @@
     "Die PARTEI": 1.2,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.4,
-    "Die Humanisten": 0.3,
     "Gesundheitsforschung": 0.3,
+    "Die Humanisten": 0.3,
     "Volt": 0.3
    }
   },
   "03356004": {
    "name": "Holste",
-   "beteiligung": 58.1,
+   "beteiligung": 58.0,
    "parteien": {
-    "SPD": 34.5,
+    "SPD": 34.6,
     "CDU": 23.8,
     "GRÜNE": 13.1,
     "AfD": 12.3,
@@ -10202,8 +10191,8 @@
     "Die Humanisten": 2.0,
     "Tierschutzpartei": 1.3,
     "PIRATEN": 0.8,
-    "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.7,
+    "Die PARTEI": 0.6,
     "Gesundheitsforschung": 0.3
    }
   },
@@ -10237,8 +10226,8 @@
     "GRÜNE": 12.3,
     "DIE LINKE": 3.4,
     "FDP": 3.1,
-    "Tierschutzpartei": 1.7,
-    "Sonstige": 1.4,
+    "Tierschutzpartei": 2.0,
+    "Sonstige": 1.1,
     "Gesundheitsforschung": 0.3,
     "Volt": 0.3
    }
@@ -10347,37 +10336,37 @@
    "name": "Ahausen",
    "beteiligung": 69.6,
    "parteien": {
-    "SPD": 30.9,
-    "CDU": 29.5,
-    "GRÜNE": 14.4,
-    "AfD": 11.7,
-    "FDP": 7.2,
+    "SPD": 30.8,
+    "CDU": 29.4,
+    "GRÜNE": 14.5,
+    "AfD": 11.6,
+    "FDP": 7.1,
     "DIE LINKE": 1.9,
     "FREIE WÄHLER": 1.4,
     "Tierschutzpartei": 1.2,
     "dieBasis": 0.7,
     "Gesundheitsforschung": 0.5,
-    "Volt": 0.4,
-    "Die Humanisten": 0.2,
+    "Volt": 0.5,
+    "Die Humanisten": 0.3,
     "Die PARTEI": 0.2
    }
   },
   "03357002": {
    "name": "Alfstedt",
-   "beteiligung": 67.7,
+   "beteiligung": 67.6,
    "parteien": {
-    "CDU": 45.3,
+    "CDU": 45.6,
     "SPD": 25.6,
     "AfD": 12.2,
     "GRÜNE": 6.5,
     "FDP": 5.0,
     "Tierschutzpartei": 1.7,
-    "Sonstige": 0.6,
-    "DIE LINKE": 0.6,
+    "Sonstige": 0.4,
     "Die PARTEI": 0.4,
     "dieBasis": 0.4,
     "FREIE WÄHLER": 0.4,
     "Gesundheitsforschung": 0.4,
+    "DIE LINKE": 0.4,
     "Volt": 0.4,
     "Die Humanisten": 0.2,
     "PIRATEN": 0.2
@@ -10387,7 +10376,7 @@
    "name": "Anderlingen",
    "beteiligung": 69.6,
    "parteien": {
-    "CDU": 48.6,
+    "CDU": 48.8,
     "SPD": 26.0,
     "GRÜNE": 8.5,
     "AfD": 5.9,
@@ -10396,10 +10385,9 @@
     "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.8,
-    "Sonstige": 0.4,
+    "Volt": 0.4,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Volt": 0.2
+    "Gesundheitsforschung": 0.2
    }
   },
   "03357004": {
@@ -10445,10 +10433,10 @@
    "name": "Bothel",
    "beteiligung": 65.8,
    "parteien": {
-    "SPD": 31.7,
+    "SPD": 31.6,
     "CDU": 28.6,
     "AfD": 15.6,
-    "GRÜNE": 12.5,
+    "GRÜNE": 12.6,
     "FDP": 3.6,
     "DIE LINKE": 1.9,
     "FREIE WÄHLER": 1.9,
@@ -10466,18 +10454,17 @@
    "beteiligung": 65.5,
    "parteien": {
     "CDU": 40.7,
-    "SPD": 32.2,
+    "SPD": 32.1,
     "GRÜNE": 10.7,
     "AfD": 8.5,
     "FDP": 2.8,
     "dieBasis": 1.1,
     "DIE LINKE": 1.1,
-    "PIRATEN": 0.9,
+    "PIRATEN": 1.1,
     "Tierschutzpartei": 0.9,
+    "Die PARTEI": 0.4,
     "FREIE WÄHLER": 0.4,
-    "Sonstige": 0.4,
-    "Die PARTEI": 0.2,
-    "Volt": 0.2
+    "Volt": 0.4
    }
   },
   "03357008": {
@@ -10506,15 +10493,15 @@
    "parteien": {
     "CDU": 35.7,
     "SPD": 30.6,
-    "AfD": 11.8,
+    "AfD": 11.7,
     "GRÜNE": 9.9,
     "FDP": 4.8,
     "DIE LINKE": 2.3,
     "dieBasis": 1.2,
     "FREIE WÄHLER": 1.2,
     "Tierschutzpartei": 0.9,
+    "Gesundheitsforschung": 0.6,
     "Die PARTEI": 0.4,
-    "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.3
@@ -10533,8 +10520,8 @@
     "Tierschutzpartei": 1.8,
     "Die PARTEI": 1.0,
     "FDP": 1.0,
-    "FREIE WÄHLER": 0.8,
-    "Sonstige": 0.3,
+    "FREIE WÄHLER": 0.5,
+    "Sonstige": 0.5,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.3
@@ -10542,21 +10529,21 @@
   },
   "03357011": {
    "name": "Deinstedt",
-   "beteiligung": 71.8,
+   "beteiligung": 71.6,
    "parteien": {
-    "CDU": 54.5,
+    "CDU": 54.7,
     "SPD": 20.9,
     "GRÜNE": 7.8,
     "AfD": 5.6,
     "FDP": 3.5,
-    "FREIE WÄHLER": 1.6,
     "DIE LINKE": 1.6,
     "Tierschutzpartei": 1.6,
+    "FREIE WÄHLER": 1.3,
     "Die PARTEI": 1.1,
     "dieBasis": 0.8,
     "PIRATEN": 0.5,
-    "Sonstige": 0.3,
-    "Volt": 0.3
+    "Volt": 0.3,
+    "Sonstige": 0.3
    }
   },
   "03357012": {
@@ -10567,25 +10554,25 @@
     "SPD": 30.6,
     "AfD": 13.7,
     "GRÜNE": 6.6,
-    "FDP": 3.6,
+    "FDP": 3.7,
     "DIE LINKE": 1.4,
     "dieBasis": 1.1,
     "FREIE WÄHLER": 1.1,
     "Tierschutzpartei": 0.9,
     "Die PARTEI": 0.7,
     "PIRATEN": 0.7,
-    "Sonstige": 0.4
+    "Sonstige": 0.2
    }
   },
   "03357013": {
    "name": "Elsdorf",
-   "beteiligung": 72.0,
+   "beteiligung": 71.9,
    "parteien": {
     "CDU": 41.2,
     "SPD": 28.6,
     "AfD": 10.1,
     "GRÜNE": 10.0,
-    "FDP": 3.5,
+    "FDP": 3.6,
     "DIE LINKE": 2.0,
     "FREIE WÄHLER": 1.2,
     "Tierschutzpartei": 0.9,
@@ -10593,8 +10580,8 @@
     "dieBasis": 0.6,
     "Volt": 0.4,
     "PIRATEN": 0.4,
-    "Sonstige": 0.3,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03357014": {
@@ -10609,11 +10596,11 @@
     "Die PARTEI": 0.8,
     "DIE LINKE": 0.8,
     "Tierschutzpartei": 0.8,
-    "FREIE WÄHLER": 0.5,
+    "Sonstige": 0.5,
     "dieBasis": 0.3,
+    "FREIE WÄHLER": 0.3,
     "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.3,
-    "Sonstige": 0.3
+    "PIRATEN": 0.3
    }
   },
   "03357015": {
@@ -10684,12 +10671,12 @@
     "DIE LINKE": 1.6,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 1.0,
-    "Die PARTEI": 0.8,
+    "Die PARTEI": 0.9,
     "dieBasis": 0.4,
     "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03357019": {
@@ -10714,19 +10701,19 @@
    "name": "Hassendorf",
    "beteiligung": 63.7,
    "parteien": {
-    "CDU": 31.7,
-    "SPD": 30.8,
+    "CDU": 31.5,
+    "SPD": 30.7,
     "GRÜNE": 13.4,
     "AfD": 11.9,
     "FDP": 5.4,
-    "DIE LINKE": 2.1,
+    "DIE LINKE": 2.0,
     "FREIE WÄHLER": 1.5,
     "Tierschutzpartei": 0.9,
     "dieBasis": 0.7,
+    "Sonstige": 0.6,
     "Die Humanisten": 0.4,
     "PIRATEN": 0.4,
     "Volt": 0.4,
-    "Sonstige": 0.2,
     "Die PARTEI": 0.2
    }
   },
@@ -10738,13 +10725,13 @@
     "SPD": 29.6,
     "AfD": 9.9,
     "GRÜNE": 9.1,
-    "FDP": 3.9,
+    "FDP": 4.0,
     "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.4,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.7,
-    "PIRATEN": 0.5,
     "dieBasis": 0.5,
+    "PIRATEN": 0.5,
     "Volt": 0.4,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2
@@ -10774,20 +10761,19 @@
    "name": "Helvesiek",
    "beteiligung": 72.2,
    "parteien": {
-    "CDU": 42.2,
+    "CDU": 41.9,
     "SPD": 24.8,
-    "AfD": 10.7,
+    "AfD": 10.6,
     "GRÜNE": 8.8,
-    "FDP": 5.3,
+    "FDP": 5.4,
     "Tierschutzpartei": 2.7,
     "DIE LINKE": 1.5,
-    "Die PARTEI": 1.1,
-    "dieBasis": 1.1,
+    "Die PARTEI": 1.2,
+    "dieBasis": 1.0,
     "FREIE WÄHLER": 0.8,
-    "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.2,
-    "PIRATEN": 0.2,
-    "Volt": 0.2
+    "Gesundheitsforschung": 0.6,
+    "Volt": 0.4,
+    "PIRATEN": 0.2
    }
   },
   "03357024": {
@@ -10821,12 +10807,11 @@
     "FDP": 5.1,
     "DIE LINKE": 2.2,
     "FREIE WÄHLER": 1.5,
-    "Die PARTEI": 0.7,
+    "Die PARTEI": 0.8,
+    "Tierschutzpartei": 0.7,
     "Gesundheitsforschung": 0.6,
-    "Tierschutzpartei": 0.6,
-    "Sonstige": 0.6,
-    "dieBasis": 0.3,
-    "Volt": 0.3
+    "dieBasis": 0.4,
+    "Volt": 0.4
    }
   },
   "03357026": {
@@ -10844,9 +10829,8 @@
     "Die PARTEI": 0.7,
     "Tierschutzpartei": 0.7,
     "Gesundheitsforschung": 0.5,
-    "Volt": 0.4,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.2
+    "Volt": 0.5,
+    "Die Humanisten": 0.2
    }
   },
   "03357027": {
@@ -10869,21 +10853,20 @@
   },
   "03357028": {
    "name": "Horstedt",
-   "beteiligung": 62.7,
+   "beteiligung": 62.6,
    "parteien": {
     "CDU": 32.7,
     "SPD": 27.1,
     "GRÜNE": 14.8,
     "AfD": 12.7,
     "FDP": 3.6,
-    "DIE LINKE": 2.8,
+    "DIE LINKE": 3.0,
     "Die PARTEI": 1.5,
     "FREIE WÄHLER": 1.5,
     "Tierschutzpartei": 1.5,
     "Volt": 0.7,
     "Die Humanisten": 0.5,
     "dieBasis": 0.3,
-    "Sonstige": 0.2,
     "PIRATEN": 0.2
    }
   },
@@ -10894,13 +10877,12 @@
     "CDU": 48.5,
     "SPD": 22.0,
     "AfD": 11.0,
-    "GRÜNE": 7.4,
+    "GRÜNE": 7.7,
     "FDP": 5.4,
     "FREIE WÄHLER": 1.5,
     "DIE LINKE": 1.2,
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.6,
-    "Sonstige": 0.3,
     "Die Humanisten": 0.3,
     "dieBasis": 0.3,
     "Gesundheitsforschung": 0.3
@@ -10911,17 +10893,17 @@
    "beteiligung": 65.2,
    "parteien": {
     "CDU": 39.9,
-    "SPD": 28.0,
+    "SPD": 28.2,
     "GRÜNE": 13.0,
-    "AfD": 7.6,
-    "FDP": 4.7,
+    "AfD": 7.8,
+    "FDP": 4.5,
     "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.9,
     "dieBasis": 1.0,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.6,
-    "Sonstige": 0.4,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03357031": {
@@ -10955,9 +10937,8 @@
     "DIE LINKE": 1.3,
     "FREIE WÄHLER": 1.2,
     "Tierschutzpartei": 0.8,
-    "Die PARTEI": 0.4,
-    "dieBasis": 0.4,
-    "Sonstige": 0.4
+    "Die PARTEI": 0.6,
+    "dieBasis": 0.6
    }
   },
   "03357033": {
@@ -10977,7 +10958,8 @@
     "Volt": 0.5,
     "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03357034": {
@@ -10993,9 +10975,10 @@
     "Die PARTEI": 1.1,
     "dieBasis": 0.7,
     "FREIE WÄHLER": 0.7,
-    "DIE LINKE": 0.7,
+    "Sonstige": 0.4,
     "Die Humanisten": 0.4,
     "Gesundheitsforschung": 0.4,
+    "DIE LINKE": 0.4,
     "PIRATEN": 0.4
    }
   },
@@ -11003,19 +10986,19 @@
    "name": "Oerel",
    "beteiligung": 63.3,
    "parteien": {
-    "SPD": 36.9,
-    "CDU": 35.1,
-    "GRÜNE": 10.0,
+    "SPD": 36.8,
+    "CDU": 35.0,
+    "GRÜNE": 9.9,
     "AfD": 9.6,
     "FDP": 2.3,
     "DIE LINKE": 1.4,
     "dieBasis": 1.2,
     "FREIE WÄHLER": 1.2,
     "Tierschutzpartei": 1.0,
-    "Die PARTEI": 0.6,
+    "Die PARTEI": 0.8,
+    "Gesundheitsforschung": 0.3,
     "Volt": 0.3,
-    "Gesundheitsforschung": 0.2,
-    "Die Humanisten": 0.1,
+    "Die Humanisten": 0.2,
     "PIRATEN": 0.1
    }
   },
@@ -11023,18 +11006,17 @@
    "name": "Ostereistedt",
    "beteiligung": 74.6,
    "parteien": {
-    "CDU": 53.2,
+    "CDU": 53.3,
     "SPD": 27.7,
     "GRÜNE": 7.4,
     "AfD": 4.9,
     "FDP": 2.2,
     "Tierschutzpartei": 1.4,
-    "Die PARTEI": 0.5,
+    "Die PARTEI": 0.7,
     "dieBasis": 0.5,
     "FREIE WÄHLER": 0.5,
     "DIE LINKE": 0.5,
     "PIRATEN": 0.5,
-    "Sonstige": 0.4,
     "Die Humanisten": 0.2
    }
   },
@@ -11042,36 +11024,35 @@
    "name": "Reeßum",
    "beteiligung": 69.5,
    "parteien": {
-    "CDU": 35.2,
+    "CDU": 35.1,
     "SPD": 30.2,
     "GRÜNE": 13.3,
     "AfD": 7.4,
     "FDP": 5.0,
-    "DIE LINKE": 3.0,
+    "DIE LINKE": 3.1,
     "Tierschutzpartei": 1.8,
     "FREIE WÄHLER": 1.7,
     "Die PARTEI": 1.4,
-    "Gesundheitsforschung": 0.5,
+    "Gesundheitsforschung": 0.6,
     "dieBasis": 0.2,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.1
+    "PIRATEN": 0.2
    }
   },
   "03357038": {
    "name": "Rhade",
    "beteiligung": 70.6,
    "parteien": {
-    "CDU": 44.1,
-    "SPD": 27.5,
+    "CDU": 43.8,
+    "SPD": 27.4,
     "GRÜNE": 11.5,
     "AfD": 8.4,
-    "FDP": 4.5,
-    "Tierschutzpartei": 0.9,
+    "FDP": 4.3,
+    "Tierschutzpartei": 1.0,
+    "Die PARTEI": 0.7,
     "FREIE WÄHLER": 0.7,
     "Gesundheitsforschung": 0.7,
-    "Die PARTEI": 0.5,
-    "DIE LINKE": 0.5,
-    "PIRATEN": 0.3,
+    "DIE LINKE": 0.7,
+    "PIRATEN": 0.5,
     "Volt": 0.3
    }
   },
@@ -11100,13 +11081,13 @@
    "beteiligung": 69.7,
    "parteien": {
     "CDU": 48.5,
-    "SPD": 23.6,
+    "SPD": 23.8,
     "AfD": 8.7,
     "GRÜNE": 7.1,
     "FDP": 3.7,
     "DIE LINKE": 2.3,
     "Tierschutzpartei": 1.6,
-    "dieBasis": 1.1,
+    "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
     "PIRATEN": 0.9,
     "Die PARTEI": 0.7,
@@ -11166,10 +11147,9 @@
     "Tierschutzpartei": 1.1,
     "dieBasis": 0.8,
     "Die PARTEI": 0.4,
-    "Gesundheitsforschung": 0.2,
+    "Gesundheitsforschung": 0.3,
     "Volt": 0.2,
     "PIRATEN": 0.1,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -11232,10 +11212,10 @@
   },
   "03357047": {
    "name": "Tarmstedt",
-   "beteiligung": 61.6,
+   "beteiligung": 61.7,
    "parteien": {
     "SPD": 33.5,
-    "CDU": 31.7,
+    "CDU": 31.6,
     "GRÜNE": 12.4,
     "AfD": 9.5,
     "FDP": 4.3,
@@ -11244,9 +11224,9 @@
     "dieBasis": 1.1,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.5,
-    "Gesundheitsforschung": 0.4,
+    "PIRATEN": 0.4,
     "Volt": 0.4,
-    "PIRATEN": 0.3,
+    "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.1
    }
   },
@@ -11279,10 +11259,11 @@
     "GRÜNE": 10.1,
     "AfD": 8.9,
     "FDP": 2.7,
-    "DIE LINKE": 2.5,
-    "dieBasis": 1.5,
+    "DIE LINKE": 2.2,
+    "dieBasis": 1.2,
     "Tierschutzpartei": 1.2,
     "FREIE WÄHLER": 1.0,
+    "Sonstige": 0.5,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2,
     "PIRATEN": 0.2
@@ -11330,16 +11311,16 @@
    "name": "Vorwerk",
    "beteiligung": 65.2,
    "parteien": {
-    "CDU": 35.2,
+    "CDU": 35.0,
     "SPD": 27.2,
     "GRÜNE": 16.1,
     "AfD": 9.0,
     "FDP": 3.6,
-    "dieBasis": 2.8,
+    "dieBasis": 2.6,
     "DIE LINKE": 2.6,
     "Die PARTEI": 1.1,
     "Tierschutzpartei": 0.9,
-    "Sonstige": 0.4,
+    "Sonstige": 0.7,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
     "Die Humanisten": 0.2,
@@ -11355,11 +11336,11 @@
     "AfD": 12.8,
     "GRÜNE": 11.4,
     "FDP": 5.0,
-    "DIE LINKE": 3.2,
+    "DIE LINKE": 3.6,
     "FREIE WÄHLER": 1.1,
-    "Sonstige": 0.7,
     "Die PARTEI": 0.7,
     "Tierschutzpartei": 0.7,
+    "Sonstige": 0.4,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4
    }
@@ -11390,16 +11371,16 @@
     "SPD": 36.1,
     "CDU": 27.8,
     "GRÜNE": 18.5,
-    "AfD": 7.4,
+    "AfD": 7.3,
     "FDP": 3.1,
     "DIE LINKE": 2.1,
     "dieBasis": 1.0,
     "Die PARTEI": 0.9,
     "FREIE WÄHLER": 0.9,
     "Tierschutzpartei": 0.9,
+    "Die Humanisten": 0.4,
     "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.4,
-    "Die Humanisten": 0.3,
     "Volt": 0.3
    }
   },
@@ -11413,14 +11394,14 @@
     "AfD": 9.6,
     "FDP": 6.1,
     "DIE LINKE": 2.0,
-    "FREIE WÄHLER": 1.2,
     "Die PARTEI": 1.0,
+    "FREIE WÄHLER": 1.0,
     "Tierschutzpartei": 0.7,
+    "Sonstige": 0.5,
     "Die Humanisten": 0.2,
     "dieBasis": 0.2,
     "Gesundheitsforschung": 0.2,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.2
+    "PIRATEN": 0.2
    }
   },
   "03357057": {
@@ -11445,7 +11426,7 @@
   },
   "03358001": {
    "name": "Ahlden (Aller), Flecken",
-   "beteiligung": 67.9,
+   "beteiligung": 68.0,
    "parteien": {
     "SPD": 35.5,
     "CDU": 28.5,
@@ -11458,7 +11439,7 @@
     "Tierschutzpartei": 0.7,
     "dieBasis": 0.6,
     "Volt": 0.4,
-    "PIRATEN": 0.1
+    "PIRATEN": 0.2
    }
   },
   "03358002": {
@@ -11485,21 +11466,20 @@
    "name": "Böhme",
    "beteiligung": 64.4,
    "parteien": {
-    "SPD": 33.9,
-    "CDU": 25.1,
-    "AfD": 17.0,
-    "GRÜNE": 11.5,
+    "SPD": 34.0,
+    "CDU": 24.9,
+    "AfD": 16.9,
+    "GRÜNE": 11.3,
     "FDP": 6.2,
     "Tierschutzpartei": 2.1,
     "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.8,
     "DIE LINKE": 0.8,
-    "dieBasis": 0.4,
+    "dieBasis": 0.6,
+    "Die Humanisten": 0.4,
     "PIRATEN": 0.4,
-    "Sonstige": 0.2,
-    "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Volt": 0.2
+    "Volt": 0.4,
+    "Gesundheitsforschung": 0.2
    }
   },
   "03358005": {
@@ -11507,12 +11487,12 @@
    "beteiligung": 65.9,
    "parteien": {
     "SPD": 34.5,
-    "CDU": 26.0,
-    "AfD": 17.5,
+    "CDU": 25.9,
+    "AfD": 17.6,
     "GRÜNE": 9.8,
     "FDP": 4.5,
-    "DIE LINKE": 2.0,
-    "Die PARTEI": 1.3,
+    "DIE LINKE": 1.9,
+    "Die PARTEI": 1.4,
     "Tierschutzpartei": 1.1,
     "FREIE WÄHLER": 1.0,
     "dieBasis": 0.8,
@@ -11527,7 +11507,7 @@
    "beteiligung": 66.4,
    "parteien": {
     "SPD": 36.1,
-    "CDU": 30.2,
+    "CDU": 30.0,
     "AfD": 15.6,
     "GRÜNE": 7.8,
     "FDP": 3.1,
@@ -11536,11 +11516,11 @@
     "FREIE WÄHLER": 0.9,
     "Die PARTEI": 0.5,
     "Gesundheitsforschung": 0.5,
+    "Sonstige": 0.5,
     "Die Humanisten": 0.2,
     "dieBasis": 0.2,
     "PIRATEN": 0.2,
-    "Volt": 0.2,
-    "Sonstige": 0.2
+    "Volt": 0.2
    }
   },
   "03358007": {
@@ -11632,27 +11612,27 @@
     "FDP": 3.8,
     "DIE LINKE": 3.2,
     "FREIE WÄHLER": 1.5,
-    "Tierschutzpartei": 1.5,
     "Die PARTEI": 1.2,
+    "Tierschutzpartei": 1.2,
+    "Sonstige": 0.6,
     "PIRATEN": 0.6,
-    "Sonstige": 0.3,
     "Gesundheitsforschung": 0.3
    }
   },
   "03358012": {
    "name": "Hademstorf",
-   "beteiligung": 64.6,
+   "beteiligung": 64.8,
    "parteien": {
-    "SPD": 39.1,
-    "CDU": 24.1,
+    "SPD": 39.0,
+    "CDU": 24.0,
     "AfD": 17.5,
     "GRÜNE": 9.1,
     "FDP": 3.2,
-    "DIE LINKE": 3.0,
+    "DIE LINKE": 2.9,
     "Tierschutzpartei": 1.1,
+    "dieBasis": 0.9,
     "Die Humanisten": 0.7,
     "Die PARTEI": 0.7,
-    "dieBasis": 0.7,
     "FREIE WÄHLER": 0.7,
     "PIRATEN": 0.2
    }
@@ -11664,8 +11644,8 @@
     "SPD": 32.3,
     "CDU": 27.9,
     "GRÜNE": 13.2,
-    "AfD": 12.7,
-    "FDP": 7.2,
+    "AfD": 12.9,
+    "FDP": 7.0,
     "DIE LINKE": 2.8,
     "Tierschutzpartei": 1.3,
     "FREIE WÄHLER": 1.0,
@@ -11679,16 +11659,16 @@
    "beteiligung": 57.5,
    "parteien": {
     "SPD": 35.4,
-    "CDU": 27.5,
+    "CDU": 27.4,
     "AfD": 14.8,
     "GRÜNE": 10.8,
-    "FDP": 3.9,
+    "FDP": 4.0,
     "DIE LINKE": 3.4,
     "Tierschutzpartei": 1.5,
     "dieBasis": 0.7,
     "Die PARTEI": 0.6,
     "FREIE WÄHLER": 0.6,
-    "Die Humanisten": 0.2,
+    "Die Humanisten": 0.3,
     "PIRATEN": 0.2,
     "Volt": 0.2,
     "Gesundheitsforschung": 0.1
@@ -11766,11 +11746,10 @@
     "Tierschutzpartei": 1.3,
     "Die PARTEI": 1.0,
     "FREIE WÄHLER": 0.5,
-    "PIRATEN": 0.4,
+    "PIRATEN": 0.5,
     "Volt": 0.3,
     "dieBasis": 0.2,
-    "Gesundheitsforschung": 0.1,
-    "Sonstige": 0.1
+    "Gesundheitsforschung": 0.2
    }
   },
   "03358019": {
@@ -11875,7 +11854,7 @@
   },
   "03359001": {
    "name": "Agathenburg",
-   "beteiligung": 68.5,
+   "beteiligung": 68.6,
    "parteien": {
     "SPD": 32.8,
     "CDU": 31.5,
@@ -11883,14 +11862,14 @@
     "AfD": 8.4,
     "FDP": 4.9,
     "DIE LINKE": 2.7,
-    "FREIE WÄHLER": 1.7,
+    "FREIE WÄHLER": 1.6,
     "Tierschutzpartei": 1.4,
     "dieBasis": 1.2,
     "PIRATEN": 0.7,
     "Volt": 0.7,
     "Gesundheitsforschung": 0.4,
-    "Die Humanisten": 0.3,
-    "Sonstige": 0.1
+    "Sonstige": 0.3,
+    "Die Humanisten": 0.3
    }
   },
   "03359002": {
@@ -11930,7 +11909,7 @@
     "PIRATEN": 0.6,
     "Die PARTEI": 0.5,
     "Gesundheitsforschung": 0.5,
-    "Die Humanisten": 0.3
+    "Die Humanisten": 0.4
    }
   },
   "03359004": {
@@ -12033,19 +12012,19 @@
    "name": "Burweg",
    "beteiligung": 70.2,
    "parteien": {
-    "CDU": 33.6,
-    "SPD": 30.3,
-    "AfD": 12.6,
+    "CDU": 33.5,
+    "SPD": 30.2,
+    "AfD": 12.5,
     "GRÜNE": 11.2,
-    "FDP": 5.9,
+    "FDP": 5.8,
     "DIE LINKE": 2.4,
     "Tierschutzpartei": 1.0,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
+    "PIRATEN": 0.5,
+    "Die PARTEI": 0.3,
     "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.3,
-    "Volt": 0.3,
-    "Die PARTEI": 0.2
+    "Volt": 0.3
    }
   },
   "03359010": {
@@ -12104,9 +12083,8 @@
     "Die PARTEI": 0.9,
     "dieBasis": 0.9,
     "Volt": 0.7,
-    "Gesundheitsforschung": 0.5,
-    "PIRATEN": 0.5,
-    "Sonstige": 0.1
+    "PIRATEN": 0.6,
+    "Gesundheitsforschung": 0.5
    }
   },
   "03359013": {
@@ -12133,7 +12111,7 @@
    "name": "Düdenbüttel",
    "beteiligung": 65.4,
    "parteien": {
-    "CDU": 37.1,
+    "CDU": 36.9,
     "SPD": 31.3,
     "AfD": 13.5,
     "GRÜNE": 11.2,
@@ -12143,6 +12121,7 @@
     "DIE LINKE": 1.0,
     "Die PARTEI": 0.8,
     "Gesundheitsforschung": 0.4,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2
    }
   },
@@ -12151,7 +12130,7 @@
    "beteiligung": 71.1,
    "parteien": {
     "CDU": 37.6,
-    "SPD": 28.7,
+    "SPD": 29.0,
     "GRÜNE": 13.3,
     "AfD": 9.6,
     "FDP": 3.4,
@@ -12159,8 +12138,8 @@
     "dieBasis": 1.2,
     "Tierschutzpartei": 1.2,
     "Volt": 1.0,
-    "Sonstige": 0.7,
     "FREIE WÄHLER": 0.7,
+    "Sonstige": 0.5,
     "Gesundheitsforschung": 0.2
    }
   },
@@ -12191,16 +12170,16 @@
     "SPD": 32.6,
     "AfD": 12.9,
     "GRÜNE": 10.0,
-    "FDP": 4.1,
+    "FDP": 4.0,
     "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.6,
     "FREIE WÄHLER": 1.1,
-    "dieBasis": 0.8,
+    "dieBasis": 0.9,
     "Die PARTEI": 0.8,
     "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.4,
     "Volt": 0.4,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "03359018": {
@@ -12212,13 +12191,14 @@
     "AfD": 13.3,
     "GRÜNE": 7.9,
     "DIE LINKE": 2.5,
-    "FDP": 2.2,
+    "FDP": 2.1,
     "FREIE WÄHLER": 1.5,
     "Tierschutzpartei": 1.1,
     "dieBasis": 0.8,
     "Die PARTEI": 0.5,
     "Volt": 0.4,
-    "PIRATEN": 0.3
+    "PIRATEN": 0.3,
+    "Sonstige": 0.1
    }
   },
   "03359019": {
@@ -12245,7 +12225,7 @@
    "beteiligung": 66.9,
    "parteien": {
     "CDU": 31.9,
-    "SPD": 29.3,
+    "SPD": 29.4,
     "GRÜNE": 14.9,
     "AfD": 10.8,
     "FDP": 5.1,
@@ -12256,8 +12236,7 @@
     "Tierschutzpartei": 0.7,
     "Volt": 0.5,
     "PIRATEN": 0.4,
-    "Die Humanisten": 0.3,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.3
    }
   },
   "03359021": {
@@ -12295,7 +12274,7 @@
     "Volt": 0.7,
     "Die PARTEI": 0.4,
     "Die Humanisten": 0.3,
-    "Sonstige": 0.1
+    "Sonstige": 0.2
    }
   },
   "03359023": {
@@ -12326,24 +12305,24 @@
     "SPD": 31.0,
     "AfD": 14.4,
     "GRÜNE": 8.9,
-    "FDP": 3.9,
+    "FDP": 3.8,
     "DIE LINKE": 2.4,
     "Tierschutzpartei": 2.0,
     "FREIE WÄHLER": 1.9,
     "PIRATEN": 0.9,
     "Volt": 0.5,
+    "Sonstige": 0.4,
     "Die Humanisten": 0.3,
     "Die PARTEI": 0.3,
-    "dieBasis": 0.3,
-    "Sonstige": 0.3
+    "dieBasis": 0.3
    }
   },
   "03359025": {
    "name": "Himmelpforten",
    "beteiligung": 53.7,
    "parteien": {
-    "SPD": 34.5,
-    "CDU": 28.1,
+    "SPD": 34.6,
+    "CDU": 28.2,
     "AfD": 15.2,
     "GRÜNE": 9.4,
     "FDP": 4.0,
@@ -12395,7 +12374,8 @@
     "PIRATEN": 0.6,
     "Volt": 0.5,
     "Gesundheitsforschung": 0.5,
-    "Die Humanisten": 0.2
+    "Die Humanisten": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03359028": {
@@ -12424,7 +12404,7 @@
    "parteien": {
     "CDU": 37.0,
     "SPD": 31.9,
-    "AfD": 11.1,
+    "AfD": 11.4,
     "GRÜNE": 8.2,
     "FDP": 4.8,
     "Tierschutzpartei": 2.4,
@@ -12434,8 +12414,7 @@
     "Volt": 0.5,
     "Die Humanisten": 0.2,
     "Die PARTEI": 0.2,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.2
+    "PIRATEN": 0.2
    }
   },
   "03359030": {
@@ -12481,16 +12460,16 @@
    "beteiligung": 65.7,
    "parteien": {
     "CDU": 37.3,
-    "SPD": 29.4,
+    "SPD": 29.2,
     "GRÜNE": 12.3,
     "AfD": 8.8,
-    "FDP": 5.6,
-    "DIE LINKE": 2.1,
+    "FDP": 5.8,
+    "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.9,
     "dieBasis": 1.0,
     "FREIE WÄHLER": 0.8,
-    "PIRATEN": 0.4,
-    "Sonstige": 0.4
+    "Sonstige": 0.8,
+    "PIRATEN": 0.2
    }
   },
   "03359033": {
@@ -12533,19 +12512,19 @@
   },
   "03359035": {
    "name": "Oederquart",
-   "beteiligung": 61.5,
+   "beteiligung": 61.4,
    "parteien": {
     "CDU": 33.6,
-    "SPD": 33.4,
+    "SPD": 33.2,
     "AfD": 12.9,
-    "GRÜNE": 6.9,
+    "GRÜNE": 7.1,
     "FDP": 4.0,
     "FREIE WÄHLER": 3.5,
-    "DIE LINKE": 1.9,
+    "DIE LINKE": 2.1,
     "Tierschutzpartei": 1.9,
     "dieBasis": 1.0,
     "Die PARTEI": 0.6,
-    "Sonstige": 0.4
+    "Sonstige": 0.2
    }
   },
   "03359036": {
@@ -12562,7 +12541,7 @@
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.8,
     "dieBasis": 0.8,
-    "Volt": 0.5,
+    "Volt": 0.6,
     "PIRATEN": 0.3,
     "Die Humanisten": 0.2,
     "Gesundheitsforschung": 0.2
@@ -12573,7 +12552,7 @@
    "beteiligung": 65.3,
    "parteien": {
     "CDU": 34.9,
-    "SPD": 27.8,
+    "SPD": 27.9,
     "GRÜNE": 13.3,
     "AfD": 12.5,
     "FDP": 4.2,
@@ -12583,8 +12562,9 @@
     "Die PARTEI": 1.1,
     "dieBasis": 0.9,
     "Volt": 0.4,
-    "PIRATEN": 0.3,
-    "Gesundheitsforschung": 0.2
+    "Gesundheitsforschung": 0.2,
+    "PIRATEN": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03359038": {
@@ -12614,13 +12594,13 @@
     "CDU": 34.7,
     "SPD": 33.8,
     "GRÜNE": 12.9,
-    "AfD": 7.6,
+    "AfD": 7.7,
     "FDP": 4.0,
     "DIE LINKE": 1.9,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 1.0,
-    "Tierschutzpartei": 1.0,
     "dieBasis": 0.9,
+    "Tierschutzpartei": 0.9,
     "Die Humanisten": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.2
@@ -12632,18 +12612,18 @@
    "parteien": {
     "SPD": 35.8,
     "CDU": 33.5,
-    "AfD": 11.8,
+    "AfD": 11.7,
     "GRÜNE": 8.5,
     "FDP": 4.3,
     "DIE LINKE": 1.4,
+    "FREIE WÄHLER": 1.2,
     "Tierschutzpartei": 1.2,
-    "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.8,
     "dieBasis": 0.6,
     "PIRATEN": 0.4,
     "Volt": 0.4,
-    "Die Humanisten": 0.2,
-    "Sonstige": 0.1
+    "Sonstige": 0.2,
+    "Die Humanisten": 0.2
    }
   },
   "03360001": {
@@ -12653,13 +12633,13 @@
     "SPD": 33.5,
     "CDU": 27.7,
     "GRÜNE": 14.0,
-    "AfD": 9.6,
+    "AfD": 9.7,
     "FDP": 6.8,
     "DIE LINKE": 2.6,
     "Tierschutzpartei": 2.2,
     "dieBasis": 1.4,
     "FREIE WÄHLER": 1.0,
-    "Die PARTEI": 0.6,
+    "Die PARTEI": 0.5,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.3
    }
@@ -12687,19 +12667,18 @@
    "name": "Barum",
    "beteiligung": 76.8,
    "parteien": {
-    "SPD": 33.7,
-    "CDU": 29.6,
+    "SPD": 33.6,
+    "CDU": 29.5,
     "GRÜNE": 15.7,
     "AfD": 12.0,
-    "FDP": 3.7,
+    "FDP": 3.9,
     "FREIE WÄHLER": 1.4,
     "DIE LINKE": 1.2,
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.6,
     "dieBasis": 0.4,
-    "Gesundheitsforschung": 0.2,
-    "PIRATEN": 0.2,
-    "Sonstige": 0.2
+    "PIRATEN": 0.4,
+    "Gesundheitsforschung": 0.2
    }
   },
   "03360004": {
@@ -12727,17 +12706,17 @@
    "beteiligung": 58.3,
    "parteien": {
     "SPD": 30.7,
-    "CDU": 30.0,
+    "CDU": 30.1,
     "AfD": 18.3,
     "GRÜNE": 8.9,
     "FDP": 4.4,
-    "DIE LINKE": 2.2,
+    "DIE LINKE": 2.3,
     "Tierschutzpartei": 1.6,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.8,
     "Gesundheitsforschung": 0.7,
     "PIRATEN": 0.6,
-    "Die PARTEI": 0.4,
+    "Die PARTEI": 0.5,
     "Volt": 0.3,
     "Sonstige": 0.1
    }
@@ -12754,8 +12733,8 @@
     "DIE LINKE": 1.8,
     "Tierschutzpartei": 1.4,
     "FREIE WÄHLER": 1.4,
-    "Die PARTEI": 0.9,
     "dieBasis": 0.9,
+    "Die PARTEI": 0.8,
     "PIRATEN": 0.3,
     "Volt": 0.3,
     "Gesundheitsforschung": 0.2,
@@ -12807,14 +12786,14 @@
     "CDU": 30.9,
     "GRÜNE": 14.0,
     "AfD": 8.7,
-    "FDP": 5.6,
+    "FDP": 5.8,
     "DIE LINKE": 2.5,
     "FREIE WÄHLER": 1.8,
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.7,
     "Die PARTEI": 0.4,
     "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.2,
+    "Sonstige": 0.1,
     "PIRATEN": 0.1
    }
   },
@@ -12825,17 +12804,16 @@
     "SPD": 31.0,
     "CDU": 30.4,
     "GRÜNE": 12.8,
-    "AfD": 12.4,
+    "AfD": 12.6,
     "FDP": 5.3,
-    "DIE LINKE": 2.2,
     "Tierschutzpartei": 2.2,
+    "DIE LINKE": 2.0,
     "dieBasis": 1.3,
     "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.5,
+    "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.4,
-    "Sonstige": 0.2,
-    "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2
+    "Die Humanisten": 0.2
    }
   },
   "03360011": {
@@ -12891,25 +12869,25 @@
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.7,
     "Gesundheitsforschung": 0.6,
-    "Die Humanisten": 0.3,
+    "Die Humanisten": 0.4,
     "PIRATEN": 0.3,
     "Volt": 0.3
    }
   },
   "03360014": {
    "name": "Natendorf",
-   "beteiligung": 68.4,
+   "beteiligung": 68.6,
    "parteien": {
     "CDU": 31.9,
-    "SPD": 28.0,
+    "SPD": 27.7,
     "GRÜNE": 14.4,
     "FDP": 8.8,
     "AfD": 8.3,
     "DIE LINKE": 3.4,
     "FREIE WÄHLER": 2.4,
     "Tierschutzpartei": 1.0,
+    "Sonstige": 0.7,
     "PIRATEN": 0.7,
-    "Sonstige": 0.5,
     "dieBasis": 0.5,
     "Gesundheitsforschung": 0.2
    }
@@ -12939,13 +12917,13 @@
    "beteiligung": 61.4,
    "parteien": {
     "SPD": 32.6,
-    "CDU": 26.0,
-    "AfD": 16.3,
+    "CDU": 26.4,
+    "AfD": 16.7,
     "GRÜNE": 15.4,
-    "FDP": 4.8,
-    "Sonstige": 2.2,
+    "FDP": 5.3,
     "DIE LINKE": 1.3,
     "Die PARTEI": 0.9,
+    "Sonstige": 0.9,
     "dieBasis": 0.4
    }
   },
@@ -12992,14 +12970,14 @@
    "beteiligung": 69.6,
    "parteien": {
     "CDU": 33.2,
-    "SPD": 32.9,
+    "SPD": 33.0,
     "AfD": 12.6,
     "GRÜNE": 8.6,
     "FDP": 6.4,
     "Tierschutzpartei": 2.1,
     "FREIE WÄHLER": 1.3,
-    "DIE LINKE": 1.3,
     "Die PARTEI": 1.1,
+    "DIE LINKE": 1.1,
     "dieBasis": 0.5
    }
   },
@@ -13010,7 +12988,7 @@
     "CDU": 31.4,
     "SPD": 29.3,
     "AfD": 17.7,
-    "GRÜNE": 8.1,
+    "GRÜNE": 8.3,
     "FDP": 5.1,
     "FREIE WÄHLER": 3.1,
     "DIE LINKE": 2.0,
@@ -13018,7 +12996,6 @@
     "Die PARTEI": 0.6,
     "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.4,
-    "Sonstige": 0.2,
     "Die Humanisten": 0.2
    }
   },
@@ -13070,14 +13047,14 @@
     "AfD": 14.0,
     "GRÜNE": 9.8,
     "FDP": 6.2,
-    "DIE LINKE": 1.9,
+    "DIE LINKE": 2.0,
     "Tierschutzpartei": 1.8,
     "FREIE WÄHLER": 1.0,
     "Die PARTEI": 0.6,
     "dieBasis": 0.5,
     "PIRATEN": 0.5,
-    "Sonstige": 0.3,
-    "Volt": 0.2,
+    "Volt": 0.3,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.1
    }
   },
@@ -13109,12 +13086,11 @@
     "SPD": 29.8,
     "AfD": 15.9,
     "GRÜNE": 11.1,
-    "FDP": 4.2,
+    "FDP": 4.4,
     "DIE LINKE": 2.6,
     "Tierschutzpartei": 2.2,
+    "Gesundheitsforschung": 0.8,
     "Die PARTEI": 0.6,
-    "Gesundheitsforschung": 0.6,
-    "Sonstige": 0.4,
     "dieBasis": 0.4,
     "PIRATEN": 0.4,
     "Volt": 0.4,
@@ -13155,10 +13131,11 @@
     "Tierschutzpartei": 1.4,
     "Die PARTEI": 0.6,
     "dieBasis": 0.5,
-    "PIRATEN": 0.5,
-    "Gesundheitsforschung": 0.4,
+    "PIRATEN": 0.4,
+    "Gesundheitsforschung": 0.3,
     "Die Humanisten": 0.2,
-    "Volt": 0.1
+    "Volt": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03361001": {
@@ -13185,20 +13162,21 @@
    "name": "Blender",
    "beteiligung": 63.8,
    "parteien": {
-    "SPD": 33.3,
+    "SPD": 33.4,
     "CDU": 31.5,
     "GRÜNE": 14.3,
     "AfD": 9.7,
     "FDP": 4.2,
-    "DIE LINKE": 1.8,
+    "DIE LINKE": 1.7,
     "Tierschutzpartei": 1.4,
     "dieBasis": 0.9,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.8,
     "Volt": 0.6,
     "PIRATEN": 0.4,
-    "Gesundheitsforschung": 0.2,
-    "Die Humanisten": 0.1
+    "Gesundheitsforschung": 0.1,
+    "Die Humanisten": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03361003": {
@@ -13225,7 +13203,7 @@
    "name": "Emtinghausen",
    "beteiligung": 61.3,
    "parteien": {
-    "SPD": 31.6,
+    "SPD": 31.7,
     "CDU": 30.6,
     "GRÜNE": 13.2,
     "AfD": 11.7,
@@ -13236,8 +13214,8 @@
     "Volt": 0.9,
     "FREIE WÄHLER": 0.7,
     "Die PARTEI": 0.5,
-    "PIRATEN": 0.5,
     "Gesundheitsforschung": 0.4,
+    "PIRATEN": 0.4,
     "Die Humanisten": 0.1
    }
   },
@@ -13642,8 +13620,8 @@
    "beteiligung": 61.0,
    "parteien": {
     "SPD": 41.5,
-    "CDU": 23.2,
-    "AfD": 15.0,
+    "CDU": 23.1,
+    "AfD": 14.9,
     "GRÜNE": 9.5,
     "FREIE WÄHLER": 2.6,
     "DIE LINKE": 2.5,
@@ -13653,7 +13631,8 @@
     "dieBasis": 0.4,
     "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.2,
-    "PIRATEN": 0.2
+    "PIRATEN": 0.2,
+    "Sonstige": 0.1
    }
   },
   "03452006": {
@@ -13701,7 +13680,7 @@
    "beteiligung": 59.0,
    "parteien": {
     "SPD": 45.6,
-    "CDU": 23.0,
+    "CDU": 22.9,
     "AfD": 12.1,
     "GRÜNE": 8.5,
     "FREIE WÄHLER": 2.6,
@@ -13723,13 +13702,12 @@
     "SPD": 36.2,
     "CDU": 24.5,
     "AfD": 18.6,
-    "GRÜNE": 7.4,
+    "GRÜNE": 8.0,
     "DIE LINKE": 3.7,
     "FDP": 2.1,
     "FREIE WÄHLER": 2.1,
     "Tierschutzpartei": 2.1,
     "Die PARTEI": 1.6,
-    "Sonstige": 0.5,
     "dieBasis": 0.5,
     "PIRATEN": 0.5
    }
@@ -13738,7 +13716,7 @@
    "name": "Halbemond",
    "beteiligung": 57.1,
    "parteien": {
-    "SPD": 39.7,
+    "SPD": 39.5,
     "AfD": 20.6,
     "CDU": 20.0,
     "GRÜNE": 6.5,
@@ -13749,7 +13727,8 @@
     "Tierschutzpartei": 1.3,
     "Gesundheitsforschung": 0.7,
     "PIRATEN": 0.7,
-    "dieBasis": 0.4
+    "dieBasis": 0.4,
+    "Sonstige": 0.2
    }
   },
   "03452011": {
@@ -14339,7 +14318,7 @@
     "CDU": 53.5,
     "SPD": 22.0,
     "FDP": 7.7,
-    "AfD": 7.1,
+    "AfD": 7.0,
     "GRÜNE": 6.3,
     "DIE LINKE": 0.9,
     "Die PARTEI": 0.8,
@@ -14347,12 +14326,13 @@
     "FREIE WÄHLER": 0.4,
     "Volt": 0.3,
     "Gesundheitsforschung": 0.2,
+    "Sonstige": 0.1,
     "PIRATEN": 0.1
    }
   },
   "03454003": {
    "name": "Beesten",
-   "beteiligung": 79.5,
+   "beteiligung": 79.6,
    "parteien": {
     "CDU": 61.1,
     "SPD": 19.4,
@@ -14365,7 +14345,7 @@
     "FREIE WÄHLER": 0.6,
     "dieBasis": 0.4,
     "Die Humanisten": 0.3,
-    "Gesundheitsforschung": 0.2,
+    "Gesundheitsforschung": 0.3,
     "Volt": 0.2,
     "PIRATEN": 0.1
    }
@@ -14379,24 +14359,23 @@
     "AfD": 14.5,
     "GRÜNE": 8.2,
     "FDP": 3.1,
-    "Die PARTEI": 2.0,
+    "Die PARTEI": 2.2,
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.9,
     "DIE LINKE": 0.9,
     "FREIE WÄHLER": 0.7,
-    "Gesundheitsforschung": 0.4,
-    "Sonstige": 0.2
+    "Gesundheitsforschung": 0.4
    }
   },
   "03454005": {
    "name": "Börger",
    "beteiligung": 63.7,
    "parteien": {
-    "CDU": 49.9,
+    "CDU": 49.8,
     "SPD": 26.0,
     "AfD": 9.0,
     "GRÜNE": 6.4,
-    "FDP": 4.5,
+    "FDP": 4.4,
     "DIE LINKE": 0.9,
     "Die PARTEI": 0.8,
     "Tierschutzpartei": 0.7,
@@ -14405,21 +14384,20 @@
     "FREIE WÄHLER": 0.4,
     "Volt": 0.2,
     "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.2
    }
   },
   "03454006": {
    "name": "Breddenberg",
    "beteiligung": 62.7,
    "parteien": {
-    "CDU": 48.0,
+    "CDU": 48.2,
     "SPD": 24.1,
     "AfD": 17.0,
     "GRÜNE": 5.1,
     "FDP": 2.3,
     "Tierschutzpartei": 1.5,
     "DIE LINKE": 1.0,
-    "Sonstige": 0.3,
     "Die PARTEI": 0.3,
     "dieBasis": 0.3,
     "FREIE WÄHLER": 0.3
@@ -14455,13 +14433,13 @@
     "FDP": 5.0,
     "DIE LINKE": 1.6,
     "Die PARTEI": 0.9,
-    "Tierschutzpartei": 0.7,
     "FREIE WÄHLER": 0.7,
+    "Tierschutzpartei": 0.7,
     "PIRATEN": 0.4,
     "dieBasis": 0.4,
     "Gesundheitsforschung": 0.2,
     "Volt": 0.1,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "03454009": {
@@ -14474,13 +14452,13 @@
     "GRÜNE": 4.9,
     "FDP": 4.5,
     "Tierschutzpartei": 1.4,
-    "DIE LINKE": 1.2,
-    "Die PARTEI": 0.8,
+    "DIE LINKE": 1.1,
+    "Die PARTEI": 0.9,
+    "dieBasis": 0.3,
     "PIRATEN": 0.3,
-    "Sonstige": 0.3,
-    "dieBasis": 0.2,
     "FREIE WÄHLER": 0.2,
-    "Volt": 0.2
+    "Volt": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03454010": {
@@ -14517,7 +14495,7 @@
     "FREIE WÄHLER": 0.5,
     "Die PARTEI": 0.4,
     "dieBasis": 0.3,
-    "PIRATEN": 0.2,
+    "PIRATEN": 0.3,
     "Volt": 0.2,
     "Die Humanisten": 0.1,
     "Gesundheitsforschung": 0.1
@@ -14545,7 +14523,7 @@
   },
   "03454013": {
    "name": "Fresenburg",
-   "beteiligung": 72.2,
+   "beteiligung": 72.1,
    "parteien": {
     "CDU": 50.3,
     "SPD": 27.1,
@@ -14582,19 +14560,19 @@
   },
   "03454015": {
    "name": "Gersten",
-   "beteiligung": 78.2,
+   "beteiligung": 78.3,
    "parteien": {
     "CDU": 61.5,
     "SPD": 16.3,
     "FDP": 7.3,
     "AfD": 6.0,
     "GRÜNE": 5.2,
+    "dieBasis": 0.9,
     "DIE LINKE": 0.9,
-    "dieBasis": 0.7,
     "Die PARTEI": 0.4,
     "FREIE WÄHLER": 0.4,
     "Tierschutzpartei": 0.4,
-    "Sonstige": 0.4,
+    "Sonstige": 0.3,
     "PIRATEN": 0.3,
     "Volt": 0.1
    }
@@ -14673,7 +14651,7 @@
   },
   "03454020": {
    "name": "Heede",
-   "beteiligung": 65.4,
+   "beteiligung": 65.5,
    "parteien": {
     "CDU": 51.3,
     "SPD": 21.5,
@@ -14685,9 +14663,8 @@
     "DIE LINKE": 0.6,
     "Tierschutzpartei": 0.6,
     "Gesundheitsforschung": 0.4,
+    "Volt": 0.4,
     "Die PARTEI": 0.3,
-    "Volt": 0.3,
-    "Sonstige": 0.2,
     "Die Humanisten": 0.1,
     "PIRATEN": 0.1
    }
@@ -14700,15 +14677,14 @@
     "SPD": 26.7,
     "AfD": 10.5,
     "GRÜNE": 7.0,
-    "FDP": 4.0,
+    "FDP": 4.1,
     "DIE LINKE": 2.0,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 0.9,
     "FREIE WÄHLER": 0.4,
     "dieBasis": 0.3,
     "Gesundheitsforschung": 0.3,
-    "Volt": 0.1,
-    "Sonstige": 0.1
+    "Volt": 0.1
    }
   },
   "03454022": {
@@ -14717,10 +14693,10 @@
    "parteien": {
     "CDU": 58.2,
     "SPD": 24.8,
-    "AfD": 6.4,
-    "GRÜNE": 4.4,
+    "AfD": 6.1,
+    "GRÜNE": 4.2,
     "FDP": 3.7,
-    "Sonstige": 0.7,
+    "Sonstige": 1.2,
     "FREIE WÄHLER": 0.7,
     "Die PARTEI": 0.5,
     "dieBasis": 0.2,
@@ -14731,12 +14707,12 @@
    "name": "Hüven",
    "beteiligung": 77.4,
    "parteien": {
-    "CDU": 61.8,
+    "CDU": 61.5,
     "SPD": 21.7,
     "GRÜNE": 6.4,
     "FDP": 4.8,
     "AfD": 2.9,
-    "Sonstige": 0.6,
+    "Sonstige": 1.0,
     "DIE LINKE": 0.6,
     "Die PARTEI": 0.3,
     "dieBasis": 0.3,
@@ -14767,18 +14743,17 @@
    "name": "Kluse",
    "beteiligung": 65.3,
    "parteien": {
-    "CDU": 50.3,
-    "SPD": 23.2,
+    "CDU": 50.2,
+    "SPD": 23.1,
     "AfD": 11.5,
     "GRÜNE": 6.9,
     "FDP": 3.7,
+    "DIE LINKE": 1.2,
     "Die PARTEI": 1.1,
-    "DIE LINKE": 1.1,
     "Tierschutzpartei": 0.7,
+    "dieBasis": 0.5,
     "FREIE WÄHLER": 0.5,
-    "dieBasis": 0.4,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1,
+    "Gesundheitsforschung": 0.4,
     "Die Humanisten": 0.1,
     "Volt": 0.1
    }
@@ -14805,7 +14780,7 @@
   },
   "03454027": {
    "name": "Lahn",
-   "beteiligung": 83.0,
+   "beteiligung": 83.1,
    "parteien": {
     "CDU": 62.7,
     "SPD": 21.4,
@@ -14813,8 +14788,9 @@
     "GRÜNE": 4.4,
     "FDP": 2.7,
     "DIE LINKE": 1.5,
-    "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.8,
+    "Tierschutzpartei": 0.8,
+    "Sonstige": 0.2,
     "PIRATEN": 0.2
    }
   },
@@ -14822,18 +14798,19 @@
    "name": "Langen",
    "beteiligung": 70.2,
    "parteien": {
-    "CDU": 58.1,
-    "SPD": 19.9,
+    "CDU": 58.2,
+    "SPD": 20.0,
     "GRÜNE": 6.3,
-    "AfD": 6.1,
-    "FDP": 5.5,
-    "DIE LINKE": 1.4,
+    "AfD": 6.2,
+    "FDP": 5.4,
+    "DIE LINKE": 1.3,
     "Die PARTEI": 0.9,
     "FREIE WÄHLER": 0.4,
     "Gesundheitsforschung": 0.4,
-    "Tierschutzpartei": 0.4,
+    "Sonstige": 0.3,
     "Die Humanisten": 0.3,
     "dieBasis": 0.3,
+    "Tierschutzpartei": 0.3,
     "PIRATEN": 0.1
    }
   },
@@ -14879,18 +14856,18 @@
    "name": "Lengerich",
    "beteiligung": 63.4,
    "parteien": {
-    "CDU": 57.4,
+    "CDU": 57.3,
     "SPD": 18.1,
     "AfD": 7.3,
     "FDP": 6.1,
-    "GRÜNE": 5.9,
+    "GRÜNE": 6.0,
     "DIE LINKE": 1.9,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 0.6,
     "dieBasis": 0.4,
     "Gesundheitsforschung": 0.4,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.1,
+    "Die Humanisten": 0.2,
     "FREIE WÄHLER": 0.1,
     "Volt": 0.1
    }
@@ -14922,7 +14899,7 @@
     "CDU": 60.1,
     "SPD": 17.8,
     "AfD": 10.3,
-    "GRÜNE": 4.6,
+    "GRÜNE": 4.5,
     "FDP": 2.9,
     "DIE LINKE": 1.5,
     "Die PARTEI": 1.0,
@@ -15034,18 +15011,17 @@
    "name": "Niederlangen",
    "beteiligung": 75.8,
    "parteien": {
-    "CDU": 63.5,
+    "CDU": 63.3,
     "SPD": 16.6,
     "AfD": 7.5,
-    "GRÜNE": 5.2,
+    "GRÜNE": 5.1,
     "FDP": 3.6,
-    "Tierschutzpartei": 1.0,
+    "Tierschutzpartei": 1.1,
     "Die PARTEI": 0.7,
+    "dieBasis": 0.7,
     "DIE LINKE": 0.7,
-    "dieBasis": 0.6,
     "FREIE WÄHLER": 0.4,
-    "Sonstige": 0.1,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.3
    }
   },
   "03454040": {
@@ -15091,11 +15067,11 @@
    "beteiligung": 75.3,
    "parteien": {
     "CDU": 64.6,
-    "SPD": 16.1,
+    "SPD": 16.3,
     "AfD": 7.3,
     "GRÜNE": 5.2,
     "FDP": 3.2,
-    "DIE LINKE": 1.4,
+    "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.1,
     "Die PARTEI": 0.7,
     "Sonstige": 0.2,
@@ -15111,11 +15087,11 @@
     "AfD": 9.9,
     "GRÜNE": 4.8,
     "FDP": 2.9,
-    "Die PARTEI": 1.3,
     "FREIE WÄHLER": 1.3,
     "DIE LINKE": 1.3,
+    "Die PARTEI": 1.1,
     "PIRATEN": 0.8,
-    "Sonstige": 0.3
+    "Sonstige": 0.5
    }
   },
   "03454044": {
@@ -15191,7 +15167,7 @@
     "dieBasis": 0.5,
     "FREIE WÄHLER": 0.4,
     "PIRATEN": 0.4,
-    "Die Humanisten": 0.2,
+    "Die Humanisten": 0.3,
     "Gesundheitsforschung": 0.2,
     "Volt": 0.2
    }
@@ -15204,14 +15180,14 @@
     "SPD": 19.2,
     "AfD": 9.7,
     "GRÜNE": 6.2,
-    "FDP": 3.8,
-    "DIE LINKE": 1.6,
+    "FDP": 3.7,
+    "DIE LINKE": 1.5,
     "Die PARTEI": 1.1,
     "Tierschutzpartei": 0.5,
+    "Volt": 0.4,
     "Sonstige": 0.3,
-    "Volt": 0.3,
-    "Gesundheitsforschung": 0.1,
-    "PIRATEN": 0.1
+    "PIRATEN": 0.3,
+    "Gesundheitsforschung": 0.1
    }
   },
   "03454049": {
@@ -15220,10 +15196,10 @@
    "parteien": {
     "CDU": 45.8,
     "SPD": 21.8,
-    "AfD": 11.5,
+    "AfD": 11.6,
     "GRÜNE": 10.9,
     "FDP": 4.6,
-    "DIE LINKE": 1.8,
+    "DIE LINKE": 1.7,
     "Die PARTEI": 1.0,
     "Tierschutzpartei": 0.8,
     "dieBasis": 0.5,
@@ -15274,18 +15250,18 @@
    "beteiligung": 78.1,
    "parteien": {
     "CDU": 59.7,
-    "SPD": 19.5,
+    "SPD": 19.7,
     "AfD": 6.8,
     "GRÜNE": 5.3,
     "FDP": 4.0,
     "DIE LINKE": 1.1,
     "PIRATEN": 0.7,
-    "Sonstige": 0.6,
     "Die PARTEI": 0.6,
     "FREIE WÄHLER": 0.6,
+    "Gesundheitsforschung": 0.6,
+    "Die Humanisten": 0.4,
     "dieBasis": 0.4,
-    "Gesundheitsforschung": 0.4,
-    "Die Humanisten": 0.3
+    "Sonstige": 0.1
    }
   },
   "03454053": {
@@ -15294,7 +15270,7 @@
    "parteien": {
     "CDU": 55.6,
     "SPD": 21.3,
-    "GRÜNE": 9.3,
+    "GRÜNE": 9.4,
     "AfD": 5.6,
     "FDP": 3.4,
     "DIE LINKE": 1.7,
@@ -15304,7 +15280,7 @@
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.2,
     "Volt": 0.2,
-    "Sonstige": 0.2
+    "Sonstige": 0.1
    }
   },
   "03454054": {
@@ -15332,7 +15308,7 @@
    "beteiligung": 69.7,
    "parteien": {
     "CDU": 56.9,
-    "SPD": 21.7,
+    "SPD": 21.8,
     "AfD": 7.7,
     "FDP": 6.2,
     "GRÜNE": 3.7,
@@ -15342,7 +15318,6 @@
     "Die PARTEI": 0.3,
     "FREIE WÄHLER": 0.2,
     "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1,
     "Volt": 0.1
    }
@@ -15359,11 +15334,11 @@
     "DIE LINKE": 1.0,
     "Tierschutzpartei": 0.6,
     "Die PARTEI": 0.3,
+    "dieBasis": 0.2,
     "FREIE WÄHLER": 0.2,
-    "Sonstige": 0.2,
-    "dieBasis": 0.1,
     "Gesundheitsforschung": 0.1,
-    "PIRATEN": 0.1
+    "PIRATEN": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03454057": {
@@ -15392,14 +15367,15 @@
     "CDU": 55.1,
     "SPD": 24.6,
     "GRÜNE": 7.6,
-    "AfD": 4.7,
+    "AfD": 4.5,
     "FDP": 3.7,
     "DIE LINKE": 1.3,
     "Die PARTEI": 0.9,
-    "dieBasis": 0.6,
-    "FREIE WÄHLER": 0.6,
+    "dieBasis": 0.4,
+    "FREIE WÄHLER": 0.4,
     "Tierschutzpartei": 0.4,
     "Volt": 0.4,
+    "Sonstige": 0.4,
     "Gesundheitsforschung": 0.1
    }
   },
@@ -15423,12 +15399,12 @@
    "name": "Wippingen",
    "beteiligung": 71.6,
    "parteien": {
-    "CDU": 58.7,
-    "SPD": 17.8,
-    "AfD": 7.8,
-    "GRÜNE": 6.5,
+    "CDU": 58.5,
+    "SPD": 17.7,
+    "AfD": 8.0,
+    "GRÜNE": 6.4,
     "FDP": 4.1,
-    "DIE LINKE": 1.6,
+    "DIE LINKE": 1.8,
     "FREIE WÄHLER": 1.0,
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.8,
@@ -15640,14 +15616,14 @@
    "name": "Engden",
    "beteiligung": 77.6,
    "parteien": {
-    "CDU": 63.9,
-    "SPD": 17.6,
-    "GRÜNE": 5.7,
+    "CDU": 64.2,
+    "SPD": 17.7,
+    "GRÜNE": 5.8,
     "FDP": 5.3,
     "AfD": 4.0,
-    "DIE LINKE": 1.3,
     "Die PARTEI": 0.9,
     "Gesundheitsforschung": 0.9,
+    "DIE LINKE": 0.9,
     "Tierschutzpartei": 0.4
    }
   },
@@ -15670,34 +15646,33 @@
    "name": "Georgsdorf",
    "beteiligung": 60.2,
    "parteien": {
-    "CDU": 43.1,
-    "SPD": 30.8,
-    "GRÜNE": 8.0,
-    "AfD": 6.8,
+    "CDU": 42.9,
+    "SPD": 30.5,
+    "GRÜNE": 7.9,
+    "AfD": 6.7,
     "FDP": 5.7,
+    "Die PARTEI": 1.2,
     "DIE LINKE": 1.2,
-    "Die PARTEI": 1.0,
-    "dieBasis": 0.9,
+    "dieBasis": 1.0,
+    "FREIE WÄHLER": 0.9,
     "Tierschutzpartei": 0.9,
-    "FREIE WÄHLER": 0.7,
-    "Volt": 0.3,
-    "Die Humanisten": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.2
+    "Volt": 0.5,
+    "Gesundheitsforschung": 0.3,
+    "Die Humanisten": 0.2
    }
   },
   "03456006": {
    "name": "Getelo",
    "beteiligung": 69.8,
    "parteien": {
-    "CDU": 57.1,
+    "CDU": 56.6,
     "SPD": 26.3,
-    "GRÜNE": 5.9,
     "AfD": 5.4,
+    "GRÜNE": 5.4,
     "FDP": 3.4,
+    "Sonstige": 1.5,
     "dieBasis": 1.0,
-    "DIE LINKE": 0.5,
-    "Sonstige": 0.5
+    "DIE LINKE": 0.5
    }
   },
   "03456007": {
@@ -15726,11 +15701,11 @@
     "FDP": 6.7,
     "AfD": 5.0,
     "GRÜNE": 4.1,
-    "Sonstige": 0.6,
     "Die PARTEI": 0.6,
+    "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.6,
     "Tierschutzpartei": 0.6,
-    "FREIE WÄHLER": 0.3,
+    "Sonstige": 0.3,
     "Volt": 0.3
    }
   },
@@ -15738,16 +15713,16 @@
    "name": "Hoogstede",
    "beteiligung": 67.9,
    "parteien": {
-    "CDU": 47.8,
+    "CDU": 47.7,
     "SPD": 30.2,
     "GRÜNE": 7.0,
     "FDP": 6.2,
-    "AfD": 6.0,
+    "AfD": 5.9,
     "DIE LINKE": 0.9,
     "Die PARTEI": 0.7,
-    "Tierschutzpartei": 0.4,
+    "Tierschutzpartei": 0.3,
     "FREIE WÄHLER": 0.3,
-    "Gesundheitsforschung": 0.2,
+    "Gesundheitsforschung": 0.3,
     "PIRATEN": 0.2,
     "dieBasis": 0.1,
     "Volt": 0.1
@@ -15760,11 +15735,12 @@
     "CDU": 48.2,
     "SPD": 25.0,
     "GRÜNE": 10.2,
-    "AfD": 7.2,
+    "AfD": 6.9,
     "FDP": 5.7,
-    "Tierschutzpartei": 1.2,
     "DIE LINKE": 0.9,
+    "Tierschutzpartei": 0.9,
     "dieBasis": 0.6,
+    "Sonstige": 0.6,
     "Die PARTEI": 0.3,
     "FREIE WÄHLER": 0.3,
     "PIRATEN": 0.3
@@ -15774,9 +15750,9 @@
    "name": "Itterbeck",
    "beteiligung": 69.1,
    "parteien": {
-    "CDU": 51.8,
-    "SPD": 28.8,
-    "FDP": 5.5,
+    "CDU": 51.7,
+    "SPD": 28.6,
+    "FDP": 5.4,
     "GRÜNE": 5.3,
     "AfD": 4.9,
     "DIE LINKE": 1.3,
@@ -15785,9 +15761,9 @@
     "Tierschutzpartei": 0.4,
     "Die Humanisten": 0.3,
     "dieBasis": 0.3,
-    "Gesundheitsforschung": 0.1,
-    "PIRATEN": 0.1,
-    "Volt": 0.1
+    "Gesundheitsforschung": 0.3,
+    "PIRATEN": 0.3,
+    "Volt": 0.3
    }
   },
   "03456012": {
@@ -15873,16 +15849,15 @@
    "name": "Ohne",
    "beteiligung": 70.2,
    "parteien": {
-    "CDU": 42.0,
-    "SPD": 32.8,
+    "CDU": 41.8,
+    "SPD": 32.7,
     "GRÜNE": 8.8,
     "AfD": 6.3,
-    "FDP": 6.0,
+    "FDP": 6.3,
     "DIE LINKE": 1.6,
+    "Die PARTEI": 0.9,
     "Tierschutzpartei": 0.9,
-    "Die PARTEI": 0.6,
-    "dieBasis": 0.6,
-    "Sonstige": 0.3
+    "dieBasis": 0.6
    }
   },
   "03456017": {
@@ -15890,9 +15865,9 @@
    "beteiligung": 74.9,
    "parteien": {
     "CDU": 53.8,
-    "SPD": 25.0,
+    "SPD": 25.1,
     "GRÜNE": 8.0,
-    "FDP": 5.0,
+    "FDP": 4.8,
     "AfD": 4.7,
     "DIE LINKE": 1.2,
     "Die PARTEI": 0.6,
@@ -15923,12 +15898,12 @@
    "name": "Ringe",
    "beteiligung": 74.1,
    "parteien": {
-    "CDU": 46.3,
-    "SPD": 29.0,
+    "CDU": 46.2,
+    "SPD": 28.9,
     "FDP": 7.1,
     "GRÜNE": 7.0,
     "AfD": 6.1,
-    "DIE LINKE": 1.2,
+    "DIE LINKE": 1.3,
     "Tierschutzpartei": 1.0,
     "dieBasis": 0.9,
     "Die PARTEI": 0.4,
@@ -15948,12 +15923,12 @@
     "GRÜNE": 8.5,
     "FDP": 2.5,
     "DIE LINKE": 1.5,
+    "FREIE WÄHLER": 0.7,
     "Tierschutzpartei": 0.7,
-    "Sonstige": 0.5,
     "Die PARTEI": 0.5,
     "dieBasis": 0.5,
-    "FREIE WÄHLER": 0.5,
     "PIRATEN": 0.5,
+    "Sonstige": 0.2,
     "Volt": 0.2
    }
   },
@@ -16011,17 +15986,17 @@
   },
   "03456026": {
    "name": "Wilsum",
-   "beteiligung": 74.9,
+   "beteiligung": 74.8,
    "parteien": {
     "CDU": 54.9,
     "SPD": 25.4,
     "GRÜNE": 8.6,
     "FDP": 5.5,
     "AfD": 2.7,
-    "Tierschutzpartei": 0.8,
+    "Tierschutzpartei": 0.6,
     "FREIE WÄHLER": 0.5,
+    "Sonstige": 0.4,
     "PIRATEN": 0.4,
-    "Sonstige": 0.3,
     "Die PARTEI": 0.3,
     "Gesundheitsforschung": 0.3,
     "DIE LINKE": 0.3,
@@ -16033,7 +16008,7 @@
    "beteiligung": 56.7,
    "parteien": {
     "SPD": 40.2,
-    "CDU": 25.7,
+    "CDU": 25.6,
     "GRÜNE": 12.8,
     "AfD": 10.3,
     "FDP": 5.0,
@@ -16074,17 +16049,17 @@
    "parteien": {
     "SPD": 34.6,
     "CDU": 29.2,
-    "AfD": 13.2,
+    "AfD": 13.4,
     "GRÜNE": 10.0,
     "FDP": 4.3,
+    "Tierschutzpartei": 2.3,
     "DIE LINKE": 2.1,
-    "Tierschutzpartei": 2.1,
     "Die PARTEI": 1.4,
     "dieBasis": 0.7,
     "FREIE WÄHLER": 0.7,
-    "Sonstige": 0.7,
     "Die Humanisten": 0.5,
     "Volt": 0.5,
+    "Sonstige": 0.2,
     "Gesundheitsforschung": 0.2
    }
   },
@@ -16102,10 +16077,9 @@
     "Tierschutzpartei": 1.3,
     "dieBasis": 0.9,
     "FREIE WÄHLER": 0.9,
-    "Gesundheitsforschung": 0.6,
+    "Gesundheitsforschung": 0.7,
     "PIRATEN": 0.5,
-    "Volt": 0.4,
-    "Sonstige": 0.1
+    "Volt": 0.4
    }
   },
   "03457008": {
@@ -16137,12 +16111,11 @@
     "FDP": 5.8,
     "GRÜNE": 4.3,
     "DIE LINKE": 2.1,
+    "dieBasis": 1.4,
     "Tierschutzpartei": 1.4,
-    "dieBasis": 1.2,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.6,
-    "PIRATEN": 0.6,
-    "Sonstige": 0.2
+    "PIRATEN": 0.6
    }
   },
   "03457010": {
@@ -16268,7 +16241,7 @@
    "name": "Nortmoor",
    "beteiligung": 64.0,
    "parteien": {
-    "CDU": 33.6,
+    "CDU": 33.7,
     "SPD": 31.1,
     "AfD": 13.8,
     "GRÜNE": 12.2,
@@ -16278,9 +16251,9 @@
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.9,
     "FREIE WÄHLER": 0.8,
-    "Volt": 0.4,
-    "PIRATEN": 0.3,
+    "Volt": 0.3,
     "Gesundheitsforschung": 0.2,
+    "PIRATEN": 0.2,
     "Die Humanisten": 0.1
    }
   },
@@ -16328,15 +16301,15 @@
    "name": "Schwerinsdorf",
    "beteiligung": 67.3,
    "parteien": {
-    "CDU": 44.0,
-    "SPD": 22.8,
-    "AfD": 17.3,
-    "GRÜNE": 5.8,
+    "CDU": 43.9,
+    "SPD": 23.0,
+    "AfD": 17.2,
+    "GRÜNE": 5.7,
     "FDP": 3.1,
-    "DIE LINKE": 2.4,
+    "DIE LINKE": 2.1,
     "Tierschutzpartei": 1.6,
     "FREIE WÄHLER": 1.0,
-    "Sonstige": 0.5,
+    "Sonstige": 0.8,
     "dieBasis": 0.5,
     "Die Humanisten": 0.3,
     "Gesundheitsforschung": 0.3,
@@ -16430,11 +16403,11 @@
     "CDU": 35.3,
     "SPD": 26.9,
     "GRÜNE": 13.3,
-    "AfD": 10.5,
+    "AfD": 10.3,
     "FDP": 7.5,
     "DIE LINKE": 2.4,
+    "FREIE WÄHLER": 0.9,
     "PIRATEN": 0.9,
-    "FREIE WÄHLER": 0.6,
     "Gesundheitsforschung": 0.6,
     "Tierschutzpartei": 0.6,
     "Die Humanisten": 0.4,
@@ -16484,15 +16457,15 @@
   },
   "03458004": {
    "name": "Dünsen",
-   "beteiligung": 63.7,
+   "beteiligung": 63.8,
    "parteien": {
-    "SPD": 33.0,
+    "SPD": 33.1,
     "CDU": 28.1,
     "AfD": 12.2,
     "GRÜNE": 11.8,
     "FDP": 7.0,
     "DIE LINKE": 2.7,
-    "Tierschutzpartei": 2.2,
+    "Tierschutzpartei": 2.1,
     "FREIE WÄHLER": 1.4,
     "dieBasis": 0.7,
     "Die PARTEI": 0.3,
@@ -16524,7 +16497,7 @@
    "name": "Groß Ippener",
    "beteiligung": 61.4,
    "parteien": {
-    "CDU": 32.0,
+    "CDU": 31.8,
     "SPD": 27.3,
     "AfD": 12.3,
     "GRÜNE": 11.2,
@@ -16535,6 +16508,7 @@
     "Die PARTEI": 0.9,
     "dieBasis": 0.9,
     "Gesundheitsforschung": 0.4,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.2,
     "PIRATEN": 0.2,
     "Volt": 0.2
@@ -16564,8 +16538,8 @@
    "name": "Harpstedt, Flecken",
    "beteiligung": 64.6,
    "parteien": {
-    "SPD": 35.1,
-    "CDU": 26.1,
+    "SPD": 35.0,
+    "CDU": 26.0,
     "GRÜNE": 15.7,
     "AfD": 9.5,
     "FDP": 4.6,
@@ -16576,8 +16550,8 @@
     "Die PARTEI": 0.7,
     "Gesundheitsforschung": 0.5,
     "PIRATEN": 0.3,
-    "Die Humanisten": 0.2,
-    "Volt": 0.1
+    "Die Humanisten": 0.3,
+    "Volt": 0.2
    }
   },
   "03458009": {
@@ -16626,7 +16600,7 @@
    "parteien": {
     "SPD": 29.1,
     "CDU": 28.8,
-    "GRÜNE": 14.1,
+    "GRÜNE": 13.9,
     "AfD": 11.1,
     "FDP": 8.6,
     "FREIE WÄHLER": 2.3,
@@ -16634,24 +16608,23 @@
     "Tierschutzpartei": 1.7,
     "dieBasis": 1.0,
     "Die PARTEI": 0.5,
-    "Gesundheitsforschung": 0.3,
-    "PIRATEN": 0.3
+    "PIRATEN": 0.5,
+    "Gesundheitsforschung": 0.3
    }
   },
   "03458012": {
    "name": "Prinzhöfte",
    "beteiligung": 64.4,
    "parteien": {
-    "CDU": 33.5,
-    "SPD": 27.5,
-    "GRÜNE": 13.9,
+    "CDU": 33.7,
+    "SPD": 27.9,
+    "GRÜNE": 14.0,
     "AfD": 13.0,
     "FDP": 6.0,
     "DIE LINKE": 1.9,
     "Tierschutzpartei": 1.6,
     "dieBasis": 1.3,
-    "FREIE WÄHLER": 0.6,
-    "Sonstige": 0.6
+    "FREIE WÄHLER": 0.6
    }
   },
   "03458013": {
@@ -16706,11 +16679,11 @@
     "DIE LINKE": 4.5,
     "Tierschutzpartei": 2.2,
     "Die PARTEI": 1.1,
-    "dieBasis": 0.7,
+    "Sonstige": 0.7,
     "PIRATEN": 0.7,
     "Volt": 0.7,
-    "Sonstige": 0.4,
     "Die Humanisten": 0.4,
+    "dieBasis": 0.4,
     "Gesundheitsforschung": 0.4
    }
   },
@@ -16724,15 +16697,15 @@
     "GRÜNE": 10.3,
     "FDP": 4.0,
     "DIE LINKE": 1.7,
-    "FREIE WÄHLER": 1.2,
+    "FREIE WÄHLER": 1.1,
     "Volt": 0.8,
     "Tierschutzpartei": 0.7,
     "Die PARTEI": 0.4,
     "dieBasis": 0.4,
+    "Die Humanisten": 0.2,
     "PIRATEN": 0.2,
-    "Sonstige": 0.1,
-    "Die Humanisten": 0.1,
-    "Gesundheitsforschung": 0.1
+    "Gesundheitsforschung": 0.1,
+    "Sonstige": 0.1
    }
   },
   "03459002": {
@@ -16839,7 +16812,7 @@
    "name": "Badbergen",
    "beteiligung": 61.7,
    "parteien": {
-    "SPD": 33.0,
+    "SPD": 32.9,
     "CDU": 27.8,
     "AfD": 14.4,
     "GRÜNE": 10.2,
@@ -16847,13 +16820,12 @@
     "DIE LINKE": 2.0,
     "Die PARTEI": 1.2,
     "Tierschutzpartei": 1.0,
-    "FREIE WÄHLER": 0.8,
+    "FREIE WÄHLER": 0.9,
     "dieBasis": 0.7,
     "PIRATEN": 0.6,
     "Volt": 0.5,
     "Gesundheitsforschung": 0.3,
-    "Die Humanisten": 0.1,
-    "Sonstige": 0.1
+    "Die Humanisten": 0.2
    }
   },
   "03459008": {
@@ -16891,8 +16863,8 @@
     "Tierschutzpartei": 0.6,
     "FREIE WÄHLER": 0.4,
     "PIRATEN": 0.2,
-    "Gesundheitsforschung": 0.1,
     "Sonstige": 0.1,
+    "Gesundheitsforschung": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -17017,7 +16989,7 @@
   },
   "03459016": {
    "name": "Eggermühlen",
-   "beteiligung": 71.8,
+   "beteiligung": 71.9,
    "parteien": {
     "CDU": 46.1,
     "SPD": 26.6,
@@ -17059,10 +17031,10 @@
    "beteiligung": 58.3,
    "parteien": {
     "CDU": 32.8,
-    "SPD": 27.0,
+    "SPD": 27.1,
     "AfD": 19.0,
     "GRÜNE": 10.6,
-    "FDP": 4.0,
+    "FDP": 3.9,
     "DIE LINKE": 2.6,
     "dieBasis": 0.8,
     "Volt": 0.8,
@@ -17199,8 +17171,8 @@
     "CDU": 31.1,
     "GRÜNE": 10.5,
     "AfD": 8.5,
-    "FDP": 6.1,
-    "DIE LINKE": 2.3,
+    "FDP": 6.0,
+    "DIE LINKE": 2.4,
     "Tierschutzpartei": 0.9,
     "Die PARTEI": 0.7,
     "dieBasis": 0.6,
@@ -17217,7 +17189,7 @@
    "parteien": {
     "CDU": 50.1,
     "SPD": 23.9,
-    "AfD": 9.6,
+    "AfD": 9.7,
     "GRÜNE": 8.0,
     "FDP": 4.6,
     "DIE LINKE": 1.3,
@@ -17227,7 +17199,6 @@
     "Gesundheitsforschung": 0.1,
     "PIRATEN": 0.1,
     "Volt": 0.1,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1,
     "Die PARTEI": 0.1
    }
@@ -17261,13 +17232,12 @@
     "FDP": 5.3,
     "DIE LINKE": 1.9,
     "Die PARTEI": 1.1,
-    "dieBasis": 0.9,
+    "dieBasis": 1.0,
     "FREIE WÄHLER": 0.8,
     "Tierschutzpartei": 0.8,
     "PIRATEN": 0.3,
     "Volt": 0.3,
     "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1,
     "Die Humanisten": 0.1
    }
   },
@@ -17322,12 +17292,12 @@
     "FDP": 3.9,
     "DIE LINKE": 2.6,
     "FREIE WÄHLER": 1.4,
-    "dieBasis": 0.9,
+    "dieBasis": 0.8,
     "Tierschutzpartei": 0.8,
     "Volt": 0.5,
     "Die PARTEI": 0.4,
     "Gesundheitsforschung": 0.3,
-    "Sonstige": 0.1,
+    "Sonstige": 0.2,
     "Die Humanisten": 0.1
    }
   },
@@ -17769,7 +17739,7 @@
   },
   "03462001": {
    "name": "Blomberg",
-   "beteiligung": 56.5,
+   "beteiligung": 56.6,
    "parteien": {
     "SPD": 41.1,
     "CDU": 28.7,
@@ -17778,24 +17748,23 @@
     "FDP": 2.6,
     "DIE LINKE": 2.1,
     "Tierschutzpartei": 1.8,
-    "FREIE WÄHLER": 1.2,
+    "FREIE WÄHLER": 1.1,
     "Die PARTEI": 0.5,
     "PIRATEN": 0.5,
-    "dieBasis": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.1
+    "dieBasis": 0.4,
+    "Gesundheitsforschung": 0.4
    }
   },
   "03462002": {
    "name": "Dunum",
    "beteiligung": 61.2,
    "parteien": {
-    "SPD": 37.8,
+    "SPD": 37.6,
     "CDU": 30.4,
     "AfD": 14.7,
     "GRÜNE": 8.1,
     "FDP": 2.9,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 2.0,
     "DIE LINKE": 1.7,
     "Die PARTEI": 1.1,
     "FREIE WÄHLER": 0.7,
@@ -17817,7 +17786,7 @@
     "dieBasis": 1.0,
     "Die PARTEI": 0.8,
     "FREIE WÄHLER": 0.6,
-    "PIRATEN": 0.2,
+    "PIRATEN": 0.3,
     "Gesundheitsforschung": 0.2,
     "Volt": 0.1,
     "Die Humanisten": 0.1
@@ -17831,11 +17800,10 @@
     "CDU": 21.9,
     "AfD": 18.2,
     "GRÜNE": 6.9,
-    "DIE LINKE": 3.7,
+    "DIE LINKE": 4.0,
     "FDP": 3.4,
-    "Tierschutzpartei": 1.8,
+    "Tierschutzpartei": 2.1,
     "FREIE WÄHLER": 1.1,
-    "Sonstige": 0.5,
     "Die Humanisten": 0.3,
     "dieBasis": 0.3,
     "Gesundheitsforschung": 0.3
@@ -17867,7 +17835,7 @@
    "parteien": {
     "SPD": 38.3,
     "CDU": 27.8,
-    "AfD": 13.3,
+    "AfD": 13.2,
     "GRÜNE": 10.7,
     "FDP": 4.4,
     "DIE LINKE": 2.3,
@@ -17875,8 +17843,8 @@
     "dieBasis": 0.8,
     "PIRATEN": 0.5,
     "FREIE WÄHLER": 0.3,
-    "Sonstige": 0.2,
-    "Volt": 0.1
+    "Volt": 0.2,
+    "Sonstige": 0.2
    }
   },
   "03462007": {
@@ -17907,19 +17875,19 @@
     "AfD": 13.5,
     "GRÜNE": 8.8,
     "Tierschutzpartei": 3.3,
-    "FDP": 2.8,
+    "FDP": 2.6,
     "DIE LINKE": 0.9,
     "dieBasis": 0.7,
+    "Sonstige": 0.5,
     "FREIE WÄHLER": 0.5,
     "Gesundheitsforschung": 0.5,
-    "Sonstige": 0.2,
     "Die PARTEI": 0.2,
     "Volt": 0.2
    }
   },
   "03462009": {
    "name": "Nenndorf",
-   "beteiligung": 56.0,
+   "beteiligung": 56.2,
    "parteien": {
     "SPD": 41.2,
     "CDU": 25.1,
@@ -17939,11 +17907,11 @@
    "beteiligung": 64.1,
    "parteien": {
     "SPD": 36.5,
-    "CDU": 31.9,
+    "CDU": 32.0,
     "AfD": 12.8,
-    "GRÜNE": 8.8,
+    "GRÜNE": 8.9,
     "FDP": 4.2,
-    "DIE LINKE": 1.6,
+    "DIE LINKE": 1.4,
     "dieBasis": 1.3,
     "Die PARTEI": 1.1,
     "Tierschutzpartei": 0.9,
@@ -17958,15 +17926,14 @@
     "SPD": 37.0,
     "AfD": 24.2,
     "CDU": 22.2,
-    "GRÜNE": 7.6,
+    "GRÜNE": 7.8,
     "DIE LINKE": 3.1,
     "dieBasis": 1.4,
     "FDP": 1.4,
     "Tierschutzpartei": 1.2,
     "Die PARTEI": 0.6,
     "FREIE WÄHLER": 0.6,
-    "Sonstige": 0.4,
-    "PIRATEN": 0.4
+    "PIRATEN": 0.6
    }
   },
   "03462012": {
@@ -17993,7 +17960,7 @@
     "SPD": 42.3,
     "CDU": 26.7,
     "AfD": 14.7,
-    "GRÜNE": 6.7,
+    "GRÜNE": 7.1,
     "FDP": 2.5,
     "DIE LINKE": 1.5,
     "Tierschutzpartei": 1.5,
@@ -18001,9 +17968,9 @@
     "Die PARTEI": 0.6,
     "dieBasis": 0.6,
     "Gesundheitsforschung": 0.6,
-    "Sonstige": 0.6,
     "Die Humanisten": 0.3,
-    "Volt": 0.3
+    "Volt": 0.3,
+    "Sonstige": 0.3
    }
   },
   "03462014": {
@@ -18029,18 +17996,19 @@
    "name": "Stedesdorf",
    "beteiligung": 67.3,
    "parteien": {
-    "SPD": 39.8,
+    "SPD": 39.7,
     "CDU": 28.6,
     "AfD": 14.2,
     "GRÜNE": 7.8,
     "FDP": 3.7,
     "FREIE WÄHLER": 1.5,
     "DIE LINKE": 1.4,
-    "dieBasis": 0.9,
     "Tierschutzpartei": 0.9,
+    "dieBasis": 0.8,
     "Die PARTEI": 0.4,
     "PIRATEN": 0.4,
     "Gesundheitsforschung": 0.3,
+    "Sonstige": 0.2,
     "Volt": 0.1
    }
   },
@@ -18056,8 +18024,9 @@
     "Tierschutzpartei": 2.0,
     "dieBasis": 1.1,
     "DIE LINKE": 1.1,
-    "Die PARTEI": 0.6,
-    "FREIE WÄHLER": 0.6,
+    "Sonstige": 0.6,
+    "Die PARTEI": 0.3,
+    "FREIE WÄHLER": 0.3,
     "PIRATEN": 0.3
    }
   },
@@ -18065,9 +18034,9 @@
    "name": "Werdum",
    "beteiligung": 71.8,
    "parteien": {
-    "SPD": 36.5,
+    "SPD": 36.6,
     "CDU": 33.3,
-    "AfD": 13.0,
+    "AfD": 13.1,
     "GRÜNE": 7.2,
     "FDP": 4.4,
     "DIE LINKE": 1.9,
@@ -18075,8 +18044,7 @@
     "Tierschutzpartei": 0.9,
     "Volt": 0.5,
     "Die PARTEI": 0.2,
-    "Gesundheitsforschung": 0.2,
-    "Sonstige": 0.2
+    "Gesundheitsforschung": 0.2
    }
   },
   "03462018": {
@@ -18120,5 +18088,5 @@
    }
   }
  },
- "stand": "2026-09-01"
+ "stand": "2026-10-01"
 }

@@ -38,7 +38,7 @@
     "Klimalistebw": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08115001": {
@@ -60,8 +60,8 @@
     "Team Todenhofer": 0.1,
     "dieBasis": 0.1,
     "ÖDP": 0.1,
-    "Die PARTEI": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Die PARTEI": 0.1
    }
   },
   "08115002": {
@@ -85,8 +85,8 @@
     "dieBasis": 0.2,
     "Verjuengungsforschung": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -135,8 +135,8 @@
     "PDR": 0.2,
     "WerteUnion": 0.2,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08115010": {
@@ -188,8 +188,8 @@
     "PDF": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08115015": {
@@ -263,7 +263,7 @@
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1
    }
@@ -312,8 +312,8 @@
     "dieBasis": 0.1,
     "ÖDP": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1
    }
   },
@@ -387,8 +387,8 @@
     "ÖDP": 0.2,
     "Klimalistebw": 0.1,
     "Verjuengungsforschung": 0.1,
-    "dieBasis": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "dieBasis": 0.1
    }
   },
   "08115037": {
@@ -412,8 +412,8 @@
     "PDF": 0.2,
     "dieBasis": 0.1,
     "PDR": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08115041": {
@@ -463,7 +463,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -939,9 +939,9 @@
     "WerteUnion": 0.4,
     "Bündnis C": 0.3,
     "Die PARTEI": 0.3,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "PDF": 0.1
    }
   },
   "08116019": {
@@ -1038,9 +1038,9 @@
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "PDF": 0.1
    }
   },
   "08116029": {
@@ -1062,7 +1062,7 @@
     "Die PARTEI": 0.3,
     "ÖDP": 0.3,
     "Volt": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
     "PDF": 0.1,
@@ -1210,8 +1210,8 @@
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Bündnis C": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08116043": {
@@ -1379,8 +1379,8 @@
     "PDF": 0.2,
     "Volt": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -1405,8 +1405,8 @@
     "PDR": 0.3,
     "Die PARTEI": 0.2,
     "Team Todenhofer": 0.2,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08116056": {
@@ -1430,8 +1430,8 @@
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -1459,7 +1459,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08116063": {
@@ -1603,7 +1603,7 @@
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.2,
     "ÖDP": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -1627,7 +1627,7 @@
     "Bündnis C": 0.2,
     "ÖDP": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -1725,7 +1725,7 @@
     "PDR": 0.1,
     "ÖDP": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08116081": {
@@ -1817,8 +1817,8 @@
     "Volt": 0.3,
     "Team Todenhofer": 0.2,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -2044,9 +2044,9 @@
     "Die PARTEI": 0.2,
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.2,
     "Klimalistebw": 0.2,
     "ÖDP": 0.2,
-    "PdH": 0.2,
     "Bündnis C": 0.1
    }
   },
@@ -2096,7 +2096,7 @@
     "ÖDP": 0.1,
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -2140,7 +2140,7 @@
     "dieBasis": 0.2,
     "Tierschutzpartei": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "WerteUnion": 0.1
    }
@@ -2238,7 +2238,7 @@
     "PDF": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -2377,8 +2377,8 @@
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "PDR": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08117038": {
@@ -2446,7 +2446,7 @@
     "ÖDP": 0.3,
     "Bündnis C": 0.2,
     "Die PARTEI": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -2470,9 +2470,9 @@
     "Bündnis C": 0.4,
     "PDR": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "ÖDP": 0.1
    }
   },
   "08117049": {
@@ -2545,7 +2545,7 @@
     "Verjuengungsforschung": 0.2,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08117055": {
@@ -2568,8 +2568,8 @@
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -2638,8 +2638,8 @@
     "dieBasis": 0.2,
     "Die PARTEI": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -2736,8 +2736,8 @@
     "PDR": 0.2,
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1
    }
@@ -2788,7 +2788,7 @@
     "ÖDP": 0.2,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -2837,7 +2837,7 @@
     "Klimalistebw": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -2882,7 +2882,7 @@
     "Volt": 0.8,
     "Tierschutzpartei": 0.8,
     "Die PARTEI": 0.3,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
@@ -2986,7 +2986,7 @@
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -3035,7 +3035,7 @@
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.1
    }
@@ -3205,8 +3205,8 @@
     "Bündnis C": 0.3,
     "PDF": 0.3,
     "WerteUnion": 0.3,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "ÖDP": 0.1
    }
   },
@@ -3354,7 +3354,7 @@
     "Bündnis C": 0.1,
     "ÖDP": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08118070": {
@@ -3452,8 +3452,8 @@
     "Team Todenhofer": 0.3,
     "PDR": 0.2,
     "ÖDP": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1,
     "Klimalistebw": 0.1,
     "Verjuengungsforschung": 0.1
@@ -3606,7 +3606,7 @@
     "ÖDP": 0.2,
     "Team Todenhofer": 0.2,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Bündnis C": 0.1
    }
   },
@@ -3798,8 +3798,8 @@
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Volt": 0.1
    }
   },
@@ -3871,7 +3871,7 @@
     "WerteUnion": 0.2,
     "ÖDP": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08119042": {
@@ -3896,7 +3896,7 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08119044": {
@@ -3970,7 +3970,7 @@
     "WerteUnion": 0.2,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -4065,7 +4065,7 @@
     "dieBasis": 0.2,
     "PDF": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -4380,8 +4380,8 @@
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08125001": {
@@ -4532,8 +4532,8 @@
     "PDR": 0.2,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08125017": {
@@ -4584,8 +4584,8 @@
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08125024": {
@@ -4658,7 +4658,7 @@
     "Team Todenhofer": 0.3,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08125030": {
@@ -4704,8 +4704,8 @@
     "Volt": 0.3,
     "WerteUnion": 0.2,
     "Team Todenhofer": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -4779,7 +4779,7 @@
     "WerteUnion": 0.4,
     "ÖDP": 0.3,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1,
     "PDF": 0.1
@@ -4806,7 +4806,7 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08125048": {
@@ -4829,8 +4829,8 @@
     "Team Todenhofer": 0.4,
     "Volt": 0.2,
     "WerteUnion": 0.2,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08125049": {
@@ -4878,7 +4878,7 @@
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -4928,7 +4928,7 @@
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08125059": {
@@ -5002,8 +5002,8 @@
     "PDR": 0.2,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08125065": {
@@ -5048,8 +5048,8 @@
     "Volt": 0.7,
     "Die PARTEI": 0.4,
     "Bündnis C": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Klimalistebw": 0.1,
@@ -5150,7 +5150,7 @@
     "Klimalistebw": 0.1,
     "PDF": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -5200,9 +5200,9 @@
     "Team Todenhofer": 0.5,
     "dieBasis": 0.4,
     "WerteUnion": 0.4,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "PDF": 0.1
    }
   },
   "08125084": {
@@ -5272,8 +5272,8 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -5389,7 +5389,7 @@
     "Die PARTEI": 0.7,
     "dieBasis": 0.6,
     "ÖDP": 0.5,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1
    }
@@ -5656,7 +5656,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -5728,7 +5728,7 @@
     "PDR": 0.3,
     "dieBasis": 0.2,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -5748,7 +5748,7 @@
     "Volt": 0.8,
     "Bündnis C": 0.4,
     "dieBasis": 0.3,
-    "PdH": 0.3,
+    "Die Humanisten": 0.3,
     "Die PARTEI": 0.2,
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
@@ -5945,8 +5945,8 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
     "Verjuengungsforschung": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -6040,8 +6040,8 @@
     "Die PARTEI": 0.4,
     "PDR": 0.3,
     "dieBasis": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -6183,9 +6183,9 @@
     "Volt": 0.3,
     "WerteUnion": 0.2,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -6303,8 +6303,8 @@
     "Volt": 0.6,
     "Die PARTEI": 0.5,
     "ÖDP": 0.4,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1,
@@ -6384,7 +6384,7 @@
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08127079": {
@@ -6561,7 +6561,7 @@
     "DIE LINKE": 2.4,
     "Tierschutzpartei": 1.6,
     "BSW": 1.3,
-    "PdH": 0.6,
+    "Die Humanisten": 0.6,
     "dieBasis": 0.6,
     "Die PARTEI": 0.4,
     "ÖDP": 0.2,
@@ -6736,8 +6736,8 @@
     "Bündnis C": 0.1,
     "Die PARTEI": 0.1,
     "Klimalistebw": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -6781,7 +6781,7 @@
     "Volt": 0.4,
     "ÖDP": 0.3,
     "WerteUnion": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -6808,7 +6808,7 @@
     "WerteUnion": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08128061": {
@@ -6929,7 +6929,7 @@
     "Bündnis C": 0.2,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1
@@ -7002,8 +7002,8 @@
     "dieBasis": 0.6,
     "Tierschutzpartei": 0.6,
     "Volt": 0.6,
+    "Die Humanisten": 0.3,
     "PDF": 0.3,
-    "PdH": 0.3,
     "PDR": 0.2,
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
@@ -7056,7 +7056,7 @@
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08135010": {
@@ -7181,7 +7181,7 @@
     "Bündnis C": 0.2,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08135021": {
@@ -7226,8 +7226,8 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1
    }
   },
@@ -7301,7 +7301,7 @@
     "WerteUnion": 0.2,
     "dieBasis": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -7326,7 +7326,7 @@
     "ÖDP": 0.3,
     "PDF": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -7394,8 +7394,8 @@
     "Die PARTEI": 0.5,
     "dieBasis": 0.4,
     "Volt": 0.3,
+    "Die Humanisten": 0.2,
     "ÖDP": 0.2,
-    "PdH": 0.2,
     "PDR": 0.2,
     "Bündnis C": 0.1,
     "Verjuengungsforschung": 0.1,
@@ -7468,7 +7468,7 @@
     "Volt": 0.4,
     "PDR": 0.2,
     "dieBasis": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
@@ -7539,9 +7539,9 @@
     "dieBasis": 0.7,
     "Die PARTEI": 0.4,
     "Volt": 0.3,
+    "Die Humanisten": 0.2,
     "ÖDP": 0.2,
     "PDF": 0.2,
-    "PdH": 0.2,
     "PDR": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
@@ -7638,8 +7638,8 @@
     "PDR": 0.1,
     "WerteUnion": 0.1,
     "Team Todenhofer": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08136029": {
@@ -7825,7 +7825,7 @@
     "ÖDP": 0.1,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08136043": {
@@ -7957,8 +7957,8 @@
     "Tierschutzpartei": 0.5,
     "dieBasis": 0.2,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
     "ÖDP": 0.1,
@@ -7983,7 +7983,7 @@
     "Volt": 0.3,
     "dieBasis": 0.3,
     "WerteUnion": 0.3,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Bündnis C": 0.1,
     "PDF": 0.1
@@ -8033,7 +8033,7 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1
@@ -8083,8 +8083,8 @@
     "dieBasis": 0.2,
     "PDF": 0.2,
     "ÖDP": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
@@ -8192,7 +8192,7 @@
     "Bündnis C": 0.2,
     "WerteUnion": 0.2,
     "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08136082": {
@@ -8217,7 +8217,7 @@
     "dieBasis": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -8285,7 +8285,7 @@
     "dieBasis": 0.1,
     "ÖDP": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08136089": {
@@ -8359,7 +8359,7 @@
     "WerteUnion": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -8500,7 +8500,7 @@
     "PDR": 0.4,
     "dieBasis": 0.3,
     "Bündnis C": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
     "PDF": 0.1,
@@ -8530,7 +8530,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08215040": {
@@ -8577,7 +8577,7 @@
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -8597,7 +8597,7 @@
     "Tierschutzpartei": 1.1,
     "BSW": 0.8,
     "Die PARTEI": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "PDR": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
@@ -8653,8 +8653,8 @@
     "Bündnis C": 0.2,
     "PDR": 0.2,
     "ÖDP": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08215066": {
@@ -8706,8 +8706,8 @@
     "Team Todenhofer": 0.2,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08215084": {
@@ -8758,7 +8758,7 @@
     "ÖDP": 0.2,
     "Verjuengungsforschung": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -8784,8 +8784,8 @@
     "ÖDP": 0.1,
     "Klimalistebw": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -8808,8 +8808,8 @@
     "PDR": 0.4,
     "WerteUnion": 0.4,
     "dieBasis": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -8835,8 +8835,8 @@
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "Klimalistebw": 0.1
    }
@@ -9034,8 +9034,8 @@
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "ÖDP": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -9088,7 +9088,7 @@
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08215109": {
@@ -9161,7 +9161,7 @@
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -9185,7 +9185,7 @@
     "WerteUnion": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08216005": {
@@ -9306,7 +9306,7 @@
     "dieBasis": 0.2,
     "Team Todenhofer": 0.2,
     "ÖDP": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1
    }
@@ -9329,9 +9329,9 @@
     "Die PARTEI": 0.3,
     "dieBasis": 0.2,
     "Verjuengungsforschung": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Klimalistebw": 0.1,
     "Team Todenhofer": 0.1
@@ -9525,8 +9525,8 @@
     "Die PARTEI": 0.5,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -9575,7 +9575,7 @@
     "Klimalistebw": 0.2,
     "PDR": 0.2,
     "dieBasis": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08216041": {
@@ -9600,7 +9600,7 @@
     "Bündnis C": 0.1,
     "ÖDP": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08216043": {
@@ -9650,7 +9650,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08216052": {
@@ -9698,7 +9698,7 @@
     "PDF": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -9746,7 +9746,7 @@
     "ÖDP": 0.1,
     "Bündnis C": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDR": 0.1,
     "PDF": 0.1,
@@ -9777,7 +9777,7 @@
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08225001": {
@@ -9894,7 +9894,7 @@
     "PDR": 0.2,
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08225024": {
@@ -9964,7 +9964,7 @@
     "Die PARTEI": 0.3,
     "ÖDP": 0.3,
     "dieBasis": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Bündnis C": 0.1,
     "Verjuengungsforschung": 0.1
@@ -9991,7 +9991,7 @@
     "ÖDP": 0.2,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08225042": {
@@ -10014,8 +10014,8 @@
     "Verjuengungsforschung": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08225052": {
@@ -10131,8 +10131,8 @@
     "Tierschutzpartei": 1.0,
     "Die PARTEI": 0.5,
     "Volt": 0.5,
+    "Die Humanisten": 0.2,
     "Klimalistebw": 0.2,
-    "PdH": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2
    }
@@ -10155,8 +10155,8 @@
     "dieBasis": 0.3,
     "ÖDP": 0.3,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -10204,7 +10204,7 @@
     "WerteUnion": 0.1,
     "PDR": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08225082": {
@@ -10481,9 +10481,9 @@
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "ÖDP": 0.1
    }
   },
   "08226010": {
@@ -10603,7 +10603,7 @@
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08226020": {
@@ -10716,8 +10716,8 @@
     "Klimalistebw": 0.3,
     "dieBasis": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1
    }
@@ -10766,7 +10766,7 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1
    }
   },
@@ -10863,8 +10863,8 @@
     "WerteUnion": 0.2,
     "PDR": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1
    }
   },
@@ -10912,7 +10912,7 @@
     "Team Todenhofer": 0.4,
     "Die PARTEI": 0.3,
     "PDR": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08226048": {
@@ -11055,7 +11055,7 @@
     "ÖDP": 0.4,
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08226059": {
@@ -11101,8 +11101,8 @@
     "Bündnis C": 0.2,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -11170,7 +11170,7 @@
     "Die PARTEI": 0.3,
     "dieBasis": 0.2,
     "WerteUnion": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
@@ -11246,7 +11246,7 @@
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -11291,9 +11291,9 @@
     "Bündnis C": 0.4,
     "PDF": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -11318,7 +11318,7 @@
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -11341,7 +11341,7 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "dieBasis": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
     "Klimalistebw": 0.1,
@@ -11371,8 +11371,8 @@
     "ÖDP": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08226086": {
@@ -11394,8 +11394,8 @@
     "ÖDP": 0.2,
     "PDF": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -11421,7 +11421,7 @@
     "Team Todenhofer": 0.2,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1
    }
   },
@@ -11446,7 +11446,7 @@
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -11523,7 +11523,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -11544,7 +11544,7 @@
     "Die PARTEI": 0.6,
     "ÖDP": 0.3,
     "dieBasis": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
     "PDR": 0.1,
@@ -11600,8 +11600,8 @@
     "dieBasis": 0.2,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08226103": {
@@ -11625,7 +11625,7 @@
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.2,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -11648,10 +11648,10 @@
     "Bündnis C": 0.3,
     "ÖDP": 0.1,
     "WerteUnion": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -11677,7 +11677,7 @@
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -11726,7 +11726,7 @@
     "WerteUnion": 0.1,
     "PDF": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08231000": {
@@ -11752,7 +11752,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1
    }
   },
@@ -11825,8 +11825,8 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08235018": {
@@ -11989,7 +11989,7 @@
     "dieBasis": 0.4,
     "Bündnis C": 0.2,
     "Klimalistebw": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
@@ -12038,7 +12038,7 @@
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08235047": {
@@ -12133,8 +12133,8 @@
     "Bündnis C": 0.3,
     "dieBasis": 0.3,
     "WerteUnion": 0.3,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1
    }
@@ -12180,8 +12180,8 @@
     "ÖDP": 0.2,
     "Verjuengungsforschung": 0.2,
     "PDR": 0.2,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08235066": {
@@ -12227,8 +12227,8 @@
     "dieBasis": 0.2,
     "PDR": 0.2,
     "PDF": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -12321,9 +12321,9 @@
     "BSW": 0.8,
     "WerteUnion": 0.3,
     "dieBasis": 0.2,
+    "Die Humanisten": 0.1,
     "Die PARTEI": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
@@ -12353,7 +12353,7 @@
     "ÖDP": 0.2,
     "Klimalistebw": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -12377,7 +12377,7 @@
     "ÖDP": 0.3,
     "Team Todenhofer": 0.3,
     "dieBasis": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "PDR": 0.2
    }
   },
@@ -12427,9 +12427,9 @@
     "Klimalistebw": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "ÖDP": 0.1
    }
   },
   "08236019": {
@@ -12498,7 +12498,7 @@
     "dieBasis": 0.3,
     "PDR": 0.3,
     "Bündnis C": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -12524,7 +12524,7 @@
     "dieBasis": 0.3,
     "Team Todenhofer": 0.2,
     "Verjuengungsforschung": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -12550,7 +12550,7 @@
     "Die PARTEI": 0.2,
     "dieBasis": 0.2,
     "PDR": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08236033": {
@@ -12674,7 +12674,7 @@
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08236044": {
@@ -12772,7 +12772,7 @@
     "WerteUnion": 0.4,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1
@@ -12848,8 +12848,8 @@
     "Verjuengungsforschung": 0.2,
     "dieBasis": 0.2,
     "Team Todenhofer": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -12873,8 +12873,8 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "dieBasis": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -12995,8 +12995,8 @@
     "dieBasis": 0.2,
     "Bündnis C": 0.2,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -13120,7 +13120,7 @@
     "dieBasis": 0.2,
     "ÖDP": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -13142,9 +13142,9 @@
     "Bündnis C": 0.2,
     "Die PARTEI": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -13170,7 +13170,7 @@
     "Verjuengungsforschung": 0.1,
     "dieBasis": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08237028": {
@@ -13375,8 +13375,8 @@
     "dieBasis": 0.3,
     "ÖDP": 0.3,
     "Team Todenhofer": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -13424,8 +13424,8 @@
     "dieBasis": 0.2,
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "Die PARTEI": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -13451,7 +13451,7 @@
     "PDR": 0.1,
     "WerteUnion": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -13545,10 +13545,10 @@
     "dieBasis": 0.3,
     "Bündnis C": 0.3,
     "Team Todenhofer": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -13574,8 +13574,8 @@
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08315013": {
@@ -13644,7 +13644,7 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "Bündnis C": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
@@ -13692,7 +13692,7 @@
     "Die PARTEI": 0.3,
     "ÖDP": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -13716,7 +13716,7 @@
     "Die PARTEI": 0.4,
     "Bündnis C": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1
@@ -13743,8 +13743,8 @@
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "WerteUnion": 0.1
    }
   },
@@ -13790,7 +13790,7 @@
     "ÖDP": 0.3,
     "PDR": 0.3,
     "Bündnis C": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "Verjuengungsforschung": 0.2,
     "Volt": 0.2,
     "Team Todenhofer": 0.1
@@ -13838,7 +13838,7 @@
     "Die PARTEI": 0.7,
     "dieBasis": 0.4,
     "ÖDP": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08315039": {
@@ -14046,8 +14046,8 @@
     "dieBasis": 0.4,
     "Bündnis C": 0.3,
     "Die PARTEI": 0.3,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -14098,7 +14098,7 @@
     "WerteUnion": 0.1,
     "Klimalistebw": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08315068": {
@@ -14169,7 +14169,7 @@
     "dieBasis": 0.2,
     "Klimalistebw": 0.2,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -14478,7 +14478,7 @@
     "WerteUnion": 0.3,
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -14598,8 +14598,8 @@
     "PDR": 0.2,
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08315132": {
@@ -14645,8 +14645,8 @@
     "WerteUnion": 0.2,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Bündnis C": 0.1
@@ -14672,7 +14672,7 @@
     "WerteUnion": 0.2,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1
    }
   },
@@ -14719,7 +14719,7 @@
     "Bündnis C": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08316010": {
@@ -14792,7 +14792,7 @@
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08316013": {
@@ -14906,8 +14906,8 @@
     "dieBasis": 0.2,
     "WerteUnion": 0.2,
     "Team Todenhofer": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -14933,7 +14933,7 @@
     "PDR": 0.2,
     "PDF": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08316037": {
@@ -15051,8 +15051,8 @@
     "PDR": 0.2,
     "Bündnis C": 0.2,
     "Verjuengungsforschung": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08316045": {
@@ -15071,8 +15071,8 @@
     "Volt": 0.9,
     "dieBasis": 0.5,
     "Die PARTEI": 0.3,
+    "Die Humanisten": 0.2,
     "ÖDP": 0.2,
-    "PdH": 0.2,
     "Verjuengungsforschung": 0.2,
     "PDR": 0.1,
     "Bündnis C": 0.1,
@@ -15101,7 +15101,7 @@
     "Klimalistebw": 0.2,
     "PDF": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -15152,8 +15152,8 @@
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08316054": {
@@ -15198,7 +15198,7 @@
     "WerteUnion": 0.3,
     "ÖDP": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -15273,8 +15273,8 @@
     "ÖDP": 0.2,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Bündnis C": 0.1
    }
   },
@@ -15324,7 +15324,7 @@
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08317011": {
@@ -15346,8 +15346,8 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -15395,7 +15395,7 @@
     "PDR": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1
    }
   },
@@ -15418,7 +15418,7 @@
     "Volt": 0.3,
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -15515,8 +15515,8 @@
     "WerteUnion": 0.2,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1
    }
@@ -15822,9 +15822,9 @@
     "PDR": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "PDF": 0.1
    }
   },
   "08317085": {
@@ -15848,7 +15848,7 @@
     "ÖDP": 0.3,
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08317088": {
@@ -16134,7 +16134,7 @@
     "Die PARTEI": 0.4,
     "PDR": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -16158,9 +16158,9 @@
     "Bündnis C": 0.3,
     "PDF": 0.2,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -16184,7 +16184,7 @@
     "dieBasis": 0.3,
     "ÖDP": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -16230,8 +16230,8 @@
     "dieBasis": 0.4,
     "Volt": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -16373,8 +16373,8 @@
     "ÖDP": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08317151": {
@@ -16420,7 +16420,7 @@
     "dieBasis": 0.2,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "ÖDP": 0.1,
     "PDF": 0.1
@@ -16473,7 +16473,7 @@
     "Die PARTEI": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08325009": {
@@ -16642,9 +16642,9 @@
     "Bündnis C": 0.2,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "Die PARTEI": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -16810,7 +16810,7 @@
     "Bündnis C": 0.6,
     "PDR": 0.3,
     "WerteUnion": 0.3,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Die PARTEI": 0.1,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
@@ -16861,9 +16861,9 @@
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -16962,7 +16962,7 @@
     "ÖDP": 0.2,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08326003": {
@@ -17009,7 +17009,7 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08326006": {
@@ -17272,7 +17272,7 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08326055": {
@@ -17345,8 +17345,8 @@
     "ÖDP": 0.2,
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -17370,8 +17370,8 @@
     "WerteUnion": 0.3,
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.2,
+    "Die Humanisten": 0.2,
     "PDF": 0.2,
-    "PdH": 0.2,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -17423,8 +17423,8 @@
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08326075": {
@@ -17474,7 +17474,7 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -17709,8 +17709,8 @@
     "ÖDP": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08327017": {
@@ -17730,7 +17730,7 @@
     "WerteUnion": 0.6,
     "Volt": 0.5,
     "Bündnis C": 0.4,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "ÖDP": 0.1,
     "PDF": 0.1
    }
@@ -17777,8 +17777,8 @@
     "PDR": 0.4,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08327020": {
@@ -17818,7 +17818,7 @@
     "Volt": 1.0,
     "Die PARTEI": 0.4,
     "dieBasis": 0.4,
-    "PdH": 0.2
+    "Die Humanisten": 0.2
    }
   },
   "08327025": {
@@ -17973,8 +17973,8 @@
     "WerteUnion": 0.3,
     "Klimalistebw": 0.2,
     "Team Todenhofer": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08327040": {
@@ -18155,8 +18155,8 @@
     "Die PARTEI": 0.2,
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -18251,7 +18251,7 @@
     "Team Todenhofer": 0.3,
     "Bündnis C": 0.2,
     "ÖDP": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1
    }
@@ -18414,7 +18414,7 @@
     "PDR": 0.3,
     "dieBasis": 0.2,
     "ÖDP": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1
@@ -18464,7 +18464,7 @@
     "PDF": 0.1,
     "PDR": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -18510,8 +18510,8 @@
     "WerteUnion": 0.3,
     "Klimalistebw": 0.2,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Bündnis C": 0.1,
     "PDF": 0.1
    }
@@ -18651,7 +18651,7 @@
     "ÖDP": 0.2,
     "WerteUnion": 0.2,
     "PDR": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "PDF": 0.1,
     "Bündnis C": 0.1,
@@ -18866,9 +18866,9 @@
     "Team Todenhofer": 0.2,
     "ÖDP": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -18890,9 +18890,9 @@
     "Die PARTEI": 0.3,
     "Team Todenhofer": 0.2,
     "dieBasis": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -18931,7 +18931,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "PDR": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08336019": {
@@ -19090,7 +19090,7 @@
     "PDR": 0.3,
     "WerteUnion": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -19117,8 +19117,8 @@
     "PDR": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08336057": {
@@ -19209,7 +19209,7 @@
     "BSW": 0.6,
     "Volt": 0.6,
     "WerteUnion": 0.6,
-    "PdH": 0.4,
+    "Die Humanisten": 0.4,
     "Die PARTEI": 0.2,
     "PDR": 0.2,
     "Tierschutzpartei": 0.2,
@@ -19305,7 +19305,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1
    }
   },
@@ -19433,8 +19433,8 @@
     "dieBasis": 0.1,
     "WerteUnion": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1
@@ -19537,9 +19537,9 @@
     "Die PARTEI": 0.9,
     "PDF": 0.4,
     "Bündnis C": 0.3,
+    "Die Humanisten": 0.3,
     "dieBasis": 0.3,
     "Klimalistebw": 0.3,
-    "PdH": 0.3,
     "ÖDP": 0.1,
     "PDR": 0.1
    }
@@ -19562,8 +19562,8 @@
     "Team Todenhofer": 0.2,
     "PDR": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
     "ÖDP": 0.1
@@ -19705,9 +19705,9 @@
     "WerteUnion": 0.5,
     "Die PARTEI": 0.4,
     "Bündnis C": 0.2,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -19982,8 +19982,8 @@
     "Team Todenhofer": 0.1,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -20032,8 +20032,8 @@
     "Bündnis C": 0.2,
     "Die PARTEI": 0.2,
     "Verjuengungsforschung": 0.2,
-    "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "ÖDP": 0.1
    }
   },
   "08337076": {
@@ -20321,7 +20321,7 @@
     "PDF": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08337127": {
@@ -20338,8 +20338,8 @@
     "Tierschutzpartei": 1.5,
     "BSW": 1.0,
     "dieBasis": 0.7,
+    "Die Humanisten": 0.3,
     "Die PARTEI": 0.3,
-    "PdH": 0.3,
     "Volt": 0.3,
     "Klimalistebw": 0.1,
     "ÖDP": 0.1,
@@ -20460,7 +20460,7 @@
     "dieBasis": 0.2,
     "PDF": 0.2,
     "WerteUnion": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1
    }
   },
@@ -20506,8 +20506,8 @@
     "PDR": 0.3,
     "Volt": 0.1,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -20554,9 +20554,9 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "PDF": 0.1
    }
   },
   "08415050": {
@@ -20581,7 +20581,7 @@
     "PDR": 0.1,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08415053": {
@@ -20677,7 +20677,7 @@
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -20752,7 +20752,7 @@
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08415078": {
@@ -20774,8 +20774,8 @@
     "WerteUnion": 0.3,
     "PDR": 0.2,
     "ÖDP": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -20802,7 +20802,7 @@
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08415085": {
@@ -20819,8 +20819,8 @@
     "FREIE WÄHLER": 1.4,
     "Tierschutzpartei": 0.5,
     "Volt": 0.4,
+    "Die Humanisten": 0.2,
     "Die PARTEI": 0.2,
-    "PdH": 0.2,
     "WerteUnion": 0.2,
     "dieBasis": 0.2,
     "PDR": 0.2,
@@ -20971,7 +20971,7 @@
     "Team Todenhofer": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08415093": {
@@ -21168,8 +21168,8 @@
     "dieBasis": 0.2,
     "Team Todenhofer": 0.1,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1,
     "PDF": 0.1
    }
@@ -21242,8 +21242,8 @@
     "Die PARTEI": 0.2,
     "PDR": 0.1,
     "WerteUnion": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Bündnis C": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -21293,7 +21293,7 @@
     "Bündnis C": 0.2,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
     "PDF": 0.1
@@ -21756,8 +21756,8 @@
     "ÖDP": 0.3,
     "Volt": 0.3,
     "WerteUnion": 0.3,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -21850,8 +21850,8 @@
     "Volt": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
@@ -21871,7 +21871,7 @@
     "Tierschutzpartei": 1.1,
     "DIE LINKE": 0.8,
     "Volt": 0.8,
-    "PdH": 0.3,
+    "Die Humanisten": 0.3,
     "PDR": 0.3,
     "WerteUnion": 0.3
    }
@@ -21965,7 +21965,7 @@
     "Bündnis C": 0.1,
     "PDR": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -22110,7 +22110,7 @@
     "PDR": 0.3,
     "WerteUnion": 0.3,
     "ÖDP": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "Klimalistebw": 0.1,
     "PDF": 0.1,
@@ -22159,9 +22159,9 @@
     "Bündnis C": 0.4,
     "WerteUnion": 0.4,
     "Volt": 0.2,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -22271,7 +22271,7 @@
     "Bündnis C": 0.1,
     "Klimalistebw": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -22351,8 +22351,8 @@
     "Bündnis C": 0.2,
     "Team Todenhofer": 0.1,
     "ÖDP": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -22437,7 +22437,7 @@
     "PDR": 0.2,
     "Verjuengungsforschung": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -22461,7 +22461,7 @@
     "ÖDP": 0.1,
     "PDF": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1
    }
   },
@@ -22486,7 +22486,7 @@
     "WerteUnion": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -22513,7 +22513,7 @@
     "PDR": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1
    }
   },
@@ -22604,7 +22604,7 @@
     "Die PARTEI": 0.2,
     "PDR": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1
    }
@@ -22689,8 +22689,8 @@
     "Die PARTEI": 0.2,
     "PDR": 0.2,
     "dieBasis": 0.2,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08425090": {
@@ -23001,7 +23001,7 @@
     "PDR": 0.3,
     "dieBasis": 0.2,
     "Verjuengungsforschung": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "PDF": 0.1
    }
@@ -23026,8 +23026,8 @@
     "ÖDP": 0.2,
     "PDR": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -23076,8 +23076,8 @@
     "PDF": 0.1,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
-    "dieBasis": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "dieBasis": 0.1
    }
   },
   "08425139": {
@@ -23149,8 +23149,8 @@
     "Team Todenhofer": 0.1,
     "dieBasis": 0.1,
     "Klimalistebw": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08426001": {
@@ -23281,7 +23281,7 @@
     "WerteUnion": 0.3,
     "PDF": 0.2,
     "Verjuengungsforschung": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDR": 0.1,
     "Team Todenhofer": 0.1
    }
@@ -23331,8 +23331,8 @@
     "Die PARTEI": 0.2,
     "WerteUnion": 0.2,
     "Bündnis C": 0.2,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -23375,7 +23375,7 @@
     "Bündnis C": 0.1,
     "WerteUnion": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08426028": {
@@ -23424,7 +23424,7 @@
     "PDF": 0.2,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08426035": {
@@ -23485,8 +23485,8 @@
     "dieBasis": 0.4,
     "Volt": 0.3,
     "PDR": 0.3,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1,
     "Bündnis C": 0.1,
     "PDF": 0.1,
@@ -23562,8 +23562,8 @@
     "dieBasis": 0.1,
     "PDR": 0.1,
     "Bündnis C": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08426058": {
@@ -23582,8 +23582,8 @@
     "Volt": 0.5,
     "Die PARTEI": 0.3,
     "ÖDP": 0.3,
+    "Die Humanisten": 0.2,
     "dieBasis": 0.2,
-    "PdH": 0.2,
     "PDR": 0.2,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
@@ -23657,8 +23657,8 @@
     "dieBasis": 0.3,
     "PDR": 0.3,
     "WerteUnion": 0.3,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -23807,7 +23807,7 @@
     "Team Todenhofer": 0.2,
     "Verjuengungsforschung": 0.2,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1
    }
   },
@@ -23913,7 +23913,7 @@
     "Volt": 0.3,
     "Bündnis C": 0.3,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1
    }
@@ -24000,9 +24000,9 @@
     "PDR": 0.6,
     "dieBasis": 0.5,
     "Bündnis C": 0.3,
+    "Die Humanisten": 0.2,
     "Die PARTEI": 0.2,
     "Klimalistebw": 0.2,
-    "PdH": 0.2,
     "WerteUnion": 0.2
    }
   },
@@ -24116,8 +24116,8 @@
     "Volt": 0.3,
     "WerteUnion": 0.3,
     "Team Todenhofer": 0.2,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -24139,7 +24139,7 @@
     "Die PARTEI": 0.2,
     "dieBasis": 0.2,
     "Bündnis C": 0.2,
-    "PdH": 0.2,
+    "Die Humanisten": 0.2,
     "WerteUnion": 0.2,
     "PDF": 0.1,
     "PDR": 0.1,
@@ -24236,9 +24236,9 @@
     "PDR": 0.3,
     "PDF": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "Die PARTEI": 0.1,
-    "dieBasis": 0.1,
-    "PdH": 0.1
+    "dieBasis": 0.1
    }
   },
   "08435013": {
@@ -24286,8 +24286,8 @@
     "ÖDP": 0.1,
     "Team Todenhofer": 0.1,
     "WerteUnion": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -24334,9 +24334,9 @@
     "Die PARTEI": 0.2,
     "PDR": 0.2,
     "WerteUnion": 0.2,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -24408,8 +24408,8 @@
     "PDR": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08435030": {
@@ -24552,8 +24552,8 @@
     "ÖDP": 0.2,
     "Team Todenhofer": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDR": 0.1
    }
   },
@@ -24742,8 +24742,8 @@
     "PDR": 0.2,
     "WerteUnion": 0.2,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "PDF": 0.1,
-    "PdH": 0.1,
     "Team Todenhofer": 0.1
    }
   },
@@ -24818,7 +24818,7 @@
     "PDF": 0.1,
     "WerteUnion": 0.1,
     "Bündnis C": 0.1,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -24840,7 +24840,7 @@
     "dieBasis": 0.3,
     "ÖDP": 0.3,
     "WerteUnion": 0.3,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Bündnis C": 0.1,
     "Die PARTEI": 0.1,
     "Klimalistebw": 0.1,
@@ -24867,7 +24867,7 @@
     "ÖDP": 0.4,
     "Bündnis C": 0.2,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "WerteUnion": 0.1,
     "Klimalistebw": 0.1
    }
@@ -24969,7 +24969,7 @@
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08436012": {
@@ -25017,8 +25017,8 @@
     "Die PARTEI": 0.2,
     "Team Todenhofer": 0.2,
     "PDR": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "Verjuengungsforschung": 0.1
    }
   },
@@ -25284,7 +25284,7 @@
     "BSW": 1.9,
     "Tierschutzpartei": 1.0,
     "Bündnis C": 0.5,
-    "PdH": 0.5,
+    "Die Humanisten": 0.5,
     "Volt": 0.5,
     "Die PARTEI": 0.2,
     "ÖDP": 0.2,
@@ -25498,7 +25498,7 @@
     "PDF": 0.1,
     "PDR": 0.1,
     "WerteUnion": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08436083": {
@@ -25736,8 +25736,8 @@
     "PDF": 0.1,
     "Verjuengungsforschung": 0.1,
     "Team Todenhofer": 0.1,
-    "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "Klimalistebw": 0.1
    }
   },
   "08437044": {
@@ -25760,7 +25760,7 @@
     "ÖDP": 0.2,
     "Bündnis C": 0.2,
     "WerteUnion": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Verjuengungsforschung": 0.1,
     "Klimalistebw": 0.1
    }
@@ -25849,9 +25849,9 @@
     "Die PARTEI": 0.3,
     "Bündnis C": 0.2,
     "PDR": 0.2,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1
    }
   },
@@ -25897,8 +25897,8 @@
     "Volt": 0.3,
     "Die PARTEI": 0.2,
     "Bündnis C": 0.1,
+    "Die Humanisten": 0.1,
     "ÖDP": 0.1,
-    "PdH": 0.1,
     "dieBasis": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
@@ -25922,7 +25922,7 @@
     "Die PARTEI": 0.4,
     "ÖDP": 0.3,
     "PDR": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "dieBasis": 0.1,
     "Verjuengungsforschung": 0.1,
     "Bündnis C": 0.1,
@@ -26042,7 +26042,7 @@
     "WerteUnion": 0.2,
     "ÖDP": 0.1,
     "Verjuengungsforschung": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   },
   "08437101": {
@@ -26116,8 +26116,8 @@
     "Bündnis C": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1,
+    "Die Humanisten": 0.1,
     "Klimalistebw": 0.1,
-    "PdH": 0.1,
     "PDF": 0.1
    }
   },
@@ -26141,8 +26141,8 @@
     "Bündnis C": 0.2,
     "dieBasis": 0.1,
     "ÖDP": 0.1,
-    "PDF": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1,
+    "PDF": 0.1
    }
   },
   "08437107": {
@@ -26212,7 +26212,7 @@
     "Klimalistebw": 0.3,
     "WerteUnion": 0.3,
     "Die PARTEI": 0.2,
-    "PdH": 0.1,
+    "Die Humanisten": 0.1,
     "Team Todenhofer": 0.1,
     "Verjuengungsforschung": 0.1
    }
@@ -26263,9 +26263,9 @@
     "ÖDP": 0.2,
     "Verjuengungsforschung": 0.2,
     "Klimalistebw": 0.1,
-    "PdH": 0.1
+    "Die Humanisten": 0.1
    }
   }
  },
- "stand": "2026-09-01"
+ "stand": "2026-10-01"
 }
