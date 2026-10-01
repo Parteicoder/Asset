@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-09-01T09:26:02+00:00",
+ "erzeugt": "2026-10-01T06:24:07+00:00",
  "lizenz": "Je Datei unterschiedlich; siehe lizenz und lizenz_url des Eintrags.",
  "lizenz_url": "https://github.com/Parteicoder/Plakat-Kompass-Asset/blob/main/LIZENZ-DATEN.md",
  "lizenzen": [
@@ -37,7 +37,7 @@
   },
   {
    "name": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
-   "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php"
+   "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads.html"
   },
   {
    "name": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
@@ -292,14 +292,14 @@
   {
    "land": "15",
    "name": "Sachsen-Anhalt",
-   "titel": "Landtagswahl Sachsen-Anhalt 2021",
-   "jahr": 2021,
+   "titel": "Landtagswahl Sachsen-Anhalt 2026",
+   "jahr": 2026,
    "schluesselart": "ags",
-   "stand": "2026-09-01",
+   "stand": "2026-10-01",
    "gebiete": 218,
    "quelle": "Landeswahlleiterin Sachsen-Anhalt",
    "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
-   "lizenz_url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php",
+   "lizenz_url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads.html",
    "datei": "15/landtag.json",
    "kompatibilitaetsdatei": "land-15.json"
   },

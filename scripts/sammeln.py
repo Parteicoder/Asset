@@ -1157,6 +1157,93 @@ def sachsenanhalt_csv_auswerten(datei: Path) -> dict:
     return sachsenanhalt_zeilen_auswerten(zeilen)
 
 
+# ------------------------------------------------------- Sachsen-Anhalt 2026
+
+# Die Datei 2026 (UTF-8, Kopf "F01.CDU") hat je Gemeinde drei Zeilen: Wahllokal "U" (Urne), "B"
+# (Brief) und leer (Gesamt). Nur die Gesamtzeile zählt. Die Parteispalten werden aus dem Kopf
+# gelesen statt festcodiert; nur die Schreibweise wird auf die Projektkonvention gebracht.
+SACHSENANHALT_2026_NAMEN: dict[str, str] = {
+    "Die Linke": "DIE LINKE",
+    "TIERSCHUTZALLIANZ": "Tierschutzallianz",
+}
+SACHSENANHALT_2026_PARTEISPALTE = re.compile(r"F\d\d\.(.+)")
+
+
+def _sachsenanhalt_2026_gebiet(zeile: dict[str, str]) -> tuple[str, dict]:
+    ags = (zeile.get("Schlüsselnummer") or "").strip()
+    if not re.fullmatch(r"\d{8}", ags) or not ags.startswith("15"):
+        raise Fehler(f"Sachsen-Anhalt 2026: ungültiger Gemeinde-AGS {zeile.get('Schlüsselnummer')!r}.")
+    name = (zeile.get("Name") or "").strip()
+    gueltig = _ganzzahl(zeile.get("F.Gültige.Zweitstimmen"))
+    if not gueltig or gueltig <= 0 or not name:
+        raise Fehler(f"Sachsen-Anhalt 2026: kein auswertbares Ergebnis für {name!r} ({ags}).")
+
+    stimmen: dict[str, int] = {}
+    for spalte, wert in zeile.items():
+        treffer = SACHSENANHALT_2026_PARTEISPALTE.fullmatch(spalte or "")
+        if treffer:
+            partei = treffer.group(1).strip()
+            stimmen[SACHSENANHALT_2026_NAMEN.get(partei, partei)] = _ganzzahl(wert) or 0
+    if sum(stimmen.values()) != gueltig:
+        raise Fehler(
+            f"Sachsen-Anhalt 2026: Parteistimmen in {name!r} ergeben {sum(stimmen.values())}, "
+            f"erwartet waren {gueltig} gültige Zweitstimmen."
+        )
+    parteien = {
+        partei: round(anzahl / gueltig * 100.0, 1)
+        for partei, anzahl in sorted(stimmen.items(), key=lambda paar: -paar[1])
+        if anzahl > 0
+    }
+
+    wahlberechtigte = _ganzzahl(zeile.get("A.Wahlberechtigte")) or 0
+    waehler = _ganzzahl(zeile.get("B.Wähler")) or 0
+    beteiligung = round(waehler / wahlberechtigte * 100.0, 1) if wahlberechtigte > 0 else None
+    if beteiligung is not None and not 0.0 <= beteiligung <= 100.0:
+        beteiligung = None
+    return ags, {"name": name, "beteiligung": beteiligung, "parteien": parteien}
+
+
+def sachsenanhalt_2026_zeilen_auswerten(zeilen: list[dict[str, str]]) -> dict:
+    gesamt = [
+        z
+        for z in zeilen
+        if (z.get("Satzart") or "").strip() == "GEM" and not (z.get("Wahllokal") or "").strip()
+    ]
+    # Zur Wahl 2026 gab es 218 Gemeinden; ein weiter Rahmen fängt künftige Gebietsreformen ab,
+    # ohne einen abgebrochenen Export unbemerkt durchzulassen.
+    if not 190 <= len(gesamt) <= 240:
+        raise Fehler(f"Sachsen-Anhalt 2026: Erwartet wurden rund 218 Gemeindezeilen, gefunden wurden {len(gesamt)}.")
+    gebiete: dict[str, dict] = {}
+    for zeile in gesamt:
+        ags, gebiet = _sachsenanhalt_2026_gebiet(zeile)
+        if ags in gebiete:
+            raise Fehler(f"Sachsen-Anhalt 2026: AGS {ags} wurde mehrfach erzeugt.")
+        gebiete[ags] = gebiet
+    return gebiete
+
+
+SACHSENANHALT_2026_PFLICHTSPALTEN = (
+    "Satzart",
+    "Schlüsselnummer",
+    "Name",
+    "Wahllokal",
+    "A.Wahlberechtigte",
+    "B.Wähler",
+    "F.Gültige.Zweitstimmen",
+)
+
+
+def sachsenanhalt_2026_csv_auswerten(datei: Path) -> dict:
+    with datei.open(encoding="utf-8-sig", newline="") as eingabe:
+        leser = csv.DictReader(eingabe, delimiter=";")
+        felder = leser.fieldnames or []
+        fehlend = [spalte for spalte in SACHSENANHALT_2026_PFLICHTSPALTEN if spalte not in felder]
+        if fehlend:
+            raise Fehler("Sachsen-Anhalt 2026: Spalten fehlen: " + ", ".join(fehlend))
+        zeilen = list(leser)
+    return sachsenanhalt_2026_zeilen_auswerten(zeilen)
+
+
 # ------------------------------------------------------------------- Berlin 2023
 
 BERLIN_2023_BLATT = "AGH_W2"
@@ -2127,6 +2214,7 @@ ERGAENZUNGS_PARSER: dict[str, Callable[[Path], dict]] = {
     "rlp-2026-xlsx": rlp_xlsx_auswerten,
     "sachsen-2024-xlsx": sachsen_xlsx_auswerten,
     "sachsenanhalt-2021-csv": sachsenanhalt_csv_auswerten,
+    "sachsenanhalt-2026-csv": sachsenanhalt_2026_csv_auswerten,
     "berlin-2023-xlsx": berlin_xlsx_auswerten,
     "mecklenburg-vorpommern-2021-csv": mecklenburg_landtag_csv_auswerten,
     "saarland-2022-csv": saarland_landtag_csv_auswerten,
