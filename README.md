@@ -93,7 +93,7 @@ keine automatische Tabellensuche.
 |---|---|---|---|
 | Rheinland-Pfalz | 2026 | Landeswahlleiter Rheinland-Pfalz | <https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/ltw/Ergebnisdateien/2026/LW_2026_Endergebnis_Stimmbezirksebene.xlsx> |
 | Sachsen | 2024 | Landeswahlleiter des Freistaates Sachsen | <https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx> |
-| Sachsen-Anhalt | 2021 | Landeswahlleiterin Sachsen-Anhalt | <https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat2.csv> |
+| Sachsen-Anhalt | 2026 | Landeswahlleiterin Sachsen-Anhalt | <https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads/Ergebnisse_Gemeinden_LT_2026.csv> |
 | Berlin | 2023 | Landeswahlleiterin Berlin | <https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/DL/DL_BE_AGHBVV2023.xlsx> |
 | Mecklenburg-Vorpommern | 2021 | Landeswahlleiterin Mecklenburg-Vorpommern (LAIV-MV) | <https://www.laiv-mv.de/static/LAIV/Wahlen/2-Landtagswahlen/2021/Ergebnisse/l_gemeinden.csv> |
 | Saarland | 2022 | Landeswahlleiterin Saarland | <https://wahlergebnis.saarland.de/LTW/KERG_SAARLAND.csv> |

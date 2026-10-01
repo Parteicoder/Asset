@@ -402,6 +402,61 @@ except Fehler:
 pruefe(sachsenanhalt_unvollstaendig_scheitert, "unvollständiger Gemeindeexport schlägt kontrolliert fehl")
 
 
+def sachsenanhalt26_zeile(ags, name, stimmen, wahllokal="", wahlberechtigte=1000, waehler=700, satzart="GEM"):
+    zeile = {
+        "Ergebnisart": "E",
+        "Satzart": satzart,
+        "Schlüsselnummer": ags,
+        "Name": name,
+        "Wahllokal": wahllokal,
+        "A.Wahlberechtigte": str(wahlberechtigte),
+        "B.Wähler": str(waehler),
+        "F.Gültige.Zweitstimmen": str(sum(stimmen.values())),
+        # Erststimmen-Spalten dürfen die Auswertung nicht stören
+        "D01.CDU": "7",
+    }
+    for kopf, stimmenzahl in stimmen.items():
+        zeile[kopf] = str(stimmenzahl)
+    return zeile
+
+
+print("Sachsen-Anhalt 2026: nur Gesamtzeilen je Gemeinde, Parteispalten aus dem Kopf")
+sa26_stimmen = {"F01.CDU": 40, "F02.AfD": 30, "F03.Die Linke": 20, "F15.BSW": 10}
+sa26_zeilen = []
+for n in range(1, 219):
+    ags = f"15{n:06d}"
+    sa26_zeilen += [
+        # Urnen- und Briefwahlzeile derselben Gemeinde dürfen nicht zusätzlich gezählt werden
+        sachsenanhalt26_zeile(ags, f"Gemeinde {n}", {"F01.CDU": 5}, wahllokal="U"),
+        sachsenanhalt26_zeile(ags, f"Gemeinde {n}", {"F02.AfD": 5}, wahllokal="B"),
+        sachsenanhalt26_zeile(ags, f"Gemeinde {n}", sa26_stimmen),
+    ]
+sa26 = sammler.sachsenanhalt_2026_zeilen_auswerten(sa26_zeilen)
+pruefe(len(sa26) == 218, f"alle Gemeinden einmal geparst ({len(sa26)})")
+pruefe(
+    sa26["15000001"]["parteien"] == {"CDU": 40.0, "AfD": 30.0, "DIE LINKE": 20.0, "BSW": 10.0},
+    f"Anteile aus der Gesamtzeile, Name auf Projektkonvention gebracht ({sa26['15000001']['parteien']})",
+)
+pruefe(sa26["15000001"]["beteiligung"] == 70.0, "Beteiligung aus Wahlberechtigten und Wählern")
+
+print("Sachsen-Anhalt 2026: Stimmensumme, AGS und Vollständigkeit werden geprüft")
+sa26_kaputt = sachsenanhalt26_zeile("15000001", "Kaputt", sa26_stimmen)
+sa26_kaputt["F.Gültige.Zweitstimmen"] = "999"
+sa26_falsch = [
+    [sa26_kaputt],
+    [sachsenanhalt26_zeile("14000001", "Falsches Land", sa26_stimmen)],
+    sa26_zeilen[:9],
+]
+sa26_scheitert = True
+for fall in sa26_falsch:
+    try:
+        sammler.sachsenanhalt_2026_zeilen_auswerten(fall)
+        sa26_scheitert = False
+    except Fehler:
+        pass
+pruefe(sa26_scheitert, "falsche Summe, landesfremder AGS und unvollständiger Export schlagen kontrolliert fehl")
+
+
 BERLIN_TEST_PARTEISPALTEN = {
     "S": "SPD",
     "T": "CDU",

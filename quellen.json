@@ -54,15 +54,15 @@
     },
     {
       "land": "15",
-      "jahr": 2021,
-      "wahl_datum": "2021-06-06",
-      "parser": "sachsenanhalt-2021-csv",
-      "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat2.csv",
+      "jahr": 2026,
+      "wahl_datum": "2026-09-06",
+      "parser": "sachsenanhalt-2026-csv",
+      "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads/Ergebnisse_Gemeinden_LT_2026.csv",
       "quelle": "Landeswahlleiterin Sachsen-Anhalt",
-      "quellenvermerk": "Datenquelle: Landeswahlleiterin Sachsen-Anhalt, endgültiges Ergebnis der Landtagswahl vom 6. Juni 2021 auf Gemeindeebene; eigene Aufbereitung (Zweitstimmenanteile)",
+      "quellenvermerk": "Datenquelle: Statistisches Landesamt Sachsen-Anhalt / Landeswahlleiterin Sachsen-Anhalt, endgültiges Ergebnis der Landtagswahl vom 6. September 2026 auf Gemeindeebene; eigene Aufbereitung (Zweitstimmenanteile)",
       "lizenz": "Amtliches Wahlergebnis; Nutzungsbedingungen der Quelle beachten",
-      "lizenz_url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php",
-      "quellenseite": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/and/lt.download.php"
+      "lizenz_url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads.html",
+      "quellenseite": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/downloads.html"
     },
     {
       "land": "11",
