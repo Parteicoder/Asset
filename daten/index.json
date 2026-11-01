@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-01T10:59:19+00:00",
+ "erzeugt": "2026-11-01T11:17:56+00:00",
  "lizenz": "Je Datei unterschiedlich; siehe lizenz und lizenz_url des Eintrags.",
  "lizenz_url": "https://github.com/Parteicoder/Plakat-Kompass-Asset/blob/main/LIZENZ-DATEN.md",
  "lizenzen": [
@@ -127,7 +127,7 @@
    "titel": "Landtagswahl Niedersachsen 2022",
    "jahr": 2022,
    "schluesselart": "ags",
-   "stand": "2026-10-01",
+   "stand": "2026-11-01",
    "gebiete": 939,
    "quelle": "GERDA – German Election Database",
    "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
@@ -253,7 +253,7 @@
    "titel": "Landtagswahl Brandenburg 2024",
    "jahr": 2024,
    "schluesselart": "ags",
-   "stand": "2026-09-01",
+   "stand": "2026-11-01",
    "gebiete": 413,
    "quelle": "GERDA – German Election Database",
    "lizenz": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
